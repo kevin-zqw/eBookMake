@@ -1,0 +1,818 @@
+@font-face {
+    font-family: "zw";
+    src:
+	local("宋体"),local("明体"),local("明朝"),
+	local("Songti"),local("Songti SC"),local("Songti TC"),			/*iOS6+iBooks3*/
+	local("Song S"),local("Song T"),local("STBShusong"),local("TBMincho"),local("HYMyeongJo"),			/*Kindle Paperwihite*/
+	local("DK-SONGTI"),
+	url(../Fonts/zw.ttf),
+	url(res:///opt/sony/ebook/FONT/zw.ttf),
+	url(res:///Data/FONT/zw.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/zw.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/zw.ttf),
+	url(res:///ebook/fonts/zw.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/zw.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/zw.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/zw.ttf),				/*Duokan Old Path*/
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/zw.ttf),		/*Duokan 2012 Path*/
+	url(res:///abook/fonts/zw.ttf),
+	url(res:///system/fonts/zw.ttf),
+	url(res:///system/media/sdcard/fonts/zw.ttf),
+	url(res:///media/fonts/zw.ttf),
+	url(res:///sdcard/fonts/zw.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/zw.ttf),
+	url(res:///media/flash/fonts/zw.ttf),
+	url(res:///media/sd/fonts/zw.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/zw.ttf),
+	url(res:///../fonts/zw.ttf),
+	url(../../../../../zw.ttf),										/*EpubReaderI*/
+	url(res:///mnt/sdcard/fonts/zw.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/zw.ttf),										/*ADE1,8, 2.0 Program Path*/
+	url(res:///../../../../Windows/fonts/zw.ttf);
+    /*ADE1,8, 2.0 Windows Path*/;
+}
+
+@font-face {
+    font-family: "fs";
+    src:
+	local("amasis30"),local("仿宋"),local("仿宋_GB2312"),
+	local("Yuanti"),local("Yuanti SC"),local("Yuanti TC"),			/*iOS6+iBooks3*/
+	local("DK-FANGSONG"),
+	url(../Fonts/fs.ttf),
+	url(res:///opt/sony/ebook/FONT/fs.ttf),
+	url(res:///Data/FONT/fs.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/fs.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/fs.ttf),
+	url(res:///ebook/fonts/fs.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/fs.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/fs.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/fs.ttf),				/*Duokan Old Path*/
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/fs.ttf),		/*Duokan 2012 Path*/
+	url(res:///abook/fonts/fs.ttf),
+	url(res:///system/fonts/fs.ttf),
+	url(res:///system/media/sdcard/fonts/fs.ttf),
+	url(res:///media/fonts/fs.ttf),
+	url(res:///sdcard/fonts/fs.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/fs.ttf),
+	url(res:///media/flash/fonts/fs.ttf),
+	url(res:///media/sd/fonts/fs.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/fs.ttf),
+	url(res:///../fonts/fs.ttf),
+	url(../../../../../fs.ttf),										/*EpubReaderI*/
+	url(res:///mnt/sdcard/fonts/fs.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/fs.ttf),										/*ADE1,8, 2.0 Program Path*/
+	url(res:///../../../../Windows/fonts/fs.ttf);
+    /*ADE1,8, 2.0 Windows Path*/;
+}
+
+@font-face {
+    font-family: "kt";
+    src:
+	local("Caecilia"),local("楷体"),local("楷体_GB2312"),
+	local("Kaiti"),local("Kaiti SC"),local("Kaiti TC"),				/*iOS6+iBooks3*/
+	local("MKai PRC"),local("MKaiGB18030C-Medium"),local("MKaiGB18030C-Bold"),			/*Kindle Paperwihite*/
+	local("DK-KAITI"),
+	url(../Fonts/kt.ttf),
+	url(res:///opt/sony/ebook/FONT/kt.ttf),
+	url(res:///Data/FONT/kt.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/kt.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/kt.ttf),
+	url(res:///ebook/fonts/kt.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/kt.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/kt.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/kt.ttf),				/*Duokan Old Path*/
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/kt.ttf),		/*Duokan 2012 Path*/
+	url(res:///abook/fonts/kt.ttf),
+	url(res:///system/fonts/kt.ttf),
+	url(res:///system/media/sdcard/fonts/kt.ttf),
+	url(res:///media/fonts/kt.ttf),
+	url(res:///sdcard/fonts/kt.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/kt.ttf),
+	url(res:///media/flash/fonts/kt.ttf),
+	url(res:///media/sd/fonts/kt.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/kt.ttf),
+	url(res:///../fonts/kt.ttf),
+	url(../../../../../kt.ttf),										/*EpubReaderI*/
+	url(res:///mnt/sdcard/fonts/kt.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/kt.ttf),										/*ADE1,8, 2.0 Program Path*/
+	url(res:///../../../../Windows/fonts/kt.ttf);
+    /*ADE1,8, 2.0 Windows Path*/;
+}
+
+@font-face {
+    font-family: "ht";
+    src:
+	local("黑体"),local("微软雅黑"),
+	local("Heiti"),local("Heiti SC"),local("Heiti TC"),				/*iOS6+iBooks3*/
+	local("MYing Hei S"),local("MYing Hei T"),local("TBGothic"),						/*Kindle Paperwihite*/
+	local("DK-HEITI"),
+	url(../Fonts/ht.ttf),
+	url(res:///opt/sony/ebook/FONT/ht.ttf),
+	url(res:///Data/FONT/ht.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/ht.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/ht.ttf),
+	url(res:///ebook/fonts/ht.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/ht.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/ht.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/ht.ttf),				/*Duokan Old Path*/
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/ht.ttf),		/*Duokan 2012 Path*/
+	url(res:///abook/fonts/ht.ttf),
+	url(res:///system/fonts/ht.ttf),
+	url(res:///system/media/sdcard/fonts/ht.ttf),
+	url(res:///media/fonts/ht.ttf),
+	url(res:///sdcard/fonts/ht.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/ht.ttf),
+	url(res:///media/flash/fonts/ht.ttf),
+	url(res:///media/sd/fonts/ht.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/ht.ttf),
+	url(res:///../fonts/ht.ttf),
+	url(../../../../../ht.ttf),										/*EpubReaderI*/
+	url(res:///mnt/sdcard/fonts/ht.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/ht.ttf),										/*ADE1,8, 2.0 Program Path*/
+	url(res:///../../../../Windows/fonts/ht.ttf);
+    /*ADE1,8, 2.0 Windows Path*/;
+}
+@font-face {
+	font-family:"h1";
+	src:
+	local("方正兰亭特黑长_GBK"),local("方正兰亭特黑长简体"),local("方正兰亭特黑长繁体"),
+	local("LantingTeheichang"),
+	local("Yuanti"),local("Yuanti SC"),local("Yuanti TC"),
+	local("DK-HEITI"),
+	url(../Fonts/h1.ttf),
+	url(res:///opt/sony/ebook/FONT/h1.ttf),
+	url(res:///Data/FONT/h1.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/h1.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/h1.ttf),
+	url(res:///ebook/fonts/h1.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/h1.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/h1.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/h1.ttf),				/*Duokan Old Path*/
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/h1.ttf),		/*Duokan 2012 Path*/
+	url(res:///abook/fonts/h1.ttf),
+	url(res:///system/fonts/h1.ttf),
+	url(res:///system/media/sdcard/fonts/h1.ttf),
+	url(res:///media/fonts/h1.ttf),
+	url(res:///sdcard/fonts/h1.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/h1.ttf),
+	url(res:///media/flash/fonts/h1.ttf),
+	url(res:///media/sd/fonts/h1.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/h1.ttf),
+	url(res:///../fonts/h1.ttf),
+	url(../../../../../h1.ttf),										/*EpubReaderI*/
+	url(res:///mnt/sdcard/fonts/h1.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/h1.ttf),										/*ADE1,8, 2.0 Program Path*/
+	url(res:///../../../../Windows/fonts/h1.ttf);					/*ADE1,8, 2.0 Windows Path*/
+}
+@font-face {
+	font-family:"h2";
+	src:
+	local("方正大标宋_GBK"),local("方正大标宋简体"),local("方正大标宋繁体"),
+	local("Dabiaosong"),
+	local("Heiti"),local("Heiti SC"),local("Heiti TC"),
+	local("DK-XIAOBIAOSONG"),
+	url(../Fonts/h2.ttf),
+	url(res:///opt/sony/ebook/FONT/h2.ttf),
+	url(res:///Data/FONT/h2.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/h2.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/h2.ttf),
+	url(res:///ebook/fonts/h2.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/h2.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/h2.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/h2.ttf),				/*Duokan Old Path*/
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/h2.ttf),		/*Duokan 2012 Path*/
+	url(res:///abook/fonts/h2.ttf),
+	url(res:///system/fonts/h2.ttf),
+	url(res:///system/media/sdcard/fonts/h2.ttf),
+	url(res:///media/fonts/h2.ttf),
+	url(res:///sdcard/fonts/h2.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/h2.ttf),
+	url(res:///media/flash/fonts/h2.ttf),
+	url(res:///media/sd/fonts/h2.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/h2.ttf),
+	url(res:///../fonts/h2.ttf),
+	url(../../../../../h2.ttf),										/*EpubReaderI*/
+	url(res:///mnt/sdcard/fonts/h2.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/h2.ttf),										/*ADE1,8, 2.0 Program Path*/
+	url(res:///../../../../Windows/fonts/h2.ttf);					/*ADE1,8, 2.0 Windows Path*/
+}
+
+@font-face {
+	font-family:"h3";
+	src:
+	local("方正华隶_GBK"),local("方正行黑简体"),local("方正行黑繁体"),
+	local("Yuanti"),local("Yuanti SC"),local("Yuanti TC"),
+	local("DK-FANGSONG"),
+	url(../Fonts/h3.ttf),
+	url(res:///opt/sony/ebook/FONT/h3.ttf),
+	url(res:///Data/FONT/h3.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/h3.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/h3.ttf),
+	url(res:///ebook/fonts/h3.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/h3.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/h3.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/h3.ttf),				/*Duokan Old Path*/
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/h3.ttf),		/*Duokan 2012 Path*/
+	url(res:///abook/fonts/h3.ttf),
+	url(res:///system/fonts/h3.ttf),
+	url(res:///system/media/sdcard/fonts/h3.ttf),
+	url(res:///media/fonts/h3.ttf),
+	url(res:///sdcard/fonts/h3.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/h3.ttf),
+	url(res:///media/flash/fonts/h3.ttf),
+	url(res:///media/sd/fonts/h3.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/h3.ttf),
+	url(res:///../fonts/h3.ttf),
+	url(../../../../../h3.ttf),										/*EpubReaderI*/
+	url(res:///mnt/sdcard/fonts/h3.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/h3.ttf),										/*ADE1,8, 2.0 Program Path*/
+	url(res:///../../../../Windows/fonts/h3.ttf);					/*ADE1,8, 2.0 Windows Path*/
+}
+
+@font-face {
+	font-family:"icofree";
+	src:
+	local("ICOFREE"),
+	url(../Fonts/IcoMoon-Free.ttf);
+}
+
+body {
+	padding: 0%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	margin-left: 0%;
+	margin-right: 0%;
+	text-align: justify;
+	font-family:"DK-SONGTI", "宋体", "明体","明朝",serif;
+}
+
+h1 {
+	font-size:1.4em;
+    text-align:center;
+    margin: 2em 0em 2em 0em;
+    color: #bd2852;
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+}
+
+h2 {
+	font-size:1.3em;
+    text-align:left;
+    margin: 2em 0em 2em 0em;
+    color: #bd2852;
+	font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
+}
+
+h3 {
+	color: #415D79;
+	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
+}
+
+h4 {
+    font-family:"DK-FANGSONG",仿宋,"fangsong",sans-serif;
+}
+
+h5 {
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+}
+
+h6 {
+	font-family: "DK-SONGTI", 宋体, "st", sans-serif;	
+}
+
+p {
+	text-align: justify;
+	text-indent: 2em;
+	line-height:150%;
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	font-family:"DK-SONGTI", "宋体", "明体","明朝",serif;
+}
+
+.books-section {
+	text-indent: 0em;
+	font-size:1.2em;
+    text-align:left;
+    margin: 1em 0em 0em 0em;
+    color: #bd2852;
+	font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
+}
+
+.ask {
+	color: #333;
+	margin-top: 1em;
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+}
+
+div {
+	margin:0px;
+	padding:0px;
+	text-align: justify;
+	font-family:"zw";
+}
+
+.cover {
+	width:100%;
+	padding:0px;
+}
+
+.center {
+	text-align: center;
+	margin-left: 0%;
+	margin-right: 0%;
+}
+
+.left {
+	text-align: center;
+	margin-left: 0%;
+	margin-right: 0%;
+}
+
+.right {
+	text-align: right;
+	margin-left: 0%;
+	margin-right: 0%;
+}
+
+.no-top-margin {
+	padding: -1em 0em 1em 0em;
+}
+
+footer {
+	color: #9588A5;
+    font-family: "DK-XIAOBIAOSONG",sans-serif;
+    font-size: 1em;
+	letter-spacing: 5px;
+	position:absolute;
+	bottom: 10px;
+	left:20px;
+	right:20px;
+	text-align: center;
+}
+
+/*居中标题*/
+.pretitle {
+	background-size: contain;
+	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
+	font-size: 120%;
+	text-align:center;
+	color: #DDAA3B;
+	padding: 2em 0em 0em 0em;
+}
+
+.title {
+	background-size: contain;
+	font-family: "DK-XIAOBIAOSONG","xiaobiaosong",sans-serif;
+	font-size: 140%;
+	text-align:center;
+	color: #DDAA3B;
+	padding: 0em 0em 1em 0em;
+}
+
+.subtitle {
+	background-size: contain;
+	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
+	font-size: 120%;
+	text-align:left;
+	text-indent:0em;
+	color: #DDAA3B;
+	padding: 2em 0em 1em 0em;
+}
+
+.bigtitle {
+	font-size: 180%;
+	text-align:center;
+	padding: 0.7em;
+	margin: 5px;
+	color: #FBFBF5;
+}
+
+.stitle {
+	font-size: 90%;
+	font-family:"DK-FANGSONG",仿宋,"fangsong",sans-serif;
+	text-align:center;
+	text-indent:0em;
+	color:#eee;
+}
+
+.pubtitle {
+	font-size:80%;
+	font-family: "DK-XIAOBIAOSONG",sans-serif;
+	text-align:center;
+	text-indent:0em;
+	color:#F5F5E9;
+}
+
+.datetitle {
+	font-size:70%;
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+	text-align:center;
+	text-indent:0em;
+	color:#233;
+}
+
+.intitle {
+	font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
+	font-size:110%;
+	color: #3d6814;
+	text-indent:0em;
+	text-indent:0em;
+	text-align: center;
+}
+
+/*签名*/
+.lk {
+	font-size:85%;
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+	text-align:right;
+}
+
+/*序言文本*/
+.pretxt {
+	font-size:85%;
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+}
+
+/*说明文本*/
+.exp {
+	font-family: "DK-SONGTI", 宋体, "st", sans-serif;
+	font-size: 75%;
+	text-indent:0em;
+}
+
+.exp_right {
+	font-family: "DK-SONGTI", 宋体, "st", sans-serif;
+	font-size: 75%;
+	text-indent:0em;
+	text-align:right;
+	padding: -1em 0em 1em 0em;
+}
+
+/*副标题*/
+.sptxt {
+	font-family:"DK-FANGSONG",仿宋,"fangsong",sans-serif;
+	font-size:85%;
+	color:#1E1838;
+	text-align:center;
+	text-indent:0em;
+}
+
+/*章节标题*/
+.chapter {
+	text-indent:0em;
+	text-align: center;
+	padding: 0.8em;
+	margin: 20% 0 3px 0;
+	color: #4B5983;
+    font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
+	font-size:165%;
+}
+
+/*章节编号*/
+.chapno {
+	text-indent:0em;
+	text-align: center;
+	color: #5F8E5F;
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+	font-size:80%;
+}
+
+/*引用文本*/
+.ytxt {
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+}
+
+/*顶格，戏剧人名*/
+.xchar {
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+	text-indent:0;
+}
+
+/*悬挂，戏剧对话*/
+.xj {
+	margin-left:2em;
+	font-family:"DK-FANGSONG",仿宋,"fangsong",sans-serif;
+}
+
+/*列表*/
+.list {
+	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
+	font-size:85%;
+	list-style-type:decimal;
+	color: #323344;
+}
+
+/*重点符号*/
+span.emp {
+	text-emphasis: filled dot;
+	font-weight: bold;
+}
+
+span.emp2 {
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+	text-emphasis: open dot;
+	color: #111;
+}
+
+div.title {
+	font-family: "h1", 方正大标宋_GBK,方正大标宋简体, "zw", serif, "exta", "extb" , "pua";
+	font-weight: bold;
+	text-align: right;
+	margin: 0 0 2em 0;
+	background: url("../Images/003.png") left bottom no-repeat;
+	background-size: contain; /*css3*/
+}
+
+div.title img {
+	height:7em;
+	margin-left:0.5em;
+	border-left: 5px #000 solid;
+	float:right;
+}
+
+div.title img.left {
+	float:left;
+	height:7em;
+	border:0;
+}
+
+div.title sup a {
+	color: #800000;
+	font-size: 0.65em;
+	font-weight: 400;
+}
+
+div.title div {
+	height: 2.1em;
+}
+
+.zw {
+	margin-top:10%;
+	margin-right:1em;
+}
+
+.sec {
+	background: #CCFFFF url(../Images/hehua.png) no-repeat;
+	background-size: 10em;
+	background-position: left bottom;
+}
+
+ul, ol {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+/*注解*/
+sup img {
+	line-height: 100%;
+	width: auto;
+    height: 1.0em;
+    margin: 0em;
+    padding: 0em;
+	vertical-align: text-top;
+}
+
+
+ol{
+	margin-bottom:0;
+	padding:0 auto;
+	list-style-type:none;
+}
+
+.hr{
+	width:60%;
+	margin:3em 0 0 0.5em;
+	padding:0;
+	height:1px;
+	background:#000;
+}
+.duokan-footnote-content{
+	padding:0 auto;
+	text-align: left;
+}
+
+.duokan-footnote-item {
+	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
+	text-align: left;
+	font-size: 80%;
+	line-height: 100%;
+	clear: both;
+	color:#000;
+	list-style-type:decimal;
+}
+
+li.duokan-footnote-item a {
+	font-family:"DK-HEITI";
+	text-align: left;
+}
+
+a{
+	text-decoration: none;
+	color: #222;
+}
+
+.duokan-image-maintitle {
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+	text-align: center;
+	text-indent: 0em;
+	font-size:110%;
+	letter-spacing:0.5em;
+}
+
+/* 拼音样式 */
+ruby {
+	ruby-align: center;
+}
+
+/* 拼音文字样式 */
+ruby > rt {
+	font-family: "DK-SYMBOL", "Symbol";
+    font-size: 0.5em;
+}
+
+/*图片*/
+.img0 {
+    /* 图片居中 */
+	margin: 1em;
+    text-align: center;
+	text-indent: 0em;
+}
+
+.img1 {
+    /* 图片居左 */
+    float: left;
+    text-align: left;
+	padding: 10px;
+}
+
+.img2 {
+    /* 图片居右 */
+    float: right;
+    text-align: right;
+	padding: 10px;
+}
+
+/*制作说明页*/
+.oval {
+	padding:7px;
+	margin:0 0 0 0;
+	background: url(../Images/pat.png) repeat;
+	border:solid #3F3256;
+	border-width: 1px;
+	border-radius: 1px;
+}
+
+.ovaltitle {
+	font-family:"DK-HEITI",sans-serif;
+	font-size:120%;
+	color:#F1CE41;
+	padding-top:15px;
+	padding-bottom:14px;
+	margin:3px;
+	text-align: center;
+}
+
+.ovaltxt {
+	font-family:"DK-XIHEITI",sans-serif;
+	font-size:90%;
+	color:#F8E394;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+.ovalnote {
+	font-family:"DK-KAITI",sans-serif;
+	font-size:80%;
+	color:#F5D863;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:15px;
+}
+
+.line {
+	border:dotted #C8A30D;
+	border-width:1px 0 0 0;
+}
+
+/* 默认版权信息页标题 */
+h1.copyright-title {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	font-size: 1.35em;
+	font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
+	font-weight: bold;
+	text-align: center;
+	color:#333;
+}
+
+/* 默认版权信息页内容 */
+p.copyright-text {
+	font-family: "DK-SONGTI", "宋体", "明体","明朝",serif;
+	font-weight: normal;
+	text-align: justify;
+	text-indent: 2em;
+	font-size: 1em;
+	line-height: 1.3em;
+	margin-bottom: 0em;
+	color:#333;
+}
+
+/* 默认版权信息页声明 */
+p.copyright-notice {
+	margin-top:1.5em;
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+	font-weight: normal;
+	text-indent: 2em;
+	text-align: justify;
+	color: #333;
+	line-height: 1em;
+	font-size: 1em;
+}
+
+/* 作者和日期 */
+.sign-ending {
+    font-family: "DK-KAITI",楷体, "kt", sans-serif;
+    font-size: 90%;
+    text-indent: 0em;
+    color: #222;
+    text-align: right;
+}
+
+.pba {
+	page-break-after:always;
+}
+
+.time-book {
+	background-color:#C8D5DB;
+	margin: -1em 0em 1em 0em;
+	padding-top: 14px;
+}
+
+.time-book p {
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+	font-size: 90%;
+}
+
+.chapter-body {
+  background-color: #b50031;
+  text-align: center;
+  text-indent:0em;
+  duokan-text-indent:0em;
+}
+
+.chapter-box {
+  border: 1px solid #E0E0E0;
+  border-radius: 2em;
+  margin: 1.5em 0.5em 0em 0.5em;
+  text-align: center;
+  text-indent:0em;
+  duokan-text-indent:0em;
+}
+
+.chapter-img {
+  margin: 1.5em 1.5em 0em 1.5em;
+}
+
+.chapter-title {
+  font-size:1.2em;
+  text-align:center;
+  margin: 2em 0em 2em 0em;
+  color: #E0E0E0;
+  font-family:"DK-HEITI",黑体,"ht",sans-serif;
+}
+
+.chapter-subtitle {
+  font-size:0.9em;
+  text-align:center;
+  color: #E0E0E0;
+  font-family:"DK-HEITI",黑体,"ht",sans-serif;
+}
