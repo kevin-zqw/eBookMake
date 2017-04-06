@@ -304,7 +304,7 @@ h5 {
 }
 
 h6 {
-	font-family: "DK-SONGTI", 宋体, "st", sans-serif;	
+	font-family: "DK-SONGTI", 宋体, "st", sans-serif;
 }
 
 p {
@@ -815,4 +815,40 @@ p.copyright-notice {
   text-align:center;
   color: #E0E0E0;
   font-family:"DK-HEITI",黑体,"ht",sans-serif;
+}
+
+.thanks-box {
+  margin: 15% 0em 0em 0em;
+  text-align: center;
+  text-indent:0em;
+  duokan-text-indent:0em;
+}
+
+.thanks {
+  font-family: "DK-SONGTI", "宋体", "明体","明朝",serif;
+  text-align: center;
+  text-indent:0em;
+  duokan-text-indent:0em;
+}
+
+.thanks-name {
+  font-size: 1.3em;
+	font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
+  text-align: center;
+  text-indent:0em;
+  duokan-text-indent:0em;
+}
+
+.thanks-ytxt {
+  font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
+  text-align: center;
+  text-indent:0em;
+  duokan-text-indent:0em;
+}
+
+.thanks-author-book {
+  font-family: "DK-SONGTI", "宋体", "明体","明朝",serif;
+  text-align: center;
+  text-indent:0em;
+  duokan-text-indent:0em;
 }
