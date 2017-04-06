@@ -279,19 +279,19 @@ h1 {
     text-align:center;
     margin: 2em 0em 2em 0em;
     color: #bd2852;
-	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+	font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
 }
 
 h2 {
 	font-size:1.3em;
-    text-align:left;
+    text-align:center;
     margin: 2em 0em 2em 0em;
     color: #bd2852;
 	font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
 }
 
 h3 {
-	color: #415D79;
+	color: #bd2852;
 	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
 }
 
