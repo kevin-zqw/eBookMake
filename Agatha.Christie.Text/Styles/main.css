@@ -1,0 +1,654 @@
+@charset "utf-8";
+@import url("../Styles/fonts.css");
+
+body {
+	padding: 0%;
+	margin: 0% 1% 0% 1%;
+	line-height:100%;
+}
+
+p {
+	text-align: justify;
+	text-indent: 2em;
+	line-height:125%;
+	margin-right: 1%;
+    margin-left: 1%;
+	font-family:"宋体", "明体","明朝",serif;
+}
+
+div {
+	margin:0px;
+	padding:0px;
+	line-height:100%;
+	text-align: justify;
+	font-family:"zw";
+}
+
+h1 {
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+}
+
+h3 {
+	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
+}
+
+h4 {
+    font-family:"DK-FANGSONG",仿宋,"fangsong",sans-serif;
+}
+
+h5 {
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+}
+
+h6 {
+	font-family: "DK-SONGTI", 宋体, "st", sans-serif;	
+}
+
+/*居中标题*/
+.title {
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+	font-size: 105%;
+	text-align:center;
+	color: #91617D;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	line-height: 100%;
+}
+
+.entitle {
+	font-family: "pinsong",品宋,sans-serif;
+	font-size: 85%;
+	text-align:center;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	color: #30BA53;
+	text-shadow: 0 0 2px #272E69;
+	margin: 1em 5px 7px 5px;
+	padding: 3px;
+}
+
+.vtitle {
+	font-family: "pinsong",品宋,sans-serif;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	font-size: 180%;
+	text-align:center;
+	padding: 3px;
+	margin: 5px;
+	text-shadow: 0 1 2px #000;
+	color: #C5D9BD;
+}
+
+.extitle {
+	font-family: "pinsong",品宋,sans-serif;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	font-size: 220%;
+	text-align:center;
+	padding: 3px;
+	margin: 5px;
+	text-shadow: 0 1 2px #fff;
+	color: #6A5571;
+}
+
+.pubtitle {
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+	font-size: 80%;
+	text-align:center;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	color:#87BDC9;
+}
+
+.stitle {
+	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
+	font-size: 70%;
+	text-align:center;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	color:#87BDC9;
+	padding: 3px;
+	text-shadow: 0 1 1px #444;
+}
+
+.intitle {
+	font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
+	font-size:110%;
+	color: #3d6814;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	margin: 1.6em -20px 1.2em -20px;
+}
+
+.epi {
+	font-family:"DK-FANGSONG",仿宋,"fangsong",sans-serif;
+	font-size:120%;
+	color: #85708F;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: left;
+	margin-left: 2em;
+	margin-right: 2em;
+	line-height: 115%;
+}
+
+.title1 {
+	font-family: "pinsong",品宋,sans-serif;
+	font-size:140%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: left;
+	color: #415065;
+	background: url(../Images/t1.png) no-repeat right center;
+	background-size: contain;
+	border: solid #8194AD;
+	border-width: 0px 0px 3px 0px;
+	padding-bottom: 6px;
+	text-shadow: 0 0 1px #fff; 
+}
+
+.title1ex {
+	font-family: "Candara", "pinsong",品宋,sans-serif;
+	font-size:150%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	color: #453E31;
+	background: url(../Images/t1.png) no-repeat center top;
+	background-size: 3em auto;
+	padding-top: 3em;
+	margin-bottom: 2em;
+}
+
+.title2 {
+	font-family: "pinsong",品宋,sans-serif;
+	font-size:140%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: left;
+	color: #415065;
+	background: url(../Images/t2.png) no-repeat right center;
+	background-size: contain;
+	border: solid #8194AD;
+	border-width: 0px 0px 3px 0px;
+	padding-bottom: 6px;
+	text-shadow: 0 0 1px #fff; 
+}
+
+.title2ex {
+	font-family: "Candara", "pinsong",品宋,sans-serif;
+	font-size:150%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	color: #453E31;
+	background: url(../Images/t2.png) no-repeat center top;
+	background-size: 3em auto;
+	padding-top: 3em;
+	margin-bottom: 2em;
+}
+
+.title3 {
+	font-family: "pinsong",品宋,sans-serif;
+	font-size:140%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: left;
+	color: #415065;
+	background: url(../Images/t3.png) no-repeat right center;
+	background-size: contain;
+	border: solid #8194AD;
+	border-width: 0px 0px 3px 0px;
+	padding-bottom: 6px;
+	text-shadow: 0 0 1px #fff; 
+}
+
+.title3ex {
+	font-family: "Candara", "pinsong",品宋,sans-serif;
+	font-size:150%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	color: #453E31;
+	background: url(../Images/t3.png) no-repeat center top;
+	background-size: 3em auto;
+	padding-top: 3em;
+	margin-bottom: 2em;
+}
+
+.title4 {
+	font-family: "pinsong",品宋,sans-serif;
+	font-size:140%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: left;
+	color: #415065;
+	background: url(../Images/t4.png) no-repeat right center;
+	background-size: contain;
+	border: solid #8194AD;
+	border-width: 0px 0px 3px 0px;
+	padding-bottom: 6px;
+	text-shadow: 0 0 1px #fff; 
+}
+
+.title4ex {
+	font-family: "Candara", "pinsong",品宋,sans-serif;
+	font-size:150%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	color: #453E31;
+	background: url(../Images/t4.png) no-repeat center top;
+	background-size: 3em auto;
+	padding-top: 3em;
+	margin-bottom: 2em;
+}
+
+.title5 {
+	font-family: "pinsong",品宋,sans-serif;
+	font-size:140%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: left;
+	color: #415065;
+	background: url(../Images/t5.png) no-repeat right center;
+	background-size: contain;
+	border: solid #8194AD;
+	border-width: 0px 0px 3px 0px;
+	padding-bottom: 6px;
+	text-shadow: 0 0 1px #fff; 
+}
+
+.title5ex {
+	font-family: "Candara", "pinsong",品宋,sans-serif;
+	font-size:150%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	color: #453E31;
+	background: url(../Images/t5.png) no-repeat center top;
+	background-size: 3em auto;
+	padding-top: 3em;
+	margin-bottom: 2em;
+}
+
+.title6 {
+	font-family: "pinsong",品宋,sans-serif;
+	font-size:140%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: left;
+	color: #415065;
+	background: url(../Images/tex1.png) no-repeat right center;
+	background-size: contain;
+	border: solid #8194AD;
+	border-width: 0px 0px 3px 0px;
+	padding-bottom: 6px;
+	text-shadow: 0 0 1px #fff; 
+}
+
+.title6ex {
+	font-family: "Candara", "pinsong",品宋,sans-serif;
+	font-size:150%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	color: #453E31;
+	background: url(../Images/tex1.png) no-repeat center top;
+	background-size: 3em auto;
+	padding-top: 3em;
+	margin-bottom: 2em;
+}
+
+.title7 {
+	font-family: "pinsong",品宋,sans-serif;
+	font-size:140%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: left;
+	color: #415065;
+	background: url(../Images/tex2.png) no-repeat right center;
+	background-size: contain;
+	border: solid #8194AD;
+	border-width: 0px 0px 3px 0px;
+	padding-bottom: 6px;
+	text-shadow: 0 0 1px #fff; 
+}
+
+.title7ex {
+	font-family: "Candara", "pinsong",品宋,sans-serif;
+	font-size:150%;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	color: #453E31;
+	background: url(../Images/tex2.png) no-repeat center top;
+	background-size: 3em auto;
+	padding-top: 3em;
+	margin-bottom: 2em;
+}
+
+.out {
+	border: solid #8194AD;
+	border-width: 0px 0px 1px 0px;
+	padding-bottom: 2px;
+	margin-bottom: 2em;
+}
+
+/*签名*/
+.lk {
+	margin-left: -2em;
+	font-size:85%;
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+	text-align:right;
+	color:#3A3A3A;	
+}
+
+.post {
+	font-size:90%;
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+	text-align:right;
+	color:#3988c9;	
+}
+
+/*序言文本*/
+.pretxt {
+	font-family:"DK-FANGSONG",仿宋,"fangsong",sans-serif;
+}
+
+/*副标题*/
+.sptxt {
+	font-family:"DK-FANGSONG",仿宋,"fangsong",sans-serif;
+	font-size:85%;
+	color:#1E1838;
+	text-align:center;
+	text-indent:0em;
+	duokan-text-indent:0em;
+}
+
+/*章节标题*/
+.chapter {
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	padding: 0.8em;
+	margin: 0 auto 3px auto;
+	color: #453E31;
+    font-family: "DK-XIAOBIAOSONG",华文宋体,sans-serif;
+	font-size:135%;
+	text-shadow: 0 1 1px #eff;
+}
+
+/*章节编号*/
+.chapno {
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	color: #5F8E5F;
+	font-family: "Candara", "DK-XIHEITI",细黑体,"xihei",sans-serif;
+	font-size: 75%;
+	line-height:100%;
+}
+
+.exno {
+	text-indent:0em;
+	duokan-text-indent:0em;
+	text-align: center;
+	color: #36A323;
+	font-family: "Candara", "DK-XIHEITI",细黑体,"xihei",sans-serif;
+	font-size: 62%;
+	line-height:100%;
+}
+
+/*引用文本*/
+.rm {
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	color: #202040;
+	font-size: 102%;
+}
+
+.ytxt {
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+	color: #242343;
+}
+
+blockquote p {
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+	color: #343;
+	margin: 0.5em -1.5em;
+	text-indent: 1em;
+	duokan-text-indent: 1em;
+}
+
+q {
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+	color: #202020;
+}
+
+/*版权信息*/
+.cp {
+	font-family:"DK-CODE","DK-XIHEITI",细黑体,"xihei",sans-serif;
+	color: #412938;
+	font-size: 70%;
+	text-align: left;
+	text-indent: 0em;
+	duokan-text-indent: 0em;
+}
+
+/*顶格，戏剧人名*/
+.xchar {
+	font-family:"DK-HEITI",黑体,"ht",sans-serif;
+	text-indent:0em;
+	duokan-text-indent:0em;
+	font-size: 95%;
+}
+
+/*悬挂，戏剧对话*/
+.xj {
+	margin-left:2em;
+	font-family:"DK-FANGSONG",仿宋,"fangsong",sans-serif;
+	text-indent:0em;
+	duokan-text-indent:0em;
+}
+
+/*列表*/
+.list {
+	font-family:"DK-KAITI",楷体, "kt", sans-serif;
+	font-size:90%;
+	list-style-type:decimal;
+	color: #323;
+	margin: 1em 0em 1em 0em;
+}
+
+/*表格*/
+table.t {
+	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
+	font-size:90%;
+	width: 100%;
+	margin: 1em auto;
+	color:#333;
+	border: solid 0px #aaa;
+	border-collapse: collapse;
+}
+
+table.t th {
+	background:#BDEAFD;
+	padding: 8px;
+	border: solid 1px #aaa;
+	text-align: center;
+	font-weight: normal;
+}
+
+table.t td {
+	background:#B7FDF2;
+	padding: 8px;
+	border: solid 1px #aaa;
+	text-align: center;
+}
+
+/*重点符号*/
+span.emp {
+	text-emphasis: filled dot;
+	color: #2C273D;
+}
+
+/*注解*/
+sup img {
+	line-height: 100%;
+	width: auto;
+    height: 1.0em;
+    margin: 0em;
+    padding: 0em;
+	vertical-align: text-top;
+}
+
+ol {
+	margin-bottom:0;
+	padding:0 auto;
+	list-style-type: decimal;
+}
+
+.hr {
+	width:50%;
+	margin:2em 0 0 0.5em;
+	padding:0;
+	height:2px;
+	background-color: #F3221D;
+}
+
+.duokan-footnote-content{
+	padding:0 auto;
+	text-align: left;
+}
+
+.duokan-footnote-item {
+	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
+	text-align: left;
+	font-size: 80%;
+	line-height: 100%;
+	clear: both;
+	color:#000;
+	list-style-type:decimal;
+}
+
+li.duokan-footnote-item a {
+	font-family:"DK-HEITI";
+	text-align: left;
+}
+
+a{
+	text-decoration: none;
+	color: #222;
+}
+
+.duokan-image-maintitle {
+	font-family:"DK-HEITI",黑体,"hei",sans-serif;
+	text-align: center;
+	text-indent: 0em;
+	duokan-text-indent: 0em;
+	font-size:90%;
+	color: #1F4150;
+}
+
+.duokan-image-subtitle {
+	font-family:"DK-XIHEITI",细黑体,"xihei",sans-serif;
+	text-align: center;
+	text-indent: 0em;
+	duokan-text-indent: 0em;
+	font-size:70%;
+	color: #3A3348;
+}
+
+/* 拼音样式 */
+ruby {
+	ruby-align: center;
+}
+
+/* 拼音文字样式 */
+ruby > rt {
+	font-family: "DK-SYMBOL", "Symbol";
+    font-size: 0.5em;
+}
+
+/*图片*/
+.img0 {
+    /* 图片居中 */
+	margin: 1em;
+    text-align: center;
+	text-indent: 0em;
+}
+
+.img1 {
+    /* 图片居左 */
+    float: left;
+    text-align: left;
+	padding: 10px;
+}
+
+.img2 {
+    /* 图片居右 */
+    float: right;
+    text-align: right;
+	padding: 10px;
+}
+
+/*制作说明页*/
+.oval {
+	padding:0.8em 5px;
+	border: 1px solid #20F2f0;
+    background: url(../Images/pat.png) repeat;
+}
+
+.shadow {
+	padding:0px;
+	margin: 0px 10% 0px -20px;
+	border: 8px solid transparent;
+	border-width: 3px 8px 8px 3px;
+	border-image: url(../Images/shadow.png) 11 11 stretch;
+}
+
+.ovaltitle {
+	font-family:"DK-HEITI",黑体,sans-serif;
+	font-size:120%;
+	color:#C1B0CC;
+	padding-top:15px;
+	padding-bottom:14px;
+	margin:3px;
+	text-align: center;
+	text-shadow: 0 1px 1px #111;
+}
+
+.ovaltxt {
+	font-family:"DK-XIHEITI",sans-serif;
+	font-size:85%;
+	color:#92EBA8;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+.ovalnote {
+	font-family:"DK-KAITI",sans-serif;
+	font-size:75%;
+	color:#E2DA9A;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:15px;
+}
+
+.line {
+	border:dotted #A2906A;
+	border-width:1px 0 0 0;
+}
+
+.speci {
+    background: #f4f7f1 url(../Images/p0.jpg) no-repeat bottom right;
+	background-size: cover;
+}
