@@ -5,7 +5,8 @@ import os
 import shutil
 import re
 
-base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text'
+# base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text'
+base_dir = r'D:\eBookMake\Agatha.Christie.Text'
 book_file_name = r"Unlock-[阿加莎.克里斯蒂侦探推理系列.悬崖上的谋杀].Why.Didn't.They.Ask.Evans.Agatha.Christie.叶刚.人民文学出版社.2010.中译本扫描版.txt"
 book_dir_name = r'v64_WhyDidntTheyAskEvans'
 chapter_file_name_template = r'v64ch{0}.xhtml'
@@ -33,26 +34,6 @@ def get_base_html():
         return f.read()
 
 
-def process_chapter(chapter):
-    chapter = chapter.strip()
-    chapter_no, chapter_name = parse_chapter_no_name(chapter)
-
-    # remove chapter from origin text
-    chapter = re.sub(pattern_chapter_no_name, '', chapter)
-    chapter = chapter.strip()
-
-    # duokan comments
-    process_duokan_comment(chapter)
-
-    # insert chapter no and title
-    base_html = get_base_html()
-    base_html = base_html.replace(replace_chapter_no, chapter_no)
-    base_html = base_html.replace(replace_chapter_name, chapter_name)
-
-    # write files
-    file_name = get_chapter_file_name(chapter_no)
-
-
 # return list of duokan comment string
 def process_duokan_comment(chapter):
     all_comments = re.findall(pattern_duokan_comment, chapter)
@@ -63,20 +44,38 @@ def process_duokan_comment(chapter):
         print(comment)
 
 
-def parse_chapter_no_name(chapter):
-    groups = re.findall(pattern_chapter_no_name, chapter)
-    chapter_no, chapter_name = groups[0]
-    return chapter_no, chapter_name
+def save_html_file():
+    print('save')
 
 
 def all_process():
     with open(process_file, 'r', encoding="utf-8") as f:
-        text = f.read()
-        all_texts = text.split(page_break)
+        all_lines = f.readlines()
 
-        for chapter in all_texts:
-            process_chapter(chapter)
-            # break
+        chapter_lines = []
+        duokan_comment = []
+        chapter_no = ''
+        chapter_name = ''
+        for line in all_lines:
+            chapter_started = len(chapter_lines) > 0
+            empty_line = len(line.strip()) == 0
+
+            if page_break in line and chapter_started:
+                save_html_file()
+                chapter_lines.clear()
+                duokan_comment.clear()
+                continue
+
+            if empty_line and not chapter_started:
+                continue
+
+            chapter_groups = re.findall(pattern_chapter_no_name, line)
+            if len(chapter_groups) > 0:
+                chapter_no = chapter_groups[0][0]
+                chapter_name = chapter_groups[0][1]
+                continue
+
+            print(line)
 
 
 if __name__ == '__main__':
