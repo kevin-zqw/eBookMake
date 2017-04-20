@@ -5,8 +5,8 @@ import os
 import shutil
 import re
 
-# base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text'
-base_dir = r'D:\eBookMake\Agatha.Christie.Text'
+base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text'
+# base_dir = r'D:\eBookMake\Agatha.Christie.Text'
 book_file_name = r"Unlock-[阿加莎.克里斯蒂侦探推理系列.悬崖上的谋杀].Why.Didn't.They.Ask.Evans.Agatha.Christie.叶刚.人民文学出版社.2010.中译本扫描版.txt"
 book_dir_name = r'v64_WhyDidntTheyAskEvans'
 chapter_file_name_template = r'v64ch{0}.xhtml'
@@ -88,7 +88,16 @@ def save_html_file(chapter_lines, duokan_comment, chapter_no, chapter_name):
         html = html.replace(replace_duokan_comment_start, '')
         html = html.replace(replace_duokan_comment_list, '')
         html = html.replace(replace_duokan_comment_end, '')
-    print(html)
+
+    # write to output dir
+    if not os.path.exists(output_dir):
+        os.mkdir(output_dir)
+
+    file_name = get_chapter_file_name(chapter_no)
+    file_path = os.path.join(output_dir, file_name)
+    with open(file_path, 'w', encoding='utf-8') as f:
+        print(file_path)
+        f.write(html)
 
 
 def all_process():
