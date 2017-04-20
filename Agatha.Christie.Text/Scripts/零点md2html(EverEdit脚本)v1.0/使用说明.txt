@@ -1,0 +1,15 @@
+# 零点md2html 脚本（EverEdit）
+
+## 功能
+
+1、提取文内注释到每章后面，并生成kindle和多看兼容弹注。要求注释使用 【注释内容】 格式，每章标题使用 ## 第一章 格式。没有章节标题的则把注释放到最后面。
+2、接着转换 markdown 格式为 html 格式。
+3、适用于 EverEdit 编辑器。
+
+## 使用说明
+
+把压缩包中的2个文件放入 EverEdit 目录的 macro 文件夹下，重启或刷新脚本菜单后，在 "扩展" 菜单中点击运行。
+
+参考了 abbyy排版校对脚本（EmEditor）。
+
+链接：http://www.hi-pda.com/forum/viewthread.php?tid=1686410

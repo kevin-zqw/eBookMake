@@ -1,0 +1,170 @@
+/**
+ * 把 "【XXX】" 这类的注释放到章节后面，其中章节标题为 "## 第一章"
+ *
+ * 作者：ywzhaiqi@gmail.com
+ * 版本：v1.0  2015-08-18
+ * 参考了 abbyy排版校对脚本（EmEditor）
+ */
+
+
+var doc = App.ActiveDoc;
+
+String.prototype.startsWith = function(str) {
+    return this.slice(0, str.length) == str;
+};
+
+function log(s) {
+    App.OutputLine(s)
+}
+
+function each(c, fn) {
+    for(var i = 0; i < c.length; i++) {
+        fn(c[i], i, c)
+    }
+}
+
+function getPopupFn(items) {
+    var menu = App.ActiveDoc.CreateMenu();
+    for(var i = 0; i < items.length; i++) {
+        menu.AddItem(i + 1, items[i].text);
+    }
+
+    var cmd = menu.Popup();
+    if (cmd === undefined) {
+        return;
+    }
+    return items[cmd - 1].fn;
+}
+
+
+// Include(App.AppPath + "\\macro\\PinYin\\pinyin.js");
+
+// 新方法
+function sortAnnotaByChapter() {
+    var msg = [
+            '运行之前，请确认',
+            '1、注释格式是否为：【XXX】',
+            '2、每章标题是否为：## 第一章',
+        ].join('\n');
+
+    var isOk = App.ShowMsgBox(msg, '弹注按章节排序', 1)
+    if (isOk != 1) return;
+
+    var text = doc.Text;
+    var lines = text.split(/\r\n/);
+    var newLines = lines.slice();
+
+    var isTitleLine = function (line) {
+        // return line.substr(0, 3) == '## ';
+        return line.startsWith('##') && !line.startsWith('###');
+    }
+
+    // 标题预处理
+    each(lines, function(line, i) {
+        if (isTitleLine(line)) {
+            newLines[i] = '【' + line + '】'
+        }
+    });
+
+    text = newLines.join('\n');
+    var annotations = [];
+
+    function clear() {
+        annotations = []
+    }
+
+    function toFootNote() {
+        var arr = ['<ol class="duokan-footnote-content">']
+        each(annotations, function(annota, i) {
+            i += 1
+            arr.push('<li class="duokan-footnote-item" id="id' + i + 'a">' +
+                '<p class="hl"><sup><a href="#id' + i + '">' + i + '</a></sup> ' + annota + '</p>' +
+                '</li>')
+        });
+
+        arr.push('</ol>')
+
+        return arr.join('\n');
+    }
+
+    text = text.replace(/【(.*?)】/g, function(match, p1) {
+        var ret;
+        if (isTitleLine(p1)) {  // 标题
+
+            if (annotations.length) {
+                ret = toFootNote() + '\n' + p1;
+            } else {
+                ret = p1;
+            }
+
+            clear();
+        } else {
+            annotations.push(p1);
+            var i = annotations.length;
+            ret = '<a class="duokan-footnote" href="#id' + i +'a" id="id' + i +
+                    '"><img alt="" class="duokan-footnote" src="../Images/note.png" /></a>'
+        }
+
+        return ret;
+    })
+
+    // 补上最后一章的注释
+    if (annotations.length) {
+        text += '\n' + toFootNote() + '\n';
+    }
+
+    // doc.Text = text;
+    // doc.SetCaretPos(0, 0, true);
+
+    return text;
+}
+
+function markdown2Html(text) {
+    Include(App.AppPath + "\\macro\\showdown.js");
+
+    var HEADER = "<?xml version='1.0' encoding='utf-8'?>\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"zh-CN\">\n<head>\n    <title></title>\n    <link href=\"../Styles/stylesheet.css\" rel=\"stylesheet\" type=\"text/css\" />\n</head>\n<body>\n"
+    var FOOTER = "\n</body>\n</html>"
+
+    var converter = new Showdown.converter();
+    if (!text)
+        text = doc.Text;
+
+    // 段落规范（阅读）（行首2空格，段间1空行，章节间2空行）
+    text = text.replace(/^[ 　]+/gm, '')
+    text = text.replace(/[ 　    ]+$/gm, '')
+    text = text.replace(/^[\t]+/gm, '')
+    text = text.replace(/\t+/gm, '')
+    text = text.replace(/^\n/gm, '')
+    text = text.replace(/^([^ 　]*第[0-9一二三四五六七八九十两百零〇]{1,5}[册集部卷章节回])/gm, "\n\n$1")
+    text = text.replace(/^作品相关/gm, "\n\n作品相关");
+    text = text.replace(/^正文/gm, "\n\n正文")
+    text = text.replace(/^序/gm, "\n\n序")
+    text = text.replace(/^前言/gm, "\n\n前言")
+    text = text.replace(/^后记/gm, "\n\n后记")
+    text = text.replace(/^引子/gm, "\n\n引子")
+    // text = text.replace(/^楔/gm, "\n\n楔")
+    text = text.replace(/^([^ 　《])/gm, "\n\r$1")
+    text = text.replace(/^\n\n\n\n/gm, "\n\n")
+    text = text.replace(/^\n\n\n/gm, "\n\n")
+
+    var html = HEADER + converter.makeHtml(text) + FOOTER;
+
+    var hDoc = App.NewDoc()
+    hDoc.SetSyntax("html");
+    hDoc.write(html)
+    hDoc.SetCaretPos(0, 0, true);
+}
+
+function run() {
+    var text = sortAnnotaByChapter()
+    markdown2Html(text)
+}
+
+// var items = [
+//     {text: "★★★★弹注按章节排序", fn: sortAnnotaByChapter},
+//     {text: "★★★★Markdown2HTML ", fn: markdown2Html}
+// ];
+
+// getPopupFn(items)()
+
+run()

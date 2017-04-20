@@ -1,0 +1,687 @@
+menu= CreatePopupMenu();
+说明 = CreatePopupMenu();
+行格 = CreatePopupMenu();
+段落 = CreatePopupMenu();
+OCR = CreatePopupMenu();
+if (document.selection.isempty)
+	nFlags=eeFindNext | eeReplaceAll | eeFindReplaceRegExp;
+else
+	nFlags=eeFindNext | eeReplaceSelOnly | eeReplaceAll | eeFindReplaceRegExp;
+
+menu.Add( "关于EmEditor宏--abbyy排版校对脚本v1.30（2013.03.04）", 1 );
+menu.Add("使用正则表达式提取字符串",17);
+menu.Add( "", 0, eeMenuSeparator );
+menu.AddPopup( "段落排版", 段落 );
+段落.Add( "关于段落重排说明", 2 );
+段落.Add( "", 0, eeMenuSeparator );
+段落.Add( "★★★段落重排（修正非段落换行，句首标点，统一章节间行）2009.08", 23 );
+段落.Add( "★段落重排（快速）2009.08", 22 );
+段落.Add( "★★段落规范（阅读）（行首2空格，行间一空行，章节间2空行）", 24 );
+段落.Add( "★修正非段落换行（注意检查标题）2009.06", 25 );
+
+menu.Add( "", 0, eeMenuSeparator );
+menu.AddPopup( "格式整理", 行格 );
+行格.Add( "★★★去除中文字间空格2013.02.09", 4 );
+行格.Add( "★★删除段首尾空格（快速）", 7 );
+行格.Add( "★段首添加2个全角空格", 27 );
+行格.Add( "", 0, eeMenuSeparator );
+行格.Add( "规范空行数（所有3个以上空行统一为2个空行）", 21 );
+行格.Add( "删除所有空行（含空格行）", 6 );
+行格.Add( "删除行间空行（仅去除行间空行，章节间已有2个空行）", 20 );
+行格.Add( "", 0, eeMenuSeparator );
+行格.Add( "★删除段首尾空格(包含Tab键)2013.02.08", 3 );
+行格.Add( "删除所有空格", 5 );
+行格.Add( "删除硬回车（硬回车即换行符前有一个半角空格）", 26 );
+
+menu.Add( "", 0, eeMenuSeparator );
+menu.Add( "★★★★HTML分割 2013-3-4", 33 );
+menu.Add( "★★★★Markdown2HTML 2013-3-3", 32 );
+menu.Add( "★★★★脚注自动排序 2013-3-3", 31 );
+menu.Add( "★★★修正中文标点符号,半角转全角2013-2-24", 28 );
+menu.Add( "★★修正英文标点符号,全角转半角2013-2-24", 29 );
+menu.Add( "★★英文空格2013-2-24", 30 );
+menu.Add( "", 0, eeMenuSeparator );
+menu.AddPopup( "OCR修正错字词修正", OCR );
+OCR.Add( "★★★OCR文本：常见错“词”，替换修正（可能错换）", 14 );
+OCR.Add( "☆OCR文本：常见错“字”，替换修正（慎用）", 15 );
+OCR.Add( "", 0, eeMenuSeparator );
+OCR.Add( "把“OCR字词勘误对照表”转换为EmEditor脚本代码", 16 );
+
+result = menu.Track( 0 );
+if (result>40) nFlags=nFlags=eeFindNext | eeReplaceAll | eeFindReplaceRegExp;
+switch(result){
+
+case 1: //脚本说明2013.02.24
+		alert( "本脚本一些抠自“中华太阳系联盟脚本”，一些来自网络，一些个人所写，版权归原作者所有。\n\n1.由于文本格式千变万化，所以肯定不可能完全通用。\n2.所以请提交多个排版有问题的样本，以便修改。\n\n作者：k4user@hi-pda");
+		break;
+
+case 2: //段落重排必读
+		alert( "段落重排必读：\n\n请先将半角标点转为全角标点，以便更好地处理。\n\n一般情况下整理不需要根据标点换行。\n按标点换行，适用于一段中有多个句子过于臃肿的情况，实现一句话一行。\n\n1.文中如果有不成双匹配的引号括号等不成对标点时，请先配对，否则不要用按标点换行处理。\n\n2.能够很好处理同一对引号在上下两行，以及引号中的句号出现在句末的情况，将其合成一行。但是如果有的括号或引号不成对，就可能出错，请仔细检查。\n\n3.如果不喜欢在冒号后换行，请手动在标题表达式中去除。\n\n4.可以自行加入标点表达式的用来换行的标点还有几个，但可能会导致错误换行。\n\n请慎用：  ）  }  】  》  —  ”\n\n5.对于不规范的章节标题，会去掉段落间空行，请手动分段。");
+		break;
+
+case 3: //删除段首尾空格(包含Tab键)2013.02.08
+		bAnswer = confirm("是否删除段首空格(包含Tab键)。");
+		if (bAnswer==true)
+		{
+			document.selection.Replace("^\\s*","",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+		}
+		bAnswer = confirm("是否删除段尾空格(包含Tab键)。");
+		if (bAnswer==true)
+		{
+			document.selection.Replace("\\s*$","",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+		}
+		break;
+
+
+case 7: //删除行首尾空格-快
+			document.selection.Replace("^\\s+","",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("\\s+$","",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+		break;
+
+case 4: //去除中文间空格 2013.02.09
+		alert( "去除空格一次无法全部去除，请多运行几次。\n我也不知道什么原因。");
+		document.selection.Replace("([一-龥,\\.:\x22\x27;，。：“”、‘’•·；\\[\\]])(\\s{1,})([一-龥,\\.:\x22\x27;，。：“”、‘’•·；\\[\\]])","\\1\\3",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+		document.selection.Replace("([一-龥,\\.:\x22\x27;，。：“”、‘’•·；\\[\\]])(\\s{1,})([一-龥,\\.:\x22\x27;，。：“”、‘’•·；\\[\\]])","\\1\\3",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+		document.selection.Replace("([一-龥,\\.:\x22\x27;，。：“”、‘’•·；\\[\\]])(\\s{1,})([一-龥,\\.:\x22\x27;，。：“”、‘’•·；\\[\\]])","\\1\\3",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+    	break;
+
+case 5: //删除所有空格
+		bAnswer = confirm("是否删除所有半角空格。");
+		if (bAnswer==true)
+		{
+			document.selection.Replace(" ","",nFlags);
+		}
+		bAnswer = confirm("是否删除所有全角空格和TAB。");
+		if (bAnswer==true)
+		{
+			document.selection.Replace("　","",nFlags);
+			document.selection.Replace("	","",nFlags);
+		}
+		break;
+
+case 6: //删除空行（含空格）
+			document.selection.Replace("^[ 　\t]*\\n","",nFlags);
+			document.selection.Replace("[ 　	]+$","",nFlags);
+		break;
+case 14: //OCR常见错词替换修正
+		alert("本功能只是把通过OCR的文本中的常见错词，替换为正常词。\n\n不处理半角标点，请使用脚本的相应功能，转换为全角标点。\n\n例如：\n“狠快”，“很快”；“永服”，“衣服”；“姜屈”，“委屈”\n\n被替换的这些词有可能是正常的用词。所以请检查。也可以提交自己的常见错误对照表。")
+			document.selection.Replace("狠快","很快",nFlags);
+			document.selection.Replace("撒销","撤销",nFlags);
+			document.selection.Replace("銷","销",nFlags);
+			document.selection.Replace("侦宜","便宜",nFlags);
+			document.selection.Replace("嗅怪","嗔怪",nFlags);
+			document.selection.Replace("税牧","税收",nFlags);
+			document.selection.Replace("命狠","命根",nFlags);
+		break;
+
+
+case 15: //OCR文本错字校对功能（慎用）
+		alert("本功能只是把通过OCR的文本中的常见错字，替换为正常字。不处理半角标点，请使用脚本的相应功能，转换为全角标点。\n\n有可能一些单个的字替换后，可能正常的字被替换为错误的字，例如：\n“括”，“话”；“帕”，“怕”\n\n这些有可能是正常的用字。所以请检查。也可以提交自己的常见错误对照表。")
+			document.selection.Replace("眘","着",nFlags);
+		break;
+
+
+case 16: //OCR文本错字对照表自动整理为脚本
+		alert("本功能只处理下面这种格式，请手动修改一下，并加以对齐：\n\n错字：\/侦宜\/嗅怪\/税牧\/命狠\/\n\n更正：\/便宜\/嗔怪\/税收\/命根\/\n\n注意：错误行在前，并与正确的行靠在一起。\n\n注意：是使用\/来分隔字词，并位于字的前面，句末可以没有反斜杠。\n\n注意：一定要检查上下两行的长度、格式和文本是完全对应的。\n\n如果要处理的内容中有半角符号，可能会导致脚本在运行中出错。\n\n处理完代码，然后编辑本脚本，找到case 16，把代码复制到本代码段中来：\n\ncase 16: //\n\nalert\n\n代码粘贴在此空行处\n\nbreak")
+			document.selection.Replace("^[ ]+","",nFlags);
+			document.selection.Replace("^\\n","",nFlags);
+			document.selection.Replace("^[^\/]+","",nFlags);
+		var num=1
+		var found=document.selection.Replace("\/([^\/]+)(.+)\\n\/([^\/]+)(.+)","【错】\\1【对】\\3\\n\\2\\n\\4",nFlags);
+		while(found)
+		{
+			num++;
+			found=document.selection.Replace("\/([^\/]+)(.+)\\n\/([^\/]+)(.+)","【错】\\1【对】\\3\\n\\2\\n\\4",nFlags);
+			document.selection.Replace("【错】(.+)【对】(.+)","document.selection.Replace\(\"\\1\"\,\"\\2\"\,nFlags\);",nFlags);
+		}
+			document.selection.Replace("^[\/]+","",nFlags);
+			document.selection.Replace("^document","			document",nFlags);
+		break;
+
+case 17://提取字符串，比如 标题，也可测试正则效果
+function getText()
+{
+var _regex=prompt("本程序用来提取与您输入的正则表达式相匹配的字符串，请输入正则表达式","匹配结果将会在一个新文件中输出，每个匹配项占一行");
+if(_regex==""||_regex==null)
+{
+alert("输入为空，请重新输入");
+return;
+}
+var regex=new RegExp(_regex,"gim");
+document.selection.SelectAll();
+var textInCurrentDocument=document.selection.Text;
+var matchResultArray=textInCurrentDocument.match(regex);
+if(matchResultArray)
+{
+editor.NewFile();
+document.write(matchResultArray.join("\n"));
+}
+else
+{
+alert("没有找到匹配的字符串");
+}
+}
+		getText();
+		break;
+
+
+case 20: //去除句与句之间的空行
+			document.selection.Replace("^[ 　]+$","",nFlags);
+			document.selection.Replace("^[\\t]+$","",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+			document.selection.Replace("(.)\\n\\n(.)","\\1\\n\\2",nFlags);
+		break;
+
+case 21: //所有3个以上空行统一为2个空行
+			document.selection.Replace("^[ 　]+$","",nFlags);
+			document.selection.Replace("^[\\t]+$","",nFlags);
+			document.selection.Replace("^\\n\\n","【标记】",nFlags);
+			document.selection.Replace("^\\n","",nFlags);
+			document.selection.Replace("【标记】\\n","【标记】",nFlags);
+			document.selection.Replace("(【标记】)+","【标记】",nFlags);
+			document.selection.Replace("【标记】","\\n\\n\\n",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+		break;
+
+
+case 22: //段落重排
+			//去除多余标点
+			document.selection.Replace("^[ ]+","",nFlags);
+			document.selection.Replace("[。…=\\.]{2,}","……",nFlags);
+			document.selection.Replace("([，。：？！…”）》—])[，。：？！）》]+","\\1",nFlags);
+			document.selection.Replace("([^ 。？！…])\\n([※#*…。．\\-\\.])","\\1\\2",nFlags);//取消非标点结尾换行
+			document.selection.Replace("([“「][^”」]*)\\n(.*?[”」])","\\1\\2",nFlags);//引号在两行
+			document.selection.Replace("(（[^）]*)\\n(.*?）)","\\1\\2\\n",nFlags);//括号在两行
+			document.selection.Replace("([，。：？！…”）》—][”」])","\\1\\n",nFlags);//标点分行
+			document.selection.Replace("(：)\\n\\n","\\1\\n",nFlags);
+			document.selection.Replace("\\n([，。：？！…”；）】》—．’」])","\\1",nFlags);//句首标点
+
+			//
+			document.selection.Replace(" 　　","　　",nFlags);
+			document.selection.Replace("([^ 　])　　","\\1\\n　　",nFlags);
+			//给行首加2个全角空格，并删除多余空行。
+			document.selection.Replace("\\t+","\\n\\n　",nFlags)
+			document.selection.Replace("^[ 　]+$","",nFlags);
+			document.selection.Replace("[ 　]+$","",nFlags);
+			document.selection.Replace("^[　]([^　])","　　\\1",nFlags);
+			document.selection.Replace("^([^ 　《])","　　\\1",nFlags);
+			document.selection.Replace("(第[0-9一二三四五六七八九十两百零〇]{1,5}[册集部卷章节回].*)\\n\\n\\n","\\1\\n",nFlags);
+			document.selection.Replace("(第[0-9一二三四五六七八九十两百零〇]{1,5}[册集部卷章节回].*)\\n\\n","\\1\\n",nFlags);
+			document.selection.Replace("([^ 　])\\n\\n　　","\\1\\n　　",nFlags);
+			document.selection.Replace("^[ 　]{3,}","　　",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+		break;
+
+
+case 23: //段落重排
+			document.selection.Replace("^[ 　]+$","",nFlags);
+			document.selection.Replace("^\\t+","\\n\\n　　",nFlags);
+			document.selection.Replace(" 　　","　　",nFlags);
+			document.selection.Replace("([^ 　])　　","\\1\\n　　",nFlags);
+			document.selection.Replace("(^[ 　]+)|([ 　]+$)","",nFlags);//去首尾空格
+		var title=prompt("输标题表达式（已含作品相关序楔正文前言后记），保护原有分段格式。","第[0-9一二三四五六七八九十两百零〇]{1,5}[册集部卷章节回]")
+		if (title!="")
+		{
+			document.selection.Replace("^(作品相关.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(正文.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(序.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(前言.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(后记.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(楔.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(引子.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(公告.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(凑字数.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(.*"+title+".*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^\\n","",nFlags);
+		}
+			//去除多余标点
+			document.selection.Replace("[。…=\\.]{2,}","……",nFlags);
+		bAnswer = confirm("按确定，合并不在同一行的引号括号，错误的分段。\n\n按取消，没有错误的标点分段。");
+		if (bAnswer==true)
+		{
+			document.selection.Replace("([，。：？！…”）》—])[，。：？！）》]+","\\1",nFlags);
+			document.selection.Replace("([^。？！…])\\n([^ ※#*…。．\\-\\.])","\\1\\2",nFlags);//取消非标点结尾换行
+			document.selection.Replace("([“「][^”」]+)\\n([^“「]+[”」])","\\1\\2\\n",nFlags);
+			document.selection.Replace("(（[^）]+)\\n([^（]+）)","\\1\\2\\n",nFlags);
+			document.selection.Replace("([，。：？！…”）》—][”」])","\\1\\n",nFlags);
+			document.selection.Replace("([：。？！…”])\\n\\n","\\1\\n",nFlags);
+			document.selection.Replace("\\n([，。：？！…”；）】》—．’」])","\\1",nFlags);//句首标点
+		}
+			document.selection.Replace("^([^ 　])","　　\\1",nFlags);//行首加空格
+			document.selection.Replace("^[ 　]+","　　",nFlags);
+			//恢复原有分段格式
+			document.selection.Replace("【标记4】【标记3】","【标记4】\\n\\n\\n【标记3】",nFlags);
+			document.selection.Replace("【标记3】(.+)【标记4】","\\n\\n\\n\\1\\n　　",nFlags);
+			document.selection.Replace("【标记3】","\\n\\n\\n",nFlags);
+			document.selection.Replace("【标记4】","\\n　　",nFlags);
+			//给行首加2个全角空格，并删除多余空行。
+			document.selection.Replace("^[ 　]+$","",nFlags);
+			document.selection.Replace("^[\\t]+","",nFlags);
+			document.selection.Replace("^([^ 　《])","　　\\1",nFlags);
+			document.selection.Replace("(第[0-9一二三四五六七八九十两百零〇]{1,5}[册集部卷章节回].*)\\n\\n\\n","\\1\\n",nFlags);
+			document.selection.Replace("^([ 　]+[《第正作序楔引前后上0-9一二三四五六七八九十两百零〇])","\\n\\n\\1",nFlags);
+			document.selection.Replace("^([ 　]+[^ 　]+第[0-9一二三四五六七八九十两百零〇]{1,5}[册集部卷章节回])","\\n\\n\\1",nFlags);
+			document.selection.Replace("([^ 　])\\n\\n　　","\\1\\n　　",nFlags);
+			document.selection.Replace("^[ 　]{3,}","　　",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+			break;
+
+case 24: //段落规范（阅读）（行首2空格，段间1空行，章节间2空行）
+			document.selection.Replace("^[ 　]+","",nFlags);
+			document.selection.Replace("[ 　    ]+$","",nFlags);
+			document.selection.Replace("^[\\t]+","",nFlags);
+			document.selection.Replace("[\\t]+"," ",nFlags);
+			document.selection.Replace("^\\n","",nFlags);
+			document.selection.Replace("^([^ 　]*第[0-9一二三四五六七八九十两百零〇]{1,5}[册集部卷章节回])","\\n\\n\\1",nFlags);
+			document.selection.Replace("^作品相关","\\n\\n作品相关",nFlags);
+			document.selection.Replace("^正文","\\n\\n正文",nFlags);
+			document.selection.Replace("^序","\\n\\n序",nFlags);
+			document.selection.Replace("^前言","\\n\\n前言",nFlags);
+			document.selection.Replace("^后记","\\n\\n后记",nFlags);
+			document.selection.Replace("^引子","\\n\\n引子",nFlags);
+			document.selection.Replace("^楔","\\n\\n楔",nFlags);
+			document.selection.Replace("^([^ 　《])","\\n　　\\1",nFlags);
+			document.selection.Replace("^\\n\\n\\n\\n","\\n\\n",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+		break;
+
+
+case 25: //修正错误的句中换行
+			alert( "难免会发生错漏，注意检查，对照修改。");
+			document.selection.Replace("^\\n\\n","【标记】",nFlags);
+			document.selection.Replace("^\\t+","　　",nFlags);
+			document.selection.Replace("^[ \\t　]*\\n","",nFlags);
+			document.selection.Replace("^[ \\t　]+","",nFlags);
+			document.selection.Replace("([^ 　])　　([^ 　])","\\1\\n　　\\2",nFlags);
+			document.selection.Replace("([^ 　]) 　　([^ 　])","\\1\\n　　\\2",nFlags);
+			document.selection.Replace(" \\n([^ 　])","\\1",nFlags); //去除硬回车
+
+			document.selection.Replace("^(作品相关.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(正文.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(序.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(前言.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(后记.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(楔.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(引子.*)$","【标记3】\\1【标记4】",nFlags);
+			document.selection.Replace("^(.*第[0-9一二三四五六七八九十两百零〇]{1,5}[册集部卷章节回].*)$","【标记3】\\1【标记4】",nFlags);
+			//
+			document.selection.Replace("[。…=\\.]{2,}","……",nFlags);
+			document.selection.Replace("([，：—])\\n","\\1",nFlags);
+			document.selection.Replace("([^。？！?!…”])\\n([^※#*．])","\\1\\2",nFlags);//取消非标点结尾换行
+
+			document.selection.Replace("([^a-zA-Z0-9])[ 　]+([^a-zA-Z0-9])","\\1\\2",nFlags);
+			document.selection.Replace("([^ 　])[\\t]+([^ 　])","\\1\\2",nFlags);
+			document.selection.Replace("：([第a-zA-Z0-9一二三四五六七八九十两百零〇]+)([\\.、．]*)([^ 　])","：\\n\\1\\2\\3",nFlags);
+			//
+			document.selection.Replace("^[ 　]+$","",nFlags);
+			document.selection.Replace("【标记4】【标记3】","【标记4】\\n\\n\\n【标记3】",nFlags);
+			document.selection.Replace("【标记3】(.+)【标记4】","\\n\\n\\1\\n　　",nFlags);
+			document.selection.Replace("【标记】","\\n\\n",nFlags);
+			document.selection.Replace("^\\n\\n\\n\\n","\\n\\n",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+			document.selection.Replace("^([^ 　])","　　\\1",nFlags);
+			document.selection.Replace("^[ ]+","　　",nFlags);
+		break;
+
+
+case 26: //删除硬回车
+		bAnswer = confirm("这里处理的硬回车是指“句末回车前有一个半角空格”。\n不符合这种情况的，请使用“段落重排”。\n\n按确定：“上一句句末有空格，下一句顶格，句首没有空格”\n\n按取消：“上一句句末有空格，下一句句首也有多个半角空格”");
+			document.selection.Replace("([。？！]) \\n","\\1\\n",nFlags);
+			document.selection.Replace("^([0-9一二三四五六七八九十两百零〇—].+) \\n","\\1\\n",nFlags);
+		if (bAnswer==true)
+		{
+			document.selection.Replace("[ 　]+\\n([^ 　])","\\1",nFlags);
+		}
+		else
+		{
+			document.selection.Replace("^[ ]+","",nFlags);
+			document.selection.Replace("[ 　]+\\n([^　])","\\1",nFlags);
+		}
+		break;
+
+
+case 27: //规范行首空格
+			document.selection.Replace("^[ 　]+$","",nFlags);
+			document.selection.Replace("[ 　    ]+$","",nFlags);
+			document.selection.Replace("^([^ 　])","　　\\1",nFlags);
+			document.selection.Replace("^[ ]+","　　",nFlags);
+			document.selection.Replace("^[　]{3,8}","　　",nFlags);
+			document.selection.Replace("^[　]([^　])","　　\\1",nFlags);
+		break;
+
+case 28: //修正中文标点符号,半角转全角
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(•)([ 　\\x09]*?)([一-龥])","\\1·\\5",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(,)([ 　\\x09]*?)([一-龥])","\\1，\\5",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(\\.)([ 　\\x09]*?)([一-龥])","\\1。\\5",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(\\?)([ 　\\x09]*?)([一-龥])","\\1？\\5",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(!)([ 　\\x09]*?)([一-龥])","\\1！\\5",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(:)([ 　\\x09]*?)([一-龥])","\\1：\\5",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(;)([ 　\\x09]*?)([一-龥])","\\1；\\5",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(\\()([ 　\\x09]*?)([一-龥])","\\1（\\5",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(\\))([ 　\\x09]*?)([一-龥])","\\1）\\5",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(┅)([ 　\\x09]*?)([一-龥])","\\1…\\5",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			//x22 双引号-左
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)[:：]([ 　\\x09]*?)[\\x22”]","\\1：“",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?):([ 　\\x09]*?)“","\\1：“",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)\\x22([ 　\\x09]*?)([一-龥])”","\\1“\\4”",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)\\x22([ 　\\x09]*?)([一-龥])\\x22","\\1“\\4”",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)“([ 　\\x09]*?)([一-龥])\\x22","\\1“\\4”",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+
+			//x22 双引号-右
+			document.selection.Replace("([一-龥])([ 　\\x09]*?)(。|？|！|…)([ 　\\x09]*?)[\x22“]","\\1\\3”",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([一-龥，。：“”、‘’·；\\[\\]])([ 　\\x09]*?)\x22$","\\1”",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+
+			document.selection.Replace("([一-龥])([\\x22”])([一-龥])([\\x22”])","\\1“\\3”",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+
+			document.selection.Replace("([一-龥])([\\x22”])([一-龥])([\\x22”])","\\1“\\3”",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+
+
+		break;
+
+
+case 29: //修正英文标点符号,全角转半角
+		//	[a-zA-Z1-9]+([-,.?:;\x27\x22!`]|(-{2})|(\\.{3}))\\s*[a-zA-Z1-9]+
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)，(\\s*)([a-zA-Z1-9]+)","\\1,\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)。(\\s*)([a-zA-Z1-9]+)","\\1.\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)？(\\s*)([a-zA-Z1-9]+)","\\1?\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)！(\\s*)([a-zA-Z1-9]+)","\\1!\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)‘(\\s*)([a-zA-Z1-9]+)","\\1'\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)’(\\s*)([a-zA-Z1-9]+)","\\1'\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)；(\\s*)([a-zA-Z1-9]+)","\\1;\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)（(\\s*)([a-zA-Z1-9]+)","\\1(\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)）(\\s*)([a-zA-Z1-9]+)","\\1)\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)…(\\s*)([a-zA-Z1-9]+)","\\1...\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)∶(\\s*)([a-zA-Z1-9]+)","\\1\x3a\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)：(\\s*)([a-zA-Z1-9]+)","\\1\x3a\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)”(\\s*)([a-zA-Z1-9]+)","\\1\x22\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)“(\\s*)([a-zA-Z1-9]+)","\\1\x22\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)”(\\s*)([a-zA-Z1-9]+)","\\1\x22\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)“(\\s*)([a-zA-Z1-9]+)","\\1\x22\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)。，(\\s*)([a-zA-Z1-9]+)","\\1.,\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)\\.，(\\s*)([a-zA-Z1-9]+)","\\1.,\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)。,(\\s*)([a-zA-Z1-9]+)","\\1.,\\s\\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+		break;
+
+case 30: //英文空格 ，未好  good你好 good 你好
+			document.selection.Replace("([a-zA-Z])\\s{1,}([a-zA-Z])","\\1 \\2",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);  // 英文间保留一个空格
+			document.selection.Replace("([^a-zA-Z])\\s{1,}([^a-zA-Z])","\\1\\2",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);  // 非英文间空格全部删除
+			document.selection.Replace("([^a-zA-Z])\\s{1,}([a-zA-Z])","\\1\\2",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);  // 前非英文后英文间空格删除
+			document.selection.Replace("([a-zA-Z])\\s{1,}([^a-zA-Z])","\\1\\2",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);  // 前英文后非英文间空格删除
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*),(\\s*)([a-zA-Z1-9]+)","\\1, \\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*).(\\s*)([a-zA-Z1-9]+)","\\1. \\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)?(\\s*)([a-zA-Z1-9]+)","\\1? \\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)!(\\s*)([a-zA-Z1-9]+)","\\1! \\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)'(\\s*)([a-zA-Z1-9]+)","\\1' \\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*);(\\s*)([a-zA-Z1-9]+)","\\1; \\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)\\)(\\s*)([a-zA-Z1-9]+)","\\1) \\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)\x3a(\\s*)([a-zA-Z1-9]+)","\\1\x3a \\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+			document.selection.Replace("([a-zA-Z1-9]+)(\\s*)\x22(\\s*)([a-zA-Z1-9]+)","\\1\x22 \\4",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+		break;
+
+case 31: //脚注格式化2013-2-24
+alert("运行此宏之前，先把标题、脚注排成如下格式。\n\n标题（第Y章）前加@@\n\n@@第一章 一首音乐——逻辑的奉献\n\n注释：将脚注移到编号之后，用【】包围起来。编号请删除。\n遗传、变异和选择①。\n……\n……\n①自然选择理论是由……\n改为：\n遗传、变异和选择【自然选择理论是由……】。\n\n\n如想弄成尾注，只须在整篇文章开头加@@就可。\n\n注意：注释自动排序必须要有章节标记，如果文章段落实无标题可自己手动空一行，加@@。整篇文章如无章节标记，运行此功能会出错溢出，切记！")
+
+// 章节前添加两个@@
+document.selection.Replace("^(\\s*?)(#*第.*)(章|节|回)","@@\\2\\3",nFlags);
+document.selection.Replace("^(\\s*?)(#*作品相关.*)$","@@\\2",nFlags);
+document.selection.Replace("^(\\s*?)(#*正文.*)$","@@\\2",nFlags);
+document.selection.Replace("^(\\s*?)(#*序.*)$","@@\\2",nFlags);
+document.selection.Replace("^(\\s*?)(#*前言.*)$","@@\\2",nFlags);
+document.selection.Replace("^(\\s*?)(#*后记.*)$","@@\\2",nFlags);
+document.selection.Replace("^(\\s*?)(#*楔.*)$","@@\\2",nFlags);
+document.selection.Replace("^(\\s*?)(#*引子.*)$","@@\\2",nFlags);
+document.selection.Replace("^(\\s*?)(#*公告.*)$","@@\\2",nFlags);
+document.selection.Replace("^(\\s*?)(##[^#])","@@\\2",nFlags);
+
+//上来就添加空白行在底下
+document.selection.EndOfDocument();
+document.selection.NewLine();
+//光标回到文档开始
+document.selection.StartOfDocument();
+var endFlag,totalLines,outputWhere,arrIncr,arroutputSTR;
+totalLines=document.GetLines();// 获取文档行数
+//找到标题
+outputWhere=new Array();
+endFlag=new Array();
+arroutputSTR=new Array();
+arrIncr=new Array();
+arrIncr.push(0);
+for(var j=0;j<totalLines;j++)
+{
+	var lineStr= document.GetLine(j+1);
+	if(lineStr!="")
+	{
+		//判断是否是标题行
+		 if(lineStr.substring(0,2)=="@@")	//substring提取字符串某位置的字符。.Length 是字符串变量的长度，-1的意思的截取到倒数二数，整个意思就是截取字符串“得到”最后一个字符 。至于前面的那个0就是从第一个开始截取，一般索引是从0开始的。
+		{
+			endFlag.push(j+1);
+		}
+	}
+}
+ var i,commentSTR,currLine,o,findFlag;
+i=1;o=1;
+var t=1;
+commentSTR="注释：";//添加注释
+ do
+ {
+ 	 //替换、字符串连接、寻找到输出位置
+	findFlag=document.selection.Find("【.*?】",eeFindNext | eeFindSaveHistory | eeFindReplaceRegExp);
+	if(findFlag==0)
+	{
+			if(t==1) break;
+			arroutputSTR.push(commentSTR);
+
+ //全部输出开始
+			//到这里为止全部的注释生成完毕，需要输出。
+			for(var k=0;k<arroutputSTR.length;k++)
+			{
+	document.selection.SetActivePoint(eePosLogical,1,outputWhere[k]+arrIncr[k],false);//首列，行 输出位置 内容
+					document.selection.NewLine();
+					document.selection.LineUp(false,1);
+					document.write(arroutputSTR[k]);
+			}
+//全部输出结束
+	 	break;
+	}
+		currLine=document.selection.GetActivePointY(eePosLogical);
+	if(o==1)
+	{//首次判断,首先确定outputwhere
+		for(var k=0;k<endFlag.length;k++)
+			{
+				if(currLine<endFlag[k])
+				{
+					outputWhere.push(endFlag[k]);
+					break;
+				}
+				else
+			   {
+
+			   	   if(k==endFlag.length-1) outputWhere.push(totalLines);
+			   }
+			}
+			o=0;
+	}
+	//判断是否输出
+	if(currLine<outputWhere[outputWhere.length-1])
+ 	{
+		var commentTxt=document.selection.Text;
+		document.selection.Text="【"+i.toString()+"】";
+		commentSTR+="\n"+"["+i.toString()+"]"+commentTxt;
+	}
+	else
+	{
+		arroutputSTR.push(commentSTR);
+		arrIncr.push(i);
+		commentSTR="注释：";
+		i=1;
+		var commentTxt=document.selection.Text;
+		document.selection.Text="【"+i.toString()+"】";
+		commentSTR+="\r"+"["+i.toString()+"]"+commentTxt;
+		o=1;
+	}
+i++; t++;
+ } while(findFlag==1)
+//替换全角括号为半角括号
+document.selection.Replace("【(\\d+?)】","\\[\\1\\]",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+document.selection.Replace("(\\[\\d+?\\])【(.*?)】","\\1　\\2",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+document.selection.Replace("注释：","<hr />",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+document.selection.Replace("^\\[([\\d]{1,3})\\](.*)","<p class=\"Footnote\"><a class=\"Hyperlink\" href=\"#id\\1\" id=\"id\\1a\">[\\1]</a> \\2</p>",eeFindNext | eeReplaceAll | eeFindReplaceRegExp);  // 注释部分加HTML标签
+document.selection.Replace("(\[^>\])\\[(\[\\d\]{1,3})\\]","\\1<a class=\"Hyperlink\" href=\"#id\\2a\" id=\"id\\2\">[\\2]</a>",eeFindNext | eeReplaceAll | eeFindReplaceRegExp);  // 引用部分加HTML标签
+document.selection.Replace("^(@@)(.*)","\\2",eeFindNext | eeFindSaveHistory | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
+		break;
+
+case 32: //markdown for emeditor.2013-3-1
+//#title=Markdown2HTML
+//点击http://yanghao.org/static/js/showdown.js下载showdown.js，然后放置到与此脚本相同的文件夹下。
+/*
+ConversionMode：请选择您要使用的模式：
+1：将选定的markdown文本转换成HTML，然后存储到剪切板。
+2：将整个文本转换成HTML，然后存储到剪切板。
+3：将整个文档转换为HTML，复制到新建文件。
+4：将整个文档转换为HTML，保存新建文件。
+*/
+
+//段落规范（阅读）（行首2空格，段间1空行，章节间2空行）
+			document.selection.Replace("^[ 　]+","",nFlags);
+			document.selection.Replace("[ 　    ]+$","",nFlags);
+			document.selection.Replace("^[\\t]+","",nFlags);
+			document.selection.Replace("[\\t]+"," ",nFlags);
+			document.selection.Replace("^\\n","",nFlags);
+			document.selection.Replace("^([^ 　]*第[0-9一二三四五六七八九十两百零〇]{1,5}[册集部卷章节回])","\\n\\n\\1",nFlags);
+			document.selection.Replace("^作品相关","\\n\\n作品相关",nFlags);
+			document.selection.Replace("^正文","\\n\\n正文",nFlags);
+			document.selection.Replace("^序","\\n\\n序",nFlags);
+			document.selection.Replace("^前言","\\n\\n前言",nFlags);
+			document.selection.Replace("^后记","\\n\\n后记",nFlags);
+			document.selection.Replace("^引子","\\n\\n引子",nFlags);
+			document.selection.Replace("^楔","\\n\\n楔",nFlags);
+			document.selection.Replace("^([^ 　《])","\\n\\1",nFlags);
+			document.selection.Replace("^\\n\\n\\n\\n","\\n\\n",nFlags);
+			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
+
+ConversionMode = 3;//可以根据自己需求修改。
+OpenHTML = true;//如为true，切换到生成的HTML
+Header = "<\?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"\?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"zh-CN\" xmlns:xml=\"http://www.w3.org/XML/1998/namespace\">\n<head>\n<title></title>\n<link href=\"../Styles/stylesheet.css\" rel=\"stylesheet\" type=\"text/css\" />\n</head>\n\n<body>\n";
+Footer = "\n</body></html>"
+//--------------------------------------------------------------
+
+fso = new ActiveXObject("Scripting.FileSystemObject");
+
+function GetHTMLPath()
+{
+	var markdownPath = document.FullName;
+	var parentFolder = fso.GetParentFolderName(markdownPath);
+	var basename = fso.GetBaseName(markdownPath);
+	var htmlPath = parentFolder + "\\" + basename + "temp.html";
+	return htmlPath;
+}
+
+function Markdown2Html(text)
+{
+ 	var html = "";
+	var thisScriptPath = ScriptFullName;
+	var parentFolder = fso.GetParentFolderName(thisScriptPath);
+	var showdownPath = parentFolder + "\\showdown.js"
+
+	if (fso.FileExists(showdownPath))
+	{
+	 	var file = fso.GetFile(showdownPath);
+		var fileStream = file.OpenAsTextStream(1, 0);
+		var showdown_js_content = fileStream.ReadAll();
+		eval(showdown_js_content);
+		var converter = new Showdown.converter();
+		html = Header + converter.makeHtml(text) + Footer;
+	} else {
+		alert("点击http://yanghao.org/static/js/showdown.js下载showdown.js，然后放置到" + parentFolder +"文件夹下。");
+		Quit();
+	}
+	return html;
+}
+
+var selectionState = {
+	x0 : document.selection.GetActivePointX(eePosView),
+	y0 : document.selection.GetActivePointY(eePosView),
+	x1 : document.selection.GetAnchorPointX(eePosView),
+	y1 : document.selection.GetAnchorPointY(eePosView),
+	mode : document.selection.Mode,
+	restore : function () {
+		document.selection.SetAnchorPoint(eePosView, this.x1, this.y1);
+		document.selection.SetActivePoint(eePosView, this.x0, this.y0, true);
+		document.selection.Mode = this.mode;
+	}
+};
+
+switch (ConversionMode)
+{
+case 1: {
+ 	clipboardData.setData("TEXT", Markdown2Html(document.selection.Text));
+ 	break;
+}
+case 2: {
+	Redraw = false;
+	document.selection.SelectAll();
+ 	clipboardData.setData("TEXT", Markdown2Html(document.selection.Text));
+	selectionState.restore();
+	Redraw = true;
+ 	break;
+}
+case 3: {
+	Redraw = false;
+	document.selection.SelectAll();
+ 	var result = Markdown2Html(document.selection.Text);
+	selectionState.restore();
+	var curDoc = document;
+	editor.EnableTab = true;
+	editor.NewFile();
+	document.ConfigName = "HTML";
+	document.write(result);
+	if (!OpenHTML) curDoc.Activate();
+	Redraw = true;
+ 	break;
+}
+case 4: {
+
+	Redraw = false;
+	document.selection.SelectAll();
+ 	var result = Markdown2Html(document.selection.Text);
+	selectionState.restore();
+	var curDoc = document;
+	var htmlPath = GetHTMLPath();
+	editor.EnableTab = true;
+	if (fso.FileExists(htmlPath)) {
+		if (editor.OpenFile(htmlPath, 0, eeOpenAllowNewWindow)) {
+			document.write(result);
+			document.Save();
+		} else {
+		 	status = htmlPath + " 无法打开。";
+		}
+	} else {
+	 	editor.NewFile();
+		document.write(result);
+		document.Save(htmlPath);
+	}
+	if (!OpenHTML) curDoc.Activate();
+	Redraw = true;
+	break;
+}
+}
+
+case 33: //HTML分割2013/3/4
+alert( "请在需要分割章节的前加分割标记：<hr class=\"split_marker\" />");
+document.selection.SelectAll();
+var textArray = document.selection.Text.split("<hr class=\"split_marker\" />");
+for( i = 0; i < textArray.length; i++ ){
+	var files= i+".html";  //分割html文件
+	editor.NewFile();
+	document.Encoding = eeEncodingUTF8;  // 文件编码为UTF8
+	document.write( textArray[i] );
+	document.Save(files);  // 保存新建文件，文件名为i.xhtml
+	//document.Close();  // 关闭新建文件窗口
+}
+	break;
+default:
+}
