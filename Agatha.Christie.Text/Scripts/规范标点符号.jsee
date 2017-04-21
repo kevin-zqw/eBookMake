@@ -1,7 +1,6 @@
 var nFlags = eeFindNext | eeReplaceAll | eeFindReplaceRegExp;
 
 			document.selection.Replace(",","，",eeFindNext | eeReplaceAll);
-			document.selection.Replace("([^0-9]).","\\1。",eeFindNext | eeReplaceAll);
 			document.selection.Replace("?","？",eeFindNext | eeReplaceAll);
 			document.selection.Replace("!","！",eeFindNext | eeReplaceAll);
 			document.selection.Replace(":","：",eeFindNext | eeReplaceAll);
@@ -9,6 +8,11 @@ var nFlags = eeFindNext | eeReplaceAll | eeFindReplaceRegExp;
 			document.selection.Replace("(","（",eeFindNext | eeReplaceAll);
 			document.selection.Replace(")","）",eeFindNext | eeReplaceAll);
 			document.selection.Replace("┅","…",eeFindNext | eeReplaceAll);
+
+			document.selection.Replace("([^0-9]).","\\1。",eeFindNext | eeReplaceAll);
+
+
+
 			document.selection.Replace("([: ])\x22","\\1“",eeFindNext | eeReplaceAll);//x22为引号
 			document.selection.Replace("(。|？|！|…)\x22","\\1”",eeFindNext | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
 			document.selection.Replace("\x22$","”",eeFindNext | eeFindReplaceEscSeq | eeReplaceAll | eeFindReplaceRegExp);
@@ -35,11 +39,11 @@ var nFlags = eeFindNext | eeReplaceAll | eeFindReplaceRegExp;
 			document.selection.Replace("。…","…",nFlags);
 			document.selection.Replace("…。","…",nFlags);
 			document.selection.Replace("”…","”\\n……",nFlags);
-			
+
 			document.selection.Replace("[^…][…][^…]","……",nFlags);
 			document.selection.Replace("<<","《",nFlags);
 			document.selection.Replace(">>","》",nFlags);
 			document.selection.Replace("^[ 　	]+\\n","",nFlags);
 			document.selection.Replace("[ ]+$","",nFlags);
-			
+
 			document.selection.Replace("^\\n\\n\\n","\\n\\n",nFlags);
