@@ -165,12 +165,12 @@ def fix_words_error(text):
 def proof_reading():
     file_path = os.path.join(base_dir, book_file_name)
 
-    # open_file_perform(file_path, strip_page_no_book_name)
-    # open_file_perform(file_path, strip_chapter_name, line_mode=True)
-    #
-    # open_file_perform(file_path, base_punctuation)
-    # open_file_perform(file_path, fix_line_break)
-    # open_file_perform(file_path, fix_quotation_marks, line_mode=True)
+    open_file_perform(file_path, strip_page_no_book_name)
+    open_file_perform(file_path, strip_chapter_name, line_mode=True)
+
+    open_file_perform(file_path, base_punctuation)
+    open_file_perform(file_path, fix_line_break)
+    open_file_perform(file_path, fix_quotation_marks, line_mode=True)
 
     open_file_perform(file_path, fix_words_error)
 
