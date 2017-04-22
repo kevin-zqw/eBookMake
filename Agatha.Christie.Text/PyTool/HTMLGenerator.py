@@ -7,10 +7,10 @@ import re
 
 base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text'
 # base_dir = r'D:\eBookMake\Agatha.Christie.Text'
-book_file_name = r"Unlock-[阿加莎.克里斯蒂侦探推理系列.悬崖上的谋杀].Why.Didn't.They.Ask.Evans.Agatha.Christie.叶刚.人民文学出版社.2010.中译本扫描版.txt"
-book_dir_name = r'v64_WhyDidntTheyAskEvans'
-chapter_file_name_template = r'v64ch{0}.xhtml'
-chapter_file_start_no = 1
+book_file_name = r"Unlock-[阿加莎.克里斯蒂侦探推理系列.怪钟].The.Clocks.Agatha.Christie.范白泉.人民文学出版社.2009.中译本扫描版.txt"
+book_dir_name = r'v29_TheClocks'
+chapter_file_name_template = r'v29ch{0}.xhtml'
+chapter_file_start_no = 0
 
 output_dir = os.path.join(base_dir, 'output')
 process_file = os.path.join(base_dir, book_dir_name, book_file_name)
