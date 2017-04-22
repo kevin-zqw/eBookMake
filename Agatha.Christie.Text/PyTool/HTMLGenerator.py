@@ -10,6 +10,7 @@ base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text'
 book_file_name = r"Unlock-[阿加莎.克里斯蒂侦探推理系列.悬崖上的谋杀].Why.Didn't.They.Ask.Evans.Agatha.Christie.叶刚.人民文学出版社.2010.中译本扫描版.txt"
 book_dir_name = r'v64_WhyDidntTheyAskEvans'
 chapter_file_name_template = r'v64ch{0}.xhtml'
+chapter_file_start_no = 1
 
 output_dir = os.path.join(base_dir, 'output')
 process_file = os.path.join(base_dir, book_dir_name, book_file_name)
@@ -21,8 +22,8 @@ duokan_comment_start = '<ol class="duokan-footnote-content hr"></ol>\n\n  <ol cl
 duokan_comment_end = '</ol>'
 
 page_break = '【PAGE_BREAK】'
-pattern_chapter_no_name = r'【CHAPTER_NO:(.*?)】【CHAPTER_NAME:(.*?)】'
-pattern_duokan_comment = r'(【DUOKAN_COMMENT\:(.*?)】)'
+pattern_chapter_no_name = r'【CHAPTER_NO[：:](.*?)】【CHAPTER_NAME[：:](.*?)】'
+pattern_duokan_comment = r'(【DUOKAN_COMMENT[：:](.*?)】)'
 
 replace_chapter_no = r'【CHAPTER_NO】'
 replace_chapter_name = r'【CHAPTER_NAME】'
@@ -33,8 +34,8 @@ replace_duokan_comment_end = r'【DUOKAN_COMMENT_END】'
 replace_duokan_comment_list = r'【DUOKAN_COMMENT】'
 
 
-def get_chapter_file_name(chapter_no):
-    return chapter_file_name_template.format(chapter_no.zfill(2))
+def get_chapter_file_name(chapter_index):
+    return chapter_file_name_template.format('{:02d}'.format(chapter_index))
 
 
 def get_base_html():
@@ -66,7 +67,7 @@ def beautiful_lines(chapter_lines):
     return result_lines
 
 
-def save_html_file(chapter_lines, duokan_comment, chapter_no, chapter_name):
+def save_html_file(chapter_lines, duokan_comment, chapter_no, chapter_index, chapter_name):
     chapter_lines = beautiful_lines(chapter_lines)
     if len(chapter_lines) == 0:
         return
@@ -93,7 +94,7 @@ def save_html_file(chapter_lines, duokan_comment, chapter_no, chapter_name):
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
 
-    file_name = get_chapter_file_name(chapter_no)
+    file_name = get_chapter_file_name(chapter_index)
     file_path = os.path.join(output_dir, file_name)
     with open(file_path, 'w', encoding='utf-8') as f:
         print(file_path)
@@ -109,13 +110,15 @@ def all_process():
         comment_index = 1
         chapter_no = ''
         chapter_name = ''
+        chapter_index = chapter_file_start_no
 
         for line in all_lines:
             line = line.strip()
             chapter_started = len(chapter_lines) > 0
 
             if page_break in line and chapter_started:
-                save_html_file(chapter_lines, duokan_comment, chapter_no, chapter_name)
+                save_html_file(chapter_lines, duokan_comment, chapter_no, chapter_index, chapter_name)
+                chapter_index += 1
 
                 # clear for next chapter
                 chapter_lines.clear()
@@ -147,7 +150,7 @@ def all_process():
             chapter_lines.append(line)
 
         # save the last chapter
-        save_html_file(chapter_lines, duokan_comment, chapter_no, chapter_name)
+        save_html_file(chapter_lines, duokan_comment, chapter_no, chapter_index, chapter_name)
 
 
 if __name__ == '__main__':

@@ -57,7 +57,7 @@ def strip_chapter_name(all_lines):
 
         if line not in chapter_set:
             chapter_set.add(line)
-            formatted_line = '【CHAPTER_NO:{}】【CHAPTER_NAME:】\n'.format(line.strip())
+            formatted_line = '【CHAPTER_NO：{}】【CHAPTER_NAME：】\n'.format(line.strip())
             processed_lines.append('\n【PAGE_BREAK】\n')
             processed_lines.append(formatted_line)
 
