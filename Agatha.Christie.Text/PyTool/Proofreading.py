@@ -9,6 +9,10 @@ base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/v29_TheClocks'
 # base_dir = r'D:\eBookMake\Agatha.Christie.Text\v29_TheClocks'
 book_file_name = r"Unlock-[阿加莎.克里斯蒂侦探推理系列.怪钟].The.Clocks.Agatha.Christie.范白泉.人民文学出版社.2009.中译本扫描版.txt"
 
+dict_file = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/PyTool/常见词语错误.txt'
+# dict_file = r'D:\eBookMake\Agatha.Christie.Text\PyTool\常见词语错误.txt'
+pattern_dict_line = r'"(.+)"\s*→\s*"(.+)"'
+
 pattern_page_no = r'^[\^\d]+.{0,5}$'
 pattern_book_name = r'^怪钟.{0,4}$'
 
@@ -144,14 +148,31 @@ def fix_quotation_marks(all_lines):
     return ''.join(processed_lines)
 
 
+def fix_words_error(text):
+    with open(dict_file, 'r', encoding='utf-8') as f:
+        for line in f.readlines():
+            matcher = (re.match(pattern_dict_line, line))
+            if matcher:
+                old = matcher.group(1)
+                new = matcher.group(2)
+
+                if len(old) > 0 and len(new) > 0:
+                    text = text.replace(old, new)
+
+    return text
+
+
 def proof_reading():
     file_path = os.path.join(base_dir, book_file_name)
 
-    open_file_perform(file_path, strip_page_no_book_name)
-    open_file_perform(file_path, strip_chapter_name, line_mode=True)
-    open_file_perform(file_path, base_punctuation)
-    open_file_perform(file_path, fix_line_break)
-    open_file_perform(file_path, fix_quotation_marks, line_mode=True)
+    # open_file_perform(file_path, strip_page_no_book_name)
+    # open_file_perform(file_path, strip_chapter_name, line_mode=True)
+    #
+    # open_file_perform(file_path, base_punctuation)
+    # open_file_perform(file_path, fix_line_break)
+    # open_file_perform(file_path, fix_quotation_marks, line_mode=True)
+
+    open_file_perform(file_path, fix_words_error)
 
 
 if __name__ == '__main__':
