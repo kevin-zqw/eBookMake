@@ -9,15 +9,21 @@ base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/v29_TheClocks'
 # base_dir = r'D:\eBookMake\Agatha.Christie.Text\v29_TheClocks'
 book_file_name = r"Unlock-[阿加莎.克里斯蒂侦探推理系列.怪钟].The.Clocks.Agatha.Christie.范白泉.人民文学出版社.2009.中译本扫描版.txt"
 
-pattern_page_no = r'^\d+.{0,4}$'
+pattern_page_no = r'^[\^\d]+.{0,4}$'
 pattern_book_name = r'^怪钟.{0,4}$'
 
+pattern_chapter = r'^第.*?章$'
+replace_table_chapter = [('+', '十'), ('-', '一'), ('—', '一')]
 
-def open_file_perform(file_path, action):
+# TODO: 破折号 一-, -一
+
+
+def open_file_perform(file_path, action, line_mode=False):
     with open(file_path, 'r+', encoding='utf-8') as f:
-        text = f.read()
-
-        processed_text = action(text)
+        if line_mode:
+            processed_text = action(f.readlines())
+        else:
+            processed_text = action(f.read())
 
         f.seek(0)
         f.write(processed_text)
@@ -29,6 +35,25 @@ def strip_page_no_book_name(text):
     text = re.sub(pattern_book_name, '', text, flags=re.MULTILINE)
 
     return text
+
+
+def strip_chapter_name(all_lines):
+    processed_lines = []
+    chapter_set = set()
+
+    for line in all_lines:
+        if not re.match(pattern_chapter, line):
+            processed_lines.append(line)
+            continue
+
+        for old, new in replace_table_chapter:
+            line = line.replace(old, new)
+
+        if line not in chapter_set:
+            processed_lines.append(line)
+            chapter_set.add(line)
+
+    return ''.join(processed_lines)
 
 
 def punctuation(text):
@@ -67,7 +92,7 @@ def proof_reading():
     file_path = os.path.join(base_dir, book_file_name)
 
     open_file_perform(file_path, strip_page_no_book_name)
-
+    open_file_perform(file_path, strip_chapter_name, line_mode=True)
     # open_file_perform(file_path, punctuation)
 
 
