@@ -21,7 +21,7 @@ duokan_comment_start = '<ol class="duokan-footnote-content hr"></ol>\n\n  <ol cl
 duokan_comment_end = '</ol>'
 
 page_break = '【PAGE_BREAK】'
-pattern_chapter_no_name = r'【CHAPTER_NO:(\d+)】【CHAPTER_NAME:(.+)】'
+pattern_chapter_no_name = r'【CHAPTER_NO:(.*?)】【CHAPTER_NAME:(.*?)】'
 pattern_duokan_comment = r'(【DUOKAN_COMMENT\:(.*?)】)'
 
 replace_chapter_no = r'【CHAPTER_NO】'
