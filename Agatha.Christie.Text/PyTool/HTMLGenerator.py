@@ -5,16 +5,16 @@ import os
 import shutil
 import re
 
-base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text'
-# base_dir = r'D:\eBookMake\Agatha.Christie.Text'
-book_file_name = r"Unlock-[阿加莎.克里斯蒂侦探推理系列.怪钟].The.Clocks.Agatha.Christie.范白泉.人民文学出版社.2009.中译本扫描版.txt"
-book_dir_name = r'v29_TheClocks'
-chapter_file_name_template = r'v29ch{0}.xhtml'
-chapter_file_start_no = 0
+# base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text'
+base_dir = r'D:\eBookMake\Agatha.Christie.Text'
+book_file_name = r"[阿加莎.克里斯蒂作品全集.死亡终局].Death.Comes.as.the.End.Agatha.Christie.李洪波.贵州人民出版社.1998.中译本扫描版.[V2].txt"
+book_dir_name = r'v67_DeathComesAsTheEnd'
+chapter_file_name_template = r'v67ch{0}.xhtml'
+chapter_file_start_no = 1
 
 output_dir = os.path.join(base_dir, 'output')
 process_file = os.path.join(base_dir, book_dir_name, book_file_name)
-html_template_file = os.path.join(base_dir, r'Templates', r'base_html.xhtml')
+html_template_file = os.path.join(base_dir, r'Templates', r'base_html_chapter_title.xhtml')
 
 duokan_comment_ref_template = '<sup><a class="duokan-footnote" href="#footnote{}" id="note{}"><img alt="注" src="../Images/note.png"/></a></sup>'
 duokan_comment_define_template = '    <li class="duokan-footnote-item" id="footnote{}"><a href="#note{}">{}</a></li>'
