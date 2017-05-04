@@ -5,19 +5,22 @@ import os
 import shutil
 import re
 
-base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/v29_TheClocks'
-# base_dir = r'D:\eBookMake\Agatha.Christie.Text\v29_TheClocks'
-book_file_name = r"Unlock-[阿加莎.克里斯蒂侦探推理系列.怪钟].The.Clocks.Agatha.Christie.范白泉.人民文学出版社.2009.中译本扫描版.txt"
+# base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/v67_DeathComesAsTheEnd'
+base_dir = r'D:\eBookMake\Agatha.Christie.Text\v67_DeathComesAsTheEnd'
+book_file_name = r"[阿加莎.克里斯蒂作品全集.死亡终局].Death.Comes.as.the.End.Agatha.Christie.李洪波.贵州人民出版社.1998.中译本扫描版.[V2].txt"
 
-dict_file = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/PyTool/常见词语错误.txt'
-# dict_file = r'D:\eBookMake\Agatha.Christie.Text\PyTool\常见词语错误.txt'
+# dict_file = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/PyTool/常见词语错误.txt'
+dict_file = r'D:\eBookMake\Agatha.Christie.Text\PyTool\常见词语错误.txt'
 pattern_dict_line = r'"(.+)"\s*→\s*"(.+)"'
 
 pattern_page_no = r'^[\^\d]+.{0,5}$'
-pattern_book_name = r'^怪钟.{0,4}$'
+pattern_book_name = r'^死亡终局.{0,4}$'
 
 pattern_chapter = r'^(第.*?[章窜韋])|(序幕)$'
-replace_table_chapter = [('+', '十'), ('-', '一'), ('—', '一'), ('窜', '章'), ('韋', '章')]
+# toggle these two line if chapter has no name
+# pattern_chapter_split = ''
+pattern_chapter_split = r'^(第.*?章)\s*?(.*?)$'
+replace_table_chapter = [('+', '十'), ('~', '一'), ('-', '一'), ('—', '一'), ('窜', '章'), ('韋', '章')]
 
 all_punctuation = r',.<>/?;:{}"()\[\]，。《》、？；：‘’“”（）【】\n'.format("'")
 pattern_hard_break = r'(.{}[^{}]+)\n+([\u4e00-\u9fa5]+)'.format('{10,}', all_punctuation)
@@ -55,9 +58,18 @@ def strip_chapter_name(all_lines):
         for old, new in replace_table_chapter:
             line = line.replace(old, new)
 
-        if line not in chapter_set:
-            chapter_set.add(line)
-            formatted_line = '【CHAPTER_NO：{}】【CHAPTER_NAME：】\n'.format(line.strip())
+        chapter_no = line.strip()
+        chapter_name = ''
+        # if we need both chapter no and name
+        if len(pattern_chapter_split) > 0:
+            matcher = re.match(pattern_chapter_split, line)
+            if matcher:
+                chapter_no = matcher.group(1)
+                chapter_name = matcher.group(2)
+
+        if chapter_no not in chapter_set:
+            chapter_set.add(chapter_no)
+            formatted_line = '【CHAPTER_NO：{}】【CHAPTER_NAME：{}】\n'.format(chapter_no, chapter_name)
             processed_lines.append('\n【PAGE_BREAK】\n')
             processed_lines.append(formatted_line)
 
