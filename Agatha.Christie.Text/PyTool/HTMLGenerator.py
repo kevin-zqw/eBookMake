@@ -116,7 +116,10 @@ def all_process():
             line = line.strip()
             chapter_started = len(chapter_lines) > 0
 
-            if page_break in line and chapter_started:
+            if page_break in line:
+                if not chapter_started:
+                    continue
+
                 save_html_file(chapter_lines, duokan_comment, chapter_no, chapter_index, chapter_name)
                 chapter_index += 1
 
