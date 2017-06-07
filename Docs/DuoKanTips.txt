@@ -12,3 +12,7 @@
 搬运注释Regex：
 (.*<sup><a class="duokan-footnote" href="#footnote\d+" id="note\d+" style="text-decoration: none!important"><img alt="注" src="../Images/note.png"/></a></sup>.*[^l]>)(\n*\s*</body>\n+</html>)
 \1\n\n注释列表\n\2
+
+
+找到最大注释编号：
+.*<sup><a class="duokan-footnote" href="#footnote\d+"
