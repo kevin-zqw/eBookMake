@@ -5,12 +5,12 @@ import os
 import shutil
 import re
 
-# base_dir = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/v67_DeathComesAsTheEnd'
-base_dir = r'D:\eBookMake\Agatha.Christie.Text\v67_DeathComesAsTheEnd'
-book_file_name = r"[阿加莎.克里斯蒂作品全集.死亡终局].Death.Comes.as.the.End.Agatha.Christie.李洪波.贵州人民出版社.1998.中译本扫描版.[V2].txt"
+base_dir = r'/Users/kevin/GitHub/eBookMake/LaoSheQuanJi'
+# base_dir = r'D:\eBookMake\Agatha.Christie.Text\v67_DeathComesAsTheEnd'
+book_file_name = r"老舍全集11abbyy.txt"
 
-# dict_file = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/PyTool/常见词语错误.txt'
-dict_file = r'D:\eBookMake\Agatha.Christie.Text\PyTool\常见词语错误.txt'
+dict_file = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/PyTool/常见词语错误.txt'
+# dict_file = r'D:\eBookMake\Agatha.Christie.Text\PyTool\常见词语错误.txt'
 pattern_dict_line = r'"(.+)"\s*→\s*"(.+)"'
 
 pattern_page_no = r'^[\^\d]+.{0,5}$'
