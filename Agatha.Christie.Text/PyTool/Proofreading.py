@@ -5,9 +5,9 @@ import os
 import shutil
 import re
 
-base_dir = r'/Users/kevin/GitHub/eBookMake/LaoSheQuanJi'
+base_dir = r'/Users/kevin/GitHub/eBookMake/LaoSheQuanJi/老舍全集11戏剧'
 # base_dir = r'D:\eBookMake\Agatha.Christie.Text\v67_DeathComesAsTheEnd'
-book_file_name = r"老舍全集11abbyy.txt"
+book_file_name = r"05-07ab.txt"
 
 dict_file = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/PyTool/常见词语错误.txt'
 # dict_file = r'D:\eBookMake\Agatha.Christie.Text\PyTool\常见词语错误.txt'
