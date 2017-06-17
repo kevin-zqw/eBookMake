@@ -22,7 +22,7 @@ pattern_chapter = r'^(第.*?[章窜韋])|(序幕)$'
 pattern_chapter_split = r'^(第.*?章)\s*?(.*?)$'
 replace_table_chapter = [('+', '十'), ('~', '一'), ('-', '一'), ('—', '一'), ('窜', '章'), ('韋', '章')]
 
-ending_punctuation = r'.<>/?;:{}"()\[\]。《》？；：‘’“”（）【】……\n'.format("'")
+ending_punctuation = r'.<>/?;:{}"()\[\]。《》？！；：‘’“”（）【】……\n'.format("'")
 pattern_hard_break = r'(.{}[^{}]+)\n+([\u4e00-\u9fa5]+)'.format('{10,}', ending_punctuation)
 replace_hard_break = r'\1\2'
 
