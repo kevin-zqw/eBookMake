@@ -202,7 +202,7 @@
 <p class="xj"><span class="xchar">宋玉娥</span> <span class="block">（唱）</span>卫大嫂的劲头比姑娘还强！</p>
 <p class="xj"><span class="xchar">余志芳</span> <span class="block">（唱）</span>咱们一脚踢开那些旧思想。</p>
 <p class="xj"><span class="xchar">四人</span> <span class="block">（唱）</span>妇女解放万丈光芒！<span class="block">（昂首齐步下）</span></p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -263,7 +263,7 @@
 <p class="xj"><span class="xchar">齐凌云</span> 这个老爷爷，跟白菜豆腐干上不散了！</p>
 <p class="l block">〔笑，同她们唱着第一场的第一首歌下。</p>
 <p class="xj"><span class="xchar">宋爷爷</span> 小姑娘们，多么有劲，多么聪明！<span class="block">（收摊子）</span>就是凌云软点，闯练闯练也必定能行！嗯，我老头子也得许个心愿：赶到“五一”和国庆，我要沏出几大盆茶来，香香的，热热的，叫大家白喝，好去游行！事儿不大呀，多少是个意思，表一表我的心情！是呀，喝了茶，走的齐，替我喊几声毛主席！喝了茶，别掉队，多喊主席万万岁！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -383,7 +383,7 @@
 <p class="xj"><span class="xchar">宋玉娥</span> 走吧，还等什么呢？</p>
 <p class="xj"><span class="xchar">陶月明</span> 走吧！这可省了我的电影票钱，人家会自己演！</p>
 <p class="xj"><span class="xchar">余志芳</span> 明天见，凌云，早着点！<span class="block">（同下）</span></p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -453,7 +453,7 @@
 <p class="xj"><span class="xchar">卫大嫂</span> 老卫你说呢？</p>
 <p class="xj"><span class="xchar">卫默香</span> 我看，我看，咱们回家吃饭去吧！</p>
 <p class="xj"><span class="xchar">齐凌云</span> 哈哈哈！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -540,7 +540,7 @@
 <p class="xj"><span class="xchar">陶月明</span> 两位姑娘，我一定跟你们平起平坐！</p>
 <p class="xj"><span class="xchar">余志芳</span> 那就够了吗？你得跟我们站在一起，斗争！玉娥，拿出文件，进去报到，走！</p>
 <p class="xj"><span class="xchar">宋玉娥</span> 干就干吧！走！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -664,7 +664,7 @@
 <p class="xj"><span class="xchar">王二婶</span> <span class="block">（上）</span>凌云哪，我告诉了拴子的妈！她一会儿就带拴子来道歉！</p>
 <p class="xj"><span class="xchar">齐凌云</span> 谢谢您，二婶！拴子淘气，不算什么！</p>
 <p class="xj"><span class="xchar">王二婶</span> 也不能那么说！给他点教育有好处！你就说，二俊子在什么拉马！得，又忘了！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -728,7 +728,7 @@
 <p class="xj"><span class="xchar">陶月明</span> 我也去！我也去！</p>
 <p class="xj"><span class="xchar">余志芳</span> 你干什么去？</p>
 <p class="xj"><span class="xchar">陶月明</span> 汇报我怎样去参观，怎么下决心作个最好最好的售货员！第二件事还无须汇报，我要把甜美留在自己的心间，每一想起，咚，心就上了青天！<span class="block">（同下）</span></p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -821,7 +821,7 @@
 <p class="xj"><span class="xchar">余志芳</span> 妈，走吧！咱们赶快作起这身衣裳，您好早点穿上啊！</p>
 <p class="xj"><span class="xchar">余母</span> 老闺女，我得把这身裤褂穿到棺材里去，叫你爸爸看看！<span class="block">（余志芳缓缓走开）</span></p>
 <p class="xj"><span class="xchar">宋爷爷</span> 唉！她多么偏疼儿子、媳妇啊！可是到底是老闺女给她买来了心爱的东西！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -969,7 +969,7 @@
 <p class="xj"><span class="xchar">小吴</span> 还没有！干吗？</p>
 <p class="xj"><span class="xchar">余志芳</span> 等我跟老师傅学成了，您多咱听说有个卖鱼得红旗的姑娘啊，甭细打听，一定就是我！</p>
 <p class="xj"><span class="xchar">小吴</span> 啊——祝你成功！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -1079,7 +1079,7 @@
 <p class="xj"><span class="xchar">宋玉娥</span> 大嫂，我们搀着你点！</p>
 <p class="xj"><span class="xchar">卫大嫂</span> 不用！今儿个夜里到马路上练板儿车去，就不至于碰到墙上去了。</p>
 <p class="xj"><span class="xchar">宋玉娥</span> 大嫂，可也得留神电线杆子！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -1195,7 +1195,7 @@
 <p class="xj"><span class="xchar">余志芳</span> 没工夫！大嫂，快吃，吃完了就去学剔肉！大哥，快吃，吃完了学捆东西！我马上走，去留住尤师傅！大嫂，今儿个我去练板儿车！</p>
 <p class="xj"><span class="xchar">卫大嫂</span> 留神！要是摔了碰了，可就没人卖鱼啦！</p>
 <p class="xj"><span class="xchar">余志芳</span> 咱们已经买了一辆车，经理跟副经理都说了：我蹬，她们坐上当货物。有她们管着我这个楞头葱，不会出事故！马——来！<span class="block">（跑下）</span></p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -1273,7 +1273,7 @@
 <p class="xj"><span class="xchar">老黄</span> 把梆子留下！凌云！</p>
 <p class="xj"><span class="xchar">齐凌云</span> 给你！<span class="block">（误递给妈妈）</span></p>
 <p class="xj"><span class="xchar">齐母</span> 你，你自己丢人还不过瘾，还叫我打梆子去吗？<span class="block">（把梆子摔在地上）</span></p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -1285,10 +1285,10 @@
 <p class="block">妇女商店。</p>
 
 <p class="l block"><b>人 物</b></p>
-<p class="block">卫母 金智 余志芳 宋玉娥 卫大嫂 王二婶 男甲 男乙 男丙 唐经理 店员甲 店员乙 店员丙 余母 李大嫂 老尤 小吴 宋爷爷 齐凌云 郑书记 群众若干<span class="block">（越多越好）</span></p>
+<p class="block">卫母 金智 余志芳 宋玉娥 卫大嫂 王二婶 男甲 男乙 男丙 唐经理 店员甲 店员乙 店员丙 余母 李大嫂 老尤 小吴 宋爷爷 齐凌云 郑书记 群众若干（越多越好）</p>
 
 
-<p class="l block">〔幕启：妇女商店开幕，顾客甚多。左角内<span class="block">（看不见）</span>是卖鱼、肉、青菜的。右角内<span class="block">（也看不见）</span>是卖干鲜果品的。正面是布匹、鞋帽、百货等组。卫母与金智由左角出来。卫母提着鱼、肉，金智提着青菜。</p>
+<p class="l block">〔幕启：妇女商店开幕，顾客甚多。左角内（看不见）是卖鱼、肉、青菜的。右角内（也看不见）是卖干鲜果品的。正面是布匹、鞋帽、百货等组。卫母与金智由左角出来。卫母提着鱼、肉，金智提着青菜。</p>
 
 <p class="xj"><span class="xchar">卫母</span> 我看这个商店行了！都这么和气，叫咱们心里舒服，谁不爱来呢？看，小四儿的妈这两手儿，肉切得好不好的，总算切出来了，没耽误了事！</p>
 <p class="xj"><span class="xchar">金智</span> 她也没偏向着您，还是给您搭了一块肥的。</p>
@@ -1413,4 +1413,4 @@
 <p>建设成地上的天堂！</p>
 </blockquote>
 
-<p class="lk"><span class="block">（幕·全剧终）</span></p>
+<p class="lk">（幕·全剧终）</p>

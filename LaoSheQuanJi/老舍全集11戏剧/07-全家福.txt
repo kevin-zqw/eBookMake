@@ -206,7 +206,7 @@
 <p class="xj"><span class="xchar">刘超云</span> 大概从昨天就空了！</p>
 <p class="xj"><span class="xchar">林三嫂</span> 嘿！要是开个竞赛大会，比比谁马虎呀，我准得头奖！</p>
 <p class="l block">〔众大笑。</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -306,7 +306,7 @@
 <p class="xj"><span class="xchar">沈维义</span> 当然陪你去！</p>
 <p class="xj"><span class="xchar">王新英</span> 不去告诉你妈妈一声？</p>
 <p class="xj"><span class="xchar">沈维义</span> 不用了！妈妈知道，我要是丢了，她会去托人民警察把我找回来！<span class="block">（同下）</span></p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -445,7 +445,7 @@
 <p class="xj"><span class="xchar">李珍桂</span> 不能那么说，三嫂！我去跟三爷商量商量，你先把这些盆盆罐罐送到食堂去，然后看三爷喜欢你去作什么，再看你愿意不愿意。商量着办，什么事就都好办！协商好了，你有不会的，我教给你！好，我找三爷去！对，还得给孩子带俩包子，我就是疼你们的小虎儿！<span class="block">（下）</span></p>
 <p class="xj"><span class="xchar">井奶奶</span> 唉！这个人光知道帮助别人，可就是不说自己的委屈！<span class="block">（三嫂拿筐子装家伙）</span>三嫂，你慢着点，别给碰碎了！</p>
 <p class="xj"><span class="xchar">林三嫂</span> 看您说的，我就那么不中用！<span class="block">（说着，把小瓦壶的嘴儿碰掉）</span>得！我是没用，壶嘴儿掉啦！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -542,7 +542,7 @@
 <p class="xj"><span class="xchar">于壮</span> 在这儿说，还是到我那儿去？</p>
 <p class="xj"><span class="xchar">李天祥</span> 到——到你那儿去吧！</p>
 <p class="xj"><span class="xchar">于壮</span> 好！走！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -676,7 +676,7 @@
 <p class="xj"><span class="xchar">平海燕</span> 那用不着！旧社会里什么惨事没有啊！我快走吧，别叫他多心，他非常敏感！</p>
 <p class="xj"><span class="xchar">王新英</span> <span class="block">（在外面喊）</span>怎么还不快来呀？你们嘀咕什么呢？</p>
 <p class="xj"><span class="xchar">平海燕</span> 来喽！<span class="block">（跑下，维义跟着）</span></p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -897,7 +897,7 @@
 <p class="xj"><span class="xchar">王秀竹</span> 所长，我有了弟弟，我说不出来怎么感激！</p>
 <p class="xj"><span class="xchar">王新英</span> 所长！我有了姐姐！有了姐姐！再分分心吧，找到我们的妈妈！</p>
 <p class="xj"><span class="xchar">诸所长</span> 你们先回去吧，等有什么消息，我马上通知你们！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -1135,4 +1135,4 @@
 <p class="xj"><span class="xchar">沈维义</span> <span class="block">（跑进来）</span>等等，<span class="block">（拿起照相机）</span>都请站好！</p>
 <p class="xj"><span class="xchar">林三嫂</span> 也有我吗？</p>
 <p class="xj"><span class="xchar">沈维义</span> 都有！照完全体的，再给他们照一张全家福！</p>
-<p class="lk"><span class="block">（幕·全剧终）</span></p>
+<p class="lk">（幕·全剧终）</p>

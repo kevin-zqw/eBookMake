@@ -112,7 +112,7 @@
 <p class="xj"><span class="xchar">王小二</span> 老爷爷！老爷爷！你在哪儿那？老爷爷！老爷爷！<span class="block">（只闻回响，不见人影）</span>哎呀，奇怪呀！老头儿藏在哪儿去了？</p>
 <p class="xj"><span class="xchar">李八十</span> <span class="block">（声音）</span>快回家吧，王小二！再见！</p>
 <p class="xj"><span class="xchar">王小二</span> 再见！<span class="block">（四山回响）</span>再见，再见……</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -238,7 +238,7 @@
 <p class="xj"><span class="xchar">大家</span> 嗨吆！</p>
 <p class="xj"><span class="xchar">王小二</span> <span class="block">（唱）</span>我们心齐不怕水，乘风破浪往前开！</p>
 <p class="xj"><span class="xchar">大家</span> 嗨吆！嗨吆！<span class="block">（船越走越快）</span></p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 <h2 class="title2">第二幕<br/> <span class="sptxt">第一场</span></h2>
@@ -388,7 +388,7 @@
 <p class="xj"><span class="xchar">大白猫</span> 晚上睡觉，多打咕噜，小虫儿什么的不敢过来！咕噜，咕噜……</p>
 <p class="xj"><span class="xchar">王小二</span> <span class="block">（提着干粮，插好斧子）</span>再见！再见！</p>
 <p class="xj"><span class="xchar">大家</span> <span class="block">（送他）</span>再见！快回来！</p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -562,7 +562,7 @@
 <p class="xj"><span class="xchar">王小二</span> <span class="block">（边穿边说）</span>大白猫，你叫红姐。大蚂蚁，你叫绿妹。你们俩当我的妹妹。灵芝草、蜂兵、蚁兵都带好了吗？</p>
 <p class="xj"><span class="xchar">大家</span> 都带好啦！</p>
 <p class="xj"><span class="xchar">王小二</span> 咱们走吧！<span class="block">（白哥、黄弟在前，小二在中间，红姐、绿妹在后）</span>走！左右左！左右左！<span class="block">（下）</span></p>
-<p class="lk"><span class="block">（幕）</span></p>
+<p class="lk">（幕）</p>
 
 
 
@@ -766,5 +766,5 @@
 </blockquote>
 <p class="l block">〔大家往外走。猪与狼哀叫不已。</p>
 
-<p class="lk"><span class="block">（幕·全剧终）</span></p>
+<p class="lk">（幕·全剧终）</p>
 <p class="pretxt">注：此剧系根据江苏铜山民间故事<span class="block">（见《中国民间故事选》）</span>改编，谨向搜集者姜慕晨同志致谢！</p>

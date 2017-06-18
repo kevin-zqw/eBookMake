@@ -273,7 +273,7 @@
 <p class="xj"><span class="xchar">赵大娘</span> 姓张的，你，你逼死了我家的媳妇，我跟你没完！</p>
 <p class="xj"><span class="xchar">夜猫子</span> 是没完！你们都等着我的吧！<span class="block">（往外走）</span></p>
 <p class="xj"><span class="xchar">高秀才</span> <span class="block">（仰天长呼）</span>天哪，天！</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -486,7 +486,7 @@
 <p class="xj"><span class="xchar">高秀才</span> 好，高中道！</p>
 <p class="xj"><span class="xchar">高永义</span> 三哥，往下写：“民等替天行道，扶清灭洋，在高永义大师兄旗下，当坎字神团，焚表告天，决无反悔！”众师兄，先生，到院里焚表，练拳！</p>
 <p class="l block">〔高永义极严肃地捧表前行，众随之。</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -563,7 +563,7 @@
 <p class="xj"><span class="xchar">冯铁匠</span> 得令！</p>
 <p class="xj"><span class="xchar">高永义</span> 神团们，排好！鸣锣开道，大队进城！</p>
 <p class="l block">〔团众排好，锣声响亮，昂首阔步前进。</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -713,7 +713,7 @@
 <p class="xj"><span class="xchar">孙知县</span> <span class="block">（仍捂着荷花的嘴）</span>神甫，先说荷花怎么办吧！</p>
 <p class="xj"><span class="xchar">乔神甫</span> 让她出去！神叫我回去，我就回到天堂去！团匪要也杀了你呀，你既不能再作知县太爷，还得入地狱！</p>
 <p class="xj"><span class="xchar">孙知县</span> 荷花！荷花！救救命吧！<span class="block">（跪下）</span>从此我决不许太太再打你一下！</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -938,7 +938,7 @@
 <p class="xj"><span class="xchar">孙知县</span> 小周，咱们完了！</p>
 <p class="xj"><span class="xchar">高永义</span> 丘二头，鸣锣集众！</p>
 <p class="l block">〔锣声大作。</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -1165,7 +1165,7 @@
 <p class="xj"><span class="xchar">众人</span> 先生！先生！</p>
 <p class="xj"><span class="xchar">高永义</span> <span class="block">（把神牌拿起来，抱在怀中，单腿跪下）</span>三哥！于铁子！睡过去的众师兄！都好好地睡吧！有咱们，多少外国，多少洋枪洋炮，也永远分吃不了咱们，灭不了咱们！</p>
 <p class="l block">〔众垂首，打问心。外面枪炮声更急，杀声震天，幕徐落。</p>
-<p class="lk"><span class="block">（幕·全剧终）</span></p>
+<p class="lk">（幕·全剧终）</p>
 
 
 

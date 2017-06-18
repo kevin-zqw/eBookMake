@@ -260,7 +260,7 @@
 <p class="l block">〔栗晚成还没来得及说话，院中男女同学已一窝蜂似地跑出来，围住了他。大家给他鼓掌，都对他问长问短，一片嘈杂，听不清说的是什么。</p>
 <p class="xj"><span class="xchar">栗晚成</span> <span class="block">（呆立，慢慢低下头去，似乎已受不住大家的敬爱。而后，又抬起头来，向大家微笑。而后，举起木棍，高呼）</span>抗美援朝胜利万岁！</p>
 <p class="l block">〔大家一齐跟着喊。</p>
-<p class="lk"><span class="block">（幕徐落）</span></p>
+<p class="lk">（幕徐落）</p>
 
 
 
@@ -502,7 +502,7 @@
 <p class="xj"><span class="xchar">达玉琴</span> 好！坐下！</p>
 <p class="xj"><span class="xchar">金丹</span> <span class="block">（掏出笔记本，坐下）</span>请说吧！</p>
 <p class="xj"><span class="xchar">达玉琴</span> 现在我就是栗晚成同志，十二军三十五师一〇三团的团参谋长。番号请务必保密！<span class="block">（摹仿栗晚成的神态，但只掀起一点衣襟）</span>看，有一天，刚刚天亮，敌人反扑，打白刃战。两个塔似的美国兵一齐扑过我来，两把刺刀同时刺到这里，我连眼也没眨巴一下，拍，拍，两手枪，两个“塔”全倒下去。……</p>
-<p class="lk"><span class="block">（幕徐落）</span></p>
+<p class="lk">（幕徐落）</p>
 
 
 
@@ -757,7 +757,7 @@
 <p class="xj"><span class="xchar">达玉琴</span> 我有许多话嘱咐你呢！</p>
 <p class="xj"><span class="xchar">卜希霖</span> 玉琴，来，同我一块儿给他办手续去！</p>
 <p class="l block">〔卜希霖和达玉琴同下。</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -967,7 +967,7 @@
 <p class="xj"><span class="xchar">栗晚成</span> 杨主任，你总是这么热诚！</p>
 <p class="xj"><span class="xchar">杨柱国</span> 你知道，在干训班的时候，我就给你下了结论，八个大字：老成持重，谦虚热情！</p>
 <p class="xj"><span class="xchar">栗晚成</span> 好！咱们喝两杯！</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -982,7 +982,7 @@
 <p class="block">唐石青 杨柱国 杜任先 王乐民 平亦奇</p>
 
 
-<p class="l block">〔幕启：招待所二楼上的一个双间客室，现在作为唐处长的临时办公的地方。左前方有门，通到走廊。右壁有门<span class="block">（现在关着）</span>，通到卧室。咱们看见的是卧室的外间，布置得像个小客厅。一进门，靠墙放着一张三屉桌，上面有茶具、花瓶。屋子当中有一套沙发，围着一张矮桌，桌上有烟灰碟和茶杯什么的，相当凌乱，好像有人在这里熬过了一夜。斜对卧室门的一角有一张写字台，上面堆着许多文件，乱放着一些文具，还有一架电话机。靠近写字台的壁上挂着一幅山水画。</p>
+<p class="l block">〔幕启：招待所二楼上的一个双间客室，现在作为唐处长的临时办公的地方。左前方有门，通到走廊。右壁有门（现在关着），通到卧室。咱们看见的是卧室的外间，布置得像个小客厅。一进门，靠墙放着一张三屉桌，上面有茶具、花瓶。屋子当中有一套沙发，围着一张矮桌，桌上有烟灰碟和茶杯什么的，相当凌乱，好像有人在这里熬过了一夜。斜对卧室门的一角有一张写字台，上面堆着许多文件，乱放着一些文具，还有一架电话机。靠近写字台的壁上挂着一幅山水画。</p>
 <p class="l block">〔唐处长一夜没睡，已经十分疲乏，可是还强打精神，坐在写字台前，阅读文件。</p>
 <p class="l block">〔有敲门的声音。</p>
 
@@ -1127,7 +1127,7 @@
 <p class="xj"><span class="xchar">唐石青</span> 快去吧！告诉王科长，跟他周旋完了，到这里来守着电话，我可以睡一会儿去了！</p>
 <p class="xj"><span class="xchar">杜任先</span> 是！处长！<span class="block">（莫名其妙地走出去）</span></p>
 <p class="xj"><span class="xchar">唐石青</span> <span class="block">（要电话）</span>喂，我是唐石青，请接李厅长。……喂，李厅长？能不能调农林部的一位或两位干部坐飞机来一趟，带着一切有关栗晚成的文件？……是。对！他交出一张电报……啊……噢！是军用电报，我从来没见过的一种新奇的军用电报！……好！</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -1371,4 +1371,4 @@
 <p class="xj"><span class="xchar">唐石青</span> 据我看哪，林处长，你们恐怕是用旧社会的思想感情处理了新社会的事情！</p>
 <p class="xj"><span class="xchar">杨柱国</span> 你说得对，老唐！得啦，三天就破了案，我祝贺你的胜利！<span class="block">（举杯）</span></p>
 <p class="xj"><span class="xchar">唐石青</span> 领导的胜利，咱们大家的胜利！可是美中不足，这个小鸡尾酒会开得不很圆满！</p>
-<p class="lk"><span class="block">（幕落·全剧终）</span></p>
+<p class="lk">（幕落·全剧终）</p>

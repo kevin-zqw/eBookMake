@@ -93,9 +93,9 @@
 
 <p class="l block">〔幕启：一个杂院：北房五间，东西房各三间。还有个小后院，有房四间。院子不大，房屋也不多，但人口不少，显着热闹，故邻居赠以“大院”的称号。只能看见前院：清洁卫生很差，没有花草，只有一株半大的柳树，叶少枝稀，树皮脱落。每家屋外有个小铁炉子，数数炉子即知有几户。</p>
 
-<p class="l block">〔北房：方老太太<span class="block">（房东）</span>与女儿方体兰住东边的两间，老太太的内侄媳妇李敬莲住东耳房。小唐夫妇住西边的一大间和西耳房。</p>
+<p class="l block">〔北房：方老太太（房东）与女儿方体兰住东边的两间，老太太的内侄媳妇李敬莲住东耳房。小唐夫妇住西边的一大间和西耳房。</p>
 
-<p class="l block">〔西房：王师傅<span class="block">（瓦匠）</span>夫妇和儿子大牛儿住两间。徐师傅<span class="block">（木匠）</span>夫妇住一间。两户之间有一道象征性的短木栅——黄河为界，不相往来。</p>
+<p class="l block">〔西房：王师傅（瓦匠）夫妇和儿子大牛儿住两间。徐师傅（木匠）夫妇住一间。两户之间有一道象征性的短木栅——黄河为界，不相往来。</p>
 
 <p class="l block">〔东房：彭六夫妇住一间。吴老头住一间。周二嫂住一间——因还乡生产，正要搬走，把屋子让给耿兴久。</p>
 
@@ -383,7 +383,7 @@
 <p class="l block">〔王大嫂从吴室出来。</p>
 <p class="xj"><span class="xchar">大牛儿</span> 妈，要整风了！</p>
 <p class="xj"><span class="xchar">王大嫂</span> 这下子可好啦！</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -682,7 +682,7 @@
 <p class="l block">〔小唐嫂拿笤帚，带口罩，绸巾包着头出来。</p>
 <p class="xj"><span class="xchar">大牛儿</span> <span class="block">（见小唐嫂的样子，吓了一跳）</span>哟！</p>
 <p class="l block">〔大家都笑。</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -863,7 +863,7 @@
 <p class="xj"><span class="xchar">徐师傅</span> 来，大牛儿！拆！</p>
 <p class="xj"><span class="xchar">大牛儿</span> 一、二、三！<span class="block">（众笑）</span></p>
 <p class="l block">〔锣鼓声，众欢笑，送出去。</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -1126,7 +1126,7 @@
 <p class="xj"><span class="xchar">耿兴久</span> 你这是……</p>
 <p class="xj"><span class="xchar">吴老头</span> 这是我一点心意，您给我说说去！</p>
 <p class="xj"><span class="xchar">耿兴久</span> 好啊，我给你说说去！老哥哥，咱们的日子是越过越有劲啊！</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -1218,7 +1218,7 @@
 <p class="xj"><span class="xchar">彭六</span> 我们一定要解放台湾！</p>
 <p class="xj"><span class="xchar">王大嫂</span> 打倒美帝国主义！</p>
 <p class="l block">〔众人口号呼声激昂，与远处口号声合成一片。</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 <h2 class="title2">第三幕<br/> <span class="sptxt">第三场</span></h2>
@@ -1327,4 +1327,4 @@
 
 <p class="l block">〔时天上探照灯上下左右舞动，大家想到天安门的美景。在仰望灯光之际，天安门在想象中出现，焰火腾空，五光十色。众凝视，幕徐落。</p>
 
-<p class="lk"><span class="block">（幕·全剧终）</span></p>
+<p class="lk">（幕·全剧终）</p>

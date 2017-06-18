@@ -318,7 +318,7 @@
 <p class="l block">〔球队上来，共十来个人，都穿一样的运动衣，一边疾走，一边唱青年突击队歌。为首的打着小红旗。随后，冯福远、王学勤、二明、五铃也跟着阔步前进。</p>
 <p class="xj"><span class="xchar">刘海清</span> 再见！王师傅！<span class="block">（同陈跑下）</span></p>
 <p class="xj"><span class="xchar">王学仁</span> <span class="block">（扯住二明）</span>你跟着他们干吗？咱们跟他们挑战！</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -549,7 +549,7 @@
 <p class="l block">〔王学勤匆匆回来，也要上马道。小陈从马道上跑下来。</p>
 <p class="xj"><span class="xchar">小陈</span> <span class="block">（一边跑一边叫）</span>小王！小王！<span class="block">（跑下来，向四外看了看）</span>小王，乘着这里没人，我给你道歉！</p>
 <p class="xj"><span class="xchar">王学勤</span> 去你的吧！<span class="block">（可是和小陈握着手，同上马道）</span></p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -565,7 +565,7 @@
 <p class="block">佟工程师 杨成秀 吕若冰 王学勤 刘海清 梁主任 吴工长 冯福远 郝诚 凌颂英</p>
 
 
-<p class="l block">〔幕启：工地主任的办公室。墙上只有薄薄的一层灰，屋顶是光光的薄板，门上挂着竹帘。一左一右两张大办公桌，一张是梁主任的，很整洁。另一张是佟工程师<span class="block">（也是副主任）</span>的，非常的乱：电话机、暖水瓶、搪磁杯、文具、一堆堆的文件、小块水磨石、花砖，还有个缺了口的花瓶。桌后有椅，靠墙有三四条没漆过的长板凳。工程师的桌旁还放着两三件出土的磁器。</p>
+<p class="l block">〔幕启：工地主任的办公室。墙上只有薄薄的一层灰，屋顶是光光的薄板，门上挂着竹帘。一左一右两张大办公桌，一张是梁主任的，很整洁。另一张是佟工程师（也是副主任）的，非常的乱：电话机、暖水瓶、搪磁杯、文具、一堆堆的文件、小块水磨石、花砖，还有个缺了口的花瓶。桌后有椅，靠墙有三四条没漆过的长板凳。工程师的桌旁还放着两三件出土的磁器。</p>
 <p class="l block">〔右壁上挂着几张工程图表。</p>
 <p class="l block">〔左边通到干部的办公室。</p>
 <p class="l block">〔外面时有起重机、卡车往来和各种操作的声音。</p>
@@ -775,7 +775,7 @@
 <p class="xj"><span class="xchar">佟工程师</span> 就是呀！可哪儿去了呢？我说什么来着？一动，准什么也找不着了！</p>
 <p class="xj"><span class="xchar">杨成秀</span> 没放在口袋里呀？</p>
 <p class="xj"><span class="xchar">佟工程师</span> <span class="block">（摸）</span>谁说不是！嘿！<span class="block">（看杨抿着嘴笑）</span>你笑什么？把这里好好整理一下，作事情得用科学方法！</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -829,7 +829,7 @@
 <p class="xj"><span class="xchar">刘海清</span> <span class="block">（仿佛刚刚发现小陈在这里）</span>小陈，干吗不睡觉去？</p>
 <p class="xj"><span class="xchar">小陈</span> 你跟小王不睡，我为什么单单那么爱睡？我是说，这么一来，行政管理上就没法再乱七八糟了！咱们是一个整劲儿，行政管理上也得一个整劲儿！</p>
 <p class="xj"><span class="xchar">王学勤</span> 这么一来，也就教工程师有了底，好改计划了！</p>
-<p class="l block">〔屋中忽然跑出一个青年<span class="block">（甲）</span>来，披着小褂。</p>
+<p class="l block">〔屋中忽然跑出一个青年（甲）来，披着小褂。</p>
 <p class="xj"><span class="xchar">甲</span> 我想起来了！想起来了！咱们的新办法其实就是平行流水作业法！有了这个办法，联系合同准能行得开！</p>
 <p class="xj"><span class="xchar">刘海清</span> 你嚷什么呀！非把大家伙都吵醒了不行啊！</p>
 <p class="xj"><span class="xchar">甲</span> 除了小唐，都躺着动脑筋呢，谁也睡不着！</p>
@@ -854,7 +854,7 @@
 <p class="xj"><span class="xchar">刘海清</span> 小唐的声音！</p>
 <p class="l block">〔屋中喊：“我告诉你，这是个窍门，你不信，你落后！”</p>
 <p class="xj"><span class="xchar">刘海清</span> <span class="block">（跑到屋门口）</span>小唐！小唐！<span class="block">（屋内不语）</span>凌支书，不是吵架，小唐说梦话找窍门呢！</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -994,7 +994,7 @@
 <p class="l block">〔上班钟响。</p>
 <p class="xj"><span class="xchar">佟工程师</span> 同志们！工作开始！都要奋勇当先，争取提前完成任务！</p>
 <p class="l block">〔各种操作声音齐起。</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -1119,7 +1119,7 @@
 <p class="xj"><span class="xchar">保卫员</span> 住嘴！走！<span class="block">（二人架走小孙）</span></p>
 <p class="xj"><span class="xchar">王学仁</span> 丁师傅，快抬起她来！二明！二明！怎样？</p>
 <p class="xj"><span class="xchar">李二明</span> 不要管我，你们救火去！</p>
-<p class="lk"><span class="block">（幕落）</span></p>
+<p class="lk">（幕落）</p>
 
 
 
@@ -1339,4 +1339,4 @@
 <p class="xj"><span class="xchar">小陈</span> <span class="block">（跑回来）</span>他们都来了！明芳<span class="block">（指）</span>，看，红星亮了！</p>
 <p class="xj"><span class="xchar">王明芳</span> 亮了！亮了！多么美呀！</p>
 <p class="xj"><span class="xchar">突击队</span> <span class="block">（一齐跑来，有的指红星，有的欢呼，有的与王、丁握手，一齐唱青年突击队歌……）</span></p>
-<p class="lk"><span class="block">（幕徐落·全剧终）</span></p>
+<p class="lk">（幕徐落·全剧终）</p>
