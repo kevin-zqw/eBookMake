@@ -1,18 +1,34 @@
-赌
-（独幕话剧）
+<h1 class="bigtitle">赌</h1>
+<p class="type">·独幕话剧·</p>
 
 
 时间 一九六〇年六月，午前十一时。
 地点 纽约某小街上小酒馆内。
-人物
-贾克——酒馆伙计，二十七岁。
-查里——退役军人，四十岁。
-吉姆——小商人，三十五岁。
-玛丽——暗娼，二十多岁。
-安地——青年工人。
-海兰娜——女青年工人。
-黑人——三十岁。
-警察——二十多岁。
+<h2 class="chapter">人物表</h2>
+<p class="l block"><b>贾克</b></p>
+<p class="block">酒馆伙计，二十七岁。</p>
+
+<p class="l block"><b>查里</b></p>
+<p class="block">退役军人，四十岁。</p>
+
+<p class="l block"><b>吉姆</b></p>
+<p class="block">小商人，三十五岁。</p>
+
+<p class="l block"><b>玛丽</b></p>
+<p class="block">暗娼，二十多岁。</p>
+
+<p class="l block"><b>安地</b></p>
+<p class="block">青年工人。</p>
+
+<p class="l block"><b>海兰娜</b></p>
+<p class="block">女青年工人。</p>
+
+<p class="l block"><b>黑人</b></p>
+<p class="block">三十岁。</p>
+
+<p class="l block"><b>警察</b></p>
+<p class="block">二十多岁。</p>
+
 
 
 〔幕启：钟声隐隐敲十一下，酒馆刚开门。贾克正拂拭桌案，听见钟声，看了看壁上挂钟。查里与吉姆挽臂而来。
