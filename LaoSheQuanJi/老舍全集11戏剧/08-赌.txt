@@ -2,8 +2,12 @@
 <p class="type">·独幕话剧·</p>
 
 
-时间 一九六〇年六月，午前十一时。
-地点 纽约某小街上小酒馆内。
+<p class="l block"><b>时 间</b></p>
+<p class="block">一九六〇年六月，午前十一时。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">纽约某小街上小酒馆内。</p>
+
 <h2 class="chapter">人物表</h2>
 <p class="l block"><b>贾克</b></p>
 <p class="block">酒馆伙计，二十七岁。</p>

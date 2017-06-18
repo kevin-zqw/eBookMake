@@ -87,9 +87,15 @@
 
 
 <h2 class="title2">第一幕<br/> <span class="sptxt">第一场</span></h2>
-时间 一九五八年初春，下午。
-地点 北京后海岸上。
-人物 余志芳 宋玉娥 齐凌云 卫大嫂
+<p class="l block"><b>时 间</b></p>
+<p class="block">一九五八年初春，下午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">北京后海岸上。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">余志芳 宋玉娥 齐凌云 卫大嫂</p>
+
 
 〔幕启：一湖春水，岸柳初青，间有野桃三二，放艳春晴。余志芳等三个姑娘携手同来，且笑且唱。
 
@@ -197,9 +203,15 @@
 
 
 <h2 class="title2">第一幕<br/> <span class="sptxt">第二场</span></h2>
-时间 前场后一刻钟。
-地点 某胡同口上，一株小树下。
-人物 宋爷爷 宋玉娥 余志芳 齐凌云
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后一刻钟。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">某胡同口上，一株小树下。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">宋爷爷 宋玉娥 余志芳 齐凌云</p>
+
 
 〔幕启：宋爷爷的茶摊子，摊旁还插着一条小竹竿，竿上围有稻草，上插宋爷爷自制的简单玩具——小风车，鸡毛和秫秸秆作的小公鸡等。老人坐在小板凳上，时时起立望一望，然后又坐下，作小玩艺儿。
 
@@ -253,9 +265,15 @@
 
 
 <h2 class="title2">第一幕<br/> <span class="sptxt">第三场</span></h2>
-时间 前场后数分钟。
-地点 齐凌云家里。
-人物 余志芳 宋玉娥 齐凌云 齐母 余母 陶月明 赵姐
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后数分钟。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">齐凌云家里。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">余志芳 宋玉娥 齐凌云 齐母 余母 陶月明 赵姐</p>
+
 
 〔幕启：三女郎来到齐家院中。屋中有人说话儿。
 
@@ -367,9 +385,15 @@
 
 
 <h2 class="title2">第一幕<br/> <span class="sptxt">第四场</span></h2>
-时间 前场后十数分钟。
-地点 齐家屋里。
-人物 齐母 齐凌云 赵姐 卫默香 卫大嫂
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后十数分钟。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">齐家屋里。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">齐母 齐凌云 赵姐 卫默香 卫大嫂</p>
+
 
 〔幕启：屋中。齐母与凌云谈话。
 
@@ -431,9 +455,15 @@
 
 
 <h2 class="title2">第二幕<br/> <span class="sptxt">第一场</span></h2>
-时间 前幕后两个来月，余志芳等已受完训。
-地点 某城外关厢的一个公私合营商店。
-人物 余志芳 宋玉娥 某大娘 陶月明
+<p class="l block"><b>时 间</b></p>
+<p class="block">前幕后两个来月，余志芳等已受完训。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">某城外关厢的一个公私合营商店。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">余志芳 宋玉娥 某大娘 陶月明</p>
+
 
 〔幕启：一家公私合营商店，橱窗杂乱，积尘甚厚。余、宋二女立在窗外指指点点。
 
@@ -513,9 +543,15 @@
 
 
 <h2 class="title2">第二幕<br/> <span class="sptxt">第二场</span></h2>
-时间 前场后数日，上午。
-地点 齐家附近的一个合作社。
-人物 李大嫂 王二婶 齐凌云 金拴子 齐母 老尤 小吴 老黄 郑书记
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后数日，上午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">齐家附近的一个合作社。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">李大嫂 王二婶 齐凌云 金拴子 齐母 老尤 小吴 老黄 郑书记</p>
+
 
 〔幕启：合作社的一角，卖糖果等。李、王二妇人买完了东西，说闲话儿。金拴子正买糖，齐凌云给他拿。
 
@@ -631,9 +667,15 @@
 
 
 <h2 class="title2">第二幕<br/> <span class="sptxt">第三场</span></h2>
-时间 前场后月余，晚间。
-地点 余志芳与宋玉娥所在的商店。
-人物 余志芳 宋玉娥 陶月明
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后月余，晚间。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">余志芳与宋玉娥所在的商店。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">余志芳 宋玉娥 陶月明</p>
+
 
 〔幕启：一间小屋，余志芳与宋玉娥正在写大字报。
 
@@ -689,9 +731,15 @@
 
 
 <h2 class="title2">第二幕<br/> <span class="sptxt">第四场</span></h2>
-时间 前场次日，上午。
-地点 宋爷爷的茶摊子。
-人物 宋爷爷 卫母 卫默香 齐母 余母 余志芳
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场次日，上午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">宋爷爷的茶摊子。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">宋爷爷 卫母 卫默香 齐母 余母 余志芳</p>
+
 
 〔幕启：小树枝繁叶茂，欣欣向荣。小玩具都换了用马兰叶子编的小筐、小青蛙等。宋老人高高兴兴擦洗茶具。一边工作一边哼唧：“天气热，大家渴，嘴里发干来找我！茶叶香，价钱小，要把人人伺候好！”
 
@@ -777,9 +825,15 @@
 
 
 <h2 class="title2">第三幕<br/> <span class="sptxt">第一场</span></h2>
-时间 前幕后月余，上午。
-地点 合作社内。
-人物 老尤 小吴 齐凌云 郑书记 卫大嫂 余志芳
+<p class="l block"><b>时 间</b></p>
+<p class="block">前幕后月余，上午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">合作社内。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">老尤 小吴 齐凌云 郑书记 卫大嫂 余志芳</p>
+
 
 〔幕启：台上左角是肉案子，肉已卖完，老尤与小吴一边刷洗案子，一边说话儿。
 〔右角是卖小百货的，齐凌云正值班。
@@ -919,9 +973,15 @@
 
 
 <h2 class="title2">第三幕<br/> <span class="sptxt">第二场</span></h2>
-时间 前场后数日，上午。
-地点 北海公园。
-人物 余志芳 宋玉娥 齐凌云 陶月明 卫大嫂
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后数日，上午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">北海公园。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">余志芳 宋玉娥 齐凌云 陶月明 卫大嫂</p>
+
 
 〔幕启：游人还不多。三个姑娘携手而来，且行且唱。
 
@@ -1017,9 +1077,15 @@
 
 
 <h2 class="title2">第三幕<br/> <span class="sptxt">第三场</span></h2>
-时间 前场后数日，晚间。
-地点 卫家。
-人物 卫母 齐母 卫默香 卫大嫂 余志芳 宋玉娥
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后数日，晚间。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">卫家。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">卫母 齐母 卫默香 卫大嫂 余志芳 宋玉娥</p>
+
 
 〔幕启：卫母正和齐母说闲话儿。
 
@@ -1127,9 +1193,15 @@
 
 
 <h2 class="title2">第三幕<br/> <span class="sptxt">第四场</span></h2>
-时间 前场后二日，妇女商店开幕日，上午。
-地点 宋爷爷的茶摊子。
-人物 宋爷爷 余母 卫母 李大嫂 王二婶 金智 金拴子 齐母 齐凌云 老黄
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后二日，妇女商店开幕日，上午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">宋爷爷的茶摊子。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">宋爷爷 余母 卫母 李大嫂 王二婶 金智 金拴子 齐母 齐凌云 老黄</p>
+
 
 〔幕启：为庆祝妇女商店开幕，宋爷爷换上新衣。他特别高兴小孙女能在妇女商店工作，大声地唱着。
 
@@ -1195,9 +1267,15 @@
 
 
 <h2 class="title2">第三幕<br/> <span class="sptxt">第五场</span></h2>
-时间 前场后数分钟。
-地点 妇女商店。
-人物 卫母 金智 余志芳 宋玉娥 卫大嫂 王二婶 男甲 男乙 男丙 唐经理 店员甲 店员乙 店员丙 余母 李大嫂 老尤 小吴 宋爷爷 齐凌云 郑书记 群众若干（越多越好）
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后数分钟。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">妇女商店。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">卫母 金智 余志芳 宋玉娥 卫大嫂 王二婶 男甲 男乙 男丙 唐经理 店员甲 店员乙 店员丙 余母 李大嫂 老尤 小吴 宋爷爷 齐凌云 郑书记 群众若干（越多越好）</p>
+
 
 〔幕启：妇女商店开幕，顾客甚多。左角内（看不见）是卖鱼、肉、青菜的。右角内（也看不见）是卖干鲜果品的。正面是布匹、鞋帽、百货等组。卫母与金智由左角出来。卫母提着鱼、肉，金智提着青菜。
 

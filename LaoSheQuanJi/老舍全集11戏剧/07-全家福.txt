@@ -56,9 +56,15 @@
 
 
 <h2 class="title2">第一幕<br/> <span class="sptxt">第一场</span></h2>
-时间 一九五八年初春，早晨。
-地点 北京某胡同内。
-人物 平海燕 王仁利 李珍桂 林三嫂 井奶奶 刘超云 诸所长 李天祥
+<p class="l block"><b>时 间</b></p>
+<p class="block">一九五八年初春，早晨。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">北京某胡同内。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">平海燕 王仁利 李珍桂 林三嫂 井奶奶 刘超云 诸所长 李天祥</p>
+
 
 〔幕启：某胡同的一株大树下，树叶刚出芽。平海燕立，王仁利倚树而坐。
 
@@ -205,9 +211,15 @@
 
 
 <h2 class="title2">第一幕<br/> <span class="sptxt">第二场</span></h2>
-时间 前场后一日，星期日清早。
-地点 某公园内幽静的一角。
-人物 丁宏 王秀竹 王新英 沈维义
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后一日，星期日清早。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">某公园内幽静的一角。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">丁宏 王秀竹 王新英 沈维义</p>
+
 
 〔幕启：某公园极为幽静的一角，王秀竹愁苦地坐在一块大石上，丁宏无可如何地来回走，手里拿着张报纸。
 
@@ -299,9 +311,15 @@
 
 
 <h2 class="title2">第一幕<br/> <span class="sptxt">第三场</span></h2>
-时间 第二天，中午。
-地点 李珍桂家中。
-人物 李天祥 井奶奶 林三嫂 李珍桂
+<p class="l block"><b>时 间</b></p>
+<p class="block">第二天，中午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">李珍桂家中。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">李天祥 井奶奶 林三嫂 李珍桂</p>
+
 
 〔幕启：李天祥独坐看书，时时看看手表。他穿着短夹袄，上面有一块补钉，补得不大好看。井奶奶进来。
 
@@ -433,9 +451,15 @@
 
 
 <h2 class="title2">第二幕<br/> <span class="sptxt">第一场</span></h2>
-时间 前场同日。
-地点 西郊莲花峰人民公社。
-人物 于壮 李天祥 王仁德
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场同日。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">西郊莲花峰人民公社。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">于壮 李天祥 王仁德</p>
+
 
 〔幕启：民警于壮正领着天祥往莲花峰人民公社走。看见了公社办事处。外面码着些红色的砖。
 
@@ -523,9 +547,15 @@
 
 
 <h2 class="title2">第二幕<br/> <span class="sptxt">第二场</span></h2>
-时间 前场后二日，晚间。
-地点 沈维义家里。
-人物 沈维义 王新英 平海燕
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后二日，晚间。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">沈维义家里。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">沈维义 王新英 平海燕</p>
+
 
 〔幕启：沈维义独自在屋里看书，有点焦急不安，时时往外望一望。
 
@@ -651,9 +681,15 @@
 
 
 <h2 class="title2">第二幕<br/> <span class="sptxt">第三场</span></h2>
-时间 前场次日，下午。
-地点 派出所。
-人物 平海燕 李珍桂 唐大嫂 刘超云 诸所长 丁宏 王秀竹 王新英 沈维义
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场次日，下午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">派出所。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">平海燕 李珍桂 唐大嫂 刘超云 诸所长 丁宏 王秀竹 王新英 沈维义</p>
+
 
 〔幕启：平海燕正打电话。
 
@@ -869,9 +905,15 @@
 
 
 <h2 class="title2">第三幕</h2>
-时间 前场后二日，星期日上午。
-地点 派出所，所长室。
-人物 平海燕 唐大哥 唐大嫂 王秀竹 王新英 诸所长 丁宏 沈维义 刘超云 王仁利 王仁德 李天祥 李珍桂 井奶奶 林三嫂
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后二日，星期日上午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">派出所，所长室。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">平海燕 唐大哥 唐大嫂 王秀竹 王新英 诸所长 丁宏 沈维义 刘超云 王仁利 王仁德 李天祥 李珍桂 井奶奶 林三嫂</p>
+
 
 〔幕启：平海燕在阅文件。电话响，她接。
 
