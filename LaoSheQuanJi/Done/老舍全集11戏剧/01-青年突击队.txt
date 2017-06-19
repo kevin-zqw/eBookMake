@@ -480,7 +480,7 @@
 <p class="xj"><span class="xchar">王学仁</span> 你看，我下了挑战书，你一声不出，不应战！你要不是目中无人，就是故意地泄我们的气！这且不提，他们的小陈还说，我一辈子也达不到定额！</p>
 <p class="xj"><span class="xchar">李二明</span> 师傅，你听谁说的？</p>
 <p class="xj"><span class="xchar">王学仁</span> 小孙说的！</p>
-<p class="xj"><span class="xchar">李二明</span> �！<span class="block">（冷笑了一下）</span></p>
+<p class="xj"><span class="xchar">李二明</span> 𫪘！<span class="block">（冷笑了一下）</span></p>
 <p class="xj"><span class="xchar">王学仁</span> 二明，你笑什么？小孙不比你聪明？</p>
 <p class="xj"><span class="xchar">刘海清</span> 王师傅，连你的那份儿，工会一共接到了十封挑战书。</p>
 <p class="xj"><span class="xchar">王学仁</span> 那么为什么不应战呢？不屑于？怕把我们赛垮了？</p>
@@ -533,7 +533,7 @@
 <p class="xj"><span class="xchar">刘海清</span> 工程师，我们还能说谎骗人，以少报多吗？</p>
 <p class="xj"><span class="xchar">佟工程师</span> 我哪能那么想呢？检查过没有？</p>
 <p class="xj"><span class="xchar">刘海清</span> 我们天天干完活就检查一遍！</p>
-<p class="xj"><span class="xchar">佟工程师</span> �！不是检查组检查的？</p>
+<p class="xj"><span class="xchar">佟工程师</span> 𫪘！不是检查组检查的？</p>
 <p class="xj"><span class="xchar">刘海清</span> 工程师，别怪我说呀，我看你有点不信任我们！</p>
 <p class="xj"><span class="xchar">佟工程师</span> 那我不会！在这里我负着这么大的责任，能够不盼着你们成功吗？你们成功，计件就可以推行开，提前完成任务也有了希望，我能不高兴吗？咱们的市长说过：全北京的工地要都顺利展开计件，今年就会给国家节约出一座或两座五万锭的纱厂！是个爱国的人听见这个都得喜欢！社会主义建设的精神就是这样！可是，不过呢……</p>
 <p class="xj"><span class="xchar">刘海清</span> 什么？</p>
@@ -611,7 +611,7 @@
 <p class="xj"><span class="xchar">刘海清</span> 同志，你说的不是事实！</p>
 <p class="xj"><span class="xchar">吕若冰</span> 同志，我永远说实话，决不说谎！</p>
 <p class="xj"><span class="xchar">刘海清</span> 你们浪费材料是真的，你们可并没帮助我们！</p>
-<p class="xj"><span class="xchar">吕若冰</span> �，你也是突击队员？那，我不惹你！工程师，我不再成天捡钉子，改为下班的时候去捡，不耽误工作，你看好不好？</p>
+<p class="xj"><span class="xchar">吕若冰</span> 𫪘，你也是突击队员？那，我不惹你！工程师，我不再成天捡钉子，改为下班的时候去捡，不耽误工作，你看好不好？</p>
 <p class="xj"><span class="xchar">佟工程师</span> 你要少说点话就更好！走！</p>
 <p class="xj"><span class="xchar">吕若冰</span> 是！<span class="block">（下）</span></p>
 <p class="xj"><span class="xchar">佟工程师</span> 队长，又怎么啦？昨天咱们见面，不是一切都很顺利吗？又出了什么岔子？</p>
@@ -1171,7 +1171,7 @@
 <p class="xj"><span class="xchar">郝诚</span> 你没问他吗？</p>
 <p class="xj"><span class="xchar">王大嫂</span> 没有！你知道他的老牛脾气，问急了他，他就冒火！</p>
 <p class="xj"><span class="xchar">郝诚</span> 他呀，昨天超额，起了带头作用，马上就有好几个小组要求计件，能不高兴吗？</p>
-<p class="xj"><span class="xchar">王大嫂</span> �，是这么一回事，这个老东西，工地的事他一句不对我说！</p>
+<p class="xj"><span class="xchar">王大嫂</span> 𫪘，是这么一回事，这个老东西，工地的事他一句不对我说！</p>
 <p class="xj"><span class="xchar">郝诚</span> 也许怕大嫂替他着急吧？现在他超额了，大嫂你得给他多打打气，劝他把本事教给青年们！我走了，大嫂！明芳，今天晚上苏联展览馆的红星亮起来，别忘了看哪！</p>
 <p class="xj"><span class="xchar">王明芳</span> 忘不了！</p>
 <p class="xj"><span class="xchar">郝诚</span> 再见！<span class="block">（下）</span></p>

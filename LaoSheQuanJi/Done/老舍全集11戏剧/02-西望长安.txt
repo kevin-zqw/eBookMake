@@ -575,7 +575,7 @@
 <p class="xj"><span class="xchar">达玉琴</span> <span class="block">（看恐吓不成，改为拉拢）</span>得了吧，友忠同志，你和我的爱人是老朋友，那么你也就是我的朋友，让咱们团结得好好的，何必这么瞎闹呢？星期天，你上我那里玩玩，吃点家常便饭，不好吗？老栗星期天可能回家来看看，你们俩喝两杯六十度，不好吗？</p>
 <p class="xj"><span class="xchar">荆友忠</span> 啊……他还在医院里？他脖子里的那颗子弹还……</p>
 <p class="xj"><span class="xchar">达玉琴</span> 什么子弹？他是中了毒气！</p>
-<p class="xj"><span class="xchar">荆友忠</span> �！那……</p>
+<p class="xj"><span class="xchar">荆友忠</span> 𫪘！那……</p>
 <p class="xj"><span class="xchar">达玉琴</span> 告诉我，这是怎么一回事，干什么这样要说又不说的呢？</p>
 <p class="xj"><span class="xchar">荆友忠</span> 你不知道他的脖子里有一颗子弹？</p>
 <p class="xj"><span class="xchar">达玉琴</span> 我……他没有说过。可是，这有什么关系呢？有一颗子弹就更光荣，没有呢就更舒服点，不是吗？</p>

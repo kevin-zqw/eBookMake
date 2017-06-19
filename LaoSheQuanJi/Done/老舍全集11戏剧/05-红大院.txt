@@ -130,7 +130,7 @@
 <p class="xj"><span class="xchar">周二嫂</span> 倒真是不容易跟她说得来！</p>
 <p class="xj"><span class="xchar">王大嫂</span> 可也不能那么说，有人还夸她呢，说她有福气！都该狠狠地批评！二嫂，这个院里呀；还就是咱们俩说得来，你这么一走啊，我心里真怪不好受的！</p>
 <p class="xj"><span class="xchar">周二嫂</span> 我走后，耿大爷一搬来，我看这个院子准得变个样儿！</p>
-<p class="xj"><span class="xchar">王大嫂</span> 我跟你的看法一样，耿大爷准有办法！你看人家六嫂一天笤帚不离手，可是架不住她一个人管卫生，倒有十个人遭害，到几儿才能干净呢！街道上都叫我积极分子，可是人家一问我住在几号啊，我就臊得慌！我一说住在三号，人家把嘴那么一撇：�，落后大院呀！我的脸往哪儿放啊！</p>
+<p class="xj"><span class="xchar">王大嫂</span> 我跟你的看法一样，耿大爷准有办法！你看人家六嫂一天笤帚不离手，可是架不住她一个人管卫生，倒有十个人遭害，到几儿才能干净呢！街道上都叫我积极分子，可是人家一问我住在几号啊，我就臊得慌！我一说住在三号，人家把嘴那么一撇：𫪘，落后大院呀！我的脸往哪儿放啊！</p>
 <p class="xj"><span class="xchar">周二嫂</span> 我看哪，耿大爷虽然嘴里说：他一个人住八号的那两间屋子太多了；可是我猜呀，他搬到这儿来，必定另有打算。他是老党员，一定不肯老叫这条胡同里有个落后大院！</p>
 <p class="xj"><span class="xchar">王大嫂</span> 二嫂，你猜的对！六嫂，二嫂走后啊，咱们俩帮着耿大爷，他怎么说，咱们怎么办，非摘了落后的帽子不可！这个院子里，你鼓着，我瘪着，我简直地住不下去了，非改个样儿不行！</p>
 <p class="l block">〔徐四嫂没梳头，没洗脸地出来。王大嫂低头走到自己的屋门外。彭六嫂照旧扫地。</p>
@@ -520,7 +520,7 @@
 <p class="xj"><span class="xchar">彭六嫂</span> 徐四嫂，你那里缺什么，就先从我这儿拿点，我这儿没有的……王大嫂，你……</p>
 <p class="xj"><span class="xchar">王大嫂</span> 啊，……</p>
 <p class="xj"><span class="xchar">耿兴久</span> 对了，王大嫂也可以帮帮忙嘛！</p>
-<p class="xj"><span class="xchar">王大嫂</span> �，对了，大牛儿，把刚才打的酱油什么的，给徐四婶匀过一半去。<span class="block">（大牛儿应声）</span></p>
+<p class="xj"><span class="xchar">王大嫂</span> 𫪘，对了，大牛儿，把刚才打的酱油什么的，给徐四婶匀过一半去。<span class="block">（大牛儿应声）</span></p>
 <p class="xj"><span class="xchar">徐四嫂</span> 不用，我不跟人借钱，也不跟人借东西，回头又说我占人家的便宜，我背不起……</p>
 <p class="xj"><span class="xchar">彭六嫂</span> 四嫂，你这就不对了，你跟王大嫂有些过节，是你有不对的地方，人家王大嫂都不计较了，你还赌哪门子气呢？再说，这有什么大不了的事呢，不值当的！</p>
 <p class="xj"><span class="xchar">王大嫂</span> 对了，过去的事就甭提了，一个巴掌拍不响，我也有不好的地方。四嫂，别为咱们这点小事，老让这个大院背个落后不团结的臭名了！大牛儿，给你四婶匀过去。</p>
@@ -544,7 +544,7 @@
 <p class="xj"><span class="xchar">吴老头</span> 啊啊……</p>
 <p class="l block">〔王大嫂自徐四嫂屋出。</p>
 <p class="xj"><span class="xchar">王大嫂</span> 你们谈会儿吧，我得开会去了。<span class="block">（见耿的脸上像开了花似的笑，往外走）</span>大牛儿，看着点火，别让它灭了。<span class="block">（大牛儿应声）</span></p>
-<p class="xj"><span class="xchar">吴老头</span> <span class="block">（似乎明白了，看了耿一眼）</span>�，……她们……<span class="block">（大加赞许）</span>好，好，好！</p>
+<p class="xj"><span class="xchar">吴老头</span> <span class="block">（似乎明白了，看了耿一眼）</span>𫪘，……她们……<span class="block">（大加赞许）</span>好，好，好！</p>
 
 <p class="l block">〔方体兰、李敬莲手拉手笑着进来，正遇上王大嫂，二人：“哟，王大嫂出去呀？”</p>
 
@@ -583,7 +583,7 @@
 <p class="xj"><span class="xchar">郑三</span> 那……</p>
 <p class="l block">〔郑三嫂回来，拿着一大堆东西，程同志扛着东西。</p>
 <p class="xj"><span class="xchar">郑三嫂</span> <span class="block">（一眼看见郑三）</span>哟，你回来了？<span class="block">（对崔大嫂）</span>你们这是干什么去？</p>
-<p class="xj"><span class="xchar">郑三</span> �，你回来的正好！你看家，我陪大嫂给小胖胖看病去，耿大爷您就甭去了，我骑自行车头里走，雇三轮去。<span class="block">（说着就走了）</span></p>
+<p class="xj"><span class="xchar">郑三</span> 𫪘，你回来的正好！你看家，我陪大嫂给小胖胖看病去，耿大爷您就甭去了，我骑自行车头里走，雇三轮去。<span class="block">（说着就走了）</span></p>
 <p class="xj"><span class="xchar">郑三嫂</span> 嘿！你带着钱哪吗？想着吃点什么！</p>
 <p class="xj"><span class="xchar">崔大嫂</span> 你别管了，三嫂！我这带着钱呢！<span class="block">（下）</span></p>
 <p class="xj"><span class="xchar">郑三嫂</span> 郑三这个人，他可真是——</p>
@@ -768,7 +768,7 @@
 <p class="xj"><span class="xchar">方大妈</span> 我没意见！<span class="block">（入室）</span></p>
 <p class="xj"><span class="xchar">彭六嫂</span> 敬莲，赶快收拾东西去，去吧！</p>
 <p class="l block">〔李敬莲与方体兰入室。</p>
-<p class="xj"><span class="xchar">耿兴久</span> 咱们走吧？�，六嫂，你先作饭吧，我自己去谈谈。<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">耿兴久</span> 咱们走吧？𫪘，六嫂，你先作饭吧，我自己去谈谈。<span class="block">（下）</span></p>
 <p class="l block">〔彭入室。</p>
 <p class="xj"><span class="xchar">王大嫂</span> 我也给她们送钱去。<span class="block">（到后院去）</span></p>
 <p class="l block">〔吵时，徐四嫂坐在小凳上补袜子。吵闹中间，小唐嫂出来听，与徐交换眼色。</p>
@@ -1055,7 +1055,7 @@
 <p class="xj"><span class="xchar">徐四嫂</span> 哟！怎么啦？怎么都不出声啊？<span class="block">（见无反应，缩缩脖子，退后）</span></p>
 <p class="xj"><span class="xchar">李敬莲</span> 六嫂，开什么会呢？</p>
 <p class="xj"><span class="xchar">彭六嫂</span> 谈办工厂的事呢。</p>
-<p class="xj"><span class="xchar">李敬莲</span> �！</p>
+<p class="xj"><span class="xchar">李敬莲</span> 𫪘！</p>
 <p class="xj"><span class="xchar">徐四嫂</span> 办工厂是好事！</p>
 <p class="xj"><span class="xchar">小唐嫂</span> 好事儿？就叫咱们作这个玩艺儿！<span class="block">（指泵）</span></p>
 <p class="xj"><span class="xchar">徐四嫂</span> 这不是乡下抽水用的吗？敬莲，这叫什么来着？</p>

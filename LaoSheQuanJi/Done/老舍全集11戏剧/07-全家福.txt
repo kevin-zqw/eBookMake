@@ -114,7 +114,7 @@
 <p class="xj"><span class="xchar">平海燕</span> 在您当治保委员以前，您就爱帮助别人！</p>
 <p class="xj"><span class="xchar">李珍桂</span> 你真会鼓励我！好，我快走吧！</p>
 <p class="xj"><span class="xchar">平海燕</span> 我给您叫辆三轮吧？</p>
-<p class="xj"><span class="xchar">李珍桂</span> 不用！我会坐电车去，一会儿就到！�，再告诉你一件事，小平！我们院子的林三嫂，前些日子，不是逛厂甸把孩子丢了，叫小刘同志给找回来了吗？</p>
+<p class="xj"><span class="xchar">李珍桂</span> 不用！我会坐电车去，一会儿就到！𫪘，再告诉你一件事，小平！我们院子的林三嫂，前些日子，不是逛厂甸把孩子丢了，叫小刘同志给找回来了吗？</p>
 <p class="xj"><span class="xchar">平海燕</span> 是呀，林三嫂三十好几了，还像个孩子，喇喇忽忽的！</p>
 <p class="xj"><span class="xchar">李珍桂</span> 从那天起，她积极起来，咱们都得给她打气，对不对？</p>
 <p class="xj"><span class="xchar">平海燕</span> 对！我马上看看她去！您快走吧，大妈！</p>
@@ -349,7 +349,7 @@
 <p class="xj"><span class="xchar">李天祥</span> 老奶奶，我又不是杜勒斯！</p>
 <p class="xj"><span class="xchar">井奶奶</span> 什么毒、辣、私？提又毒、又辣、又自私的人干吗呀？</p>
 <p class="xj"><span class="xchar">李天祥</span> 老奶奶，杜勒斯是美国的，他说呀，咱们这儿不要家庭啦！</p>
-<p class="xj"><span class="xchar">井奶奶</span> �！他怎么知道咱们的事情？地道瞎扯！我就盼着你娶个又能干又漂亮的小媳妇，你妈妈呀，光是街道上的事儿就忙不过来啦！有个儿媳妇，也好帮帮她呀！</p>
+<p class="xj"><span class="xchar">井奶奶</span> 𫪘！他怎么知道咱们的事情？地道瞎扯！我就盼着你娶个又能干又漂亮的小媳妇，你妈妈呀，光是街道上的事儿就忙不过来啦！有个儿媳妇，也好帮帮她呀！</p>
 <p class="xj"><span class="xchar">李天祥</span> 妈妈可真进步了，真拿别人的事当作自己的事作！</p>
 <p class="xj"><span class="xchar">井奶奶</span> 可是呀，她有时候坐着发楞，眼泪在眼圈里转！</p>
 <p class="xj"><span class="xchar">李天祥</span> 真的吗？真的吗？</p>
@@ -495,7 +495,7 @@
 <p class="xj"><span class="xchar">李天祥</span> 是呀，都是亲人，叫什么没多大关系！</p>
 <p class="xj"><span class="xchar">王仁德</span> 对！你要是不愿意叫我二叔，就叫二舅也行！反正我要作好公社的炊事员，这比二叔或二舅都更要紧！</p>
 <p class="xj"><span class="xchar">李天祥</span> 要光是为应该怎么称呼您，我也就不细问了。这里有问题，我想弄清楚了！您到底是我妈妈的娘家弟弟，还是她的小叔子？</p>
-<p class="xj"><span class="xchar">王仁德</span> �……天祥，你妈妈还好吗？</p>
+<p class="xj"><span class="xchar">王仁德</span> 𫪘……天祥，你妈妈还好吗？</p>
 <p class="xj"><span class="xchar">李天祥</span> 好！身体既好，又是街道上的积极分子。我复员了，她见着我特别喜欢！</p>
 <p class="xj"><span class="xchar">王仁德</span> 你已经是复员军人？好哇！好哇！再握握手！天祥，你就上我们这儿来，帮助我搞食堂吧！</p>
 <p class="xj"><span class="xchar">李天祥</span> 我不久就去搞工业。</p>
@@ -533,7 +533,7 @@
 <p class="xj"><span class="xchar">王仁德</span> 是呀，我总算有了进步，没把食堂办砸了锅！天祥，还是先看看食堂吧！来！</p>
 <p class="xj"><span class="xchar">李天祥</span> 二叔，您这是叫我着急嘛！</p>
 <p class="xj"><span class="xchar">于壮</span> 什么事呀？王二叔，您看他还是真着急，就跟他说说吧！</p>
-<p class="xj"><span class="xchar">王仁德</span> 我……�，我得赶快作饭去！天祥，你进来！</p>
+<p class="xj"><span class="xchar">王仁德</span> 我……𫪘，我得赶快作饭去！天祥，你进来！</p>
 <p class="xj"><span class="xchar">李天祥</span> 您去吧，二叔！我马上来！</p>
 <p class="xj"><span class="xchar">王仁德</span> 好！赶紧来吧！<span class="block">（下）</span></p>
 <p class="xj"><span class="xchar">李天祥</span> 于同志！</p>
@@ -914,7 +914,7 @@
 
 <p class="l block">〔幕启：平海燕在阅文件。电话响，她接。</p>
 
-<p class="xj"><span class="xchar">平海燕</span> 喂！……是呀！你是于壮呀？……�，王仁德正上我们这儿来？好极了！谢谢！再见！<span class="block">（敲门声）</span>请进来！</p>
+<p class="xj"><span class="xchar">平海燕</span> 喂！……是呀！你是于壮呀？……𫪘，王仁德正上我们这儿来？好极了！谢谢！再见！<span class="block">（敲门声）</span>请进来！</p>
 <p class="xj"><span class="xchar">唐大哥</span> <span class="block">（同唐大嫂上）</span>同志，我们来给你们道谢！</p>
 <p class="xj"><span class="xchar">唐大嫂</span> 道谢喽，同志！</p>
 <p class="xj"><span class="xchar">平海燕</span> 这算什么呢？都坐坐吧！</p>
@@ -937,7 +937,7 @@
 <p class="xj"><span class="xchar">王新英</span> 妈妈在哪儿？在哪儿？我恨不能拉着姐姐的手，满街去叫妈妈！</p>
 <p class="xj"><span class="xchar">诸所长</span> 还有一些细节没弄好，也快！也快！秀竹，妈妈的脸上有什么特点没有？</p>
 <p class="xj"><span class="xchar">王秀竹</span> 脸上稀稀拉拉的有几个麻子。</p>
-<p class="xj"><span class="xchar">诸所长</span> �！你也记得爸爸的模样吗？</p>
+<p class="xj"><span class="xchar">诸所长</span> 𫪘！你也记得爸爸的模样吗？</p>
 <p class="xj"><span class="xchar">王秀竹</span> 也还记得点儿！</p>
 <p class="xj"><span class="xchar">王新英</span> 说说，说说爸爸什么样儿！是四方脸，还是圆脸？有胡子没有？</p>
 <p class="xj"><span class="xchar">王秀竹</span> 唉！新英，父亲埋在了什么地方，咱们都不知道！多么惨！多么惨！来了一阵风似的，一家人就死的死散的散了！</p>
