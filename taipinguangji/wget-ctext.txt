@@ -1,13 +1,3 @@
-wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/190/
-wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/191/
-wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/192/
-wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/193/
-wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/194/
-wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/195/
-wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/196/
-wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/197/
-wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/198/
-wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/199/
 wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/200/
 wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/201/
 wget --execute robots=off --recursive --no-parent --no-clobber --refer=http://google.com --user-agent="Mozilla/5.0 Firefox/4.0.1" --wait=10 --random-wait --level=1 http://ctext.org/taiping-guangji/202/
