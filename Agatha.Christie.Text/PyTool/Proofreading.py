@@ -5,9 +5,9 @@ import os
 import shutil
 import re
 
-base_dir = r'/Users/kevin/GitHub/eBookMake/LaoSheQuanJi/老舍全集11戏剧'
+base_dir = r'/Users/kevin/GitHub/eBookMake/LaoSheQuanJi/老舍全集12戏剧'
 # base_dir = r'D:\eBookMake\Agatha.Christie.Text\v67_DeathComesAsTheEnd'
-book_file_name = r"05-07ab.txt"
+book_file_name = r"老舍12 ab.txt"
 
 dict_file = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/PyTool/常见词语错误.txt'
 # dict_file = r'D:\eBookMake\Agatha.Christie.Text\PyTool\常见词语错误.txt'
@@ -22,7 +22,7 @@ pattern_chapter = r'^(第.*?[章窜韋])|(序幕)$'
 pattern_chapter_split = r'^(第.*?章)\s*?(.*?)$'
 replace_table_chapter = [('+', '十'), ('~', '一'), ('-', '一'), ('—', '一'), ('窜', '章'), ('韋', '章')]
 
-ending_punctuation = r'.<>/?;:{}"()\[\]。《》？！；：‘’“”（）【】……\n'.format("'")
+ending_punctuation = r'.<>/?;:{}"()\[\]。《》？！；：‘’“”（）·【】……\n'.format("'")
 pattern_hard_break = r'(.{}[^{}]+)\n+([\u4e00-\u9fa5]+)'.format('{10,}', ending_punctuation)
 replace_hard_break = r'\1\2'
 
