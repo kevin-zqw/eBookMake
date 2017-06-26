@@ -26,7 +26,8 @@ def process_block_quote(file_path):
 
             if block_started and not is_block_tag:
                 trimmed = line.strip()
-                line = '<p>{}</p>\n'.format(trimmed)
+                if '<p' not in trimmed:
+                    line = '<p>{}</p>\n'.format(trimmed)
 
             if is_block_tag:
                 line = line.replace(custom_start, start_tag)
