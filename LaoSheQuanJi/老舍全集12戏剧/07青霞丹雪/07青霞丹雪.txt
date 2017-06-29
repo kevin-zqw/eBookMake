@@ -3,9 +3,14 @@
 
 <h2 class="title2">第一场</h2>
 
-时间 明嘉靖某年。
-地点 北京，严府。
-人物 路楷<span class="block">（御史，丑扮）</span> 严喜<span class="block">（严府家院，小丑）</span> 严世蕃<span class="block">（官居侍郎，但皆以小丞相呼之，抹白脸）</span>
+<p class="l block"><b>时 间</b></p>
+<p class="block">明嘉靖某年。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">北京，严府。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">路楷<span class="block">（御史，丑扮）</span> 严喜<span class="block">（严府家院，小丑）</span> 严世蕃<span class="block">（官居侍郎，但皆以小丞相呼之，抹白脸）</span></p>
 
 <p class="l block">〔路楷上。</p>
 
@@ -63,9 +68,14 @@
 
 <h2 class="title2">第二场</h2>
 
-时间 前场后片刻。
-地点 北京，沈宅。
-人物 沈衮<span class="block">（沈青霞的次子，娃娃生）</span> 沈褒<span class="block">（沈青霞的三子，娃娃生）</span> 沈夫人<span class="block">（沈青霞之妻，老旦）</span> 沈青霞<span class="block">（锦衣卫经历，生扮）</span> 沈小霞<span class="block">（沈青霞的长子，小生）</span> 严喜
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后片刻。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">北京，沈宅。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">沈衮<span class="block">（沈青霞的次子，娃娃生）</span> 沈褒<span class="block">（沈青霞的三子，娃娃生）</span> 沈夫人<span class="block">（沈青霞之妻，老旦）</span> 沈青霞<span class="block">（锦衣卫经历，生扮）</span> 沈小霞<span class="block">（沈青霞的长子，小生）</span> 严喜</p>
 
 <p class="l block">〔沈衮、沈褒上。</p>
 
@@ -162,9 +172,14 @@
 
 <h2 class="title2">第三场</h2>
 
-时间 前场后片刻。
-地点 严府。
-人物 严喜 马明<span class="block">（御史，边老生）</span> 杨顺<span class="block">（御史，二花脸）</span> 路楷 严世藩 沈青霞 歌伎<span class="block">（四或八人）</span>
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后片刻。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">严府。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">严喜 马明<span class="block">（御史，边老生）</span> 杨顺<span class="block">（御史，二花脸）</span> 路楷 严世藩 沈青霞 歌伎<span class="block">（四或八人）</span></p>
 
 <p class="l block">〔幕开：台上已摆好席位，严喜坐在台口等候客人。</p>
 <p class="l block">〔马明、杨顺上。</p>
@@ -282,9 +297,14 @@
 
 <h2 class="title2">第四场</h2>
 
-时间 前场后两月余。
-地点 保安——宣府所属。
-人物 贾石<span class="block">（农民，生）</span> 赵四<span class="block">（农民，二花脸）</span>
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后两月余。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">保安——宣府所属。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">贾石<span class="block">（农民，生）</span> 赵四<span class="block">（农民，二花脸）</span></p>
 
 <p class="l block">〔贾石持锄上。</p>
 
@@ -322,9 +342,14 @@
 
 <h2 class="title2">第五场</h2>
 
-时间 前场后数日。
-地点 保安。
-人物 沈衮 沈褒 沈夫人 沈青霞 杨顺 路楷 四校尉 四兵 掌镇兵 贾石
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后数日。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">保安。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">沈衮 沈褒 沈夫人 沈青霞 杨顺 路楷 四校尉 四兵 掌镇兵 贾石</p>
 
 
 <p class="xj"><span class="xchar">众人</span> <span class="block">（内）</span>走啊！</p>
@@ -414,9 +439,14 @@
 
 <h2 class="title2">第六场</h2>
 
-时间 前场后数日。
-地点 保安郊外。
-人物 群众若干人<span class="block">（有老有少，多数是男的。女的系看热闹的二三小姑娘）</span> 密探 贾石 沈衮 沈褒 沈青霞 赵四
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后数日。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">保安郊外。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">群众若干人<span class="block">（有老有少，多数是男的。女的系看热闹的二三小姑娘）</span> 密探 贾石 沈衮 沈褒 沈青霞 赵四</p>
 
 <p class="l block">〔乡民甲执锣上。</p>
 
@@ -519,9 +549,14 @@
 
 <h2 class="title2">第七场</h2>
 
-时间 前场同日。
-地点 宣府都督府。
-人物 杨顺 路楷 密探 报子 中军 四将、四兵、四校尉 难民<span class="block">（若干人）</span>
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场同日。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">宣府都督府。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">杨顺 路楷 密探 报子 中军 四将、四兵、四校尉 难民<span class="block">（若干人）</span></p>
 
 <p class="l block">〔路楷捧剑上。</p>
 <p class="xj"><span class="xchar">路楷</span> <span class="block">（念）</span>恩赐上方剑。</p>
@@ -622,9 +657,14 @@
 
 <h2 class="title2">第八场</h2>
 
-时间 前场夜晚。
-地点 宣府城。
-人物 沈衮 沈褒 沈青霞 群众若干人 贾石 杨顺 路楷 中军 校尉与兵丁
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场夜晚。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">宣府城。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">沈衮 沈褒 沈青霞 群众若干人 贾石 杨顺 路楷 中军 校尉与兵丁</p>
 
 <p class="xj"><span class="xchar">沈青霞</span> <span class="block">（内）</span>父老，兄弟！<span class="block">（唱二黄倒板）</span></p>
 <blockquote>
@@ -712,9 +752,14 @@
 
 <h2 class="title2">第九场</h2>
 
-时间 沈青霞被杀后三月。
-地点 绍兴沈家。
-人物 张千<span class="block">（杨顺差官，丑）</span> 李万<span class="block">（杨顺差官，丑）</span> 沈小霞 沈娘子<span class="block">（沈小霞妻，正旦）</span>
+<p class="l block"><b>时 间</b></p>
+<p class="block">沈青霞被杀后三月。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">绍兴沈家。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">张千<span class="block">（杨顺差官，丑）</span> 李万<span class="block">（杨顺差官，丑）</span> 沈小霞 沈娘子<span class="block">（沈小霞妻，正旦）</span></p>
 
 <p class="l block">〔张千、李万上。</p>
 <p class="xj"><span class="xchar">张千</span> <span class="block">（念）</span>有个沈青霞，都督把他杀。</p>
@@ -805,9 +850,14 @@
 
 <h2 class="title2">第十场</h2>
 
-时间 前场后半月。
-地点 济宁州。
-人物 张千 李万 沈娘子 沈小霞 冯丹雪<span class="block">（在籍守孝侍郎，生）</span> 老院子 柱儿<span class="block">（小生）</span>
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后半月。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">济宁州。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">张千 李万 沈娘子 沈小霞 冯丹雪<span class="block">（在籍守孝侍郎，生）</span> 老院子 柱儿<span class="block">（小生）</span></p>
 
 <p class="l block">〔张千、李万引沈小霞、沈娘子上。</p>
 <p class="xj"><span class="xchar">沈小霞</span> <span class="block">（唱）</span>过青山望白云仰天浩叹！</p>
@@ -1008,9 +1058,14 @@
 
 
 <h2 class="title2">第十一场</h2>
-时间 前场后一曰。
-地点 同前。
-人物 沈娘子 李万 张千 四衙役 州官<span class="block">（丑）</span> 冯丹雪
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后一曰。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">同前。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">沈娘子 李万 张千 四衙役 州官<span class="block">（丑）</span> 冯丹雪</p>
 
 <p class="l block">〔沈娘子上。打四更。</p>
 <p class="xj"><span class="xchar">沈娘子</span> <span class="block">（唱）</span></p>
@@ -1155,9 +1210,14 @@
 
 <h2 class="title2">第十二场</h2>
 
-时间 前场后月余。
-地点 冯家。
-人物 沈小霞 冯丹雪 院子 州官 四差人
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后月余。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">冯家。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">沈小霞 冯丹雪 院子 州官 四差人</p>
 
 <p class="l block">〔幕开：沈小霞的屋子，桌上置好笔墨纸张。</p>
 <p class="l block">〔沈小霞上。</p>
@@ -1290,9 +1350,14 @@
 
 <h2 class="title2">第十三场</h2>
 
-时间 前场后一小时。
-地点 白衣庵。
-人物 沈娘子 院子 李万
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后一小时。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">白衣庵。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">沈娘子 院子 李万</p>
 
 <p class="l block">〔沈娘子上。</p>
 <p class="xj"><span class="xchar">沈娘子</span> <span class="block">（唱）</span></p>
@@ -1358,9 +1423,14 @@
 
 <h2 class="title2">第十四场</h2>
 
-时间 前场后两月。
-地点 保安地带。
-人物 冯丹雪 沈小霞 沈娘子 贾石 沈褒 沈夫人 赵四 杨顺 路楷 兵士<span class="block">（若干，杨顺部下）</span> 官兵<span class="block">（若干人，来捉拿杨顺、路楷的）</span> 群众<span class="block">（若干人）</span>
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后两月。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">保安地带。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">冯丹雪 沈小霞 沈娘子 贾石 沈褒 沈夫人 赵四 杨顺 路楷 兵士<span class="block">（若干，杨顺部下）</span> 官兵<span class="block">（若干人，来捉拿杨顺、路楷的）</span> 群众<span class="block">（若干人）</span></p>
 
 <p class="l block">〔冯丹雪、沈小霞、沈娘子上。</p>
 <p class="xj"><span class="xchar">冯丹雪</span> <span class="block">（唱）</span>三人冒险朝前奔，</p>

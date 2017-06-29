@@ -1,29 +1,61 @@
 大家评理
 ·六场歌剧·
 
-人物表
-李绣珍——女，三十岁。十九岁时由父母作主，嫁给了韩家受虐待。
-李福东——男，五十多岁。瓦匠。绣珍的父亲。
-韩赵氏——女，五十多岁。绣珍的婆婆。没有文化，很会虐待儿媳。
-韩大金——男，三十一岁。绣珍的丈夫。
-韩小勤——女，九岁。绣珍的女儿。
-陈大妈——女，五十多岁。李家的邻居。
-陈继芳——女，二十六七岁。陈大妈的儿媳，妇女代表。
-冯守易——男，四十岁。区人民法院的审判员。韩李的离婚案由他处理。他在解放前作过法官，不了解人民司法的精神，往往出错误。
-于新治——男，三十多岁。法院的干部。
-唐仁理——男，二十多岁。法院记录员。
-张大嫂——女，三十多岁。李家的邻居。
-沈三——男，三十多岁。农民。
-孟二嫂——女，三十岁左右。李家的邻居。
-汤五——男，四十多岁。农民。
+<h2 class="chapter">人物表</h2>
+
+
+  <p class="l block"><b>李绣珍</b></p>
+  <p class="block">女，三十岁。十九岁时由父母作主，嫁给了韩家受虐待。</p>
+
+  <p class="l block"><b>李福东</b></p>
+  <p class="block">男，五十多岁。瓦匠。绣珍的父亲。</p>
+
+  <p class="l block"><b>韩赵氏</b></p>
+  <p class="block">女，五十多岁。绣珍的婆婆。没有文化，很会虐待儿媳。</p>
+
+  <p class="l block"><b>韩大金</b></p>
+  <p class="block">男，三十一岁。绣珍的丈夫。</p>
+
+  <p class="l block"><b>韩小勤</b></p>
+  <p class="block">女，九岁。绣珍的女儿。</p>
+
+  <p class="l block"><b>陈大妈</b></p>
+  <p class="block">女，五十多岁。李家的邻居。</p>
+
+  <p class="l block"><b>陈继芳</b></p>
+  <p class="block">女，二十六七岁。陈大妈的儿媳，妇女代表。</p>
+
+  <p class="l block"><b>冯守易</b></p>
+  <p class="block">男，四十岁。区人民法院的审判员。韩李的离婚案由他处理。他在解放前作过法官，不了解人民司法的精神，往往出错误。</p>
+
+  <p class="l block"><b>于新治</b></p>
+  <p class="block">男，三十多岁。法院的干部。</p>
+
+  <p class="l block"><b>唐仁理</b></p>
+  <p class="block">男，二十多岁。法院记录员。</p>
+
+  <p class="l block"><b>张大嫂</b></p>
+  <p class="block">女，三十多岁。李家的邻居。</p>
+
+  <p class="l block"><b>沈三</b></p>
+  <p class="block">男，三十多岁。农民。</p>
+
+  <p class="l block"><b>孟二嫂</b></p>
+  <p class="block">女，三十岁左右。李家的邻居。</p>
+
+  <p class="l block"><b>汤五</b></p>
+  <p class="block">男，四十多岁。农民。</p>
 
 
 
 
 
 <h2 class="title2">第一场<br/> <span class="sptxt">家庭不和</span></h2>
-时间 一九五二年初春，下午。
-地点 北京郊外韩家庄，韩家。
+<p class="l block"><b>时 间</b></p>
+<p class="block">一九五二年初春，下午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">北京郊外韩家庄，韩家。</p>
 
 <p class="l block">〔幕启：韩家屋里。看样子韩家过过好日子，桌椅都是很结实的老东西。桌上有不少摆设，什么座钟啊<span class="block">（久已停摆）</span>，帽筒啊<span class="block">（有一个破了一大块）</span>，胆瓶啊<span class="block">（插着把没有多少毛的鸡毛掸）</span>，还有……。看见这些，使人想象到：这家子的家底儿不坏，假若加以调整，是可以再兴旺起来的。</p>
 <p class="l block">〔韩赵氏正把油盐酱醋，剩馒头等往柜子里放，然后把柜门锁上。</p>
@@ -362,8 +394,11 @@
 
 
 <h2 class="title2">第二场<br/> <span class="sptxt">韩家起诉</span></h2>
-时间 前场半个月后，上午。
-地点 区人民法院。
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场半个月后，上午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">区人民法院。</p>
 
 <p class="l block">〔幕启：冯守易审判员坐长桌后，陈继芳坐冯旁，记录员坐在桌的一头。韩大金与李绣珍各坐一凳，面向冯。冯忙着看文件。韩大金焦急不安。绣珍呆视墙上的毛主席像。</p>
 
@@ -551,8 +586,11 @@
 
 <h2 class="title2">第三场<br/> <span class="sptxt">离了法院</span></h2>
 
-时间 前场同日，中午。
-地点 韩家庄村外。
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场同日，中午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">韩家庄村外。</p>
 
 <p class="l block">〔幕启：村外，四下里都是麦田。韩大金由法院回来，从此经过，坐在道旁的大树下休息，沉思。</p>
 
@@ -955,8 +993,11 @@
 
 <h2 class="title2">第四场<br/> <span class="sptxt">生死之间</span></h2>
 
-时间 一九五二年夏天，上午。司法改革运动开始。
-地点 李家门外。
+<p class="l block"><b>时 间</b></p>
+<p class="block">一九五二年夏天，上午。司法改革运动开始。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">李家门外。</p>
 
 <p class="l block">〔幕启：李家院外，朝阳初起，李绣珍已在柳树下洗衣服，一边洗一边落泪。李福东拿着家伙，去上工。</p>
 
@@ -1205,8 +1246,11 @@
 
 <h2 class="title2">第五场<br/> <span class="sptxt">旧案重提</span></h2>
 
-时间 前场后半小时。
-地点 区人民法院里。
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后半小时。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">区人民法院里。</p>
 
 <p class="l block">〔幕启：法院内的一间屋子，有一张写字台、几把椅子。于新治等开小组会，从新评议韩、李两造的离婚案。于是组长。</p>
 
@@ -1350,8 +1394,11 @@
 
 
 <h2 class="title2">第六场<br/> <span class="sptxt">法院下乡</span></h2>
-时间 前场数日后，下午。
-地点 韩家院内。
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场数日后，下午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">韩家院内。</p>
 
 <p class="l block">〔幕启：韩家院内，西阴凉里，置一长桌，板凳数条。于新治与陈继芳坐桌后，记录员坐桌的一头。其余的人或坐或立。</p>
 

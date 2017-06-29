@@ -14,7 +14,9 @@
 
 
 <h2 class="title2">第一场<br/> <span class="sptxt">商赠</span></h2>
-人物 熊友兰<span class="block">（生）</span> 舟子二 船主 旅客甲<span class="block">（工）</span> 旅客乙<span class="block">（农）</span> 旅客丙<span class="block">（妇）</span> 旅客丁<span class="block">（商）</span> 陶明山<span class="block">（末）</span>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">熊友兰<span class="block">（生）</span> 舟子二 船主 旅客甲<span class="block">（工）</span> 旅客乙<span class="block">（农）</span> 旅客丙<span class="block">（妇）</span> 旅客丁<span class="block">（商）</span> 陶明山<span class="block">（末）</span></p>
 
 <p class="l block">〔幕启：在乐声中启幕。一只载货也搭客的船由苏州开船往杭州去，在河中缓缓而行。熊友兰掌舵，二舟子摇桨。船主与旅客五人坐船中，大家齐唱牌子：</p>
 <blockquote>
@@ -146,7 +148,9 @@
 
 <h2 class="title2">第二场<br/> <span class="sptxt">杀尤</span></h2>
 
-人物 尤葫芦<span class="block">（净）</span> 秦伯伯<span class="block">（外）</span> 苏成娟<span class="block">（正旦）</span> 娄阿鼠<span class="block">（正丑）</span> 李大娘<span class="block">（旦）</span>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">尤葫芦<span class="block">（净）</span> 秦伯伯<span class="block">（外）</span> 苏成娟<span class="block">（正旦）</span> 娄阿鼠<span class="block">（正丑）</span> 李大娘<span class="block">（旦）</span></p>
 
 <p class="l block">〔幕启：打初更。尤葫芦<span class="block">（屠户）</span>肩扛十五贯钱，摇摇摆摆地走来。他又喝醉了。一边走一边信口乱唱。</p>
 
@@ -259,7 +263,9 @@
 
 <h2 class="title2">第三场<br/> <span class="sptxt">桥会</span></h2>
 
-人物 苏成娟 熊友兰 秦伯伯 娄阿鼠 李大娘 二差人 尤姑母
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">苏成娟 熊友兰 秦伯伯 娄阿鼠 李大娘 二差人 尤姑母</p>
 
 <p class="l block">〔幕启：打五更，在皋桥附近，苏成娟惊惶疾走。</p>
 
@@ -357,7 +363,9 @@
 
 <h2 class="title2">第四场<br/> <span class="sptxt">男监</span></h2>
 
-人物 熊友兰 熊友蕙 解差 禁卒
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">熊友兰 熊友蕙 解差 禁卒</p>
 
 <p class="l block">〔幕启：打三更。常州死牢。解差持公文上。</p>
 
@@ -462,7 +470,9 @@
 
 <h2 class="title2">第五场<br/> <span class="sptxt">见都</span></h2>
 
-人物 熊友兰 熊友蕙 苏成娟 侯三姑 二差人 况锺<span class="block">（生）</span> 况喜 二衙役 门子 巡夜官<span class="block">（净）</span> 四校尉 中军 周洸<span class="block">（净）</span>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">熊友兰 熊友蕙 苏成娟 侯三姑 二差人 况锺<span class="block">（生）</span> 况喜 二衙役 门子 巡夜官<span class="block">（净）</span> 四校尉 中军 周洸<span class="block">（净）</span></p>
 
 <p class="l block">〔幕启：内喊：“大人退堂，犯人收监。”二差人带四犯回监。</p>
 
@@ -600,7 +610,9 @@
 
 
 <h2 class="title2">第六场<br/> <span class="sptxt">踏勘</span></h2>
-人物 夏胡子 冯玉臣 况锺 况喜 李老丈 王大娘
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">夏胡子 冯玉臣 况锺 况喜 李老丈 王大娘</p>
 
 <p class="l block">〔幕启：况锺到淮安山阳来勘查，地方夏胡子在镇外迎候，夏胡子甚是不安，一会儿一看太阳。</p>
 
@@ -785,7 +797,9 @@
 
 <h2 class="title2">第七场<br/> <span class="sptxt">访鼠</span></h2>
 
-人物 群众若干人 陶明山 秦伯伯 李大娘 况锺 况喜 娄阿鼠
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">群众若干人 陶明山 秦伯伯 李大娘 况锺 况喜 娄阿鼠</p>
 
 <p class="l block">〔幕启：在皋桥附近。正是城隍庙开庙之日，群众三三两两到庙中去，也有去烧香的，也有去作生意的，大家一路上说说笑笑。最后，陶、秦、李三老人同上。</p>
 
@@ -922,7 +936,9 @@
 
 <h2 class="title2">第八场<br/> <span class="sptxt">会审</span></h2>
 
-人物 周洸 家丁 况喜 况锺 中军 四校尉 差人 熊友兰 熊友蕙 苏成娟 侯三姑 娄阿鼠
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">周洸 家丁 况喜 况锺 中军 四校尉 差人 熊友兰 熊友蕙 苏成娟 侯三姑 娄阿鼠</p>
 
 <p class="l block">〔幕启：周都察的书斋。家丁上。</p>
 

@@ -1,12 +1,16 @@
 走西口
 ·二人台·
 
-时间 一九六〇年秋。
-地点 太原。
-人物
-周雨香——女，20岁，继春之妻。
-继春——男，25岁，孙玉莲之子，雨香之夫。
-孙玉莲——女，41岁，继春之母。
+<p class="l block"><b>时 间</b></p>
+<p class="block">一九六〇年秋。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">太原。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">周雨香——女，20岁，继春之妻。</p>
+<p class="block">继春——男，25岁，孙玉莲之子，雨香之夫。</p>
+<p class="block">孙玉莲——女，41岁，继春之母。</p>
 
 <p class="l block">〔周雨香上。</p>
 <p class="xj"><span class="xchar">周雨香</span> <span class="block">（唱）</span></p>

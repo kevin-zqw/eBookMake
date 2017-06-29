@@ -15,9 +15,14 @@
 
 <h2 class="title2">第一场</h2>
 
-时间 宋朝也好，明朝也好，反正是有皇帝的时候。有那么一天的上午。
-地点 就算在钱塘吧，大街上。
-人物 县官<span class="block">（丑扮）</span> 二衙役<span class="block">（跟随县官的）</span> 钦差 四差役 四校尉 还有两名差役<span class="block">（连同前面八人都跟随钦差）</span> 群众若干人 县官娘子 丫环
+<p class="l block"><b>时 间</b></p>
+<p class="block">宋朝也好，明朝也好，反正是有皇帝的时候。有那么一天的上午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">就算在钱塘吧，大街上。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">县官<span class="block">（丑扮）</span> 二衙役<span class="block">（跟随县官的）</span> 钦差 四差役 四校尉 还有两名差役<span class="block">（连同前面八人都跟随钦差）</span> 群众若干人 县官娘子 丫环</p>
 
 <p class="l block">〔幕启，音乐不大起劲，而颇滑稽。</p>
 <p class="l block">〔二衙役引县官由“下场门”遛出来。县官鞠躬如也，俯首恭侍，正如音乐同样滑稽而泄气。远远有锣声、喝道声。音乐逐渐转强，越来越强，终于大锣大鼓，惊心动魄。县官的腰更弯了，连连后退。</p>
@@ -231,9 +236,14 @@
 
 <h2 class="title2">第二场</h2>
 
-时间 前场同日下午。
-地点 大街上。
-人物 李头儿 二公差 董妈 王夏 李大叔 刘大伯 董代 陈老汉 赵小弟
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场同日下午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">大街上。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">李头儿 二公差 董妈 王夏 李大叔 刘大伯 董代 陈老汉 赵小弟</p>
 
 <p class="l block">〔幕启，李头儿同二公差在音乐声中走出来，李头儿夹着一些皇榜，二公差敲锣。</p>
 
@@ -425,9 +435,14 @@
 
 
 <h2 class="title2">第三场</h2>
-时间 前场后几分钟。
-地点 街上。
-人物 李玉 董妈 王夏
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后几分钟。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">街上。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">李玉 董妈 王夏</p>
 
 <p class="l block">〔幕启，李玉由外乡归来探母。</p>
 
@@ -557,9 +572,14 @@
 
 
 <h2 class="title2">第四场</h2>
-时间 前后半点钟。
-地点 王夏家中。
-人物 王夏 李玉 王卜凤<span class="block">（王夏的女儿）</span> 丫头 董妈 董代
+<p class="l block"><b>时 间</b></p>
+<p class="block">前后半点钟。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">王夏家中。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">王夏 李玉 王卜凤<span class="block">（王夏的女儿）</span> 丫头 董妈 董代</p>
 
 <p class="l block">〔幕启，王夏非常得意，在音乐中走出来。</p>
 <p class="l block">〔堂上高燃红烛。董妈拉着李玉上。</p>
@@ -669,9 +689,14 @@
 
 
 <h2 class="title2">第五场</h2>
-时间 夜晚。
-地点 张家。
-人物 张采凤 张宣<span class="block">（采凤之父）</span> 李玉 董代
+<p class="l block"><b>时 间</b></p>
+<p class="block">夜晚。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">张家。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">张采凤 张宣<span class="block">（采凤之父）</span> 李玉 董代</p>
 
 <p class="l block">〔幕启，鼓打一更。张采凤执灯上。音乐杂乱，表示街上仍闹闹嚷嚷。</p>
 
@@ -965,9 +990,14 @@
 
 
 <h2 class="title2">第六场</h2>
-时间 前场当夜。
-地点 江边——舟上。
-人物 二公差 董代 李头儿 李玉 县官娘子 衙役二人
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场当夜。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">江边——舟上。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">二公差 董代 李头儿 李玉 县官娘子 衙役二人</p>
 
 <p class="l block">〔幕启，二公差带董代上，李头儿执灯由另一方向上。</p>
 
@@ -1056,9 +1086,14 @@
 
 
 <h2 class="title2">第七场</h2>
-时间 前场次日上午。
-地点 李玉家。
-人物 张采凤 张宣 李母 王夏 王仆 董妈
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场次日上午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">李玉家。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">张采凤 张宣 李母 王夏 王仆 董妈</p>
 
 <p class="l block">〔幕启，张宣与采凤同上。</p>
 
@@ -1263,9 +1298,14 @@
 
 
 <h2 class="title2">第八场</h2>
-时间 前场后片刻。
-地点 街上。
-人物 张采凤<span class="block">（改扮武生）</span> 李头儿 二公差 王夏 李母 张宣 董妈
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后片刻。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">街上。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">张采凤<span class="block">（改扮武生）</span> 李头儿 二公差 王夏 李母 张宣 董妈</p>
 
 <p class="l block">〔幕启，张采凤在街上寻夫。</p>
 
@@ -1411,9 +1451,14 @@
 
 
 <h2 class="title2">第九场</h2>
-时间 前场同日。
-地点 钱塘县县衙。
-人物 县官娘子 丫环 董代 县官 王夏 张采凤 公差 二绅士 李玉 小姐<span class="block">（县官女）</span> 张宣 李母 董妈 校尉 亲差
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场同日。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">钱塘县县衙。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">县官娘子 丫环 董代 县官 王夏 张采凤 公差 二绅士 李玉 小姐<span class="block">（县官女）</span> 张宣 李母 董妈 校尉 亲差</p>
 
 <p class="l block">〔幕启，县衙后堂，办喜事的样子。县官娘子华服上。丫环随上。</p>
 

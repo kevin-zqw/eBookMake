@@ -46,9 +46,14 @@
 
 
 <h2 class="title2">第一场</h2>
-时间 老年间的那么一天，上午。
-地点 土财主金三官宅内，客厅。
-人物 赵旺 荷珠 赵鹏 王兴 金三官 黄员外 黄家的管家 仆人数人 金贞凤
+<p class="l block"><b>时 间</b></p>
+<p class="block">老年间的那么一天，上午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">土财主金三官宅内，客厅。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">赵旺 荷珠 赵鹏 王兴 金三官 黄员外 黄家的管家 仆人数人 金贞凤</p>
 
 <p class="l block">〔厅内悬灯结彩，而缺乏喜气：灯是破的，彩是旧的。</p>
 <p class="l block">〔赵旺夹着把条帚，弯着腰东找西找。</p>
@@ -302,9 +307,14 @@
 
 <h2 class="title2">第二场</h2>
 
-时间 前场后，晚间。
-地点 赵秀才书房处。
-人物 王兴 赵鹏 荷珠 赵旺 金三官
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后，晚间。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">赵秀才书房处。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">王兴 赵鹏 荷珠 赵旺 金三官</p>
 
 <p class="l block">〔王兴怒冲冲地由书房出来。赵鹏在后面跟着。</p>
 
@@ -456,9 +466,14 @@
 
 <h2 class="title2">第三场</h2>
 
-时间 前场后几日，下午。
-地点 乡间。
-人物 赵旺 刘老汉 赵鹏
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后几日，下午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">乡间。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">赵旺 刘老汉 赵鹏</p>
 
 <p class="l block">〔赵旺背着一袋粮食，走得很吃力，见一大树，在树下休息一下。</p>
 
@@ -524,9 +539,14 @@
 
 <h2 class="title2">第四场</h2>
 
-时间 二年后。
-地点 金家大厅内。
-人物 金三官 赵旺 王兴 黄员外 金贞凤
+<p class="l block"><b>时 间</b></p>
+<p class="block">二年后。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">金家大厅内。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">金三官 赵旺 王兴 黄员外 金贞凤</p>
 
 <p class="l block">〔金三官非常高兴，准备迎接女儿女婿。</p>
 
@@ -649,9 +669,14 @@
 
 <h2 class="title2">第五场</h2>
 
-时间 前场后不久，快到中午。
-地点 状元府门外。
-人物 门役 李大妈 荷珠 赵鹏 随从四人 赵旺 金三官 金贞凤
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后不久，快到中午。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">状元府门外。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">门役 李大妈 荷珠 赵鹏 随从四人 赵旺 金三官 金贞凤</p>
 
 <p class="l block">〔门役在状元府门外，信口哼唧着。</p>
 
@@ -771,9 +796,14 @@
 
 <h2 class="title2">第六场</h2>
 
-时间 前场后，片刻。
-地点 状元府大厅。
-人物 赵鹏 赵旺 门役 金贞凤 金三官 荷珠
+<p class="l block"><b>时 间</b></p>
+<p class="block">前场后，片刻。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">状元府大厅。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">赵鹏 赵旺 门役 金贞凤 金三官 荷珠</p>
 
 <p class="l block">〔赵鹏、赵旺进入大厅。赵旺把碗放在桌上，四下里看。</p>
 

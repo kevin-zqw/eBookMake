@@ -5,9 +5,14 @@
 
 <h2 class="title2">第一场</h2>
 
-时间 一九五一年秋。
-地点 美国某地。
-人物 大花蚊子 绿豆蝇 跳蚤 虱子 老鼠
+<p class="l block"><b>时 间</b></p>
+<p class="block">一九五一年秋。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">美国某地。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">大花蚊子 绿豆蝇 跳蚤 虱子 老鼠</p>
 
 <p class="l block">〔幕启：蚊子无精打采，舞了几步。立定，伤叹。</p>
 
@@ -231,9 +236,14 @@
 
 <h2 class="title2">第二场</h2>
 
-时间 一九五二年初春。
-地点 中国东北安东郊区。
-人物 老鼠 大花蚊 绿豆蝇 跳蚤 虱子 男女儿童各一队<span class="block">（男甲、乙……，女甲、乙……）</span>
+<p class="l block"><b>时 间</b></p>
+<p class="block">一九五二年初春。</p>
+
+<p class="l block"><b>地 点</b></p>
+<p class="block">中国东北安东郊区。</p>
+
+<p class="l block"><b>人 物</b></p>
+<p class="block">老鼠 大花蚊 绿豆蝇 跳蚤 虱子 男女儿童各一队<span class="block">（男甲、乙……，女甲、乙……）</span></p>
 
 <p class="l block">〔幕启：老鼠背着跳蚤，状甚狼狈，东藏西躲。</p>
 
