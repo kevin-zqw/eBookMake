@@ -8,8 +8,8 @@
 继春——男，25岁，孙玉莲之子，雨香之夫。
 孙玉莲——女，41岁，继春之母。
 
-〔周雨香上。
-周雨香|（唱）
+<p class="l block">〔周雨香上。</p>
+周雨香|<span class="block">（唱）</span>
 <blockquote>
 <p>家住在太原，</p>
 <p>生活似蜜甜！</p>
@@ -26,7 +26,7 @@
 <p>也跟他竞赛，</p>
 <p>办好幼儿园，</p>
 <p>我还没儿女，</p>
-<p>待别家的儿女亲的一般！（顺手拿起毛线）</p>
+<p>待别家的儿女亲的一般！<span class="block">（顺手拿起毛线）</span></p>
 <p>拿起蓝毛线，</p>
 <p>打一双毛袜给婆婆穿。</p>
 <p>唉！婆母孙玉莲，</p>
@@ -40,228 +40,228 @@
 <p>虽然刚过四十岁，</p>
 <p>她头发半白腰已弯！</p>
 <p>雨香我的责任重：</p>
-<p>鼓励爱人，还得叫婆母喜欢！（看看桌上的小钟）</p>
+<p>鼓励爱人，还得叫婆母喜欢！<span class="block">（看看桌上的小钟）</span></p>
 <p>哎呀，继春为何不回转，</p>
 <p>莫非得了红旗，忘了时间？</p>
-<p>打开电匣，听听消息，（要开收音机，又止）</p>
+<p>打开电匣，听听消息，<span class="block">（要开收音机，又止）</span></p>
 <p>不好！也许婆母正安歇！</p>
 <p>去到门外看一看，</p>
-<p>迎接爱人，两口儿都喜欢！（要出去，又止）</p>
+<p>迎接爱人，两口儿都喜欢！<span class="block">（要出去，又止）</span></p>
 <p>不好！这双袜子该快做，</p>
 <p>眼看着大雁南飞到冬天。</p>
 <p>老太太年轻受尽了苦，</p>
-<p>得叫她晚景温暖又香甜！（加紧织袜子）</p>
+<p>得叫她晚景温暖又香甜！<span class="block">（加紧织袜子）</span></p>
 </blockquote>
-〔继春上。
-继春|（唱）人得喜事精神爽，组织上派我去支援包钢！（白）雨香！雨香！
-周雨香|（白）到了家，不进来，乱嚷什么呀？
-继春|（入室，白）是呀，进来喽！雨香，好妹妹！大喜事！大喜事！
-周雨香|（立，白）哥哥，你得了红旗？
-继春|（白）现在没得，到包钢去得红旗！
-周雨香|（白）怎么？哥哥去支援包钢？
-继春|（白）难道你不愿意？
-周雨香|（白）去支援包钢，你是有出息的好哥哥！说我不愿意，你是不了解我的坏哥哥！
-继春|（白）看妹妹的嘴，多么会说！
-周雨香|（白）哥哥什么时候走？
-继春|（看表，白）还有三个钟头！
-周雨香|（白）暖瓶里有热茶，炉台上有热菜热饭，哥哥自己去拿，我赶快给你收拾行李去！（要走）
-继春|（白）等等，等一等！
-周雨香|（白）别等啦！袜子要补补，皮鞋要擦擦；汗衫要看看，扣子全不全；手绢要洗洗，搭在火上去烤干；可不简单！
-继春|（白）那都没关系！自幼儿跟妈妈过苦日子，缝缝补补，浆浆洗洗，我自己都会！我有更要紧的事，对妹妹说！
-周雨香|（白）嗯，我猜着了！（唱）
+<p class="l block">〔继春上。</p>
+继春|<span class="block">（唱）</span>人得喜事精神爽，组织上派我去支援包钢！<span class="block">（白）</span>雨香！雨香！
+周雨香|<span class="block">（白）</span>到了家，不进来，乱嚷什么呀？
+继春|<span class="block">（入室，白）</span>是呀，进来喽！雨香，好妹妹！大喜事！大喜事！
+周雨香|<span class="block">（立，白）</span>哥哥，你得了红旗？
+继春|<span class="block">（白）</span>现在没得，到包钢去得红旗！
+周雨香|<span class="block">（白）</span>怎么？哥哥去支援包钢？
+继春|<span class="block">（白）</span>难道你不愿意？
+周雨香|<span class="block">（白）</span>去支援包钢，你是有出息的好哥哥！说我不愿意，你是不了解我的坏哥哥！
+继春|<span class="block">（白）</span>看妹妹的嘴，多么会说！
+周雨香|<span class="block">（白）</span>哥哥什么时候走？
+继春|<span class="block">（看表，白）</span>还有三个钟头！
+周雨香|<span class="block">（白）</span>暖瓶里有热茶，炉台上有热菜热饭，哥哥自己去拿，我赶快给你收拾行李去！<span class="block">（要走）</span>
+继春|<span class="block">（白）</span>等等，等一等！
+周雨香|<span class="block">（白）</span>别等啦！袜子要补补，皮鞋要擦擦；汗衫要看看，扣子全不全；手绢要洗洗，搭在火上去烤干；可不简单！
+继春|<span class="block">（白）</span>那都没关系！自幼儿跟妈妈过苦日子，缝缝补补，浆浆洗洗，我自己都会！我有更要紧的事，对妹妹说！
+周雨香|<span class="block">（白）</span>嗯，我猜着了！<span class="block">（唱）</span>
 <blockquote>
 <p>莫非舍不得小妹我，</p>
 <p>口外风寒，家里暖和？</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>恩爱夫妻自然两难舍，</p>
 <p>可是呀，暂时分手有什么了不得！</p>
 <p>支援包钢是光荣的事，</p>
 <p>两口儿都该笑呵呵！</p>
 </blockquote>
-<p>（白）妹妹你没猜对！</p>
-周雨香|（唱）
+<p><span class="block">（白）</span>妹妹你没猜对！</p>
+周雨香|<span class="block">（唱）</span>
 <blockquote>
 <p>莫非怕我年轻不周到，</p>
 <p>不会伺候好婆婆？</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>你在外边积极服务，</p>
 <p>怎会在家里错待婆婆？</p>
 </blockquote>
-周雨香|（白）又不对？
-继春|（白）不对！告诉你吧！（唱）
+周雨香|<span class="block">（白）</span>又不对？
+继春|<span class="block">（白）</span>不对！告诉你吧！<span class="block">（唱）</span>
 <blockquote>
 <p>我心中只有一个顾虑，</p>
 <p>这件事怎对妈妈说？</p>
 </blockquote>
-周雨香|（唱）
+周雨香|<span class="block">（唱）</span>
 <blockquote>
 <p>哥哥你是多此一举，</p>
 <p>光荣事有什么不好说？</p>
 </blockquote>
-继春|（白）妹妹，你不知道！（唱）
+继春|<span class="block">（白）</span>妹妹，你不知道！<span class="block">（唱）</span>
 <blockquote>
 <p>当初我父走西口，</p>
 <p>妈妈受尽困苦折磨！</p>
 </blockquote>
-周雨香|（唱）
+周雨香|<span class="block">（唱）</span>
 <blockquote>
 <p>你今天不是走西口，</p>
 <p>一家人都有好生活！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>妈妈不会那么想，</p>
 <p>她一听见包头就打哆嗦！</p>
 </blockquote>
-周雨香|（唱）
+周雨香|<span class="block">（唱）</span>
 <blockquote>
 <p>妈妈虽然不大出去，</p>
 <p>新社会的事情常听你我说！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>妈妈心里中了病，</p>
 <p>听说“口外”就刀刺心窝！</p>
 </blockquote>
-周雨香|（唱）
+周雨香|<span class="block">（唱）</span>
 <blockquote>
 <p>那么你就快快走，</p>
 <p>你走后，我再慢慢对她说！</p>
 </blockquote>
-继春|（白）不好！（唱）
+继春|<span class="block">（白）</span>不好！<span class="block">（唱）</span>
 <blockquote>
 <p>我不肯不辞而去，</p>
 <p>堂堂正正，不偷偷摸摸！</p>
 </blockquote>
-〔后面有咳嗽声。
-周雨香|（白）哟！妈妈来了！怎么办？怎么办？快想主意！
-继春|（白）我，我还是实话实说吧！
-〔孙玉莲上。
-孙玉莲|（唱）
+<p class="l block">〔后面有咳嗽声。</p>
+周雨香|<span class="block">（白）</span>哟！妈妈来了！怎么办？怎么办？快想主意！
+继春|<span class="block">（白）</span>我，我还是实话实说吧！
+<p class="l block">〔孙玉莲上。</p>
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>两鬓如霜腰似弓，</p>
 <p>幸喜耳朵还不聋！</p>
 </blockquote>
-继春 周雨香|（白）妈！（过去搀她）
-孙玉莲|（坐，白）雨香，好媳妇，去收拾行李吧！
-继春|（白）妈，你都听见了？
-〔老太太点头。
-周雨香|（笑，白）看，妈妈的耳朵多么好！
-孙玉莲|（白）媳妇，去吧！
-周雨香|（不知如何是好，白）是！（下）
-继春|（白）妈！妈！（想不起说什么才好）
-孙玉莲|（白）继春，好孩子，我都明白，明白！可是……
-继春|（白）妈！我也明白妈妈！说说吧，你老人家心里存什么话都说出来吧！
-孙玉莲|（白）想不出什么新的话来，我只记得当年你父亲走西口的光景！
-继春|（白）就说说那个吧！妈！
-孙玉莲|（白）啊！——不必说了，惨！惨！
-继春|（白）说说！越惨，咱们才越不会忘本！
-孙玉莲|（白）唉！（唱）
+继春 周雨香|<span class="block">（白）</span>妈！<span class="block">（过去搀她）</span>
+孙玉莲|<span class="block">（坐，白）</span>雨香，好媳妇，去收拾行李吧！
+继春|<span class="block">（白）</span>妈，你都听见了？
+<p class="l block">〔老太太点头。</p>
+周雨香|<span class="block">（笑，白）</span>看，妈妈的耳朵多么好！
+孙玉莲|<span class="block">（白）</span>媳妇，去吧！
+周雨香|<span class="block">（不知如何是好，白）</span>是！<span class="block">（下）</span>
+继春|<span class="block">（白）</span>妈！妈！<span class="block">（想不起说什么才好）</span>
+孙玉莲|<span class="block">（白）</span>继春，好孩子，我都明白，明白！可是……
+继春|<span class="block">（白）</span>妈！我也明白妈妈！说说吧，你老人家心里存什么话都说出来吧！
+孙玉莲|<span class="block">（白）</span>想不出什么新的话来，我只记得当年你父亲走西口的光景！
+继春|<span class="block">（白）</span>就说说那个吧！妈！
+孙玉莲|<span class="block">（白）</span>啊！——不必说了，惨！惨！
+继春|<span class="block">（白）</span>说说！越惨，咱们才越不会忘本！
+孙玉莲|<span class="block">（白）</span>唉！<span class="block">（唱）</span>
 <blockquote>
 <p>当年你父走西口，</p>
 <p>我只能给他梳梳头！</p>
 <p>梳通了千根万根发，</p>
 <p>我的泪千行万行往下流！</p>
 </blockquote>
-继春|（白）妈！（唱）
+继春|<span class="block">（白）</span>妈！<span class="block">（唱）</span>
 <blockquote>
 <p>我没有长长的辫，</p>
 <p>昨天刮脸理了头！</p>
 <p>妈妈看我多么干净，</p>
 <p>儿无烦恼母无忧！</p>
 </blockquote>
-孙玉莲|（唱）
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>我夫妻紧紧拉着手，</p>
 <p>一步一哭，哭到门外头！</p>
 <p>你父假装快快走，</p>
 <p>一步向前，一步往回溜！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>今天我不去逃难，</p>
 <p>妈妈不必泪交流！</p>
 </blockquote>
-孙玉莲|（唱）
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>我嘱咐他：出门走大路，</p>
 <p>大路人多解忧愁！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>如今有铁路，</p>
 <p>打着“百分”就到了包头！</p>
 <p>乡下也有好公路，</p>
 <p>城里郊外大路铺柏油！</p>
 </blockquote>
-孙玉莲|（唱）
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>我嘱咐他：歇脚在平地，</p>
 <p>不可随便靠崖头！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>而今火车有卧铺，</p>
 <p>播放着京戏《小放牛》！</p>
 </blockquote>
-孙玉莲|（唱）
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>我嘱咐他：独自莫渡水，</p>
 <p>怕遇上洪水滚滚流！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>如今处处有水库，</p>
 <p>黄河不敢起浪头！</p>
 </blockquote>
-孙玉莲|（唱）
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>我嘱咐他：坐船在舱里，</p>
 <p>舱外晃悠悠！</p>
 <p>万一掉下去，</p>
 <p>可怜一命休！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>如今轮船大又稳，</p>
 <p>乘风破浪万里游！</p>
 </blockquote>
-孙玉莲|（唱）
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>我嘱咐他：住店住大店，</p>
 <p>热茶热水热馒头！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>如今有了招待所，</p>
 <p>电梯上下几层楼！</p>
 <p>服务员亲热又周到，</p>
 <p>干的烙饼，稀的绿豆粥！</p>
 </blockquote>
-孙玉莲|（唱）
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>我嘱咐他：睡炕睡中间，</p>
 <p>要不睡两头，</p>
 <p>贼会挖窟窿，</p>
 <p>来把东西偷！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>如今不睡炕，</p>
 <p>独睡的铁床颤悠悠，</p>
 <p>生活改善了，</p>
 <p>谁肯作贼当小偷！</p>
 </blockquote>
-孙玉莲|（唱）
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>我嘱咐他：时常写家信，</p>
 <p>省得我担忧！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>没事我写平安信，</p>
 <p>有事航空发快邮。</p>
@@ -270,12 +270,12 @@
 <p>那边我把妈妈叫，</p>
 <p>这边你老就点头！</p>
 </blockquote>
-孙玉莲|（白）唉！唉！唉！（唱）
+孙玉莲|<span class="block">（白）</span>唉！唉！唉！<span class="block">（唱）</span>
 <blockquote>
 <p>世界真是变的好，</p>
 <p>儿行千里娘不忧！</p>
 </blockquote>
-继春|（白）对了！妈！对了！（唱）
+继春|<span class="block">（白）</span>对了！妈！对了！<span class="block">（唱）</span>
 <blockquote>
 <p>妈妈休想从前的事，</p>
 <p>欢欢喜喜把泪收！</p>
@@ -298,12 +298,12 @@
 <p>关里关外不分彼此，</p>
 <p>走西口的痛苦一笔勾！</p>
 </blockquote>
-孙玉莲|（唱）
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>我儿说的都是实话，</p>
 <p>怎奈我受伤过重，眼泪容易流！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>穷人翻身了，</p>
 <p>妈妈把泪收！</p>
@@ -312,8 +312,8 @@
 <p>感谢毛主席，</p>
 <p>志气昂扬上包头！</p>
 </blockquote>
-〔雨香一手提铺盖卷，一手提塑料箱，欢欢喜喜上。
-周雨香|（唱）
+<p class="l block">〔雨香一手提铺盖卷，一手提塑料箱，欢欢喜喜上。</p>
+周雨香|<span class="block">（唱）</span>
 <blockquote>
 <p>雨香喜洋洋，</p>
 <p>爱人上包钢！</p>
@@ -321,71 +321,71 @@
 <p>作个模范美名扬！</p>
 <p>铺盖打的紧，</p>
 </blockquote>
-<p>（白）给你！（扔给他）</p>
+<p><span class="block">（白）</span>给你！<span class="block">（扔给他）</span></p>
 <blockquote>
-<p>衣服装满箱。（放下箱）</p>
+<p>衣服装满箱。<span class="block">（放下箱）</span></p>
 </blockquote>
-<p>（白）妈妈，看，这个小箱，塑料的，又美又轻巧！</p>
-孙玉莲|（唱）
+<p><span class="block">（白）</span>妈妈，看，这个小箱，塑料的，又美又轻巧！</p>
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>小箱真可爱，</p>
 <p>看着心亮堂！</p>
 <p>当初你父走西口，</p>
 <p>只有一身破衣裳！</p>
 </blockquote>
-继春|（白）妈，现在光景好啦，你老人家应该高兴！
-孙玉莲|（白）我高兴！我高兴！就怕雨香啊，心里不好受！
-周雨香|（白）妈，我不难受，我喜欢！
-孙玉莲|（白）你呀，媳妇，脸上笑着，心里可不好受！
-周雨香|（白）我不会作假，妈妈！他到春节就许回来呀！
-孙玉莲|（白）留既留不住，就走吧！
-继春|（白）我走，妈妈可别哭！
-孙玉莲|（白）不哭！不哭！（唱）
+继春|<span class="block">（白）</span>妈，现在光景好啦，你老人家应该高兴！
+孙玉莲|<span class="block">（白）</span>我高兴！我高兴！就怕雨香啊，心里不好受！
+周雨香|<span class="block">（白）</span>妈，我不难受，我喜欢！
+孙玉莲|<span class="block">（白）</span>你呀，媳妇，脸上笑着，心里可不好受！
+周雨香|<span class="block">（白）</span>我不会作假，妈妈！他到春节就许回来呀！
+孙玉莲|<span class="block">（白）</span>留既留不住，就走吧！
+继春|<span class="block">（白）</span>我走，妈妈可别哭！
+孙玉莲|<span class="block">（白）</span>不哭！不哭！<span class="block">（唱）</span>
 <blockquote>
 <p>当初你父出门去，</p>
 <p>为多看他一眼，我上了房！</p>
 </blockquote>
-继春|（唱）
+继春|<span class="block">（唱）</span>
 <blockquote>
 <p>如今我欢欢喜喜地走，</p>
 <p>雨香不会去上房！</p>
 </blockquote>
-孙玉莲|（唱）
+孙玉莲|<span class="block">（唱）</span>
 <blockquote>
 <p>雨香搀着我，</p>
 <p>送他到街上！</p>
 </blockquote>
-继春|（扛起铺盖，提起小箱，唱）
+继春|<span class="block">（扛起铺盖，提起小箱，唱）</span>
 <blockquote>
 <p>妈妈、妹妹不必送，</p>
 <p>祝你们平安，身体健康！</p>
 </blockquote>
-周雨香|（白）继春，你别走！别走！
-孙玉莲|（白）如何！如何！（唱）
+周雨香|<span class="block">（白）</span>继春，你别走！别走！
+孙玉莲|<span class="block">（白）</span>如何！如何！<span class="block">（唱）</span>
 <blockquote>
 <p>年轻的媳妇都一样，</p>
 <p>谁舍得丈夫走他乡！</p>
 <p>我去送他到门外，</p>
 <p>你搬梯子快上房！</p>
 </blockquote>
-周雨香|（白）不是！不是！他还没吃饭哪！
-孙玉莲|（紧张，白）真的？快吃！快吃！我去给他拿！
-周雨香|（白）妈妈，我去！
-孙玉莲|（把媳妇推开，白）我去！我去！（匆下）
-继春|（笑）哈哈哈！行了！行了！妈妈又有了精神，叫我说服了！妹妹，你，你真舍得我走啊？
-周雨香|（白）为建设包钢，舍得！为咱们……也有点舍不得！哥哥，你呢？
-继春|（白）也，也有那么一点！（同笑）哈哈哈！
-周雨香|（掏出一张相片，一个小包，白）哎呀，差点忘了，给你！
-继春|（白）什么呀？
-周雨香|（递，白）相片！
-继春|（白）应该带着！（指小包）这是什么？
-周雨香|（白）针，线，小扣子，小剪子！
-继春|（白）妹妹真细心！
-〔孙玉莲端着饭菜，上。继春忙把相片藏起。雨香忙去接饭菜。
-孙玉莲|（白）媳妇，你别管！当初你们父亲走西口，因为没有饭吃！今天我的儿子走西口，要吃得饱饱的！不一样了！不一样了！孩子，吃吧，都吃了！
-周雨香|（白）对，吃饱饱的，好多给包钢出点力气！
-继春|（白）对！说的对！（笑）哈哈哈！
-周雨香 孙玉莲|（跟着笑）哈哈哈！
+周雨香|<span class="block">（白）</span>不是！不是！他还没吃饭哪！
+孙玉莲|<span class="block">（紧张，白）</span>真的？快吃！快吃！我去给他拿！
+周雨香|<span class="block">（白）</span>妈妈，我去！
+孙玉莲|<span class="block">（把媳妇推开，白）</span>我去！我去！<span class="block">（匆下）</span>
+继春|<span class="block">（笑）</span>哈哈哈！行了！行了！妈妈又有了精神，叫我说服了！妹妹，你，你真舍得我走啊？
+周雨香|<span class="block">（白）</span>为建设包钢，舍得！为咱们……也有点舍不得！哥哥，你呢？
+继春|<span class="block">（白）</span>也，也有那么一点！<span class="block">（同笑）</span>哈哈哈！
+周雨香|<span class="block">（掏出一张相片，一个小包，白）</span>哎呀，差点忘了，给你！
+继春|<span class="block">（白）</span>什么呀？
+周雨香|<span class="block">（递，白）</span>相片！
+继春|<span class="block">（白）</span>应该带着！<span class="block">（指小包）</span>这是什么？
+周雨香|<span class="block">（白）</span>针，线，小扣子，小剪子！
+继春|<span class="block">（白）</span>妹妹真细心！
+<p class="l block">〔孙玉莲端着饭菜，上。继春忙把相片藏起。雨香忙去接饭菜。</p>
+孙玉莲|<span class="block">（白）</span>媳妇，你别管！当初你们父亲走西口，因为没有饭吃！今天我的儿子走西口，要吃得饱饱的！不一样了！不一样了！孩子，吃吧，都吃了！
+周雨香|<span class="block">（白）</span>对，吃饱饱的，好多给包钢出点力气！
+继春|<span class="block">（白）</span>对！说的对！<span class="block">（笑）</span>哈哈哈！
+周雨香 孙玉莲|<span class="block">（跟着笑）</span>哈哈哈！
 【剧终】
 
 
