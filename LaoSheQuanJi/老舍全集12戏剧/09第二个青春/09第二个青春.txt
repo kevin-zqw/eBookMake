@@ -1,7 +1,7 @@
 第二个青春
 ·歌剧·
 
-第一场
+<h2 class="title2">第一场</h2>
 时间 一九二九年秋，下午。
 地点 北京协和医院。
 人物 贝化英 丁母 丁品香 刘雪丽 洋监督 孟大姐 郎大夫 赵老头
@@ -9,18 +9,18 @@
 <p class="l block">〔幕启：头等病室内，丁母坐床上。她没有什么病，只因山珍海味吃的过多，有点消化不良。</p>
 <p class="l block">〔快到亲友访问病人的时间，贝化英护士虽已很疲乏，仍无微不至地伺候丁母，给她添靠枕，整理被单，梳发，剪指甲……</p>
 
-丁母|
+<p class="xj"><span class="xchar">丁母</span> </p>
 <blockquote>
 <p>化英啊，你手巧心细不嫌烦，</p>
 <p>真是个头等的洋丫环！</p>
 </blockquote>
 <p class="l block">〔贝本想不说什么，但未能忍住。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>老太太，我的正名是护士，</p>
 <p>我觉得这个职业很尊严！</p>
 </blockquote>
-丁母|
+<p class="xj"><span class="xchar">丁母</span> </p>
 <blockquote>
 <p>说什么职业与尊严，</p>
 <p>尊严能值几个钱？</p>
@@ -35,14 +35,14 @@
 <p>你看我想的好不好？</p>
 <p>有钱的人哪，福至心灵，想的周全！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>当护士是我的好志愿，</p>
 <p>有决心多学本领，不偷懒贪闲！</p>
 <p>我只求全心全意解救痛苦，</p>
 <p>不管病人有钱与无钱！</p>
 </blockquote>
-丁母|
+<p class="xj"><span class="xchar">丁母</span> </p>
 <blockquote>
 <p>你肯出力我欢喜，</p>
 <p>只是呀不会说话，不肯随缘！</p>
@@ -52,7 +52,7 @@
 <p>卖牛大的力气也挣不着钱！</p>
 </blockquote>
 <p class="l block">〔丁母的女儿丁品香抱着一大束鲜花，刘雪丽护士代她提着一大筐水果，两大包点心，先后进来。贝去接花，丁不肯交给她，而奔过妈妈去。贝接过刘手中的东西。刘低声说了句什么，下。丁把花放在妈妈怀里。</p>
-丁品香|
+<p class="xj"><span class="xchar">丁品香</span> </p>
 <blockquote>
 <p>亲爱的老太太，亲爱的妈！</p>
 <p>看一看多么贵呀，这些鲜花！</p>
@@ -62,12 +62,12 @@
 <p>不能不买最贵的水果与鲜花！</p>
 </blockquote>
 <p class="l block">〔丁母闻了闻花，交给贝，贝倒水插瓶。</p>
-丁母|
+<p class="xj"><span class="xchar">丁母</span> </p>
 <blockquote>
 <p>品香，你这个坏姑娘！</p>
 <p>昨天为什么不来看妈妈？</p>
 </blockquote>
-丁品香|
+<p class="xj"><span class="xchar">丁品香</span> </p>
 <blockquote>
 <p>哎呀，老年人专爱说废话！</p>
 <p>哪晓得姑娘的事儿乱如麻：</p>
@@ -76,41 +76,41 @@
 <p>一天到晚我比蚂蚁还辛苦，</p>
 <p>哪能够天天来看老人家？</p>
 </blockquote>
-丁母|
+<p class="xj"><span class="xchar">丁母</span> </p>
 <blockquote>
 <p>唉！这里的饮食多么清淡，</p>
 <p>为什么不带来全桌酒席，奉敬妈妈？</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>老太太，你的肠胃不太好，</p>
 <p>就应当多吃点淡饭与粗茶！</p>
 </blockquote>
-丁母|
+<p class="xj"><span class="xchar">丁母</span> </p>
 <blockquote>
 <p>我自己的肠胃自己管，</p>
 <p>你顶好站在那里一言不发！</p>
 </blockquote>
 <p class="l block">〔贝已疲乏得立不住，去倚墙稍息。洋监督<span class="block">（男）</span>在走廊上向内窥视。贝急肃立。品香也看见了他，向他打招呼。</p>
-丁品香|
+<p class="xj"><span class="xchar">丁品香</span> </p>
 <blockquote>
 <p>嗨喽！我的好约翰！</p>
 <p>又想约哪个小护士去玩耍？</p>
 </blockquote>
 <p class="l block">〔洋监督狼狈地招招手，下。</p>
-丁母|
+<p class="xj"><span class="xchar">丁母</span> </p>
 <blockquote>
 <p>品香！品香！怎好跟洋人开玩笑？</p>
 <p>说他们不正经，窃玉偷花！</p>
 </blockquote>
-丁品香|
+<p class="xj"><span class="xchar">丁品香</span> </p>
 <blockquote>
 <p>我说的一点也不假，</p>
 <p>不信，你就去问问他！</p>
 <p>一朵花似的张明锦，</p>
 <p>叫他抛弃，回家生娃娃！</p>
 </blockquote>
-丁母|
+<p class="xj"><span class="xchar">丁母</span> </p>
 <blockquote>
 <p>别再信口说疯话！</p>
 <p>洋人们信上帝，决不乱沾花！</p>
@@ -119,17 +119,17 @@
 <p>品香，带上些点心和水果，</p>
 <p>陪我到院里看看秋花！</p>
 </blockquote>
-丁品香|
+<p class="xj"><span class="xchar">丁品香</span> </p>
 <blockquote>
 <p>哎呀，为什么不叫护士陪你去？</p>
 <p>我还有三个“茶午”都得参加！</p>
 </blockquote>
-丁母|
+<p class="xj"><span class="xchar">丁母</span> </p>
 <blockquote>
 <p>你乱说洋人干坏事，</p>
 <p>陪我去散步，算作惩罚！</p>
 </blockquote>
-丁品香|
+<p class="xj"><span class="xchar">丁品香</span> </p>
 <blockquote>
 <p>唉！今天我随妈妈去散步，</p>
 <p>下不为例，不管是在医院还是在家！</p>
@@ -137,7 +137,7 @@
 <p>洋笑话会叫你笑掉了牙！<span class="block">（同妈妈下）</span></p>
 </blockquote>
 <p class="l block">〔贝收拾屋中，拿起枕头，真想摔在床上，发发闷气，但控制住自己，仍细心地把它理平，放好。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>我只说忠心耿耿来服务，</p>
 <p>叫病人少受痛苦，健康早恢复！</p>
@@ -167,10 +167,10 @@
 <p>化英啊，低头作事吧，莫问前途！</p>
 </blockquote>
 <p class="l block">〔孟大姐穿着便衣，匆忙地进来，满面忧愤。</p>
-孟大姐|化英！化英！好妹妹！
-贝化英|孟大姐！为什么这样紧张，眼含泪！
-孟大姐|我来！我来！向你告别！
-贝化英|
+<p class="xj"><span class="xchar">孟大姐</span> 化英！化英！好妹妹！</p>
+<p class="xj"><span class="xchar">贝化英</span> 孟大姐！为什么这样紧张，眼含泪！</p>
+<p class="xj"><span class="xchar">孟大姐</span> 我来！我来！向你告别！</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>大姐你得到了什么新地位？</p>
 <p>你作护士二十年，</p>
@@ -178,19 +178,19 @@
 <p>哪个医院得到你，</p>
 <p>真是无价的好宝贝！</p>
 </blockquote>
-孟大姐|
+<p class="xj"><span class="xchar">孟大姐</span> </p>
 <blockquote>
 <p>好宝贝？化英你往这里看，<span class="block">（指头上）</span></p>
 <p>满头的青丝啊已发了灰！</p>
 </blockquote>
-贝化英|证明你操劳过度，耿耿忠心！
-孟大姐|这头上的霜雪啊，就是我的罪！
-贝化英|有良心的都该感谢你！
-孟大姐|我已被开除，开除啊，寸心欲碎！
-贝化英|有什么理由开除你？
-孟大姐|只因快到五十岁！
-贝化英|这就是他们的正义与良心？
-孟大姐|
+<p class="xj"><span class="xchar">贝化英</span> 证明你操劳过度，耿耿忠心！</p>
+<p class="xj"><span class="xchar">孟大姐</span> 这头上的霜雪啊，就是我的罪！</p>
+<p class="xj"><span class="xchar">贝化英</span> 有良心的都该感谢你！</p>
+<p class="xj"><span class="xchar">孟大姐</span> 我已被开除，开除啊，寸心欲碎！</p>
+<p class="xj"><span class="xchar">贝化英</span> 有什么理由开除你？</p>
+<p class="xj"><span class="xchar">孟大姐</span> 只因快到五十岁！</p>
+<p class="xj"><span class="xchar">贝化英</span> 这就是他们的正义与良心？</p>
+<p class="xj"><span class="xchar">孟大姐</span> </p>
 <blockquote>
 <p>衰老的牲口啊他们不再喂！</p>
 <p>他们雇佣的是青年，</p>
@@ -202,14 +202,14 @@
 <p>对洋人必须多奉承，</p>
 <p>别学我口快心直不会谄媚！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>要学我跟大姐学，</p>
 <p>奉承谄媚我不会！</p>
 <p>洋人作事不公平，</p>
 <p>我找大家商议，一齐来反对，<span class="block">（往外走）</span></p>
 </blockquote>
-孟大姐|<span class="block">（拦她）</span>
+<p class="xj"><span class="xchar">孟大姐</span> <span class="block">（拦她）</span></p>
 <blockquote>
 <p>等等，这里是洋人的小朝廷，</p>
 <p>我被开除，别把你连累！</p>
@@ -217,25 +217,25 @@
 <p>何况是当护士的众姐妹！</p>
 </blockquote>
 <p class="l block">〔郎大夫从走廊上走过，贝追上去。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>大夫！郎大夫！请你进来！</p>
 <p>帮帮大姐，别叫她心碎！</p>
 </blockquote>
-郎大夫|
+<p class="xj"><span class="xchar">郎大夫</span> </p>
 <blockquote>
 <p>你知道大夫不管护士的事！</p>
 <p>再一说，洋人的决定不对也得对！</p>
 <p>洋人们发大慈悲，给我们办医院，</p>
 <p>他们有权，看谁不好就辞退！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>难道说他们就不讲公平？</p>
 <p>郎大夫，该忍受的我决不多张嘴！</p>
 <p>可是……</p>
 </blockquote>
-郎大夫|
+<p class="xj"><span class="xchar">郎大夫</span> </p>
 <blockquote>
 <p>可是什么？整个的世界是白人的，</p>
 <p>世界公认，无可反对！</p>
@@ -244,15 +244,15 @@
 <p>对你的遭遇，我很同情，</p>
 <p>快走吧，不要多把别人连累！<span class="block">（下）</span></p>
 </blockquote>
-贝化英|慈悲？文明？什么意思？
-孟大姐|
+<p class="xj"><span class="xchar">贝化英</span> 慈悲？文明？什么意思？</p>
+<p class="xj"><span class="xchar">孟大姐</span> </p>
 <blockquote>
 <p>再见吧，我的好妹妹！</p>
 <p>我懂得他们的慈悲与文明，</p>
 <p>装得像神仙啊，心里却像鬼！</p>
 </blockquote>
 <p class="l block">〔孟疾下。贝欲追出，又不敢，愣在那里。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>我只说：这里的确很文明，</p>
 <p>有仁有义有感情！</p>
@@ -260,30 +260,30 @@
 <p>人与人的关系结成了冰！</p>
 </blockquote>
 <p class="l block">〔刘雪丽轻轻地进来。</p>
-刘雪丽|化英，你可看见了孟大姐？
-贝化英|
+<p class="xj"><span class="xchar">刘雪丽</span> 化英，你可看见了孟大姐？</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>她刚刚对我诉了苦情！</p>
 <p>我想帮她争一争理，</p>
 <p>连大夫呀，都不敢主张公道与公平！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>在这里必须各扫门前雪，</p>
 <p>切勿管别人的手脚冻成冰！</p>
 <p>化英，孟大姐走后就该轮到我！</p>
 </blockquote>
-贝化英|你？雪丽你是鲜花一朵正年轻！
-刘雪丽|正因为年轻才作错事！
-贝化英|你作了什么错事情？
-刘雪丽|我不该不肯把青春白葬送！
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> 你？雪丽你是鲜花一朵正年轻！</p>
+<p class="xj"><span class="xchar">刘雪丽</span> 正因为年轻才作错事！</p>
+<p class="xj"><span class="xchar">贝化英</span> 你作了什么错事情？</p>
+<p class="xj"><span class="xchar">刘雪丽</span> 我不该不肯把青春白葬送！</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>你想去结婚，组织家庭？</p>
 <p>在这里虽没有明文规定，</p>
 <p>可是呀有了家庭、子女，就丢了事情！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>我知道！我知道！</p>
 <p>可是呀，难道一生幸福就全部牺牲？</p>
@@ -294,38 +294,38 @@
 <p>终身大事，坚守秘密，</p>
 <p>倒好像作下了最可耻的坏事情！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>老同学，我先给你道大喜！</p>
 <p>相信我，我不会对别人讲一声！</p>
 </blockquote>
-刘雪丽|纸里包火怎能包得住？
-贝化英|莫非消息传到了洋人耳中？
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> 纸里包火怎能包得住？</p>
+<p class="xj"><span class="xchar">贝化英</span> 莫非消息传到了洋人耳中？</p>
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>唉！我已怀胎三个月，</p>
 <p>腹中的宝贝会泄露真情！</p>
 <p>难道说紧勒腰带将胎儿杀死？</p>
 </blockquote>
-贝化英|你不该，也不会，那样无情！
-刘雪丽|
+<p class="xj"><span class="xchar">贝化英</span> 你不该，也不会，那样无情！</p>
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>可是呀，婴儿未生，妈妈先失业，</p>
 <p>大喜事变作了痛苦无穷！</p>
 </blockquote>
 <p class="l block">〔雪丽痛苦地倒在床上，贝忙将她扶起，给她拉平白衣上的皱纹。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>别叫监督看见你衣上的摺儿，</p>
 <p>挣扎吧，雪丽，但愿好事不变坏事情！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>唉，我只好用希望欺骗自己，</p>
 <p>谁能够忍心给自己判死刑！</p>
 </blockquote>
 <p class="l block">〔她轻轻走出去。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>不准结婚，不准生儿养女，</p>
 <p>青春、幸福、家庭、后代，四大皆空！</p>
@@ -333,9 +333,9 @@
 <p>不失业呀才能对职业忠诚！</p>
 </blockquote>
 <p class="l block">〔赵老头向内探头。</p>
-赵老头|贝化英！好邻居，好侄女！
-贝化英|赵大爷！有事快说，低点声！
-赵老头|
+<p class="xj"><span class="xchar">赵老头</span> 贝化英！好邻居，好侄女！</p>
+<p class="xj"><span class="xchar">贝化英</span> 赵大爷！有事快说，低点声！</p>
+<p class="xj"><span class="xchar">赵老头</span> </p>
 <blockquote>
 <p>好姑娘，你得帮帮我，</p>
 <p>看在邻居的面上，给我调查清！</p>
@@ -356,7 +356,7 @@
 <p>一年，十年，只要我有口气儿，</p>
 <p>血债血还，必得还清！<span class="block">（疾下）</span></p>
 </blockquote>
-贝化英|<span class="block">（愣了一会儿）</span>
+<p class="xj"><span class="xchar">贝化英</span> <span class="block">（愣了一会儿）</span></p>
 <blockquote>
 <p>为什么丁家母女那么讨厌？</p>
 <p>为什么洋监督那么威风？</p>
@@ -381,14 +381,14 @@
 
 
 
-第二场
+<h2 class="title2">第二场</h2>
 时间 前场十数年后，日本军阀霸占北京。协和已被封闭。秋，傍晚。
 地点 春光<span class="block">（私立）</span>医院的小药房。
 人物 贝化英 刘雪丽 郎卉仙 郎院长 柳氏 老程 王小五
 
 <p class="l block">〔幕启：贝化英在收拾室内。远处传来歌声，她不由地静立倾听。她已是中年人了。</p>
 
-歌声一|
+<p class="xj"><span class="xchar">歌声一</span> </p>
 <blockquote>
 <p>我们的北京，北京！</p>
 <p>白天黑夜战战兢兢！</p>
@@ -408,7 +408,7 @@
 <p>谁来指挥我们向豺狼进攻？</p>
 </blockquote>
 <p class="l block">〔贝颓然坐下，垂首落泪。隐隐有锁镣响声，似要犯缓缓移动者，歌声转激昂。</p>
-歌声二|
+<p class="xj"><span class="xchar">歌声二</span> </p>
 <blockquote>
 <p>敌人捆住了我们的手脚，</p>
 <p>捆不住我们的热血沸腾！</p>
@@ -421,7 +421,7 @@
 <p>共产党是民族的大救星！</p>
 </blockquote>
 <p class="l block">〔贝猛地立起来。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>共产党？莲花峰？</p>
 <p>敢抵抗日寇的英雄！</p>
@@ -434,31 +434,31 @@
 <p>也必须关心国家的大事情！</p>
 </blockquote>
 <p class="l block">〔刘雪丽形容憔悴，衣衫破敝，拿着封信，闯进来。</p>
-刘雪丽|化英！化英！
-贝化英|雪丽！雪丽！<span class="block">（二人拥抱良久）</span>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> 化英！化英！</p>
+<p class="xj"><span class="xchar">贝化英</span> 雪丽！雪丽！<span class="block">（二人拥抱良久）</span></p>
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>化英，我接到你的信，</p>
 <p>千谢万谢，马上来上工！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>雪丽，十多年啊匆匆流去，</p>
 <p>俏美的雪丽已不年轻！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>婴儿未生，我就失了业，</p>
 <p>忧愁、愤怒、困苦，花残草不青！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>你已经有了几个儿女？</p>
 <p>他们可肥胖又聪明？</p>
 </blockquote>
-刘雪丽|生过五胎死了三个，
-贝化英|啊？你是护士你会看管儿童！
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> 生过五胎死了三个，</p>
+<p class="xj"><span class="xchar">贝化英</span> 啊？你是护士你会看管儿童！</p>
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>是，是！我是护士，护士！</p>
 <p>可是呀，吃不饱的孩子活不成！</p>
@@ -468,7 +468,7 @@
 <p>叫我心碎，泣不成声！想当初……</p>
 </blockquote>
 <p class="l block">〔痴望了一会儿，想起当初：纱幕后出现了一队护士<span class="block">（合唱队）</span>皆白衣白冠，手持毕业证书。</p>
-合唱队|
+<p class="xj"><span class="xchar">合唱队</span> </p>
 <blockquote>
 <p>我们健壮，我们年轻，</p>
 <p>我们的职业多么光荣！</p>
@@ -479,7 +479,7 @@
 <p>我们给妇女职业开辟了新道路，</p>
 <p>女性的慈心啊普救群生！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>是啊！是啊！我们多么美丽，</p>
 <p>多么自豪，多么年轻！</p>
@@ -492,7 +492,7 @@
 <p>就是伴着临死的人哪，</p>
 <p>他最后看见的是含泪的笑容！</p>
 </blockquote>
-合唱队|
+<p class="xj"><span class="xchar">合唱队</span> </p>
 <blockquote>
 <p>我们和鲜花一样美，</p>
 <p>却比鲜花多感情！</p>
@@ -501,7 +501,7 @@
 <p>有的人叫我们白衣天使，</p>
 <p>真的，我们辛苦，我们光荣！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>我们俩入了“协和”多么高兴，</p>
 <p>人人都说那里是个洋式天宫！</p>
@@ -510,22 +510,22 @@
 <p>雪丽你，只为结婚求幸福，</p>
 <p>被他们一脚踢出毫不留情！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>化英，你有智慧，眼光远！</p>
 <p>立志不婚，玉立亭亭！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>我丢掉的幸福无法偿补，</p>
 <p>年光如水我是浮萍。</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>可是呀，你十几年来没有失业，</p>
 <p>这个幸福超过了婚事与家庭！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>幸福？幸福？幸福？</p>
 <p>这样的幸福使我昼夜心里痛！</p>
@@ -535,7 +535,7 @@
 <p>一生辛苦，有罪无功！</p>
 </blockquote>
 <p class="l block">〔惆怅地呆视。纱幕后合唱队已不见，来了孟大姐，手拄拐杖，在积水潭畔徐行。</p>
-孟大姐|
+<p class="xj"><span class="xchar">孟大姐</span> </p>
 <blockquote>
 <p>请你们看看吧，姐妹们！</p>
 <p>看看我这老护士的残年暮景！</p>
@@ -552,7 +552,7 @@
 <p>太阳已落秋风冷，</p>
 <p>真想啊跳入这冷酷的积水潭中！<span class="block">（下）</span></p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>每一想起孟大姐，</p>
 <p>不由地我就肉跳心惊！</p>
@@ -584,7 +584,7 @@
 <p>可是呀，四顾茫茫，他们在哪里？</p>
 <p>况且呀，丢下父母使我心疼！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>化英啊，我不怕劳苦，不怕工资少，</p>
 <p>有一点收入啊，多少胜似两手空空！</p>
@@ -596,26 +596,26 @@
 <p>我学会硬撑硬挺，不怕牺牲！</p>
 </blockquote>
 <p class="l block">〔郎卉仙怪里怪气地走进来。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>院长太太，这就是刘雪丽，</p>
 <p>她有经验、有技术，作事忠诚！</p>
 </blockquote>
-郎卉仙|<span class="block">（打量刘）</span>
+<p class="xj"><span class="xchar">郎卉仙</span> <span class="block">（打量刘）</span></p>
 <blockquote>
 <p>哎呀呀，天下哪有这样的破护士，</p>
 <p>破破烂烂满脸愁容！</p>
 <p>这个医院虽然不大，</p>
 <p>来看病的却都是高官与富翁！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>衣衫虽旧，她的本领好，</p>
 <p>再说呀，这里的待遇……</p>
 </blockquote>
-郎卉仙|待遇怎样？
-贝化英|待遇不好，工作可不轻！
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> 待遇怎样？</p>
+<p class="xj"><span class="xchar">贝化英</span> 待遇不好，工作可不轻！</p>
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>告诉你，粮食、药品天天长价，</p>
 <p>我们得缩减开销，避免亏空！</p>
@@ -624,16 +624,16 @@
 <p>你要求添人，我慷慨答应，</p>
 <p>可是这位叫花子怎么能行？</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>好吧，化英，我们再见，</p>
 <p>谢谢你关心我的一片真情！</p>
 <p><span class="block">（对郎）</span>衣衫虽破，我的心地好，</p>
 <p>只是不会低三下四忍气吞声！<span class="block">（要走）</span></p>
 </blockquote>
-贝化英|等等，院长太太，她走我也走。
-郎卉仙|你可知道失业容易，万难找事情？
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> 等等，院长太太，她走我也走。</p>
+<p class="xj"><span class="xchar">郎卉仙</span> 你可知道失业容易，万难找事情？</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>只因为我爱我的工作，</p>
 <p>才肯忍饥受冻在此当苦工。</p>
@@ -642,7 +642,7 @@
 <p>你知道我的工作好，</p>
 <p>好聚好散，明天我不再来上工！</p>
 </blockquote>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>化英你等等！你等等！</p>
 <p>我问问院长，再作决定！</p>
@@ -650,18 +650,18 @@
 <p>这个不出声的人儿忽然发了疯！</p>
 </blockquote>
 <p class="l block">〔郎院长匆匆走来。</p>
-郎院长|
+<p class="xj"><span class="xchar">郎院长</span> </p>
 <blockquote>
 <p>刚刚起了好牌一手，</p>
 <p>干什么这样喊得我心惊！</p>
 </blockquote>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>化英介绍来这个破护士，</p>
 <p>我不要，她生气，马上辞工！</p>
 </blockquote>
-郎院长|辞工？倒仿佛护士多么重要，
-贝化英|
+<p class="xj"><span class="xchar">郎院长</span> 辞工？倒仿佛护士多么重要，</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>没有护士，医院开不成！</p>
 <p>想当初，我父亲叫我去学医！</p>
@@ -669,7 +669,7 @@
 <p>护士与病人关系最密切，</p>
 <p>没有护士，神医也不会奏奇功！</p>
 </blockquote>
-郎院长|
+<p class="xj"><span class="xchar">郎院长</span> </p>
 <blockquote>
 <p>不必多言，要走就走！</p>
 <p>我吆喝一声就招来护士一千名！</p>
@@ -678,19 +678,19 @@
 <p>在协和，我当大夫，你们当护士，</p>
 <p>难道你们还不明白，是谁有前程？<span class="block">（要走）</span></p>
 </blockquote>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>院长且莫发脾气，</p>
 <p>凡事都要三思而后行；</p>
 <p>生人哪有熟人好？</p>
 <p><span class="block">（低声）</span>况且呀，她们俩价廉货色精！</p>
 </blockquote>
-郎院长|
+<p class="xj"><span class="xchar">郎院长</span> </p>
 <blockquote>
 <p>好！你就看着办，</p>
 <p>我快回去摸“红中”！<span class="block">（下）</span></p>
 </blockquote>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>你们应当感激我，</p>
 <p>要好好地忠心作事情！</p>
@@ -703,7 +703,7 @@
 <p>凡事我都详加考虑，</p>
 <p>我既讲实际，又讲人情！<span class="block">（下）</span></p>
 </blockquote>
-贝化英 刘雪丽|
+<p class="xj"><span class="xchar">贝化英 刘雪丽</span> </p>
 <blockquote>
 <p>这是护士的血泪史！</p>
 <p>被轻视，被虐待，有罪无功！</p>
@@ -719,81 +719,81 @@
 <p>什么时候，我们才能见到光明？</p>
 </blockquote>
 <p class="l block">〔外面有吵闹声，柳氏抱着病孩子要求急诊，看门的老程拦阻。贝到门口往外看。</p>
-柳氏|<span class="block">（向贝）</span>我的孩子得了急病，
-老程|这里的规矩，看病先把费用交清！
-柳氏|
+<p class="xj"><span class="xchar">柳氏</span> <span class="block">（向贝）</span>我的孩子得了急病，</p>
+<p class="xj"><span class="xchar">老程</span> 这里的规矩，看病先把费用交清！</p>
+<p class="xj"><span class="xchar">柳氏</span> </p>
 <blockquote>
 <p>救救命吧！救救命！</p>
 <p>我已经碰了三个医院，都不肯通融！</p>
 <p>孩子的病症十分沉重，</p>
 <p>再耽误一夜啊，一定活不成。<span class="block">（给他们下了跪）</span></p>
 </blockquote>
-贝化英|<span class="block">（急扶起柳）</span>老程你且看门去，<span class="block">（程下）</span>大嫂，这里的规矩的确，实在……
-柳氏|难道只有规矩，没有人情？
-贝化英|<span class="block">（向雪丽）</span>雪丽你看怎么办？
-刘雪丽|咱们俩凑凑，叫她去找中医，药费稍轻！
+<p class="xj"><span class="xchar">贝化英</span> <span class="block">（急扶起柳）</span>老程你且看门去，<span class="block">（程下）</span>大嫂，这里的规矩的确，实在……</p>
+<p class="xj"><span class="xchar">柳氏</span> 难道只有规矩，没有人情？</p>
+<p class="xj"><span class="xchar">贝化英</span> <span class="block">（向雪丽）</span>雪丽你看怎么办？</p>
+<p class="xj"><span class="xchar">刘雪丽</span> 咱们俩凑凑，叫她去找中医，药费稍轻！</p>
 <p class="l block">〔贝、刘倾囊相助。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>大嫂，这条街上就有个老大夫，</p>
 <p>世传儿科很有名！</p>
 <p>求求他，他也许不收你的诊费，</p>
 <p>这点钱啊，买点草药总还行！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>大嫂，我同你去找大夫，</p>
 <p>我知道：孩子有病，作妈妈的怎么心疼！</p>
 </blockquote>
-柳氏|
+<p class="xj"><span class="xchar">柳氏</span> </p>
 <blockquote>
 <p>唉！你们有个好心眼，</p>
 <p>可怜的孩子遇到救星！<span class="block">（同刘下）</span></p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>唉！什么时候穷人有病能住医院，</p>
 <p>不再说啊：只有规矩，没有人情！</p>
 </blockquote>
 <p class="l block">〔王小五头破出血，往院里跑，老程在后面追。</p>
-老程|
+<p class="xj"><span class="xchar">老程</span> </p>
 <blockquote>
 <p>小伙子你要干什么？</p>
 <p>站住！站住！先把话说清！</p>
 </blockquote>
 <p class="l block">〔王小五向里边跑去。</p>
-贝化英|<span class="block">（跑至门）</span>老程！老程！又出了什么事？
-老程|那个小伙子……我也说不清！
+<p class="xj"><span class="xchar">贝化英</span> <span class="block">（跑至门）</span>老程！老程！又出了什么事？</p>
+<p class="xj"><span class="xchar">老程</span> 那个小伙子……我也说不清！</p>
 <p class="l block">〔郎院长揪着王小五上，卉仙也跟来。</p>
-郎院长|
+<p class="xj"><span class="xchar">郎院长</span> </p>
 <blockquote>
 <p>老程！把这个野小子轰出去！</p>
 <p>你白叫老程，怎么连看门都看不成。</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>院长，这孩子的头上流着血，</p>
 <p>应当包扎一下，不要受了风！</p>
 </blockquote>
-王小五|
+<p class="xj"><span class="xchar">王小五</span> </p>
 <blockquote>
 <p>请你们帮助帮助我！</p>
 <p>后面追来了日本兵！</p>
 </blockquote>
-郎院长|
+<p class="xj"><span class="xchar">郎院长</span> </p>
 <blockquote>
 <p>啊？日本兵？日本兵会烧光我这医院，</p>
 <p>大家谁也活不成！</p>
 <p>快走！快走！老程，轰他走！</p>
 <p>你这孩子简直是个祸害星！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>院长！这孩子出去也许会丧命，</p>
 <p>叫他藏会儿，我再把他送到家中！</p>
 </blockquote>
-郎院长|日本兵进来搜查怎么办？
-贝化英|
+<p class="xj"><span class="xchar">郎院长</span> 日本兵进来搜查怎么办？</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>兵来将挡我去迎！</p>
 <p>马上叫他跑出去，</p>
@@ -801,64 +801,64 @@
 <p>那样啊，孩子的性命难保住，</p>
 <p>野兽们一定进来任意横行！</p>
 </blockquote>
-郎院长|
+<p class="xj"><span class="xchar">郎院长</span> </p>
 <blockquote>
 <p>嘿！好，好！把他先藏好！</p>
 <p>老程，大门紧闭，熄灭了灯！<span class="block">（下，程亦下）</span></p>
 </blockquote>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>不许你动我的药品和纱布，</p>
 <p>得叫他先办手续，费用交清！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>好吧！我愿替他交费用，</p>
 <p>扣我的工资，请你把账目详细记清！</p>
 <p>可是呀，我看顶好别登记，</p>
 <p>他要是罪犯哪，你的罪过也不轻！</p>
 </blockquote>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>唉！真是闭门家中坐，</p>
 <p>从天上落下太岁星！<span class="block">（下）</span></p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>好孩子，先把伤口洗干净，</p>
 <p>再上点药，止血止住疼！</p>
 <p><span class="block">（边洗边问）</span>小伙子，你怎么得罪了那些野兽？</p>
 </blockquote>
-王小五|因为我见着他们不肯鞠躬！
-贝化英|你是个有骨气的好孩子！
-王小五|早晚我会杀死几个日本兵！
-贝化英|<span class="block">（上药）</span>难道你就不怕危险？
-王小五|我爱国，危险不在我心中！
-贝化英|
+<p class="xj"><span class="xchar">王小五</span> 因为我见着他们不肯鞠躬！</p>
+<p class="xj"><span class="xchar">贝化英</span> 你是个有骨气的好孩子！</p>
+<p class="xj"><span class="xchar">王小五</span> 早晚我会杀死几个日本兵！</p>
+<p class="xj"><span class="xchar">贝化英</span> <span class="block">（上药）</span>难道你就不怕危险？</p>
+<p class="xj"><span class="xchar">王小五</span> 我爱国，危险不在我心中！</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>你真是个好孩子，</p>
 <p>你可有父母与弟兄？</p>
 </blockquote>
-王小五|
+<p class="xj"><span class="xchar">王小五</span> </p>
 <blockquote>
 <p>你比我的妈妈还更好，</p>
 <p>有爱国心的都是弟兄！</p>
 </blockquote>
-贝化英|对！待会儿我把你送回去。
-王小五|不送！不送！难道你不怕日本兵？
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> 对！待会儿我把你送回去。</p>
+<p class="xj"><span class="xchar">王小五</span> 不送！不送！难道你不怕日本兵？</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>我的胆量并不大，</p>
 <p>可是为送你呀，我敢往前冲！</p>
 <p>告诉我，你叫什么名字？</p>
 </blockquote>
-王小五|
+<p class="xj"><span class="xchar">王小五</span> </p>
 <blockquote>
 <p>小名叫小五，学名王喜忠。</p>
 <p>告诉我你的名和姓？</p>
 </blockquote>
-贝化英|我！我叫护士，又苦又穷！
-王小五|
+<p class="xj"><span class="xchar">贝化英</span> 我！我叫护士，又苦又穷！</p>
+<p class="xj"><span class="xchar">王小五</span> </p>
 <blockquote>
 <p>对！护士！这是个好名字，</p>
 <p>护士、护士，无名英雄！</p>
@@ -870,7 +870,7 @@
 
 
 
-第三场
+<h2 class="title2">第三场</h2>
 时间 抗美援朝运动初期，春晨。
 地点 春光医院内。
 人物 贝化英 刘雪丽 郎院长 郎卉仙 白副院长 众病人：五大妈、李小二……等若干人
@@ -878,7 +878,7 @@
 <p class="l block">〔幕启：贝化英正收拾行李。外边有“雄赳赳，气昂昂，跨过鸭绿江……”的雄壮歌声。她倾听了一会儿，微笑。</p>
 <p class="l block">〔刘雪丽精神焕发地走来，边走边唱。</p>
 
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>雄赳赳气昂昂，</p>
 <p>中国英雄跨过了鸭绿江！</p>
@@ -889,7 +889,7 @@
 <p>化英，化英，你不该跟我抢，</p>
 <p>我报名在先，决不会退让！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>这个医院新改组，</p>
 <p>报名的时候我没有着忙。</p>
@@ -910,7 +910,7 @@
 <p>你知道，我的脑子想事慢，</p>
 <p>可是有了决定啊，我就想一下子飞到战士身旁！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>是！是！你我的心情完全一样，</p>
 <p>二十年啊，我们没有见过明朗天光！</p>
@@ -923,12 +923,12 @@
 <p>我也是恨不能背生双翅，</p>
 <p>一飞就飞到战士身旁！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>我走，你留，我的心才放得下，</p>
 <p>我归，你去，两妥当！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>好吧，这次我来把路让，</p>
 <p>下次你帮我的忙！</p>
@@ -939,7 +939,7 @@
 <p>告诉他们：在以前一家大小愁眉苦脸，</p>
 <p>新的生活啊治好了旧创伤！</p>
 </blockquote>
-贝化英|<span class="block">（收相片）</span>
+<p class="xj"><span class="xchar">贝化英</span> <span class="block">（收相片）</span></p>
 <blockquote>
 <p>我必把你的话带到，</p>
 <p>你快去吧，收拾病房。</p>
@@ -954,12 +954,12 @@
 <p>治病要紧，防病更要紧，</p>
 <p>要做到无灾无病，国家富强！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>我一定记住你的话，</p>
 <p>祝你平安，身体健康！<span class="block">（拥抱，下）</span></p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>还是这个小医院，</p>
 <p>有了民主，处处发了光！</p>
@@ -968,9 +968,9 @@
 <p>再忙再累我也欢喜，</p>
 <p>我知道了啊，为谁辛苦为谁忙！</p>
 </blockquote>
-郎院长|<span class="block">（上）</span>化英，怎么，怎么真要走？
-贝化英|为了抗美援朝，谁肯不紧张？
-郎院长|
+<p class="xj"><span class="xchar">郎院长</span> <span class="block">（上）</span>化英，怎么，怎么真要走？</p>
+<p class="xj"><span class="xchar">贝化英</span> 为了抗美援朝，谁肯不紧张？</p>
+<p class="xj"><span class="xchar">郎院长</span> </p>
 <blockquote>
 <p>你是我的老朋友，</p>
 <p>都在“协和”留过洋。</p>
@@ -980,17 +980,17 @@
 <p>再说呀，咱们总算吃过美国饭，</p>
 <p>翻脸无情，总，总欠妥当！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>正因为在协和吃尽了苦！</p>
 <p>我才要走，不再彷徨！</p>
 </blockquote>
-郎院长|
+<p class="xj"><span class="xchar">郎院长</span> </p>
 <blockquote>
 <p>在协和，吃尽苦。我有点不懂！</p>
 <p>谁不知道那里是天堂！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>那是你的天堂，我的地狱，</p>
 <p>你视而不见，那一片凄凉！</p>
@@ -1007,12 +1007,12 @@
 <p>我永难忘记他们拿穷人作试验，</p>
 <p>至今哪，那些血债还没有偿！</p>
 </blockquote>
-郎院长|
+<p class="xj"><span class="xchar">郎院长</span> </p>
 <blockquote>
 <p>这些都好像不是你的话，</p>
 <p>你学会了白副院长的慷慨激昂！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>对！事事我听白副院长的话，</p>
 <p>老党员啊，他的话叫我心里亮堂！</p>
@@ -1024,19 +1024,19 @@
 <p>不要再给美帝帮腔！</p>
 </blockquote>
 <p class="l block">〔郎院长摇头走开，郎卉仙穿着蓝布制服走来，觉得很时髦。</p>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>化英，看！我也有了新气象，</p>
 <p>穿上了时髦的布衣裳！</p>
 <p>别人进步我决不落后，</p>
 <p>我不再满身绸缎，遍体辉煌！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>卉仙，进步不一定表现在服装上，</p>
 <p>你顶好动动手儿给医院帮帮忙。</p>
 </blockquote>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>你容我去仔细想，</p>
 <p>去作什么干净，脸上又有光！</p>
@@ -1047,47 +1047,47 @@
 <p>看见他呀，他越和善，我越心慌！<span class="block">（下）</span></p>
 </blockquote>
 <p class="l block">〔白副院长搀着王大妈，拉着李小二，与病人们说笑着走来。</p>
-白院长|
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>化英啊，大家要送你，我拦不住，</p>
 <p>好吧，咱们这里是有感情的好地方！</p>
 </blockquote>
-王大妈|大嫂啊，我会天天想念你！
-贝化英|别叫大嫂，我是老姑娘！
-群众|
+<p class="xj"><span class="xchar">王大妈</span> 大嫂啊，我会天天想念你！</p>
+<p class="xj"><span class="xchar">贝化英</span> 别叫大嫂，我是老姑娘！</p>
+<p class="xj"><span class="xchar">群众</span> </p>
 <blockquote>
 <p>哈哈哈，王大妈专会说愣话。</p>
 <p>不打听明白就乱开腔！</p>
 </blockquote>
-白院长|
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>老人说错，化英会原谅，</p>
 <p>一家人啊，出点笑话也欢畅！</p>
 </blockquote>
-王大妈|
+<p class="xj"><span class="xchar">王大妈</span> </p>
 <blockquote>
 <p>唉！我的嘴笨，心眼热，</p>
 <p>我不知怎样感谢这位好姑娘！</p>
 </blockquote>
 <p class="l block">〔李小二过去搂住贝。</p>
-李小二|
+<p class="xj"><span class="xchar">李小二</span> </p>
 <blockquote>
 <p>你一看我就减三分病，</p>
 <p>你送来的饭食，吃着最香！</p>
 <p>舍不得你啊，请你先别走。</p>
 </blockquote>
-白院长|小二呀，她是去给英雄的伤员送药扶伤！
-群众|
+<p class="xj"><span class="xchar">白院长</span> 小二呀，她是去给英雄的伤员送药扶伤！</p>
+<p class="xj"><span class="xchar">群众</span> </p>
 <blockquote>
 <p>是呀！若不是她的任务那么重，</p>
 <p>谁肯放她去到北方！</p>
 </blockquote>
-李小二|
+<p class="xj"><span class="xchar">李小二</span> </p>
 <blockquote>
 <p>从此我要立大志，</p>
 <p>腿好之后，我去参军上战场！</p>
 </blockquote>
-群众|
+<p class="xj"><span class="xchar">群众</span> </p>
 <blockquote>
 <p>小二小二说的好，</p>
 <p>抗美援朝，我们个个要坚强！</p>
@@ -1102,22 +1102,22 @@
 <p>化英你有多么好，</p>
 <p>你的心，你的手，你的话，帮助我们恢复健康！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>大妈、小二、兄弟与姐妹，</p>
 <p>你们的信任使我泪盈眶！</p>
 <p>二十多年凄风苦雨，</p>
 <p>今天哪，才有温暖暖透了我的心肠！</p>
 </blockquote>
-白院长|
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>带着这温暖，到后方医院，</p>
 <p>叫伤员们少受苦痛，早复健康！</p>
 <p>走吧化英，我去送你到车站，</p>
 <p>三个月后，我和雪丽前去帮忙！</p>
 </blockquote>
-贝化英|再见吧，努力加餐，多多保重！
-群众|再见吧！祝你胜利，祝你健康！
+<p class="xj"><span class="xchar">贝化英</span> 再见吧，努力加餐，多多保重！</p>
+<p class="xj"><span class="xchar">群众</span> 再见吧！祝你胜利，祝你健康！</p>
 <p class="l block">〔众随她往外走，“雄赳赳气昂昂……”的歌声又起。</p>
 【幕落】
 
@@ -1125,7 +1125,7 @@
 
 
 
-第四场
+<h2 class="title2">第四场</h2>
 时间 前场后一个多月，下午。
 地点 东北某后方医院。
 人物 尤护士 王排长 冯虎 唐作雄 卫元 姚大勇 杨能 秦班长 周大夫 关振奇 贝化英 文工团员男女八人
@@ -1134,36 +1134,36 @@
 <p class="l block">〔王排长、卫元、姚大勇、杨能等已能活动。尤护士看看关振奇，不知如何是好，把王排长叫到门口。</p>
 <p class="l block">〔王排长即第二场的王小五。</p>
 
-尤护士|<span class="block">（低声的）</span>
+<p class="xj"><span class="xchar">尤护士</span> <span class="block">（低声的）</span></p>
 <blockquote>
 <p>我看见他<span class="block">（指关）</span>皮肤溃烂，已没希望，</p>
 <p>我怎么劝告，他也不肯吃东西！</p>
 <p>急得我没办法，屡次要哭，</p>
 </blockquote>
-王排长|，请你给我想个妙计！
-王排长|
+<p class="xj"><span class="xchar">王排长</span> ，请你给我想个妙计！</p>
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>咱们俩一同去劝他，</p>
 <p>也许他会回心转意。</p>
 </blockquote>
 <p class="l block">〔二人回到关的床前。</p>
-尤护士|关同志，王排长来跟你谈谈话，
-王排长|
+<p class="xj"><span class="xchar">尤护士</span> 关同志，王排长来跟你谈谈话，</p>
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>关同志，我们大家都关心你！</p>
 <p>别叫护士们多着急，</p>
 <p>请你快快吃点东西！</p>
 </blockquote>
 <p class="l block">〔关不语。</p>
-尤护士|我只好快请大姐去。
-王排长|
+<p class="xj"><span class="xchar">尤护士</span> 我只好快请大姐去。</p>
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>等一等，化英大姐应该休息！</p>
 <p>关同志，叫小尤护士来喂你，</p>
 <p>别叫化英大姐听见着急！</p>
 </blockquote>
 <p class="l block">〔关仍不语，王示意冯、唐说话，因为他二人也病势较重。</p>
-冯虎 唐作雄|
+<p class="xj"><span class="xchar">冯虎 唐作雄</span> </p>
 <blockquote>
 <p>关同志，你与我们都知道，</p>
 <p>咱们的病痛是美帝带来的！</p>
@@ -1173,7 +1173,7 @@
 <p>战胜了病魔，再回战场消灭美帝！</p>
 </blockquote>
 <p class="l block">〔关仍不语，王与尤离开他，到门口。</p>
-王排长|
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>省文工团马上来慰问，</p>
 <p>你快和主任去商议。</p>
@@ -1186,12 +1186,12 @@
 <p>我们甘愿不看歌舞，</p>
 <p>不叫他伤心，我们就满意！</p>
 </blockquote>
-尤护士|
+<p class="xj"><span class="xchar">尤护士</span> </p>
 <blockquote>
 <p>马上我就去请示，</p>
 <p>回来再劝关振奇！<span class="block">（下）</span></p>
 </blockquote>
-王排长|
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>同志们，我们现在开个会，</p>
 <p>大家想想好主意。</p>
@@ -1204,12 +1204,12 @@
 <p>我把这些盘子去送回，<span class="block">（收集茶点的托盘）</span></p>
 <p>谁来擦净这些桌椅？</p>
 </blockquote>
-卫元|
+<p class="xj"><span class="xchar">卫元</span> </p>
 <blockquote>
 <p>我来！化英大姐看不得一点脏，</p>
 <p>我要好好加工，擦得仔细！<span class="block">（开始工作）</span></p>
 </blockquote>
-姚大勇|
+<p class="xj"><span class="xchar">姚大勇</span> </p>
 <blockquote>
 <p>排长，我给冯虎擦擦澡，</p>
 <p>省得又叫大姐替他洗！</p>
@@ -1217,23 +1217,23 @@
 <p>我已学会，准保你满意！<span class="block">（预备盆、毛巾等）</span></p>
 <p>好不好先给小关洗？</p>
 </blockquote>
-王排长|不！小关应当先吃东西！
-杨能|
+<p class="xj"><span class="xchar">王排长</span> 不！小关应当先吃东西！</p>
+<p class="xj"><span class="xchar">杨能</span> </p>
 <blockquote>
 <p>排长，我帮班长去晒太阳，</p>
 <p>不再让大姐把他推出去！</p>
 </blockquote>
-王排长|
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>回来你再收集脏衣服，</p>
 <p>别又等大姐去给咱们洗！</p>
 </blockquote>
-杨能|
+<p class="xj"><span class="xchar">杨能</span> </p>
 <blockquote>
 <p>对！我到溪边去等你，</p>
 <p>一边洗衣，一边歌唱“白毛女”。</p>
 </blockquote>
-王排长|
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>关同志，好同志，赶快吃东西，</p>
 <p>我去找些鲜花送给你！</p>
@@ -1241,12 +1241,12 @@
 <p>从今后，成为制度，大家齐努力！</p>
 </blockquote>
 <p class="l block">〔王排长拿着几个托盘下。杨能把小车推到秦班长的床前。</p>
-杨能|
+<p class="xj"><span class="xchar">杨能</span> </p>
 <blockquote>
 <p>班长啊，我扶你上四轮车，</p>
 <p>诸葛孔明也没你神气！</p>
 </blockquote>
-秦班长|
+<p class="xj"><span class="xchar">秦班长</span> </p>
 <blockquote>
 <p>诸葛亮虽然会用兵，</p>
 <p>他可没有打过美帝！</p>
@@ -1258,12 +1258,12 @@
 <p>你怎么又不吃下去？</p>
 <p>叫大姐看见又得着急！</p>
 </blockquote>
-唐作雄|
+<p class="xj"><span class="xchar">唐作雄</span> </p>
 <blockquote>
 <p>秦班长，自幼儿我就不喜吃鸡蛋，</p>
 <p>怎么勉强也咽不下去！</p>
 </blockquote>
-秦班长|
+<p class="xj"><span class="xchar">秦班长</span> </p>
 <blockquote>
 <p>吃！吃！不能又等大姐来喂你！</p>
 <p>吃！拿它当药，补补身体！</p>
@@ -1274,50 +1274,50 @@
 <p>枪林弹雨你视若等闲，</p>
 <p>为什么叫两个鸡蛋吓住你？</p>
 </blockquote>
-唐作雄|
+<p class="xj"><span class="xchar">唐作雄</span> </p>
 <blockquote>
 <p>我吃！我吃！咱们都爱化英大姐，</p>
 <p>我一定不再叫她多着急！<span class="block">（吃）</span></p>
 </blockquote>
-冯虎|唉！
-秦班长|
+<p class="xj"><span class="xchar">冯虎</span> 唉！</p>
+<p class="xj"><span class="xchar">秦班长</span> </p>
 <blockquote>
 <p>小冯为什么长叹气？</p>
 <p>是不是老姚不会洗？</p>
 </blockquote>
-冯虎|
+<p class="xj"><span class="xchar">冯虎</span> </p>
 <blockquote>
 <p>老姚洗的很仔细，</p>
 <p>我是着急，还不能赶快下了地！</p>
 <p>万一敌人都被消灭完，</p>
 <p>回到前线啊，我就找不到一个挨揍的！</p>
 </blockquote>
-杨能|
+<p class="xj"><span class="xchar">杨能</span> </p>
 <blockquote>
 <p>小冯同志切莫着急。</p>
 <p>你越着急，化英大姐越不肯休息！</p>
 </blockquote>
-秦班长|
+<p class="xj"><span class="xchar">秦班长</span> </p>
 <blockquote>
 <p>关同志，你也别叫大姐着急，</p>
 <p>恢复健康你必须好好地吃东西！</p>
 </blockquote>
 <p class="l block">〔关不语，班长叹气，杨推车下。周大夫进来，直奔了关振奇去，坐在床旁，贝化英拿着一些缝洗好的衣服与一个枕头进来。她去看关，周大夫向她摆摆手，她仍去招呼别人。</p>
-贝化英|卫同志，你这是干什么？
-卫元|我……活动活动，为是长体力。
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> 卫同志，你这是干什么？</p>
+<p class="xj"><span class="xchar">卫元</span> 我……活动活动，为是长体力。</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>同志，两件衣服请拿去，</p>
 <p>原谅我，粗针大线补的不精细！</p>
 <p>眼睛已经有点花，</p>
 <p>又没好好学过作活计！<span class="block">（递衣）</span></p>
 </blockquote>
-卫元|<span class="block">（接衣）</span>
+<p class="xj"><span class="xchar">卫元</span> <span class="block">（接衣）</span></p>
 <blockquote>
 <p>你看，明是休息，暗中去缝洗，</p>
 <p>贝大姐，你虽是护士不知爱身体。</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>你们为保家卫国忘了个人，</p>
 <p>我怎能够不顾你们，光顾自己？</p>
@@ -1328,14 +1328,14 @@
 <p>棉瓤子太热，容易叫你出虚汗，</p>
 <p>我给你换上了荞麦皮。</p>
 </blockquote>
-唐作雄|
+<p class="xj"><span class="xchar">唐作雄</span> </p>
 <blockquote>
 <p>我不知怎么感激你，</p>
 <p>只有啊，多多听话，少叫你着急！</p>
 <p>化英大姐你来看，</p>
 <p>我吃下了蛋白蛋黄只剩下了皮！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>好！谢谢你这样跟我合作，</p>
 <p>晚饭时我再给你煮上两个大的！</p>
@@ -1346,8 +1346,8 @@
 <p>你们这是病轻的帮助病重的！</p>
 <p>我，我，我……<span class="block">（感动地说不上话来）</span></p>
 </blockquote>
-姚大勇|大姐！大姐！你莫非生了气？
-贝化英|
+<p class="xj"><span class="xchar">姚大勇</span> 大姐！大姐！你莫非生了气？</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>同志！同志！我不知道说什么好，</p>
 <p>只盼哪，有朝一日我的品质和你们的一边齐！</p>
@@ -1366,13 +1366,13 @@
 <p>帮助我，学会你的思想与感情，</p>
 <p>我才有资格呀，好好地伺候你！</p>
 </blockquote>
-姚大勇|
+<p class="xj"><span class="xchar">姚大勇</span> </p>
 <blockquote>
 <p>你也叫我不知说什么好，</p>
 <p>轻微的劳动对我呀一定有益！<span class="block">（端盆下）</span></p>
 </blockquote>
 <p class="l block">〔杨能上，本想去搜集脏衣服，看见贝，改了主意，到自己的床下，拿出个罐头来。</p>
-杨能|
+<p class="xj"><span class="xchar">杨能</span> </p>
 <blockquote>
 <p>化英大姐，上次给你你不收，</p>
 <p>到今天我还好好给你留起，</p>
@@ -1386,7 +1386,7 @@
 <p>将来给你送到北京去！</p>
 </blockquote>
 <p class="l block">〔二人正推让，王排长在门口打手势，问杨，关吃了东西没有。杨把罐头塞在贝手中，去看关振奇。贝亦随过去。周大夫立起，失望地摇头，慢慢地往外走。尤护士进来，作手势问关的情况。周又摇头，下。尤护士去看关。杨乘机会把大家的脏衣服拿走，同王下。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>振奇同志请吃吧，</p>
 <p>允许我慢慢地来喂你！</p>
@@ -1406,22 +1406,22 @@
 <p>我说不出什么大道理，</p>
 <p>我只知道我的心啊老和病人在一起！</p>
 </blockquote>
-关振奇|
+<p class="xj"><span class="xchar">关振奇</span> </p>
 <blockquote>
 <p>好大姐，请你不必再操心，</p>
 <p>我已经没有希望再起立！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>谁说的你已无希望？</p>
 <p>大夫、护士的责任就是治好了你！</p>
 </blockquote>
-关振奇|
+<p class="xj"><span class="xchar">关振奇</span> </p>
 <blockquote>
 <p>病有轻重各不同，</p>
 <p>我的病啊，医药已经难为力！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>难道你不信我的心真话也真？</p>
 <p>你想想，可有大姐欺骗小弟弟？</p>
@@ -1430,8 +1430,8 @@
 <p>说吧，说吧，有话都要说出来，</p>
 <p>病人、护士要比亲人更亲密！</p>
 </blockquote>
-关振奇|我只会舞蹈与唱歌，
-贝化英|
+<p class="xj"><span class="xchar">关振奇</span> 我只会舞蹈与唱歌，</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>我知道，你的歌舞鼓舞了士气！</p>
 <p>为什么不向战士们多学习，</p>
@@ -1439,7 +1439,7 @@
 <p>我相信，病好你还会去歌舞，</p>
 <p>就是不能啊，你也会作出别的成绩！</p>
 </blockquote>
-关振奇|
+<p class="xj"><span class="xchar">关振奇</span> </p>
 <blockquote>
 <p>唉！我虽非战士，却在部队里，</p>
 <p>我懂得：为爱别人，牺牲自己！</p>
@@ -1448,7 +1448,7 @@
 <p>应该把它们留给伤员，</p>
 <p>我长眠地下，也永远欢喜！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>请你好好想一想，</p>
 <p>生命岂不比药品更该珍惜？</p>
@@ -1462,7 +1462,7 @@
 <p>来吧，听大姐的话吧，叫大姐来喂你！</p>
 <p>你要是……<span class="block">（声泪俱下）</span></p>
 </blockquote>
-关振奇|<span class="block">（也哭了）</span>
+<p class="xj"><span class="xchar">关振奇</span> <span class="block">（也哭了）</span></p>
 <blockquote>
 <p>化英大姐，我不是，不是爱哭的人。</p>
 <p>你的热泪啊，落到了我心里，</p>
@@ -1470,62 +1470,62 @@
 <p>相信我吧，我一定要对得起党和毛主席！</p>
 </blockquote>
 <p class="l block">〔贝喂他。尤护士感动得抹着泪走开，告诉冯、唐。</p>
-尤护士|
+<p class="xj"><span class="xchar">尤护士</span> </p>
 <blockquote>
 <p>他吃了！他吃了！</p>
 <p>我真想高歌狂舞表示欢喜！<span class="block">（又跑回去）</span></p>
 <p>化英大姐，我必须，必须向你学习，</p>
 <p>大家都失败了，你却得到胜利！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>小尤啊，我没有绝技与窍门，</p>
 <p>我只知道啊，心要真诚，工作要细腻！</p>
 </blockquote>
-尤护士|关同志，关同志你可欢迎文工团？
-关振奇|请他们来，我要听要看大家同欢喜！
+<p class="xj"><span class="xchar">尤护士</span> 关同志，关同志你可欢迎文工团？</p>
+<p class="xj"><span class="xchar">关振奇</span> 请他们来，我要听要看大家同欢喜！</p>
 <p class="l block">〔尤护士笑着往外跑，周大夫恰好进来，尤指贝与关周大喜。</p>
-周大夫|
+<p class="xj"><span class="xchar">周大夫</span> </p>
 <blockquote>
 <p>小尤！小尤！向她学习！</p>
 <p>我当大夫的呀也必须必须向她看齐！</p>
 </blockquote>
 <p class="l block">〔王排长捧着一瓶鲜花上。</p>
-王排长|怎样？怎样？小尤护士！
-尤护士|得意地<span class="block">（指指贝、关）</span>我去把文工团请到这里！<span class="block">（下）</span>
-周大夫|王排长，你们哪，使我们的觉悟天天提高！
-王排长|
+<p class="xj"><span class="xchar">王排长</span> 怎样？怎样？小尤护士！</p>
+<p class="xj"><span class="xchar">尤护士</span> 得意地<span class="block">（指指贝、关）</span>我去把文工团请到这里！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">周大夫</span> 王排长，你们哪，使我们的觉悟天天提高！</p>
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>周大夫，你们哪，增强了我们的爱国主义！</p>
 <p>我从前就受过她<span class="block">（指贝）</span>的鼓舞，</p>
 <p>这位大姐呀，我永远难忘记！</p>
 </blockquote>
 <p class="l block">〔周大夫去看冯等，王排长把花摆在关的附近。而后到门口招呼院中的伤员进来。杨能把班长推进来。</p>
-杨能|
+<p class="xj"><span class="xchar">杨能</span> </p>
 <blockquote>
 <p>听！鼓乐齐鸣，文工团来到，</p>
 <p>王排长，领着我们在此站齐！</p>
 </blockquote>
 <p class="l block">〔卫等帮助秦班长上床；冯等在床上坐好，王、卫、姚、杨等在门内排好，周大夫去看关。尤护士领着文工团男女八人，打着锣鼓进来。</p>
-文工团|
+<p class="xj"><span class="xchar">文工团</span> </p>
 <blockquote>
 <p>党和政府问候你们，</p>
 <p>毛主席和人民向你们致意！</p>
 </blockquote>
-王排长|感谢伟大的党，感谢伟大的毛主席！
-众战士|
+<p class="xj"><span class="xchar">王排长</span> 感谢伟大的党，感谢伟大的毛主席！</p>
+<p class="xj"><span class="xchar">众战士</span> </p>
 <blockquote>
 <p>感谢亲爱的父老、姐妹与兄弟！</p>
 <p>感谢你们不辞劳苦远道而来，</p>
 <p>感谢你们的鼓舞与厚意！</p>
 </blockquote>
-王排长|
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>快来见见化英大姐，</p>
 <p>是她呀，加强了我们的革命乐观主义！</p>
 </blockquote>
 <p class="l block">〔文工团员围起贝来，而后散开，且舞且唱。</p>
-文工团|
+<p class="xj"><span class="xchar">文工团</span> </p>
 <blockquote>
 <p>慰问、慰问英雄的战士们，</p>
 <p>雄赳赳你们跨过鸭绿江去！</p>
@@ -1538,41 +1538,41 @@
 
 
 
-第五场
+<h2 class="title2">第五场</h2>
 时间 一九五六年秋，晨。
 地点 积水潭医院花园内。
 人物 凤秉珍 钱雨顺 郭海韵 满天云 郎大夫 白副院长 贝化英 郎卉仙 刘雪丽 众护士 众医生
 
 <p class="l block">〔幕启：花园内秋花含露，蝉鸣秋柳，三三两两医生护士来往，或上班或下班，凤秉珍等四青年护士在荷池旁议论纷纷。</p>
 
-凤秉珍|
+<p class="xj"><span class="xchar">凤秉珍</span> </p>
 <blockquote>
 <p>这几天郎大夫跟我们亲近，</p>
 <p>他这个态度叫我起疑心！</p>
 <p>平日里，他没把咱们放到眼里，</p>
 <p>为什么这几天他笑脸迎人？</p>
 </blockquote>
-钱雨顺|
+<p class="xj"><span class="xchar">钱雨顺</span> </p>
 <blockquote>
 <p>是呀，他劝我快写大字报，</p>
 <p>字字毒辣，句句刺心！</p>
 <p>可是呀，我的文字欠通顺，</p>
 <p>怕人家耻笑我外秀内无文！</p>
 </blockquote>
-郭海韵|
+<p class="xj"><span class="xchar">郭海韵</span> </p>
 <blockquote>
 <p>我看哪，咱们去问问护士长，</p>
 <p>她的经验丰富，以诚待人！</p>
 </blockquote>
-满天云|
+<p class="xj"><span class="xchar">满天云</span> </p>
 <blockquote>
 <p>我看谁也不必问，</p>
 <p>给它个瞎混，全不关心！</p>
 </blockquote>
 <p class="l block">〔郎大夫兴致勃勃地走来。</p>
-凤秉珍|大夫今天来的早！
-满天云|红光满面分外精神！
-郎大夫|
+<p class="xj"><span class="xchar">凤秉珍</span> 大夫今天来的早！</p>
+<p class="xj"><span class="xchar">满天云</span> 红光满面分外精神！</p>
+<p class="xj"><span class="xchar">郎大夫</span> </p>
 <blockquote>
 <p>朋友们，早已料到必有今日，</p>
 <p>大鸣大放振奋人心！</p>
@@ -1600,19 +1600,19 @@
 <p>我知道做护士的委屈最深！</p>
 </blockquote>
 <p class="l block">〔白副院长和贝化英护士长同来。郎与满一同走开。凤秉珍等到假山后去。</p>
-白院长|
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>这是一场激烈斗争，</p>
 <p>两条道路必须，必须彻底划分！</p>
 <p>战斗中，你会得到革命锻炼，</p>
 <p>切不要顾情面，恐怕得罪了人！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>几年来，我听从你的话，</p>
 <p>你的话叫我呀明白了些革命精神！</p>
 </blockquote>
-白院长|
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>你听从的是党的话，</p>
 <p>党的话是一切人的指南针！</p>
@@ -1625,13 +1625,13 @@
 <p>有的工作安排得不甚合适，</p>
 <p>你要妥当调配，因才用人。</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>我自己编好一张大字报，</p>
 <p>今昔对比，也许会感动青年们的心！<span class="block">（同白下）</span></p>
 </blockquote>
 <p class="l block">〔郎卉仙拿着一束鲜花来到，东张西望。</p>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>郎大夫进军攻正面，</p>
 <p>我来偷营劫寨暗搜寻。</p>
@@ -1641,16 +1641,16 @@
 <p>化英、化英，老大姐！</p>
 <p>献上点鲜花略表寸心！</p>
 </blockquote>
-贝化英|为什么忽然这样客气？
-郎卉仙|还说呢？你怎么结婚不肯告诉人？
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> 为什么忽然这样客气？</p>
+<p class="xj"><span class="xchar">郎卉仙</span> 还说呢？你怎么结婚不肯告诉人？</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>我要千遍万遍感激党，</p>
 <p>叫我到了中年找到青春！</p>
 <p>我要加倍努力多工作，</p>
 <p>哪顾得请客庆新婚！</p>
 </blockquote>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>祝你晚景多幸福，</p>
 <p>花好月圆秋胜春！</p>
@@ -1659,44 +1659,44 @@
 <p>他有缺点请你告诉我，</p>
 <p>不要当众批评伤了他的心！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>他的作风你知道，</p>
 <p>帮助他改造，你的责任深！</p>
 </blockquote>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>请你说的具体些，</p>
 <p>我好劝他，见血只一针！</p>
 </blockquote>
 <p class="l block">〔刘雪丽来找贝。</p>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>化英，我已替你抄写好，</p>
 <p>快来看看，实在动人心！<span class="block">（下）</span></p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>卉仙，请把鲜花拿回去，</p>
 <p>不讲客套啊，彼此感情真！</p>
 </blockquote>
-郎卉仙|
+<p class="xj"><span class="xchar">郎卉仙</span> </p>
 <blockquote>
 <p>哎呀呀，你这位大姐真死板，</p>
 <p>叫我花钱跑路枉费精神！<span class="block">（下）</span></p>
 </blockquote>
 <p class="l block">〔贝欲下，凤秉珍等三人由假山后赶来。</p>
-凤秉珍|
+<p class="xj"><span class="xchar">凤秉珍</span> </p>
 <blockquote>
 <p>护士长，护士长，请你等等！</p>
 <p>我们都要跟你谈一谈心！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>好啊，让咱们坐在这荷池畔，</p>
 <p>互相帮助，相爱相亲！</p>
 </blockquote>
-凤秉珍|
+<p class="xj"><span class="xchar">凤秉珍</span> </p>
 <blockquote>
 <p>我愿说出心腹话，</p>
 <p>近来我有点不安心！</p>
@@ -1705,7 +1705,7 @@
 <p>谁知道我得去端屎与端尿，</p>
 <p>羞得我藏藏躲躲见不得人！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>秉珍啊，你刚刚毕业来到这里，</p>
 <p>对工作任务还认识不深。</p>
@@ -1720,7 +1720,7 @@
 <p>雨顺啊，说说你的心中话，</p>
 <p>把我当作你的亲人！</p>
 </blockquote>
-钱雨顺|
+<p class="xj"><span class="xchar">钱雨顺</span> </p>
 <blockquote>
 <p>我只知道我的想法不大对！</p>
 <p>你看啊，大夫能作专家与院长，</p>
@@ -1730,7 +1730,7 @@
 <p>到老来，一事无成，筋疲力尽，</p>
 <p>只好呀抱抱孩子，看守家门！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>小妹妹，我作护士将近三十载，</p>
 <p>可是我越干越有精神！</p>
@@ -1757,14 +1757,14 @@
 <p>前天我怪你浪费了纱巾、红药水，</p>
 <p>也许呀，我有些暴躁，态度欠温存！</p>
 </blockquote>
-郭海韵|
+<p class="xj"><span class="xchar">郭海韵</span> </p>
 <blockquote>
 <p>当时啊，我的态度也不好，</p>
 <p>我忘了考虑，爱惜公物，应当极认真！</p>
 <p>我不该马上生了气，</p>
 <p>论年岁，论经验，你都应作我的母亲！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>小妹妹们，看见你们我就兴奋，</p>
 <p>护士队伍有了啊强大的生力军。</p>
@@ -1773,39 +1773,39 @@
 <p>我的话不知对不对，</p>
 <p>认真地讨论，才好挖深我们的病根！</p>
 </blockquote>
-凤秉珍|
+<p class="xj"><span class="xchar">凤秉珍</span> </p>
 <blockquote>
 <p>你的话叫我呀如梦方醒，</p>
 <p>忘了光荣，我只记住低三下四服侍人！</p>
 </blockquote>
-钱雨顺 郭海韵|
+<p class="xj"><span class="xchar">钱雨顺 郭海韵</span> </p>
 <blockquote>
 <p>我们怀疑郎大夫的话，</p>
 <p>还要深挖自己的思想病根！</p>
 </blockquote>
 <p class="l block">〔满天云匆匆跑来。</p>
-满天云|
+<p class="xj"><span class="xchar">满天云</span> </p>
 <blockquote>
 <p>钱雨顺、凤秉珍、郭海韵！</p>
 <p>郎大夫叫你们去谈心！</p>
 </blockquote>
-凤秉珍|
+<p class="xj"><span class="xchar">凤秉珍</span> </p>
 <blockquote>
 <p>告诉他，我们跟随护士长，</p>
 <p>我们不听他的挑拨离间，暗箭伤人！</p>
 </blockquote>
-满天云|
+<p class="xj"><span class="xchar">满天云</span> </p>
 <blockquote>
 <p>哎呀呀，你们不去，他会生气！</p>
 <p>好吧，我告诉他去，别再等你们。<span class="block">（跑下）</span></p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>走吧，我们快去准备开会，</p>
 <p>每个人都诚诚恳恳向党交心！<span class="block">（同走）</span></p>
 </blockquote>
 <p class="l block">〔郎大夫与满天云各执大字报一张，追来。</p>
-郎大夫|
+<p class="xj"><span class="xchar">郎大夫</span> </p>
 <blockquote>
 <p>郭海韵、凤秉珍、钱雨顺！</p>
 <p>你们怎么甩手一走，剩下我和满天云？</p>
@@ -1818,7 +1818,7 @@
 <p>看着吧，寸金难买寸光阴！</p>
 </blockquote>
 <p class="l block">〔白副院长在前，许多医生、护士都高举着各色的大字报，从对面走来，声势浩大。贝化英与刘雪丽同举一大幅大字报，昂然前进。郎与满立住，发了慌。白副院长领头高唱。</p>
-合唱|
+<p class="xj"><span class="xchar">合唱</span> </p>
 <blockquote>
 <p>热爱毛主席，热爱共产党，</p>
 <p>热爱我们的工作，保卫人民！</p>
@@ -1830,13 +1830,13 @@
 <p>病人们破涕为笑啊，大地回春！</p>
 </blockquote>
 <p class="l block">〔满天云撕毁手中的大字报，白拦阻她。</p>
-白院长|
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>不要撕，真理经得起大辩论，</p>
 <p>护士长，请你说说你怎么翻的身！</p>
 </blockquote>
 <p class="l block">〔贝站出来，指她的大字报。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>我的话都写在这里，</p>
 <p>请大家批评、辩论，都要认真！</p>
@@ -1858,33 +1858,33 @@
 <p>你必是误信了别人的话，</p>
 <p>叫你把青天看作乌云！</p>
 </blockquote>
-满天云|
+<p class="xj"><span class="xchar">满天云</span> </p>
 <blockquote>
 <p>哎呀呀，我的心里七上八下，</p>
 <p>不晓得站在哪边得奖加薪！</p>
 <p>郎大夫请你讲一讲，</p>
 <p>是你说的：今不如昔，满天乌云！</p>
 </blockquote>
-郎大夫|
+<p class="xj"><span class="xchar">郎大夫</span> </p>
 <blockquote>
 <p>我看哪，咱们回去细想想，</p>
 <p>忙中有错，想不仔细想不深！<span class="block">（要走）</span></p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>郎大夫请你等一等，</p>
 <p>你作过的事情，我看的真！</p>
 <p>我知道你在协和怎么样，</p>
 <p>我知道你自办医院怎么剥削人！</p>
 </blockquote>
-郎大夫|
+<p class="xj"><span class="xchar">郎大夫</span> </p>
 <blockquote>
 <p>过去的事情何必再讲，</p>
 <p>今天我努力工作，改造自新！</p>
 </blockquote>
-众护士|你到处点火，散放毒素！
-众医生|本领不大，你的尾巴翘入青云！
-白院长|
+<p class="xj"><span class="xchar">众护士</span> 你到处点火，散放毒素！</p>
+<p class="xj"><span class="xchar">众医生</span> 本领不大，你的尾巴翘入青云！</p>
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>这几年，党对你仁至义尽，</p>
 <p>你可恋恋不舍旧社会的腐烂荒淫！</p>
@@ -1896,7 +1896,7 @@
 <p>大礼堂上你作第一个发言的人！</p>
 </blockquote>
 <p class="l block">〔大家欢呼，齐向礼堂前进。</p>
-合唱|
+<p class="xj"><span class="xchar">合唱</span> </p>
 <blockquote>
 <p>高举着毛泽东的思想旗帜，</p>
 <p>保卫社会主义，保卫人民！</p>
@@ -1911,40 +1911,40 @@
 
 
 
-第六场
+<h2 class="title2">第六场</h2>
 时间 一九五八年秋，下午。
 地点 积水潭医院护士长办公室。
 人物 贝化英 刘雪丽 小雪 小香 男代表 女代表 凤秉珍 钱雨顺 白副院长 医生甲 医生乙 郭海韵 尤护士 王排长 关振奇 孟大姐 众护士 众医生
 
 <p class="l block">〔幕启：外面有“社会主义好”的歌声。贝化英愉快而稍不安，忽坐忽立。刘雪丽极高兴地同小雪小香跑进来。</p>
 
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>化英！我给你带来两件宝贝，</p>
 <p>庆祝你坚持工作三十年！</p>
 <p>看，这小伙子多么健壮，</p>
 <p>小雪，去！祝化英妈妈长寿，又红又专！</p>
 </blockquote>
-小雪|
+<p class="xj"><span class="xchar">小雪</span> </p>
 <blockquote>
 <p>化英妈妈，我没有礼物献给你，</p>
 <p>只有一语啊，你听了必喜欢！</p>
 <p>再过二年我就在外科毕业，</p>
 <p>我要跟你一样，坚持不懈几十年！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>看看小香多么美丽，</p>
 <p>明年啊，她也要戴上护士白冠！</p>
 </blockquote>
 <p class="l block">〔小香把带来的一朵小花插在贝的胸前。</p>
-小香|
+<p class="xj"><span class="xchar">小香</span> </p>
 <blockquote>
 <p>化英妈妈，你是护士的好模范，</p>
 <p>我祝你红旗长胜，带动青年！</p>
 </blockquote>
 <p class="l block">〔四人挽臂高唱。</p>
-合唱|
+<p class="xj"><span class="xchar">合唱</span> </p>
 <blockquote>
 <p>老少同心，山高水远，</p>
 <p>崇高的职业，世代相传！</p>
@@ -1957,63 +1957,63 @@
 <p>携手同行，阔步前进，</p>
 <p>春兰秋菊，竞秀争妍！</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>孩子们，我喜欢的要落泪，</p>
 <p>谁见过给护士祝贺工作三十年！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>孩子们，你们受的是革命教育，</p>
 <p>必定会后来居上，青出于蓝！</p>
 </blockquote>
 <p class="l block">〔各病房派来的代表一男一女要进来，男的拿着许多贺信，女的手执一束鲜花。刘雪丽拉儿女往外走。</p>
-小雪 小香|
+<p class="xj"><span class="xchar">小雪 小香</span> </p>
 <blockquote>
 <p>化英妈妈，会场上见。</p>
 <p>我们要给你欢呼，喜气冲天。<span class="block">（同妈妈下）</span></p>
 </blockquote>
-女代表|
+<p class="xj"><span class="xchar">女代表</span> </p>
 <blockquote>
 <p>我们代表全院病人向你祝贺，</p>
 <p>热烈祝贺你坚持工作三十年。<span class="block">（献花）</span></p>
 </blockquote>
-男代表|
+<p class="xj"><span class="xchar">男代表</span> </p>
 <blockquote>
 <p>请你接受这些贺信，<span class="block">（递信）</span></p>
 <p>各病房一致感谢你的辛苦，祝你平安！</p>
 </blockquote>
-男代表 女代表|
+<p class="xj"><span class="xchar">男代表 女代表</span> </p>
 <blockquote>
 <p>我们二人明天就出院，</p>
 <p>我们保证：积极生产，干劲冲天！</p>
 <p>我们要学你的作风与方法，</p>
 <p>叫平凡的工作极不平凡！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>感谢大家的爱护与祝愿，</p>
 <p>你们的鼓励使我决定继续向前！</p>
 </blockquote>
-男代表 女代表|
+<p class="xj"><span class="xchar">男代表 女代表</span> </p>
 <blockquote>
 <p>每个病人都渴望握握你的手，</p>
 <p>开完会啊，请你来看看各房间。<span class="block">（同下）</span></p>
 </blockquote>
 <p class="l block">〔凤秉珍、钱雨顺捧着鲜花进来。</p>
-凤秉珍|护士长，祝贺你，热烈地祝贺你。
-钱雨顺|风霜雨雪，辛辛苦苦三十年！<span class="block">（献花）</span>
-凤秉珍|
+<p class="xj"><span class="xchar">凤秉珍</span> 护士长，祝贺你，热烈地祝贺你。</p>
+<p class="xj"><span class="xchar">钱雨顺</span> 风霜雨雪，辛辛苦苦三十年！<span class="block">（献花）</span></p>
+<p class="xj"><span class="xchar">凤秉珍</span> </p>
 <blockquote>
 <p>今天啊，我深刻理解了你的教育，</p>
 <p>我们的工作确是光荣，不是虚言！</p>
 </blockquote>
-钱雨顺|
+<p class="xj"><span class="xchar">钱雨顺</span> </p>
 <blockquote>
 <p>全院的护士都受了感动，</p>
 <p>感谢党，感谢党！我们一定坚持工作，刻苦钻研！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>你们的祝贺深深感动了我，</p>
 <p>党给我的光荣使我兴奋，使我不安！</p>
@@ -2021,7 +2021,7 @@
 <p>叫我们的工作质量高了再高，一天胜一天。</p>
 </blockquote>
 <p class="l block">〔白副院长进来。</p>
-白院长|
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>凤秉珍、钱雨顺，你们近来很进步，</p>
 <p>坚持下去，像护士长那样坚持几十年！</p>
@@ -2033,8 +2033,8 @@
 <p>护士长你已被提升为副院长，</p>
 <p>党委的决定，职工全体鼓舞欣欢！</p>
 </blockquote>
-贝化英|提升我作副院长？
-白院长|
+<p class="xj"><span class="xchar">贝化英</span> 提升我作副院长？</p>
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>众望所归，请别不安！</p>
 <p>党发现你好似一块璞玉，</p>
@@ -2052,41 +2052,41 @@
 <p>我们有责任帮助你发展，</p>
 <p>要使你更自觉自信，勇往直前！</p>
 </blockquote>
-贝化英|护士作副院长，恐怕无前例，
-白院长|
+<p class="xj"><span class="xchar">贝化英</span> 护士作副院长，恐怕无前例，</p>
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>我们天天有，处处有史无前例的事无端！</p>
 <p>解放了思想的人民敢创造，</p>
 <p>谁去多把旧的日历翻！</p>
 </blockquote>
-贝化英|怎么作副院长，我一点也不会！
-白院长|不会就学，决不低头投降给困难！
-刘雪丽|<span class="block">（上）</span>白副院长，卫生部的首长来祝贺，
-白院长|
+<p class="xj"><span class="xchar">贝化英</span> 怎么作副院长，我一点也不会！</p>
+<p class="xj"><span class="xchar">白院长</span> 不会就学，决不低头投降给困难！</p>
+<p class="xj"><span class="xchar">刘雪丽</span> <span class="block">（上）</span>白副院长，卫生部的首长来祝贺，</p>
+<p class="xj"><span class="xchar">白院长</span> </p>
 <blockquote>
 <p>好，我去招待，立刻到前边，</p>
 <p>护士长，为了事业需要勇敢，</p>
 <p>不要叫个人的顾虑萦绕，徘徊不前！<span class="block">（下）</span></p>
 </blockquote>
-贝化英|这件事可实在不好办。
-刘雪丽|
+<p class="xj"><span class="xchar">贝化英</span> 这件事可实在不好办。</p>
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>我知道你心中为了难！</p>
 <p>来吧，来吧伸出你的手，</p>
 <p>大喜！大喜！全国的护士都会欢天喜地！</p>
 </blockquote>
-小香|<span class="block">（上）</span>
+<p class="xj"><span class="xchar">小香</span> <span class="block">（上）</span></p>
 <blockquote>
 <p>妈妈，市委的首长来祝贺，</p>
 <p>各医院的代表也全到。</p>
 </blockquote>
-刘雪丽|
+<p class="xj"><span class="xchar">刘雪丽</span> </p>
 <blockquote>
 <p>我们赶快前去帮助招待，</p>
 <p>化英啊，鼓足勇气登天也不难，<span class="block">（与小香下）</span></p>
 </blockquote>
 <p class="l block">〔贝独向毛主席像肃立。</p>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>毛主席，毛主席，你的恩情深似海，</p>
 <p>我不过是平凡的人啊作了平凡工作三十年！</p>
@@ -2098,14 +2098,14 @@
 <p>毛主席我决心申请，作个党员！</p>
 </blockquote>
 <p class="l block">〔医生甲、乙敲敲门进来。</p>
-医生甲|
+<p class="xj"><span class="xchar">医生甲</span> </p>
 <blockquote>
 <p>护士长！<span class="block">（握她的手）</span>我激动得已经说不出话！</p>
 <p>你作副院长，我们一致鼓舞欢欣！</p>
 <p>我们需要你作副院长，</p>
 <p>党的决定，叫全院温暖，日丽花鲜！</p>
 </blockquote>
-医生乙|
+<p class="xj"><span class="xchar">医生乙</span> </p>
 <blockquote>
 <p>这是史无前例的大喜事，</p>
 <p>祝贺，祝贺，这件喜事出在我们中国！</p>
@@ -2113,23 +2113,23 @@
 <p>叫咱们的事业发展空前！</p>
 </blockquote>
 <p class="l block">〔郭海韵与尤护士跑进来。</p>
-郭海韵|
+<p class="xj"><span class="xchar">郭海韵</span> </p>
 <blockquote>
 <p>护士长，请你还作我们的护士长，</p>
 <p>没有你呀，我跟谁去学习与钻研？</p>
 </blockquote>
-医生甲|
+<p class="xj"><span class="xchar">医生甲</span> </p>
 <blockquote>
 <p>海韵啊，副院长能够照顾全院，</p>
 <p>你怎么只顾本位，把全面观点放在一边？</p>
 </blockquote>
-郭海韵|
+<p class="xj"><span class="xchar">郭海韵</span> </p>
 <blockquote>
 <p>虽然我同意你的意见，</p>
 <p>可是感情上啊，我既兴奋，又觉心酸！</p>
 </blockquote>
 <p class="l block">〔郭落泪，贝拉住她的手。</p>
-尤护士|
+<p class="xj"><span class="xchar">尤护士</span> </p>
 <blockquote>
 <p>在东北认识你，我年轻经验少，</p>
 <p>你和那些战士提携我呀步步向前！</p>
@@ -2138,81 +2138,81 @@
 <p>可是啊，党要提升我作护士长，</p>
 <p>我这么年轻，实在心不安！</p>
 </blockquote>
-医生甲|
+<p class="xj"><span class="xchar">医生甲</span> </p>
 <blockquote>
 <p>哎呀，有什么师傅，有什么徒弟，</p>
 <p>你们难道忘记了敢想敢干，干劲冲天！</p>
 </blockquote>
-医生乙|
+<p class="xj"><span class="xchar">医生乙</span> </p>
 <blockquote>
 <p>我们一定帮助你们俩，</p>
 <p>你们的榜样使全院的跃进潮涌风翻！</p>
 </blockquote>
-贝化英 尤护士|
+<p class="xj"><span class="xchar">贝化英 尤护士</span> </p>
 <blockquote>
 <p>党的培养，你们的帮助，</p>
 <p>我们一定鼓足干劲，克服困难！</p>
 </blockquote>
-医生甲 医生乙|
+<p class="xj"><span class="xchar">医生甲 医生乙</span> </p>
 <blockquote>
 <p>我们先到会场去，</p>
 <p>已经快到开会时间。</p>
 </blockquote>
 <p class="l block">〔二医生携郭、尤下。王排长扛着一个极大的冬瓜，提着一筐西红柿，关振奇捧着一筐鸡蛋，先后进来。</p>
-王排长|化英大姐，我们来道喜！
-关振奇|一些土物，礼薄心虔！
+<p class="xj"><span class="xchar">王排长</span> 化英大姐，我们来道喜！</p>
+<p class="xj"><span class="xchar">关振奇</span> 一些土物，礼薄心虔！</p>
 <p class="l block">〔贝一愣，然后想起。</p>
-贝化英|关振奇！王排长！
-王排长|
+<p class="xj"><span class="xchar">贝化英</span> 关振奇！王排长！</p>
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>对！对！王小五，王排长都是我！</p>
 <p>这特号的冬瓜，摘自我的试验田！</p>
 </blockquote>
-关振奇|
+<p class="xj"><span class="xchar">关振奇</span> </p>
 <blockquote>
 <p>我们那里成立人民公社，</p>
 <p>他是社长，我管教育与宣传！</p>
 </blockquote>
-王排长|
+<p class="xj"><span class="xchar">王排长</span> </p>
 <blockquote>
 <p>感谢你帮助过王小五，</p>
 <p>感谢你抗美援朝救护伤员！</p>
 </blockquote>
-关振奇|
+<p class="xj"><span class="xchar">关振奇</span> </p>
 <blockquote>
 <p>感谢你救过我的命，</p>
 <p>感谢你那起死回生的热泪与忠言！</p>
 </blockquote>
-王排长|想想看，三十年你作过多少好事！
-关振奇|想想看，你服侍过的病人啊论万成千！
-王排长|我们再忙也得来祝贺！
-关振奇|以你为题，我要编些歌儿教给社员！
-王排长|刚听说你已升为副院长。
-关振奇|党的英明，使人人振奋，个个争先！
-王排长|请原谅，我们要马上赶回去！
-关振奇|乡下啊，正要动手土地深翻！
-贝化英|
+<p class="xj"><span class="xchar">王排长</span> 想想看，三十年你作过多少好事！</p>
+<p class="xj"><span class="xchar">关振奇</span> 想想看，你服侍过的病人啊论万成千！</p>
+<p class="xj"><span class="xchar">王排长</span> 我们再忙也得来祝贺！</p>
+<p class="xj"><span class="xchar">关振奇</span> 以你为题，我要编些歌儿教给社员！</p>
+<p class="xj"><span class="xchar">王排长</span> 刚听说你已升为副院长。</p>
+<p class="xj"><span class="xchar">关振奇</span> 党的英明，使人人振奋，个个争先！</p>
+<p class="xj"><span class="xchar">王排长</span> 请原谅，我们要马上赶回去！</p>
+<p class="xj"><span class="xchar">关振奇</span> 乡下啊，正要动手土地深翻！</p>
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>你们还没喝一口水！</p>
 <p>我还有多少话要和你们谈！</p>
 </blockquote>
-王排长|看见你啊，我们的心里就已温暖。
-关振奇|休假的时候，请到公社来住几天！<span class="block">（同下）</span>
+<p class="xj"><span class="xchar">王排长</span> 看见你啊，我们的心里就已温暖。</p>
+<p class="xj"><span class="xchar">关振奇</span> 休假的时候，请到公社来住几天！<span class="block">（同下）</span></p>
 <p class="l block">〔贝依依不舍地往外送，刘雪丽跑来。</p>
-刘雪丽|化英！化英！看看谁来了！
-贝化英|谁？
+<p class="xj"><span class="xchar">刘雪丽</span> 化英！化英！看看谁来了！</p>
+<p class="xj"><span class="xchar">贝化英</span> 谁？</p>
 <p class="l block">〔小香挽孟大姐上。</p>
-孟大姐|我！你的孟大姐哟，一别三十年！
-贝化英|孟大姐！孟大姐！
+<p class="xj"><span class="xchar">孟大姐</span> 我！你的孟大姐哟，一别三十年！</p>
+<p class="xj"><span class="xchar">贝化英</span> 孟大姐！孟大姐！</p>
 <p class="l block">〔拥抱。刘家母女下。</p>
-孟大姐|
+<p class="xj"><span class="xchar">孟大姐</span> </p>
 <blockquote>
 <p>雪丽写信告诉了我，</p>
 <p>我赶来祝贺，万悦千欢！</p>
 <p>当护士的能有今日，</p>
 <p>看一看你呀，我死无怨言！</p>
 </blockquote>
-贝化英|
+<p class="xj"><span class="xchar">贝化英</span> </p>
 <blockquote>
 <p>大姐！这都是毛主席寿比南山！<span class="block">（向主席像敬礼）</span></p>
 <p>看，人民有了这么好的新医院，</p>
@@ -2236,15 +2236,15 @@
 <p>水秀花明人长寿，</p>
 <p>咱们呀怎能不百倍努力，喜悦无边！</p>
 </blockquote>
-贝化英|老大姐，你的生活怎么样？
-孟大姐|
+<p class="xj"><span class="xchar">贝化英</span> 老大姐，你的生活怎么样？</p>
+<p class="xj"><span class="xchar">孟大姐</span> </p>
 <blockquote>
 <p>能遇上解放的都见了青天！</p>
 <p>在乡下，我又拾起旧工作，</p>
 <p>诊疗所，卫生站，我去帮忙，大家喜欢！</p>
 </blockquote>
 <p class="l block">〔钟声响起已到开会时间，刘雪丽与白副院长同来。</p>
-刘雪丽|<span class="block">（握手）</span>
+<p class="xj"><span class="xchar">刘雪丽</span> <span class="block">（握手）</span></p>
 <blockquote>
 <p>对！还请你预备几句话，</p>
 <p>鼓舞鼓舞院内青年！</p>
@@ -2252,7 +2252,7 @@
 <p>庆祝大会到了时间！<span class="block">（给贝戴红花）</span></p>
 </blockquote>
 <p class="l block">〔贝与白前行，刘挽着孟随后，八个青年护士捧花来迎。</p>
-合唱|
+<p class="xj"><span class="xchar">合唱</span> </p>
 <blockquote>
 <p>三十年、三十年，</p>
 <p>坚持工作可以移山！</p>
@@ -2264,7 +2264,7 @@
 <p>表扬啊一位护士苦战了三十年，</p>
 </blockquote>
 <p class="l block">〔幕落。如谢幕，幕复启：白副院长、贝化英等在前排，后面有大队护士与医生，以观众当作参加庆祝会的首长及来宾，合唱致谢。</p>
-合唱|
+<p class="xj"><span class="xchar">合唱</span> </p>
 <blockquote>
 <p>诸位首长，诸位来宾、诸位同志与朋友，</p>
 <p>感谢光临我院，祝贺、指导、热烈赠言！</p>

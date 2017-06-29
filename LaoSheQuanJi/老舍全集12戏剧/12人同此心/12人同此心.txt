@@ -33,311 +33,311 @@
 
 
 
-第一段
+<h2 class="title2">第一段</h2>
 
 <p class="l block">〔景渐现：北京北海公园的秋景，悠然而逝，化入距北海不远的一处人家。小楼一所，院子不小，脱露中秋瓜垂架，青菜一片，间有花木。楼下堂屋门上，悬一巨匾，文为“是乃仁术”。这是冯光斗医生的住宅。屋中已有灯光，孩子们在欢笑。</p>
 <p class="l block">〔景转入屋中。客厅甚大，亦雅洁。桌椅不多，都是新式红木的。沙发成套。壁上悬中国画二三帧，装璜款式；像片二，一为冯光斗半身像，一为十年前岳春江与张竹合照，<span class="block">（岳衣装靓丽，张潇洒自然）</span>，镜框精美。窗内一笼，蓄二小鸟。岳春江坐沙发上，大明面对妈妈，与妈妈打花巴掌玩。大玉坐另一处，读故事，岳一边与大明玩，一边注意大玉；不喜其吃过饭即读书。</p>
 
-岳春江|<span class="block">（与大明齐说）</span>打花巴掌咧，二月二，老太太爱吃白糖棍儿，烧着香儿捻纸捻儿，牡丹牡丹花儿，串枝连儿……<span class="block">（手仍拍）</span>大玉，刚吃完饭，别又看书！
-冯大玉|<span class="block">（放下书）</span>我不用功，怎能考第一呢？
-岳春江|跟小妹玩会儿。
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（与大明齐说）</span>打花巴掌咧，二月二，老太太爱吃白糖棍儿，烧着香儿捻纸捻儿，牡丹牡丹花儿，串枝连儿……<span class="block">（手仍拍）</span>大玉，刚吃完饭，别又看书！</p>
+<p class="xj"><span class="xchar">冯大玉</span> <span class="block">（放下书）</span>我不用功，怎能考第一呢？</p>
+<p class="xj"><span class="xchar">岳春江</span> 跟小妹玩会儿。</p>
 <p class="l block">〔大玉与小妹玩耍，妈妈立起，走到屋门。门铃响。</p>
-冯大玉|大概是哥哥回来了。
+<p class="xj"><span class="xchar">冯大玉</span> 大概是哥哥回来了。</p>
 <p class="l block">〔门铃再响。岳春江往外走。赵妈亦由厨房出来。</p>
-赵妈|送信的吧？
-岳春江|我去！
+<p class="xj"><span class="xchar">赵妈</span> 送信的吧？</p>
+<p class="xj"><span class="xchar">岳春江</span> 我去！</p>
 <p class="l block">〔二女孩停止玩耍，都跑到屋门，等着。妈妈回来。二女齐问。</p>
-冯大玉 冯大明|爸爸的信吧？
+<p class="xj"><span class="xchar">冯大玉 冯大明</span> 爸爸的信吧？</p>
 <p class="l block">〔妈妈进屋中，赵妈也跟进来。</p>
-赵妈|是由馄饨来的吧？
-冯大明 冯大玉|<span class="block">（一齐笑）</span>伦敦！什么馄饨呀？
-赵妈|<span class="block">（也笑）</span>我记不清洋地名儿！我说，太太，写信让大夫快回来吧，这么兵荒马乱的！
-岳春江|要不是为国内乱七八糟，他还不会出国呢！大明，该洗脚去，跟赵妈走吧。
-赵妈|来呀，小妞子！
-冯大明|妈，等着，等我洗完脚，再念爸爸的信啊！
+<p class="xj"><span class="xchar">赵妈</span> 是由馄饨来的吧？</p>
+<p class="xj"><span class="xchar">冯大明 冯大玉</span> <span class="block">（一齐笑）</span>伦敦！什么馄饨呀？</p>
+<p class="xj"><span class="xchar">赵妈</span> <span class="block">（也笑）</span>我记不清洋地名儿！我说，太太，写信让大夫快回来吧，这么兵荒马乱的！</p>
+<p class="xj"><span class="xchar">岳春江</span> 要不是为国内乱七八糟，他还不会出国呢！大明，该洗脚去，跟赵妈走吧。</p>
+<p class="xj"><span class="xchar">赵妈</span> 来呀，小妞子！</p>
+<p class="xj"><span class="xchar">冯大明</span> 妈，等着，等我洗完脚，再念爸爸的信啊！</p>
 <p class="l block">〔大明随赵妈走去。</p>
 <p class="l block">〔门铃响。</p>
-冯大玉|这回准是哥哥了！<span class="block">（跑出去）</span>
+<p class="xj"><span class="xchar">冯大玉</span> 这回准是哥哥了！<span class="block">（跑出去）</span></p>
 <p class="l block">〔妈妈拆开信，只看了一点，大玉与大成一同进来。</p>
-冯大成|妈！<span class="block">（放下书包）</span>
-岳春江|你上哪儿啦。大成！教我这么提心吊胆的！
-冯大成|下了课，一个同学拉我上他家去了！
-岳春江|以后，下了课就回来，省得我不放心！
-冯大成|妈，人家都有朋友，就是我没有！
-岳春江|不是我不教你出去……<span class="block">（叹气）</span>唉！
-冯大玉|你看，又招妈生气！
-岳春江|我没生气，大玉！我心里不好受！我跟你们，特别是你们，都不应当老圈在家里，<span class="block">（拍）</span>像那两个小鸟似的。当初啊，我跟张竹一块念书的时候。
+<p class="xj"><span class="xchar">冯大成</span> 妈！<span class="block">（放下书包）</span></p>
+<p class="xj"><span class="xchar">岳春江</span> 你上哪儿啦。大成！教我这么提心吊胆的！</p>
+<p class="xj"><span class="xchar">冯大成</span> 下了课，一个同学拉我上他家去了！</p>
+<p class="xj"><span class="xchar">岳春江</span> 以后，下了课就回来，省得我不放心！</p>
+<p class="xj"><span class="xchar">冯大成</span> 妈，人家都有朋友，就是我没有！</p>
+<p class="xj"><span class="xchar">岳春江</span> 不是我不教你出去……<span class="block">（叹气）</span>唉！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 你看，又招妈生气！</p>
+<p class="xj"><span class="xchar">岳春江</span> 我没生气，大玉！我心里不好受！我跟你们，特别是你们，都不应当老圈在家里，<span class="block">（拍）</span>像那两个小鸟似的。当初啊，我跟张竹一块念书的时候。</p>
 <p class="l block">〔壁上岳张合照移近。</p>
-岳春江|我们俩都说，毕业该去给社会服务。我作了一年的事，不行，我看不上社会那些卑鄙龌龊，就干不下去了！
-冯大玉|张姨儿呢？
-岳春江|这好几年没音信，谁知道她怎样了呢？我空有知识，可是没有用处，我难受！
-冯大成|你就跟爸爸结了婚，是吧？
-冯大玉|废话！妈妈不结婚，哪里有咱们？
-岳春江|有了你们，我就有了事作。可是，我到底心中还憋着口气。我纳闷：我这一阵子，除了管家务，养孩子，还另外有点用处没有！
+<p class="xj"><span class="xchar">岳春江</span> 我们俩都说，毕业该去给社会服务。我作了一年的事，不行，我看不上社会那些卑鄙龌龊，就干不下去了！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 张姨儿呢？</p>
+<p class="xj"><span class="xchar">岳春江</span> 这好几年没音信，谁知道她怎样了呢？我空有知识，可是没有用处，我难受！</p>
+<p class="xj"><span class="xchar">冯大成</span> 你就跟爸爸结了婚，是吧？</p>
+<p class="xj"><span class="xchar">冯大玉</span> 废话！妈妈不结婚，哪里有咱们？</p>
+<p class="xj"><span class="xchar">岳春江</span> 有了你们，我就有了事作。可是，我到底心中还憋着口气。我纳闷：我这一阵子，除了管家务，养孩子，还另外有点用处没有！</p>
 <p class="l block">〔冯大成去看爸爸的像片——移近。</p>
-冯大成|我就盼着爸爸快回来，好带我们出去玩玩。
-岳春江|哼，你爸爸的心里也不好受。日本人在这儿的时候，他自己开业，不肯给日本人作事。胜利了，他欢欢喜喜的到医院里服务，可是，医院里乱七八糟，臭官僚作院长，他才设法到英国去。他要是现在回来，还不是又得常闹气？
+<p class="xj"><span class="xchar">冯大成</span> 我就盼着爸爸快回来，好带我们出去玩玩。</p>
+<p class="xj"><span class="xchar">岳春江</span> 哼，你爸爸的心里也不好受。日本人在这儿的时候，他自己开业，不肯给日本人作事。胜利了，他欢欢喜喜的到医院里服务，可是，医院里乱七八糟，臭官僚作院长，他才设法到英国去。他要是现在回来，还不是又得常闹气？</p>
 <p class="l block">〔赵妈拉着大明回来。大明穿着睡衣。</p>
-冯大明|洗完了！看看我的大白脚！<span class="block">（得意的伸出脚）</span>妈，该念爸爸的信了吧？
-赵妈|对啦，我也困了！
-岳春江|<span class="block">（读信）</span>我近来很好。我的本事已被外国人看出来，有什么疑难手术，他们也来跟我商议。
-冯大成|爸爸真棒！在外国已是头等大夫。
-岳春江|<span class="block">（还念信）</span>上次大成的信写的很好，要再来信！
+<p class="xj"><span class="xchar">冯大明</span> 洗完了！看看我的大白脚！<span class="block">（得意的伸出脚）</span>妈，该念爸爸的信了吧？</p>
+<p class="xj"><span class="xchar">赵妈</span> 对啦，我也困了！</p>
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（读信）</span>我近来很好。我的本事已被外国人看出来，有什么疑难手术，他们也来跟我商议。</p>
+<p class="xj"><span class="xchar">冯大成</span> 爸爸真棒！在外国已是头等大夫。</p>
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（还念信）</span>上次大成的信写的很好，要再来信！</p>
 <p class="l block">〔大成得意的笑了。</p>
-岳春江|<span class="block">（还念信）</span>大玉的字写得有进步！
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（还念信）</span>大玉的字写得有进步！</p>
 <p class="l block">〔大玉得意的伸大指自夸。</p>
-岳春江|<span class="block">（还念）</span>大明该换牙了，教赵妈不要给她铁蚕豆吃！
-冯大明|<span class="block">（唱）</span>铁蚕豆，大把儿抓，娶了媳妇不要妈。
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（还念）</span>大明该换牙了，教赵妈不要给她铁蚕豆吃！</p>
+<p class="xj"><span class="xchar">冯大明</span> <span class="block">（唱）</span>铁蚕豆，大把儿抓，娶了媳妇不要妈。</p>
 <p class="l block">〔门铃响。大玉跑出去。</p>
-赵妈|真冤枉！我几儿个给过她铁蚕豆吃呢！
+<p class="xj"><span class="xchar">赵妈</span> 真冤枉！我几儿个给过她铁蚕豆吃呢！</p>
 <p class="l block">〔大玉同吴惠全、李芳进来。吴穿西装。李打扮得也漂亮。</p>
-岳春江|嗨喽，吴大夫！李芳！
+<p class="xj"><span class="xchar">岳春江</span> 嗨喽，吴大夫！李芳！</p>
 <p class="l block">〔大家彼此周旋。</p>
-岳春江|大成，大玉，你们该温功课去。赵妈，带大明走，她该睡了。
+<p class="xj"><span class="xchar">岳春江</span> 大成，大玉，你们该温功课去。赵妈，带大明走，她该睡了。</p>
 <p class="l block">〔孩子们招呼客人：“再见！吴叔叔！李姨！”而后规规矩矩的走开。</p>
-李芳|冯太太，你真有本事，把孩子们养得多么好，多么听话呀！
-岳春江|他们的确是乖！可是，近来我常想，这么老实的孩子们，将来怎么抵抗得了那个恶社会呢？
-吴惠全|<span class="block">（先把屋门关好）</span>大嫂，先别往那么远想吧，眼前的事就不得了！
-岳春江|是呀，物价一天涨八次！
-吴惠全|还不仅是那个，<span class="block">（低声的）</span>八路军快打到这儿啦，咱们怎办呢？
-李芳|我反正不怕！我是贫苦出身，只有这几件漂亮衣裳，脱了它们，我马上就变成共产党！
-吴惠全|李芳，你说话小心点！隔墙有耳！我说，冯大嫂，大哥什么时候回来？
-岳春江|这不是，他刚刚来了信。他可是没提回来不回来。
-吴惠全|大嫂，给大哥写信，教他在香港等我！
-李芳|你要上香港？
-吴惠全|事情成了，我也带着你，你可千万别先到处乱嚷嚷去！我是说，我有点积蓄，拿出来，跟冯大哥到香港去开业。那么一来，国内就是乱得天翻地覆，我们也就管不着了！大嫂，你看呢？
-岳春江|<span class="block">（想了想）</span>那么办好吗？咱们是有知识的人，怎好往殖民地跑呢？
-李芳|我看啊，冯太太，咱们也不便那么固执，顶好是随遇而安。以我自己说，到香港去玩玩，开开眼，倒也不错，我就是喜欢新地方，新事儿。
+<p class="xj"><span class="xchar">李芳</span> 冯太太，你真有本事，把孩子们养得多么好，多么听话呀！</p>
+<p class="xj"><span class="xchar">岳春江</span> 他们的确是乖！可是，近来我常想，这么老实的孩子们，将来怎么抵抗得了那个恶社会呢？</p>
+<p class="xj"><span class="xchar">吴惠全</span> <span class="block">（先把屋门关好）</span>大嫂，先别往那么远想吧，眼前的事就不得了！</p>
+<p class="xj"><span class="xchar">岳春江</span> 是呀，物价一天涨八次！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 还不仅是那个，<span class="block">（低声的）</span>八路军快打到这儿啦，咱们怎办呢？</p>
+<p class="xj"><span class="xchar">李芳</span> 我反正不怕！我是贫苦出身，只有这几件漂亮衣裳，脱了它们，我马上就变成共产党！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 李芳，你说话小心点！隔墙有耳！我说，冯大嫂，大哥什么时候回来？</p>
+<p class="xj"><span class="xchar">岳春江</span> 这不是，他刚刚来了信。他可是没提回来不回来。</p>
+<p class="xj"><span class="xchar">吴惠全</span> 大嫂，给大哥写信，教他在香港等我！</p>
+<p class="xj"><span class="xchar">李芳</span> 你要上香港？</p>
+<p class="xj"><span class="xchar">吴惠全</span> 事情成了，我也带着你，你可千万别先到处乱嚷嚷去！我是说，我有点积蓄，拿出来，跟冯大哥到香港去开业。那么一来，国内就是乱得天翻地覆，我们也就管不着了！大嫂，你看呢？</p>
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（想了想）</span>那么办好吗？咱们是有知识的人，怎好往殖民地跑呢？</p>
+<p class="xj"><span class="xchar">李芳</span> 我看啊，冯太太，咱们也不便那么固执，顶好是随遇而安。以我自己说，到香港去玩玩，开开眼，倒也不错，我就是喜欢新地方，新事儿。</p>
 <p class="l block">〔赵妈端茶进来，倒茶。</p>
-赵妈|吴大夫，小妞子教我告诉您，您的领带太漂亮了！
+<p class="xj"><span class="xchar">赵妈</span> 吴大夫，小妞子教我告诉您，您的领带太漂亮了！</p>
 <p class="l block">〔众笑：景隐。</p>
 
 
 
 
 
-第二段
+<h2 class="title2">第二段</h2>
 
 <p class="l block">〔冬。上午。解放军已至郊外，城内人心惶惶。</p>
 <p class="l block">〔街景：路上三五成群都是兵<span class="block">（国民党的）</span>，行人很少。</p>
 <p class="l block">〔靠近城墙根的小街，人喊犬吠，大兵们拆卸住户的街门，往城墙上运，建筑防御工事。</p>
 <p class="l block">〔景化入冯家。大小四口俱在屋内。大成呆视鸟笼。大玉假装不怕，来回的走。大明最慌，屡欲哭。岳春江相当的镇定。</p>
 <p class="l block">〔门铃响，大家惊疑。赵妈去开门。同丁今夫进来。</p>
-岳春江|丁今夫，外边怎样啦？
+<p class="xj"><span class="xchar">岳春江</span> 丁今夫，外边怎样啦？</p>
 <p class="l block">〔孩子们围上他，似有依靠。</p>
-丁今夫|我来看看师母！千万别怕，别慌！这就快有好日子过了！
-岳春江|怎么！你怎么知道？
-丁今夫|从前，冯老师老责备我，说我不用功。我不是不想用功，可是因为关心政治，心就不专了。师母，你看，活在这个乌漆八黑的社会里；我能不关心政治吗？我不能详细的说，我只来给您送个信；要留点神，可是不要害怕；解放军一进来，就一定太平了！我们要抱着希望，可别发慌害怕！
+<p class="xj"><span class="xchar">丁今夫</span> 我来看看师母！千万别怕，别慌！这就快有好日子过了！</p>
+<p class="xj"><span class="xchar">岳春江</span> 怎么！你怎么知道？</p>
+<p class="xj"><span class="xchar">丁今夫</span> 从前，冯老师老责备我，说我不用功。我不是不想用功，可是因为关心政治，心就不专了。师母，你看，活在这个乌漆八黑的社会里；我能不关心政治吗？我不能详细的说，我只来给您送个信；要留点神，可是不要害怕；解放军一进来，就一定太平了！我们要抱着希望，可别发慌害怕！</p>
 <p class="l block">〔景隐。</p>
 <p class="l block">〔岳春江匆匆穿大衣，戴手套。</p>
-冯大成|妈，你干什么去。
-岳春江|你好好的看着妹妹们，我上街去看看，就手儿弄点吃食来。
-赵妈|街上那么乱，您别去！
-岳春江|没听丁今夫说吗，不教咱们害怕，我出去一会儿就回来！米还有；咸菜，盐，鸡蛋呢？
-赵妈|别管鸡蛋了，您能弄点咸菜，盐来，就算不错！
+<p class="xj"><span class="xchar">冯大成</span> 妈，你干什么去。</p>
+<p class="xj"><span class="xchar">岳春江</span> 你好好的看着妹妹们，我上街去看看，就手儿弄点吃食来。</p>
+<p class="xj"><span class="xchar">赵妈</span> 街上那么乱，您别去！</p>
+<p class="xj"><span class="xchar">岳春江</span> 没听丁今夫说吗，不教咱们害怕，我出去一会儿就回来！米还有；咸菜，盐，鸡蛋呢？</p>
+<p class="xj"><span class="xchar">赵妈</span> 别管鸡蛋了，您能弄点咸菜，盐来，就算不错！</p>
 <p class="l block">〔景化入街上。岳春江勇敢的往前走，看见兵们抓佚，打人抢东西。天上飞着大的运输机与航机。景隐。</p>
 <p class="l block">〔傍晚。冯家客厅内。大明扯着赵妈不放。大成大玉出来进去。吴大夫背着手来回走，急躁不安。李芳未施胭粉，无聊的看着一本美国画报。岳春江最镇定，安坐，看着鸟笼。</p>
-赵妈|<span class="block">（抱起大明）</span>李小姐，我们太太真有两下子。早半天出去一趟，把咸菜什么的都弄来了，还弄来十几个鸡蛋！
-李芳|冯太太是有点本事！
-吴惠全|哼，大嫂，要是听我的话，早早的上了香港，何必着急弄不到鸡蛋！
-岳春江|我恨不能马上出城去看看，看看八路军到底是什么样子！我今儿个早上看见了守城的兵，他们一定守不住城！
-吴惠全|怎么？
-岳春江|他们欺负老百姓，失了民心！
-李芳|八路军呢？
-岳春江|我不知道。我想，他们不会再比国民党的军队坏！
-吴惠全|你要知道，大嫂，那可是共产党的军队，对你我，还能够有什么好处吗？
-李芳|不用怕，我是护士，你是大夫，咱们有用处啊！
-赵妈|我看啊，你们都是多虑，别怪我嘴直心快啊！自古以来，谁好谁就得天下，谁坏谁就玩儿完，不是吗？
-吴惠全|大嫂，我们来是为给你仗胆的，我不应当反倒这么教你不痛快？我道歉！大成，大玉，来，咱们玩玩吧！
-赵妈|吴大夫，李小姐，不是我太不客气，天不早了，要走就走吧。太晚了，遇上拉佚的，可不是玩的！
-吴惠全|谁敢抓我呀？我在北平，大小有个名声！
-李芳|我先走，还得值夜班呢。冯太太，别害怕，我有空儿就来看你！
+<p class="xj"><span class="xchar">赵妈</span> <span class="block">（抱起大明）</span>李小姐，我们太太真有两下子。早半天出去一趟，把咸菜什么的都弄来了，还弄来十几个鸡蛋！</p>
+<p class="xj"><span class="xchar">李芳</span> 冯太太是有点本事！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 哼，大嫂，要是听我的话，早早的上了香港，何必着急弄不到鸡蛋！</p>
+<p class="xj"><span class="xchar">岳春江</span> 我恨不能马上出城去看看，看看八路军到底是什么样子！我今儿个早上看见了守城的兵，他们一定守不住城！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 怎么？</p>
+<p class="xj"><span class="xchar">岳春江</span> 他们欺负老百姓，失了民心！</p>
+<p class="xj"><span class="xchar">李芳</span> 八路军呢？</p>
+<p class="xj"><span class="xchar">岳春江</span> 我不知道。我想，他们不会再比国民党的军队坏！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 你要知道，大嫂，那可是共产党的军队，对你我，还能够有什么好处吗？</p>
+<p class="xj"><span class="xchar">李芳</span> 不用怕，我是护士，你是大夫，咱们有用处啊！</p>
+<p class="xj"><span class="xchar">赵妈</span> 我看啊，你们都是多虑，别怪我嘴直心快啊！自古以来，谁好谁就得天下，谁坏谁就玩儿完，不是吗？</p>
+<p class="xj"><span class="xchar">吴惠全</span> 大嫂，我们来是为给你仗胆的，我不应当反倒这么教你不痛快？我道歉！大成，大玉，来，咱们玩玩吧！</p>
+<p class="xj"><span class="xchar">赵妈</span> 吴大夫，李小姐，不是我太不客气，天不早了，要走就走吧。太晚了，遇上拉佚的，可不是玩的！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 谁敢抓我呀？我在北平，大小有个名声！</p>
+<p class="xj"><span class="xchar">李芳</span> 我先走，还得值夜班呢。冯太太，别害怕，我有空儿就来看你！</p>
 <p class="l block">〔李芳往外走，大成跟着去关门。景移至街门。大成刚开了门，保长，警察，小军官，即一挤而入。小军官抓住大成的臂。</p>
-冯大成|<span class="block">（高声喊叫）</span>妈！妈！快来！
-李芳|放开他！我说你啊，放开他！<span class="block">（推了小军官一把）</span>
+<p class="xj"><span class="xchar">冯大成</span> <span class="block">（高声喊叫）</span>妈！妈！快来！</p>
+<p class="xj"><span class="xchar">李芳</span> 放开他！我说你啊，放开他！<span class="block">（推了小军官一把）</span></p>
 <p class="l block">〔岳春江，吴大夫跑来。</p>
-冯大成|妈！
-李芳|<span class="block">（又推了小军官一把）</span>没听见哪？放开他！
-岳春江|怎回事？
-保长|调查户口，冯太太。
-岳春江|里边坐吧，请，<span class="block">（顺手把大成拉过来）</span>李芳，你走你的。
-警察|先等等，别走！
-岳春江|你们来调查户口，怎么不教我的客人走呢？李芳，走你的！
-李芳|真岂有此理！<span class="block">（走去）</span>
+<p class="xj"><span class="xchar">冯大成</span> 妈！</p>
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（又推了小军官一把）</span>没听见哪？放开他！</p>
+<p class="xj"><span class="xchar">岳春江</span> 怎回事？</p>
+<p class="xj"><span class="xchar">保长</span> 调查户口，冯太太。</p>
+<p class="xj"><span class="xchar">岳春江</span> 里边坐吧，请，<span class="block">（顺手把大成拉过来）</span>李芳，你走你的。</p>
+<p class="xj"><span class="xchar">警察</span> 先等等，别走！</p>
+<p class="xj"><span class="xchar">岳春江</span> 你们来调查户口，怎么不教我的客人走呢？李芳，走你的！</p>
+<p class="xj"><span class="xchar">李芳</span> 真岂有此理！<span class="block">（走去）</span></p>
 <p class="l block">〔岳春江领众入内。赵妈正在窗内往外看，见大家进来，急扯大玉大明躲开。众入室，小军官往四下里看。</p>
-保长|冯太太，这位是——<span class="block">（指吴）</span>
-吴惠全|吴大夫，冯大夫的同事，来看看冯太太。
-警察|冯太太，现在八路军已经到了城外，咱们每家都要出壮丁。
-岳春江|他是个孩子，不能算壮丁！
-小军官|干脆拉他走，费什么话？！
-岳春江|你敢！你敢拉他走，我会跟你碰死！
-保长|冯太太，这位长官也不容易！
-警察|这年月，大家不容易！冯太太，你看着办！
-岳春江|我没钱，就是有钱也不能贿赂你们！你们是给国家作事的，就不懂法令吗？
-小军官|拉他走！走！
-冯大成|妈！妈！
-吴惠全|<span class="block">（对保长）</span>我是冯大夫的朋友，<span class="block">（递钱）</span>求你赏个面子！
-岳春江|吴大夫，你不应当那么办！
-保长|得啦，冯太太，这位大夫既然帮了你的忙，还再多说什么呢！<span class="block">（拍拍大成的头）</span>再见啦，这两天少出去！
-警察|<span class="block">（看保长手中的钞票）</span>冯太太，惊动你，对不起！
-小军官|<span class="block">（看保长手中的钱）</span>再见，小弟弟！
+<p class="xj"><span class="xchar">保长</span> 冯太太，这位是——<span class="block">（指吴）</span></p>
+<p class="xj"><span class="xchar">吴惠全</span> 吴大夫，冯大夫的同事，来看看冯太太。</p>
+<p class="xj"><span class="xchar">警察</span> 冯太太，现在八路军已经到了城外，咱们每家都要出壮丁。</p>
+<p class="xj"><span class="xchar">岳春江</span> 他是个孩子，不能算壮丁！</p>
+<p class="xj"><span class="xchar">小军官</span> 干脆拉他走，费什么话？！</p>
+<p class="xj"><span class="xchar">岳春江</span> 你敢！你敢拉他走，我会跟你碰死！</p>
+<p class="xj"><span class="xchar">保长</span> 冯太太，这位长官也不容易！</p>
+<p class="xj"><span class="xchar">警察</span> 这年月，大家不容易！冯太太，你看着办！</p>
+<p class="xj"><span class="xchar">岳春江</span> 我没钱，就是有钱也不能贿赂你们！你们是给国家作事的，就不懂法令吗？</p>
+<p class="xj"><span class="xchar">小军官</span> 拉他走！走！</p>
+<p class="xj"><span class="xchar">冯大成</span> 妈！妈！</p>
+<p class="xj"><span class="xchar">吴惠全</span> <span class="block">（对保长）</span>我是冯大夫的朋友，<span class="block">（递钱）</span>求你赏个面子！</p>
+<p class="xj"><span class="xchar">岳春江</span> 吴大夫，你不应当那么办！</p>
+<p class="xj"><span class="xchar">保长</span> 得啦，冯太太，这位大夫既然帮了你的忙，还再多说什么呢！<span class="block">（拍拍大成的头）</span>再见啦，这两天少出去！</p>
+<p class="xj"><span class="xchar">警察</span> <span class="block">（看保长手中的钞票）</span>冯太太，惊动你，对不起！</p>
+<p class="xj"><span class="xchar">小军官</span> <span class="block">（看保长手中的钱）</span>再见，小弟弟！</p>
 <p class="l block">〔三人走出去。吴大夫跟着去关门。</p>
-冯大成|妈，妈，这是怎么回事？他们拉我干什么去？
-岳春江|<span class="block">（坐下，气得发抖，说不出话）</span>
-吴惠全|<span class="block">（进来）</span>大成，没吓着呀？大嫂，别生气啦！这个社会就是这个样，没理可讲，要不怎么我老想到香港去呢！
-岳春江|哼！我老以为各扫门前雪是好办法，谁知道会闭门家中坐，祸从天上来！这就是咱们不关心政治的结果！教八路军进来吧，把这样的保长，警察，军人，全消灭净了！<span class="block">（一声大炮大明尖锐的哭起来。景隐。）</span>
+<p class="xj"><span class="xchar">冯大成</span> 妈，妈，这是怎么回事？他们拉我干什么去？</p>
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（坐下，气得发抖，说不出话）</span></p>
+<p class="xj"><span class="xchar">吴惠全</span> <span class="block">（进来）</span>大成，没吓着呀？大嫂，别生气啦！这个社会就是这个样，没理可讲，要不怎么我老想到香港去呢！</p>
+<p class="xj"><span class="xchar">岳春江</span> 哼！我老以为各扫门前雪是好办法，谁知道会闭门家中坐，祸从天上来！这就是咱们不关心政治的结果！教八路军进来吧，把这样的保长，警察，军人，全消灭净了！<span class="block">（一声大炮大明尖锐的哭起来。景隐。）</span></p>
 <p class="l block">〔数日后，北京解放，解放军入城。</p>
 <p class="l block">〔军乐声，欢呼声，自远而近。</p>
 <p class="l block">〔冯家四口儿在院中，均兴奋。</p>
-冯大玉|妈，我非出去看看不可！
-冯大成|妈，你不是要看看解放军什么样儿吗？还不走？
-冯大明|我也去！
-岳春江|可是，我又怕！万一他们教我失望呢？
+<p class="xj"><span class="xchar">冯大玉</span> 妈，我非出去看看不可！</p>
+<p class="xj"><span class="xchar">冯大成</span> 妈，你不是要看看解放军什么样儿吗？还不走？</p>
+<p class="xj"><span class="xchar">冯大明</span> 我也去！</p>
+<p class="xj"><span class="xchar">岳春江</span> 可是，我又怕！万一他们教我失望呢？</p>
 <p class="l block">〔李芳跑了进来。她没有打扮，穿着花棉袄，上罩蓝布褂。</p>
-李芳|<span class="block">（兴奋的）</span>八路军进城啦！还不看看去啊？
-孩子们|<span class="block">（一起喊）</span>走！李姨儿带我们去！
-冯大玉|戴帽子去哟！
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（兴奋的）</span>八路军进城啦！还不看看去啊？</p>
+<p class="xj"><span class="xchar">孩子们</span> <span class="block">（一起喊）</span>走！李姨儿带我们去！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 戴帽子去哟！</p>
 <p class="l block">〔一窝蜂似的跑去拿帽子。</p>
-李芳|冯太太，我可以带他们去吧？我会照管孩子！<span class="block">（赵妈同孩子们回来，她给这个正正帽子，给那个围好围脖儿）</span>
-赵妈|哟，李小姐，今儿个怎这么素净啊？
-李芳|好吧，解放军进了城，不能再花狸狐哨的啦！
-赵妈|那正合我们穷人的适呀！
-孩子们|走啊，李姨儿！
+<p class="xj"><span class="xchar">李芳</span> 冯太太，我可以带他们去吧？我会照管孩子！<span class="block">（赵妈同孩子们回来，她给这个正正帽子，给那个围好围脖儿）</span></p>
+<p class="xj"><span class="xchar">赵妈</span> 哟，李小姐，今儿个怎这么素净啊？</p>
+<p class="xj"><span class="xchar">李芳</span> 好吧，解放军进了城，不能再花狸狐哨的啦！</p>
+<p class="xj"><span class="xchar">赵妈</span> 那正合我们穷人的适呀！</p>
+<p class="xj"><span class="xchar">孩子们</span> 走啊，李姨儿！</p>
 <p class="l block">〔孩子们扯着李芳往外跑。</p>
-岳春江|乖乖的听李姨儿的话啊！
-赵妈|八路军也不是到底什么样儿？孩子们出去不会出毛病啊？
-岳春江|赵妈，你看家，我也看看去。<span class="block">（急入室，找大衣等）</span>
+<p class="xj"><span class="xchar">岳春江</span> 乖乖的听李姨儿的话啊！</p>
+<p class="xj"><span class="xchar">赵妈</span> 八路军也不是到底什么样儿？孩子们出去不会出毛病啊？</p>
+<p class="xj"><span class="xchar">岳春江</span> 赵妈，你看家，我也看看去。<span class="block">（急入室，找大衣等）</span></p>
 <p class="l block">〔街上。岳春江没找到孩子们，也不再找，立在人群内看队伍进行。看到一队“女兵”，她举起手来，想喊些什么；但只张了张口，没有喊出。泪慢慢流下来。别人喊：解放军万岁，她跟着喊起来。炮队过来，她看见了大成大玉都在炮车后边坐着呢。李芳抱着大明，正设法把她也放上去。她往前走了两步，想叫下孩子们，可是笑了一下，退回来。担架队过来，她看见带队的是张竹，她以为是认错了，跟着张往前走。张挺脱俐落，精神焕发，已全无名士派气息。</p>
 <p class="l block">〔她认准，那确是张竹。</p>
-岳春江|张竹！
-张竹|谁？你是老岳？
+<p class="xj"><span class="xchar">岳春江</span> 张竹！</p>
+<p class="xj"><span class="xchar">张竹</span> 谁？你是老岳？</p>
 <p class="l block">〔张竹不便离队，只握紧了岳的手，岳跟着走。</p>
-岳春江|你，你简直变成另一个人啦！
-张竹|告诉我你的住址，好看你去。
-岳春江|<span class="block">（掏出名片给她）</span>快来呀！我要跟你说不知道多少话！
+<p class="xj"><span class="xchar">岳春江</span> 你，你简直变成另一个人啦！</p>
+<p class="xj"><span class="xchar">张竹</span> 告诉我你的住址，好看你去。</p>
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（掏出名片给她）</span>快来呀！我要跟你说不知道多少话！</p>
 <p class="l block">〔景隐。</p>
 <p class="l block">〔晚间。岳春江，冯大成，大玉在客厅内。</p>
-冯大成|要是白日咱们照下个相来，照出咱们在炮车上，给爸爸寄去，够多么棒！
-冯大玉|妈，解放军多么好啊，一点也不像以前的大兵！
+<p class="xj"><span class="xchar">冯大成</span> 要是白日咱们照下个相来，照出咱们在炮车上，给爸爸寄去，够多么棒！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 妈，解放军多么好啊，一点也不像以前的大兵！</p>
 <p class="l block">〔岳春江摘下壁上的“岳张合照”。</p>
-冯大成|妈，你干吗摘下它来？
-岳春江|别再挂着了，看着难受！看看张姨儿，看看我！怨不得解放军打胜仗呢。人家解放了女人，连张姨都变成硬邦邦的战士！
-冯大玉|妈，咱们马上给爸爸写信，写长长的！妈，你写怎么看见了张姨。哥，你写解放军什么样子。我写咱们坐炮车。
+<p class="xj"><span class="xchar">冯大成</span> 妈，你干吗摘下它来？</p>
+<p class="xj"><span class="xchar">岳春江</span> 别再挂着了，看着难受！看看张姨儿，看看我！怨不得解放军打胜仗呢。人家解放了女人，连张姨都变成硬邦邦的战士！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 妈，咱们马上给爸爸写信，写长长的！妈，你写怎么看见了张姨。哥，你写解放军什么样子。我写咱们坐炮车。</p>
 <p class="l block">〔赵妈拉着大明进来。大明背着手。</p>
-冯大玉|大明，你写什么？
-冯大明|我已经写好了！<span class="block">（把手从背后拿起来）</span>看！<span class="block">（她画了一位解放军，枪很长）</span>枪有多么长，老打胜仗！大家欢笑。
-岳春江|走，写信去！
+<p class="xj"><span class="xchar">冯大玉</span> 大明，你写什么？</p>
+<p class="xj"><span class="xchar">冯大明</span> 我已经写好了！<span class="block">（把手从背后拿起来）</span>看！<span class="block">（她画了一位解放军，枪很长）</span>枪有多么长，老打胜仗！大家欢笑。</p>
+<p class="xj"><span class="xchar">岳春江</span> 走，写信去！</p>
 <p class="l block">〔景隐。</p>
 <p class="l block">〔春天到了。胡同内设了个机关，离冯家不远，一位解放军人在机关外警卫。赵妈由学校接回大明，吃午饭。大明看见解放军，即往前跑。</p>
-冯大明|同志，下了班，再给我说个故事呀！
-解放军|<span class="block">（正在岗位上，不好说话，笑着点点头）</span>
-赵妈|快回家吧！<span class="block">（扯大明躲开解放军）</span>
+<p class="xj"><span class="xchar">冯大明</span> 同志，下了班，再给我说个故事呀！</p>
+<p class="xj"><span class="xchar">解放军</span> <span class="block">（正在岗位上，不好说话，笑着点点头）</span></p>
+<p class="xj"><span class="xchar">赵妈</span> 快回家吧！<span class="block">（扯大明躲开解放军）</span></p>
 <p class="l block">〔大成大玉在后面，看见赵妈的举动，大为不满，跑到解放军身前。</p>
-冯大玉|同志，别生气啊，赵妈是个老顽固！
-解放军|<span class="block">（笑了笑）</span>
-冯大成|没事的时候，同志，还得给我们接着说打蒋介石的故事呀！今天星期六，下午我们不上学。
-冯大玉|同志，我们回家一定检讨赵妈！
+<p class="xj"><span class="xchar">冯大玉</span> 同志，别生气啊，赵妈是个老顽固！</p>
+<p class="xj"><span class="xchar">解放军</span> <span class="block">（笑了笑）</span></p>
+<p class="xj"><span class="xchar">冯大成</span> 没事的时候，同志，还得给我们接着说打蒋介石的故事呀！今天星期六，下午我们不上学。</p>
+<p class="xj"><span class="xchar">冯大玉</span> 同志，我们回家一定检讨赵妈！</p>
 <p class="l block">〔当日午饭后，冯家院内，大成兄妹而外，还有几个男女儿童。他们正开会，检讨赵妈。大玉登在小凳上，作主席。大成与另一男孩，坐在大玉身后，是主席团。其余的或坐或立，是群众。赵妈立在一旁，为自己辩护。</p>
-赵妈|我也知道解放军好，可是习惯成自然，我还是怕大兵！
-一女孩|解放军好，不是大兵。<span class="block">（众鼓掌）</span>
-一男孩|解放军爱咱们，咱们也得爱他们！<span class="block">（众鼓掌）</span>
-冯大玉|以前，哥哥大成差点教大兵抓了走；现在，解放军跟他成为朋友！解放军好不好？
-大家伙|好！<span class="block">（热烈鼓掌）</span>
-冯大玉|赵妈的文化不够，得先学习！好不好，请大明教给赵妈识字？<span class="block">（众鼓掌）</span>好不好请大成教给她思想？<span class="block">（众鼓掌）</span>
-冯大成|<span class="block">（立起来）</span>主席，我打算搬到学校去住，恐怕没有工夫教赵妈。
-赵妈|什么？就凭你个大傻子似的，也去住校，得了吧！
-一女孩|就请大玉担任吧？<span class="block">（众鼓掌）</span>
-一男孩|我建议，用大会的名义，给冯大夫打电报，请他快快回来，为人民服务！<span class="block">（长时间鼓掌）</span>
-冯大明|也告诉爸爸，给我带个洋娃娃回来！<span class="block">（众未鼓掌，她不悦）</span>不给我鼓掌，我不玩儿了！<span class="block">（众笑）</span>
-一女孩|我提议，上我们家里开会去！
-冯大明|我不去！
+<p class="xj"><span class="xchar">赵妈</span> 我也知道解放军好，可是习惯成自然，我还是怕大兵！</p>
+<p class="xj"><span class="xchar">一女孩</span> 解放军好，不是大兵。<span class="block">（众鼓掌）</span></p>
+<p class="xj"><span class="xchar">一男孩</span> 解放军爱咱们，咱们也得爱他们！<span class="block">（众鼓掌）</span></p>
+<p class="xj"><span class="xchar">冯大玉</span> 以前，哥哥大成差点教大兵抓了走；现在，解放军跟他成为朋友！解放军好不好？</p>
+<p class="xj"><span class="xchar">大家伙</span> 好！<span class="block">（热烈鼓掌）</span></p>
+<p class="xj"><span class="xchar">冯大玉</span> 赵妈的文化不够，得先学习！好不好，请大明教给赵妈识字？<span class="block">（众鼓掌）</span>好不好请大成教给她思想？<span class="block">（众鼓掌）</span></p>
+<p class="xj"><span class="xchar">冯大成</span> <span class="block">（立起来）</span>主席，我打算搬到学校去住，恐怕没有工夫教赵妈。</p>
+<p class="xj"><span class="xchar">赵妈</span> 什么？就凭你个大傻子似的，也去住校，得了吧！</p>
+<p class="xj"><span class="xchar">一女孩</span> 就请大玉担任吧？<span class="block">（众鼓掌）</span></p>
+<p class="xj"><span class="xchar">一男孩</span> 我建议，用大会的名义，给冯大夫打电报，请他快快回来，为人民服务！<span class="block">（长时间鼓掌）</span></p>
+<p class="xj"><span class="xchar">冯大明</span> 也告诉爸爸，给我带个洋娃娃回来！<span class="block">（众未鼓掌，她不悦）</span>不给我鼓掌，我不玩儿了！<span class="block">（众笑）</span></p>
+<p class="xj"><span class="xchar">一女孩</span> 我提议，上我们家里开会去！</p>
+<p class="xj"><span class="xchar">冯大明</span> 我不去！</p>
 <p class="l block">〔下午，冯家客厅里只有大明与妈妈。大明玩娃娃，妈妈看书。院中有人喊：“老岳！老岳！”</p>
-岳春江|进来，张竹！<span class="block">（迎出去）</span>
+<p class="xj"><span class="xchar">岳春江</span> 进来，张竹！<span class="block">（迎出去）</span></p>
 <p class="l block">〔张竹带着小陕进来。母子都干净健壮。张夹着两三本书。</p>
-岳春江|<span class="block">（与张热烈握手）</span>这是谁？
-张竹|我的孩子，生在陕西，所以叫小陕。小陕。叫岳姨儿！
-小陕|岳姨儿！<span class="block">（敬礼）</span>
-岳春江|你什么时候结的婚？
-张竹|都有三个孩子了！
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（与张热烈握手）</span>这是谁？</p>
+<p class="xj"><span class="xchar">张竹</span> 我的孩子，生在陕西，所以叫小陕。小陕。叫岳姨儿！</p>
+<p class="xj"><span class="xchar">小陕</span> 岳姨儿！<span class="block">（敬礼）</span></p>
+<p class="xj"><span class="xchar">岳春江</span> 你什么时候结的婚？</p>
+<p class="xj"><span class="xchar">张竹</span> 都有三个孩子了！</p>
 <p class="l block">〔岳春江看看张竹，看看小陕，仿佛不知如何是好了。</p>
-岳春江|真不敢相信！你会变得这么干净利落，还会把孩子养得这么好！
-张竹|我受了党的培植、教育，孩子得到政府的照顾，怎能不像个样儿呢？<span class="block">（指大明）</span>这是老几？
-岳春江|最小的。来，大明，叫张姨儿？
-冯大明|张姨儿！
-张竹|真乖乖！可惜，我忘了给你带点糖来！
-岳春江|大明，好好跟小陕去玩，告诉赵妈沏茶。
-冯大明|<span class="block">（拉着小陕）</span>走，我给你找玩艺儿去。<span class="block">（二人走开）</span>
+<p class="xj"><span class="xchar">岳春江</span> 真不敢相信！你会变得这么干净利落，还会把孩子养得这么好！</p>
+<p class="xj"><span class="xchar">张竹</span> 我受了党的培植、教育，孩子得到政府的照顾，怎能不像个样儿呢？<span class="block">（指大明）</span>这是老几？</p>
+<p class="xj"><span class="xchar">岳春江</span> 最小的。来，大明，叫张姨儿？</p>
+<p class="xj"><span class="xchar">冯大明</span> 张姨儿！</p>
+<p class="xj"><span class="xchar">张竹</span> 真乖乖！可惜，我忘了给你带点糖来！</p>
+<p class="xj"><span class="xchar">岳春江</span> 大明，好好跟小陕去玩，告诉赵妈沏茶。</p>
+<p class="xj"><span class="xchar">冯大明</span> <span class="block">（拉着小陕）</span>走，我给你找玩艺儿去。<span class="block">（二人走开）</span></p>
 <p class="l block">〔张岳落座。</p>
-张竹|<span class="block">（扫视屋里）</span>你的生活，看样子，还不错呢！
-岳春江|我？我没有生活！自从那天见着你，我几夜都没睡好，在学校里的时候，我的功课比你好。现在，你成了革命的战士，我还是在家里看孩子，这相去有多么远呢？
-张竹|出去作点事吧！
-岳春江|有人要我吗？过去的十多年，我的世界就是这个院子，除了办点家事，我跟死了一样！
-张竹|也不能那么说吧！你现在可以有用了，社会上需要你！
-岳春江|需要我？
-张竹|一定！你有知识，你有能力，怕只怕缺乏点新思想。思想一变，你就成为最有用的人！给你，你先念了这两本书，有不明白的，可以问我。
-岳春江|<span class="block">（抱书怀中）</span>这可好啦！真要有那么一天，我又敢到外边去活动，死而复生，我忘不了你的好处！
+<p class="xj"><span class="xchar">张竹</span> <span class="block">（扫视屋里）</span>你的生活，看样子，还不错呢！</p>
+<p class="xj"><span class="xchar">岳春江</span> 我？我没有生活！自从那天见着你，我几夜都没睡好，在学校里的时候，我的功课比你好。现在，你成了革命的战士，我还是在家里看孩子，这相去有多么远呢？</p>
+<p class="xj"><span class="xchar">张竹</span> 出去作点事吧！</p>
+<p class="xj"><span class="xchar">岳春江</span> 有人要我吗？过去的十多年，我的世界就是这个院子，除了办点家事，我跟死了一样！</p>
+<p class="xj"><span class="xchar">张竹</span> 也不能那么说吧！你现在可以有用了，社会上需要你！</p>
+<p class="xj"><span class="xchar">岳春江</span> 需要我？</p>
+<p class="xj"><span class="xchar">张竹</span> 一定！你有知识，你有能力，怕只怕缺乏点新思想。思想一变，你就成为最有用的人！给你，你先念了这两本书，有不明白的，可以问我。</p>
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（抱书怀中）</span>这可好啦！真要有那么一天，我又敢到外边去活动，死而复生，我忘不了你的好处！</p>
 <p class="l block">〔赵妈端了茶来。</p>
-岳春江|赵妈，这就是我常说的那个张竹！她说啦，我还有用处！可以去作事！
-赵妈|您好哇，张太太！
-张竹|我娘家姓张，叫我张同志吧。
-赵妈|您敢情是女革命党啊？
-张竹|你怎么知道？老太太！
-赵妈|别那么称呼我呀，还小啊，才五十五！您那位少爷告诉我的，他正教给大明怎么土改呢！
-岳春江|土改？
-赵妈|他已经把厨房给我啦，说不久就可以领什么证！
-张竹|土地证！<span class="block">（笑得前仰后合）</span>
-赵妈|得了，我这就放心了。共产党敢情不是红胡子，蓝靛脸！您喝茶吧，不陪您！
+<p class="xj"><span class="xchar">岳春江</span> 赵妈，这就是我常说的那个张竹！她说啦，我还有用处！可以去作事！</p>
+<p class="xj"><span class="xchar">赵妈</span> 您好哇，张太太！</p>
+<p class="xj"><span class="xchar">张竹</span> 我娘家姓张，叫我张同志吧。</p>
+<p class="xj"><span class="xchar">赵妈</span> 您敢情是女革命党啊？</p>
+<p class="xj"><span class="xchar">张竹</span> 你怎么知道？老太太！</p>
+<p class="xj"><span class="xchar">赵妈</span> 别那么称呼我呀，还小啊，才五十五！您那位少爷告诉我的，他正教给大明怎么土改呢！</p>
+<p class="xj"><span class="xchar">岳春江</span> 土改？</p>
+<p class="xj"><span class="xchar">赵妈</span> 他已经把厨房给我啦，说不久就可以领什么证！</p>
+<p class="xj"><span class="xchar">张竹</span> 土地证！<span class="block">（笑得前仰后合）</span></p>
+<p class="xj"><span class="xchar">赵妈</span> 得了，我这就放心了。共产党敢情不是红胡子，蓝靛脸！您喝茶吧，不陪您！</p>
 <p class="l block">〔景变为院内。岳春江与大明送客人。</p>
-冯大明|别让小陕走！我们的土改还没作完哪！
-张竹|<span class="block">（笑）</span>我们再来！老岳，写信给老冯，教他快回来，我可能到他的医院去作事。我们需要他那样的专家。
+<p class="xj"><span class="xchar">冯大明</span> 别让小陕走！我们的土改还没作完哪！</p>
+<p class="xj"><span class="xchar">张竹</span> <span class="block">（笑）</span>我们再来！老岳，写信给老冯，教他快回来，我可能到他的医院去作事。我们需要他那样的专家。</p>
 <p class="l block">〔晚间。岳春江在灯下写信，已写了两大张。大成轻轻的进来。</p>
-冯大成|妈，给爸爸写信哪？
-岳春江|我把张姨儿的话全写了去！
-冯大成|妈，商量点事：我可以住校去吧？以前，我不大合群，放了学就回家。现在，我应当有团体的生活！
-岳春江|学校里的伙食苦，你受得了吗？
-冯大成|别人受得了，我就应当受的了！
-岳春江|你看怎好怎办吧。
-冯大成|<span class="block">（高兴）</span>那么，明天我就搬了去！
-岳春江|不拆洗拆洗铺盖吗？
-冯大成|用不着，妈！解放军打仗，有时候能一两个月不脱衣裳；他们身上脏，心里可干净呢！
-岳春江|好！把你刚才这几句，也给爸爸写了去！他在外国，不了解咱们的情形，咱们越多写越好，好让他快回来。
-冯大成|我去住校，你放心吗？
-岳春江|在解放前，我一定不许你去。现在，我放心啦！大成，过暑假也教大玉去住校。有赵妈看着大明，我也去作事，咱们都出去，都出去！连那俩小鸟都该放了！从此以后，谁也不再在笼子里！
+<p class="xj"><span class="xchar">冯大成</span> 妈，给爸爸写信哪？</p>
+<p class="xj"><span class="xchar">岳春江</span> 我把张姨儿的话全写了去！</p>
+<p class="xj"><span class="xchar">冯大成</span> 妈，商量点事：我可以住校去吧？以前，我不大合群，放了学就回家。现在，我应当有团体的生活！</p>
+<p class="xj"><span class="xchar">岳春江</span> 学校里的伙食苦，你受得了吗？</p>
+<p class="xj"><span class="xchar">冯大成</span> 别人受得了，我就应当受的了！</p>
+<p class="xj"><span class="xchar">岳春江</span> 你看怎好怎办吧。</p>
+<p class="xj"><span class="xchar">冯大成</span> <span class="block">（高兴）</span>那么，明天我就搬了去！</p>
+<p class="xj"><span class="xchar">岳春江</span> 不拆洗拆洗铺盖吗？</p>
+<p class="xj"><span class="xchar">冯大成</span> 用不着，妈！解放军打仗，有时候能一两个月不脱衣裳；他们身上脏，心里可干净呢！</p>
+<p class="xj"><span class="xchar">岳春江</span> 好！把你刚才这几句，也给爸爸写了去！他在外国，不了解咱们的情形，咱们越多写越好，好让他快回来。</p>
+<p class="xj"><span class="xchar">冯大成</span> 我去住校，你放心吗？</p>
+<p class="xj"><span class="xchar">岳春江</span> 在解放前，我一定不许你去。现在，我放心啦！大成，过暑假也教大玉去住校。有赵妈看着大明，我也去作事，咱们都出去，都出去！连那俩小鸟都该放了！从此以后，谁也不再在笼子里！</p>
 <p class="l block">〔景隐。次晨，东方一片早霞，岳春江，大成，大玉，大明，立院中。大成托鸟笼，将笼门打开。小鸟飞鸣而去，红日上升。大家鼓掌。</p>
 
 
 
 
 
-第三段
+<h2 class="title2">第三段</h2>
 
 <p class="l block">〔张竹到京不久，即以军事代表的资格，到同仁医院调整人事，培植先进分子。这医院即冯光斗、吴惠全、李芳等作事的地方。后来，张竹作了院中支书。</p>
 <p class="l block">〔夏天早晨，铃响，大家到小礼堂听讲大课。李芳闻铃声，飞跑而去，表示积极。她虽已换穿制服，仍不掩减她的漂亮。她坐在最前一行。</p>
 <p class="l block">〔张竹随着一群人进来。</p>
 <p class="l block">〔吴大夫最后进来，什么也没拿，坐在最后。他仍穿西装，神情傲慢。</p>
 
-张竹|都到齐了吧？请各小组组长报告昨天分组讨论的结果。
-李芳|<span class="block">（首先立起来）</span>张竹同志！我们的组长孙铭请病假，我替她报告。
+<p class="xj"><span class="xchar">张竹</span> 都到齐了吧？请各小组组长报告昨天分组讨论的结果。</p>
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（首先立起来）</span>张竹同志！我们的组长孙铭请病假，我替她报告。</p>
 <p class="l block">〔还没到下课时，吴大夫乘张竹转身写黑板之际，偷偷溜出去。</p>
 <p class="l block">〔吴在院中徘徊，看看花，拔一两棵草。</p>
 <p class="l block">〔岳春江很快的走来。</p>
-岳春江|吴大夫，看见张竹没有？
-吴惠全|<span class="block">（指礼堂）</span>还没下大课。
-岳春江|你怎么不上课去呢？
-吴惠全|我听不下去了，出来吸点新鲜空气。我有我的工作，不能一天到晚老跟着开会。这里是医院，不是议会！
-岳春江|教人看见你不去开会，不是怪不好的吗？
-吴惠全|不要我，正好！家里有点底儿，闲个一年半载的，还不至于挨饿！冯大哥怎样？
-岳春江|就快回来！
-吴惠全|那好极了，我净等他回来，好商议商议我们应当怎么办。他注重技术，技术又真高，他跟我站在一块儿，跟他们干，才能把这个医院——不是议会——办好！
+<p class="xj"><span class="xchar">岳春江</span> 吴大夫，看见张竹没有？</p>
+<p class="xj"><span class="xchar">吴惠全</span> <span class="block">（指礼堂）</span>还没下大课。</p>
+<p class="xj"><span class="xchar">岳春江</span> 你怎么不上课去呢？</p>
+<p class="xj"><span class="xchar">吴惠全</span> 我听不下去了，出来吸点新鲜空气。我有我的工作，不能一天到晚老跟着开会。这里是医院，不是议会！</p>
+<p class="xj"><span class="xchar">岳春江</span> 教人看见你不去开会，不是怪不好的吗？</p>
+<p class="xj"><span class="xchar">吴惠全</span> 不要我，正好！家里有点底儿，闲个一年半载的，还不至于挨饿！冯大哥怎样？</p>
+<p class="xj"><span class="xchar">岳春江</span> 就快回来！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 那好极了，我净等他回来，好商议商议我们应当怎么办。他注重技术，技术又真高，他跟我站在一块儿，跟他们干，才能把这个医院——不是议会——办好！</p>
 <p class="l block">〔铃声，大课下班。吴大夫匆匆走开。</p>
 <p class="l block">〔李芳跑出来，招呼岳春江，把岳拉到人少的地方。</p>
-李芳|冯太太，冯大夫要回来了吗？<span class="block">（岳点头）</span>那太好了！告诉你，我凡事积极，真干。可是，护士小组的组长落在孙铭手里。现在，护士长出了缺，我怕孙铭又跑在我的前头去。冯大夫晓得我的本事，他回来必定能帮助我！同时，听说你跟张竹是老同志，你也得帮帮我的忙，把护士长弄到手！我不能白积极，白努力，而什么也得不到哇！这件事托你啦！<span class="block">（见张竹来，匆匆走去）</span>
-张竹|老岳，干吗来了？
-岳春江|来告诉你，我已经找到了事，暑假后到新时中学去教书。还有，老冯秋天，至迟一入冬，就回来！
-张竹|这可是好消息！
-岳春江|可是，张竹，你得有个准备！老冯是要由英国回来，思想也许一时改不过来。他是技术主义者。我就怕你专讲思想，他专讲技术，弄不到一块儿！
-张竹|放心吧，老岳！凭他的那点技术，我们能不尊敬他吗？我们一定能弄到一块儿！况且，我跟他说不通的时候，不是还有你哪吗？
-岳春江|就那么办了！凡是我能发生作用的事，我必尽心尽力，一定发生作用，再见，我到学校去！
+<p class="xj"><span class="xchar">李芳</span> 冯太太，冯大夫要回来了吗？<span class="block">（岳点头）</span>那太好了！告诉你，我凡事积极，真干。可是，护士小组的组长落在孙铭手里。现在，护士长出了缺，我怕孙铭又跑在我的前头去。冯大夫晓得我的本事，他回来必定能帮助我！同时，听说你跟张竹是老同志，你也得帮帮我的忙，把护士长弄到手！我不能白积极，白努力，而什么也得不到哇！这件事托你啦！<span class="block">（见张竹来，匆匆走去）</span></p>
+<p class="xj"><span class="xchar">张竹</span> 老岳，干吗来了？</p>
+<p class="xj"><span class="xchar">岳春江</span> 来告诉你，我已经找到了事，暑假后到新时中学去教书。还有，老冯秋天，至迟一入冬，就回来！</p>
+<p class="xj"><span class="xchar">张竹</span> 这可是好消息！</p>
+<p class="xj"><span class="xchar">岳春江</span> 可是，张竹，你得有个准备！老冯是要由英国回来，思想也许一时改不过来。他是技术主义者。我就怕你专讲思想，他专讲技术，弄不到一块儿！</p>
+<p class="xj"><span class="xchar">张竹</span> 放心吧，老岳！凭他的那点技术，我们能不尊敬他吗？我们一定能弄到一块儿！况且，我跟他说不通的时候，不是还有你哪吗？</p>
+<p class="xj"><span class="xchar">岳春江</span> 就那么办了！凡是我能发生作用的事，我必尽心尽力，一定发生作用，再见，我到学校去！</p>
 <p class="l block">〔岳春江由医院出来，扬眉吐气的在街上走。看见地上一块瓜皮，已走过去，又转回，拾掷垃圾箱中。看见一部卡车，满坐艺人，缓缓前进，宣传防疫。她跟着车走，面上现出羡慕的笑意。车上一女艺人唱：</p>
 <blockquote>
 <p>“您要问新社会是什么样？</p>
@@ -345,35 +345,35 @@
 </blockquote>
 <p class="l block">〔岳鼓掌。离开卡车，看见工人挖下水道，她不怕脏，立住凝视，见工人的汗，一滴滴的落在泥土上。她受了感动。</p>
 <p class="l block">〔她跑到新时中学，找郭志贞。郭是团员，从前是岳的学生。郭正在准备学生登记的一切。</p>
-郭志贞|老师，今天干什么来了？
-岳春江|给我点活儿干！
-郭志贞|<span class="block">（拿起一堆表格来）</span>可是——怎么好意思，教老师一张一张的盖印呢？
-岳春江|拿来！什么活儿都是人干的。<span class="block">（一边紧张的工作，一边闲谈）</span>志贞，你把我介绍了来，恐怕我要给你添许多麻烦！
-郭志贞|添麻烦？
-岳春江|嗯，当初我教过你，现在你得教我，我还有多少事想不通，想不好，都要来问你！我认识点这个新社会了，我愿意走进去，可是还不大知道怎么进步，我怕走错了，对不起人！
-郭志贞|放心吧，老师！现在是学的也教，教的也学，没多大困难！
-岳春江|好！在原则上，从前的教育是为了个人造就个人，今天的教育是为社会造就个人，对吧？
-郭志贞|差不多！你歇会儿吧？老师！
-岳春江|我要作事，多作事，一天作两天的事，好补上十来年的空虚！<span class="block">（擦了擦头上的汗）</span>以前的我怕出汗，现在我知道了出汗多么舒服！
+<p class="xj"><span class="xchar">郭志贞</span> 老师，今天干什么来了？</p>
+<p class="xj"><span class="xchar">岳春江</span> 给我点活儿干！</p>
+<p class="xj"><span class="xchar">郭志贞</span> <span class="block">（拿起一堆表格来）</span>可是——怎么好意思，教老师一张一张的盖印呢？</p>
+<p class="xj"><span class="xchar">岳春江</span> 拿来！什么活儿都是人干的。<span class="block">（一边紧张的工作，一边闲谈）</span>志贞，你把我介绍了来，恐怕我要给你添许多麻烦！</p>
+<p class="xj"><span class="xchar">郭志贞</span> 添麻烦？</p>
+<p class="xj"><span class="xchar">岳春江</span> 嗯，当初我教过你，现在你得教我，我还有多少事想不通，想不好，都要来问你！我认识点这个新社会了，我愿意走进去，可是还不大知道怎么进步，我怕走错了，对不起人！</p>
+<p class="xj"><span class="xchar">郭志贞</span> 放心吧，老师！现在是学的也教，教的也学，没多大困难！</p>
+<p class="xj"><span class="xchar">岳春江</span> 好！在原则上，从前的教育是为了个人造就个人，今天的教育是为社会造就个人，对吧？</p>
+<p class="xj"><span class="xchar">郭志贞</span> 差不多！你歇会儿吧？老师！</p>
+<p class="xj"><span class="xchar">岳春江</span> 我要作事，多作事，一天作两天的事，好补上十来年的空虚！<span class="block">（擦了擦头上的汗）</span>以前的我怕出汗，现在我知道了出汗多么舒服！</p>
 <p class="l block">〔景隐。</p>
 <p class="l block">〔岳春江回到家中，三个孩子正在院中浇菜。</p>
-冯大成|妈，回来啦？没坐车吧？看这两脚土！
-岳春江|还说我呢！看看你自己吧！
-冯大成|那还不算！妈，看这个！<span class="block">（伸出手）</span>手上都起了泡！在学校里，我扫地，种菜，练杠子，什么都干！同学越说我是少爷，吃不了苦，我越挂火！妈！你摸摸，<span class="block">（伸臂）</span>棒不棒？
-岳春江|<span class="block">（摸他的臂）</span>比从前硬多了，可还不算顶棒！
-冯大成|还得多练！多咱练好了，我就去当海军！
-冯大明|<span class="block">（为表现自己，急伏地上，双手拄地，全身起落）</span>妈，看我呀！看我！
-岳春江|真棒，小妞子！
-冯大明|我能连做五次！<span class="block">（可是臂一软，趴在地上）</span>
-冯大玉|妈，看我！<span class="block">（拿鸡毛把一种花粉，移向另一种花上去）</span>哥哥要当了海军大将，我就成了中国的米丘林！小妹，来水！
-冯大明|<span class="block">（提小水桶走去）</span>就来！
+<p class="xj"><span class="xchar">冯大成</span> 妈，回来啦？没坐车吧？看这两脚土！</p>
+<p class="xj"><span class="xchar">岳春江</span> 还说我呢！看看你自己吧！</p>
+<p class="xj"><span class="xchar">冯大成</span> 那还不算！妈，看这个！<span class="block">（伸出手）</span>手上都起了泡！在学校里，我扫地，种菜，练杠子，什么都干！同学越说我是少爷，吃不了苦，我越挂火！妈！你摸摸，<span class="block">（伸臂）</span>棒不棒？</p>
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（摸他的臂）</span>比从前硬多了，可还不算顶棒！</p>
+<p class="xj"><span class="xchar">冯大成</span> 还得多练！多咱练好了，我就去当海军！</p>
+<p class="xj"><span class="xchar">冯大明</span> <span class="block">（为表现自己，急伏地上，双手拄地，全身起落）</span>妈，看我呀！看我！</p>
+<p class="xj"><span class="xchar">岳春江</span> 真棒，小妞子！</p>
+<p class="xj"><span class="xchar">冯大明</span> 我能连做五次！<span class="block">（可是臂一软，趴在地上）</span></p>
+<p class="xj"><span class="xchar">冯大玉</span> 妈，看我！<span class="block">（拿鸡毛把一种花粉，移向另一种花上去）</span>哥哥要当了海军大将，我就成了中国的米丘林！小妹，来水！</p>
+<p class="xj"><span class="xchar">冯大明</span> <span class="block">（提小水桶走去）</span>就来！</p>
 <p class="l block">〔赵妈帮大明提出水来。</p>
-赵妈|我说，你们这么糟践水还行吗？
-冯大玉|水多少钱一吨？菜多少钱一斤？你合计了吗？你不懂怎么全面看问题！
-赵妈|<span class="block">（端详大家，见每人身上鞋上都不干净）</span>那是你种的菜呀？要没有我，早全死啦！你们都给我进去，不要再弄！看，连大人带孩子都快成了泥水匠啦！
-冯大玉|泥水匠？我们哪个比得了泥水匠？
-赵妈|好，等你长大了，去嫁个泥水匠！
-冯大玉|那才好呢！只要他是个劳动英雄！
+<p class="xj"><span class="xchar">赵妈</span> 我说，你们这么糟践水还行吗？</p>
+<p class="xj"><span class="xchar">冯大玉</span> 水多少钱一吨？菜多少钱一斤？你合计了吗？你不懂怎么全面看问题！</p>
+<p class="xj"><span class="xchar">赵妈</span> <span class="block">（端详大家，见每人身上鞋上都不干净）</span>那是你种的菜呀？要没有我，早全死啦！你们都给我进去，不要再弄！看，连大人带孩子都快成了泥水匠啦！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 泥水匠？我们哪个比得了泥水匠？</p>
+<p class="xj"><span class="xchar">赵妈</span> 好，等你长大了，去嫁个泥水匠！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 那才好呢！只要他是个劳动英雄！</p>
 <p class="l block">〔大家都笑。景隐。</p>
 
 
@@ -381,201 +381,201 @@
 
 
 
-第四段
+<h2 class="title2">第四段</h2>
 
 <p class="l block">〔深秋，冯光斗由英返国。岳春江，张竹，吴惠全，孙铭，丁今夫，都到车站迎接。</p>
 <p class="l block">〔车站上，岳春江等快活的同冯大夫往站外走。</p>
 
-丁今夫|冯大夫，我照顾行李去，您就不用管啦！<span class="block">（握手，跑去）</span>
-孙铭|一半天见，冯大夫，我先回医院去。<span class="block">（握手，走开）</span>
-张竹|把一位顶有名的医生接到了，我真为全医院高兴！好啦，你们夫妇回家去说点知心话，咱们明天见！<span class="block">（握手，走去）</span>
+<p class="xj"><span class="xchar">丁今夫</span> 冯大夫，我照顾行李去，您就不用管啦！<span class="block">（握手，跑去）</span></p>
+<p class="xj"><span class="xchar">孙铭</span> 一半天见，冯大夫，我先回医院去。<span class="block">（握手，走开）</span></p>
+<p class="xj"><span class="xchar">张竹</span> 把一位顶有名的医生接到了，我真为全医院高兴！好啦，你们夫妇回家去说点知心话，咱们明天见！<span class="block">（握手，走去）</span></p>
 <p class="l block">〔岳春江，冯光斗，吴惠全，一同回冯家。</p>
 <p class="l block">〔冯家。院中已贴好标语：“欢迎爸爸回国！”“欢迎爱国的爸爸！”“为人民服务！”等等。还有大明写的一条：“我们爱毛主席，我们爱爸爸！”</p>
 <p class="l block">〔赵妈同孩子们在院中排队相候，她穿着新大袄，大明的小辫上系了红绸结，大玉手执小旗，大成手捧欢迎词。</p>
-冯大玉|<span class="block">（看标语）</span>哼，就是小妹这一条写得不整齐！
-赵妈|那就怪难为小妞子的！
-冯大明|要是换了样，赵妈不认识呀！她就会念我写的字！赵妈，你念念！
-赵妈|<span class="block">（念）</span>我，们，<span class="block">（不识下一字）</span>
-冯大明|<span class="block">（看大玉要告诉赵妈）</span>你别说！
-赵妈|<span class="block">（自言自语的）</span>再下边的一个是毛。<span class="block">（恍然大悟）</span>啊，我猜着了！我们爱毛主席！我也不笨！
-冯大明|往下念！
-赵妈|我，们，哼，又是这个家伙，爱，爸爸。
+<p class="xj"><span class="xchar">冯大玉</span> <span class="block">（看标语）</span>哼，就是小妹这一条写得不整齐！</p>
+<p class="xj"><span class="xchar">赵妈</span> 那就怪难为小妞子的！</p>
+<p class="xj"><span class="xchar">冯大明</span> 要是换了样，赵妈不认识呀！她就会念我写的字！赵妈，你念念！</p>
+<p class="xj"><span class="xchar">赵妈</span> <span class="block">（念）</span>我，们，<span class="block">（不识下一字）</span></p>
+<p class="xj"><span class="xchar">冯大明</span> <span class="block">（看大玉要告诉赵妈）</span>你别说！</p>
+<p class="xj"><span class="xchar">赵妈</span> <span class="block">（自言自语的）</span>再下边的一个是毛。<span class="block">（恍然大悟）</span>啊，我猜着了！我们爱毛主席！我也不笨！</p>
+<p class="xj"><span class="xchar">冯大明</span> 往下念！</p>
+<p class="xj"><span class="xchar">赵妈</span> 我，们，哼，又是这个家伙，爱，爸爸。</p>
 <p class="l block">〔大家给她鼓掌。</p>
-赵妈|大玉，拿笔去，给注上点：我们爱毛主席，底下写：有赵妈；我们爱爸爸，底下写：没有赵妈。
-冯大玉|为什么呢？
-赵妈|毛主席是大家伙的主席，你爸爸可不是我的爸爸！<span class="block">（大家笑起来）</span>
-冯大成|排好了！爸爸来到，我们第一喊口号，第二念欢迎词，第三爸爸答词，一点不许乱了次序！
+<p class="xj"><span class="xchar">赵妈</span> 大玉，拿笔去，给注上点：我们爱毛主席，底下写：有赵妈；我们爱爸爸，底下写：没有赵妈。</p>
+<p class="xj"><span class="xchar">冯大玉</span> 为什么呢？</p>
+<p class="xj"><span class="xchar">赵妈</span> 毛主席是大家伙的主席，你爸爸可不是我的爸爸！<span class="block">（大家笑起来）</span></p>
+<p class="xj"><span class="xchar">冯大成</span> 排好了！爸爸来到，我们第一喊口号，第二念欢迎词，第三爸爸答词，一点不许乱了次序！</p>
 <p class="l block">〔街门响，有人声，全沉不住了气。</p>
-冯大玉|来啦！<span class="block">（撒腿就往外跑）</span>
-冯大成|来啦！<span class="block">（也往外跑）</span>
+<p class="xj"><span class="xchar">冯大玉</span> 来啦！<span class="block">（撒腿就往外跑）</span></p>
+<p class="xj"><span class="xchar">冯大成</span> 来啦！<span class="block">（也往外跑）</span></p>
 <p class="l block">〔大明扯着赵妈，也往外跑。</p>
-孩子们|爸！<span class="block">（一齐拥上去）</span>
+<p class="xj"><span class="xchar">孩子们</span> 爸！<span class="block">（一齐拥上去）</span></p>
 <p class="l block">〔大成接过爸手中的小箱。大玉抱住爸的臂。大明搂住爸的腿。</p>
-冯光斗|<span class="block">（找不到适当的话，只说）</span>都长了身量，都长了身量！
-赵妈|大夫，你可回来啦！
-冯光斗|赵妈，你好哇！
-冯大玉|<span class="block">（想起预定的计划）</span>咱们还没喊口号，念欢迎词哪！
-冯大成|我该走啦，别耽误了自习！
-冯光斗|上哪儿？
-岳春江|信上不是告诉过你，他住校了吗？
-冯光斗|真行！大傻小子也敢去住校！
-冯大成|爸，<span class="block">（伸臂）</span>摸摸，棒不棒！
-冯光斗|<span class="block">（摸）</span>真棒！
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（找不到适当的话，只说）</span>都长了身量，都长了身量！</p>
+<p class="xj"><span class="xchar">赵妈</span> 大夫，你可回来啦！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 赵妈，你好哇！</p>
+<p class="xj"><span class="xchar">冯大玉</span> <span class="block">（想起预定的计划）</span>咱们还没喊口号，念欢迎词哪！</p>
+<p class="xj"><span class="xchar">冯大成</span> 我该走啦，别耽误了自习！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 上哪儿？</p>
+<p class="xj"><span class="xchar">岳春江</span> 信上不是告诉过你，他住校了吗？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 真行！大傻小子也敢去住校！</p>
+<p class="xj"><span class="xchar">冯大成</span> 爸，<span class="block">（伸臂）</span>摸摸，棒不棒！</p>
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（摸）</span>真棒！</p>
 <p class="l block">〔大成把小箱交给赵妈，得意的走去。</p>
-冯大明|爸！念我的标语！
-冯光斗|<span class="block">（看标语）</span>好，在香港听说，只准爱毛主席，不准爱爸爸，多么可笑！
+<p class="xj"><span class="xchar">冯大明</span> 爸！念我的标语！</p>
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（看标语）</span>好，在香港听说，只准爱毛主席，不准爱爸爸，多么可笑！</p>
 <p class="l block">〔大家欢笑着进入屋中。壁上有毛主席与朱德司令的像。冯光斗的像片上系了红绸条。窗前悬了一对红灯。桌上摆着点心。冯左顾右盼，甚为满意。</p>
-岳春江|看怎样？还跟从前一样吧？
-冯光斗|很好！
-岳春江|大明，大玉，拿点心一边吃去，好教爸爸跟吴叔叔说话儿呀。
+<p class="xj"><span class="xchar">岳春江</span> 看怎样？还跟从前一样吧？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 很好！</p>
+<p class="xj"><span class="xchar">岳春江</span> 大明，大玉，拿点心一边吃去，好教爸爸跟吴叔叔说话儿呀。</p>
 <p class="l block">〔二女孩拿点心，随赵妈走开。</p>
-冯光斗|怎么，老吴，怎么一言不发？
-岳春江|有个新名词，你还不知道：闹情绪。
-冯光斗|怎么闹情绪？
-吴惠全|冯大哥，你得给我出个主意，告诉我怎么办！现在医院不像个医院，倒像个会议厅，成天际开会。大夫呢，一会儿得去听报告，一会儿得去接受新任务，还要加入工会。想想看，我是外科大夫，怎么会是工人呢？我不明白，我苦闷，我想不出好办法来！
-岳春江|吴大夫，张竹已经跟我讲过，她因为忙，没有能够多照顾你，请你原谅！
-吴惠全|原谅？她没背地里批评我？
-岳春江|要批评谁，她当面去讲，向来她不背地里议论人，吴大夫，心中有什么话，跟张竹当面去讲，不必憋在心里！
-吴惠全|她有她那一套，我有我这一套，不会谈出结果来！
-岳春江|咱们必须明白她那一套，接受她那一套，从她那一套找出咱们的出路来。她那一套不是无中生有，而是从多少年的革命经验提炼出来的！
-吴惠全|大嫂，你行！你能适应环境，随时摇身一变，像二郎爷杨戬！
-岳春江|<span class="block">（极严肃的）</span>吴大夫，我不准你这么说我！我不像二郎爷忽然变猫变狗，我要变成一个更好的人！
-冯光斗|别拌嘴！<span class="block">（打开小箱，拿出一捆信）</span>老吴，你看，这都是家信，一封不短。这些信感动了我，所以我赶快回来。我虽然没有什么高尚的思想，可是真爱祖国；他们连大带小都说新中国好，我就不能不快快的回来！到了香港，我听到无奇不有的话，我的心凉了点。可是，我不能留在香港，香港不是我的国家。进了国门，一路上所见所闻的都证明了家信里的话。你就拿火车来说吧，到时候就开，到时候准到，而且车里每人都有座位，都守秩序，每盏灯都有灯泡儿。就这一件事说，中国的确是变了，变的快，变的好！到了家，才这么几分钟，我不单看见我的老婆儿女是好好的活着，而且都有了新的精神，连娇生惯养的大傻子都比以前强壮了，有了胆量。我想，这不能都是偶然的；其中必定有什么一股子力量……
-吴惠全|你等着，冯大哥，看见了医院，你就不这么高兴了！还有，拿中国和英国比一比，你也就不给共产党吹嘘了！
-冯光斗|当然，我不能说我们的科学，医学，海军，都能比上英国；可是……
-吴惠全|我走啦，明天见！
-岳春江|怎么就走？我已经给你预备了饭！不是恼了我们？
-吴惠全|多年的朋友，哪是一半句话能得罪了的！大嫂，我庆贺你的成功，不单劝服了我，不到香港去，还能把丈夫叫回来，而且一回来就满带革命味儿！
-冯光斗|别说俏皮话吧，老吴！我一点不带革命味儿，我只看见好的就说她好，坏的就说她坏！吃了饭再走，再谈谈！
-吴惠全|我得回医院去，看两个病人；大夫闹情绪也忘不了病人！我也不放心那群思想前进的医生护士，他们万一光忙着开会，不管病人，岂不要命！明天见，老冯！
+<p class="xj"><span class="xchar">冯光斗</span> 怎么，老吴，怎么一言不发？</p>
+<p class="xj"><span class="xchar">岳春江</span> 有个新名词，你还不知道：闹情绪。</p>
+<p class="xj"><span class="xchar">冯光斗</span> 怎么闹情绪？</p>
+<p class="xj"><span class="xchar">吴惠全</span> 冯大哥，你得给我出个主意，告诉我怎么办！现在医院不像个医院，倒像个会议厅，成天际开会。大夫呢，一会儿得去听报告，一会儿得去接受新任务，还要加入工会。想想看，我是外科大夫，怎么会是工人呢？我不明白，我苦闷，我想不出好办法来！</p>
+<p class="xj"><span class="xchar">岳春江</span> 吴大夫，张竹已经跟我讲过，她因为忙，没有能够多照顾你，请你原谅！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 原谅？她没背地里批评我？</p>
+<p class="xj"><span class="xchar">岳春江</span> 要批评谁，她当面去讲，向来她不背地里议论人，吴大夫，心中有什么话，跟张竹当面去讲，不必憋在心里！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 她有她那一套，我有我这一套，不会谈出结果来！</p>
+<p class="xj"><span class="xchar">岳春江</span> 咱们必须明白她那一套，接受她那一套，从她那一套找出咱们的出路来。她那一套不是无中生有，而是从多少年的革命经验提炼出来的！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 大嫂，你行！你能适应环境，随时摇身一变，像二郎爷杨戬！</p>
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（极严肃的）</span>吴大夫，我不准你这么说我！我不像二郎爷忽然变猫变狗，我要变成一个更好的人！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 别拌嘴！<span class="block">（打开小箱，拿出一捆信）</span>老吴，你看，这都是家信，一封不短。这些信感动了我，所以我赶快回来。我虽然没有什么高尚的思想，可是真爱祖国；他们连大带小都说新中国好，我就不能不快快的回来！到了香港，我听到无奇不有的话，我的心凉了点。可是，我不能留在香港，香港不是我的国家。进了国门，一路上所见所闻的都证明了家信里的话。你就拿火车来说吧，到时候就开，到时候准到，而且车里每人都有座位，都守秩序，每盏灯都有灯泡儿。就这一件事说，中国的确是变了，变的快，变的好！到了家，才这么几分钟，我不单看见我的老婆儿女是好好的活着，而且都有了新的精神，连娇生惯养的大傻子都比以前强壮了，有了胆量。我想，这不能都是偶然的；其中必定有什么一股子力量……</p>
+<p class="xj"><span class="xchar">吴惠全</span> 你等着，冯大哥，看见了医院，你就不这么高兴了！还有，拿中国和英国比一比，你也就不给共产党吹嘘了！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 当然，我不能说我们的科学，医学，海军，都能比上英国；可是……</p>
+<p class="xj"><span class="xchar">吴惠全</span> 我走啦，明天见！</p>
+<p class="xj"><span class="xchar">岳春江</span> 怎么就走？我已经给你预备了饭！不是恼了我们？</p>
+<p class="xj"><span class="xchar">吴惠全</span> 多年的朋友，哪是一半句话能得罪了的！大嫂，我庆贺你的成功，不单劝服了我，不到香港去，还能把丈夫叫回来，而且一回来就满带革命味儿！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 别说俏皮话吧，老吴！我一点不带革命味儿，我只看见好的就说她好，坏的就说她坏！吃了饭再走，再谈谈！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 我得回医院去，看两个病人；大夫闹情绪也忘不了病人！我也不放心那群思想前进的医生护士，他们万一光忙着开会，不管病人，岂不要命！明天见，老冯！</p>
 <p class="l block">〔冯氏夫妇不知如何是好。</p>
 <p class="l block">〔吴去，李芳进来。</p>
-李芳|<span class="block">（扑向冯去）</span>冯大夫！<span class="block">（热烈的握手）</span>你可回来了！
-冯光斗|你怎么样啊？李芳。
-李芳|真要把我气死！
-冯光斗|谁招你生气？这回可不是我吧？
-李芳|当然不是你。可是，冯太太……
-岳春江|哟，李芳，我几儿个得罪过你？你看，大夫出门在外，你老上我这儿来，安慰我，帮助我，我实在感激你，怎能得罪你呢？
-李芳|我托你给我跟张竹说个情，你就不管。结果，手术室的护士长落在孙铭手里，我扑了空！
-冯光斗|孙铭不错呀！技术，经验，年纪，都合适。
-李芳|冯大夫，你也这么说？我的那些条件也都合适！我不能白听大课，白积极，临完还是个小护士！
-岳春江|李芳，你要把你自己放在一边，先看事情的全面，就必能看出孙铭比你更合适了！她作护士长，大家都服气，医院就得到好处；你作护士长，大家未必都服气，医院就吃了亏！你说是不是呢？李芳！
-李芳|我说不过你，冯太太！我找张竹去，跟她大闹一场，看她把我怎样了！
-冯光斗|<span class="block">（从小箱中拿出一双手套来）</span>李芳，千里送鹅毛！我给你带来的！
-李芳|<span class="block">（接过手套，忘了牢骚，马上笑了）</span>冯大夫！你够朋友！<span class="block">（赶紧戴上手套）</span>看，多么合适！
-冯光斗|好啦，别找张竹闹去了吧？
-李芳|那是另一回事，我跟你的脾气差不多，谁跟我好我就真爱他，谁对我不好我就跟他开火！我走啦！<span class="block">（往外跑了几步，又回来）</span>谢谢你，冯大夫！<span class="block">（跑去）</span>
-冯光斗|这都是怎回事呢？老吴，李芳，都怎么啦？
-岳春江|一点不稀奇！经过这么大的一场革命，咱们谁能不费点事就变好了呢？这可要看你的了，看你能不能帮助张竹，把大家团结得更好一些！
-冯光斗|我有那么大的作用？
-岳春江|你有！我看啊，你明天就到医院去报到，教大家看看，你虽然是名医，可一点也不拿架子！
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（扑向冯去）</span>冯大夫！<span class="block">（热烈的握手）</span>你可回来了！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 你怎么样啊？李芳。</p>
+<p class="xj"><span class="xchar">李芳</span> 真要把我气死！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 谁招你生气？这回可不是我吧？</p>
+<p class="xj"><span class="xchar">李芳</span> 当然不是你。可是，冯太太……</p>
+<p class="xj"><span class="xchar">岳春江</span> 哟，李芳，我几儿个得罪过你？你看，大夫出门在外，你老上我这儿来，安慰我，帮助我，我实在感激你，怎能得罪你呢？</p>
+<p class="xj"><span class="xchar">李芳</span> 我托你给我跟张竹说个情，你就不管。结果，手术室的护士长落在孙铭手里，我扑了空！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 孙铭不错呀！技术，经验，年纪，都合适。</p>
+<p class="xj"><span class="xchar">李芳</span> 冯大夫，你也这么说？我的那些条件也都合适！我不能白听大课，白积极，临完还是个小护士！</p>
+<p class="xj"><span class="xchar">岳春江</span> 李芳，你要把你自己放在一边，先看事情的全面，就必能看出孙铭比你更合适了！她作护士长，大家都服气，医院就得到好处；你作护士长，大家未必都服气，医院就吃了亏！你说是不是呢？李芳！</p>
+<p class="xj"><span class="xchar">李芳</span> 我说不过你，冯太太！我找张竹去，跟她大闹一场，看她把我怎样了！</p>
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（从小箱中拿出一双手套来）</span>李芳，千里送鹅毛！我给你带来的！</p>
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（接过手套，忘了牢骚，马上笑了）</span>冯大夫！你够朋友！<span class="block">（赶紧戴上手套）</span>看，多么合适！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 好啦，别找张竹闹去了吧？</p>
+<p class="xj"><span class="xchar">李芳</span> 那是另一回事，我跟你的脾气差不多，谁跟我好我就真爱他，谁对我不好我就跟他开火！我走啦！<span class="block">（往外跑了几步，又回来）</span>谢谢你，冯大夫！<span class="block">（跑去）</span></p>
+<p class="xj"><span class="xchar">冯光斗</span> 这都是怎回事呢？老吴，李芳，都怎么啦？</p>
+<p class="xj"><span class="xchar">岳春江</span> 一点不稀奇！经过这么大的一场革命，咱们谁能不费点事就变好了呢？这可要看你的了，看你能不能帮助张竹，把大家团结得更好一些！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 我有那么大的作用？</p>
+<p class="xj"><span class="xchar">岳春江</span> 你有！我看啊，你明天就到医院去报到，教大家看看，你虽然是名医，可一点也不拿架子！</p>
 <p class="l block">〔冯大成自外笑着进来。</p>
-冯光斗|大成，你怎么又回来了？
-冯大成|先生们听说你回来了，教我回家来吃饭！先生们真棒！校长说，请爸爸给我们讲演一次，行不行？爸！
-冯光斗|我给你们讲什么呢？
-冯大成|你写得了稿子，交我看看就行了！
-冯光斗|你给我看稿子？
-冯大成|我呀，爸爸，希望能光荣的入团，作团员，当然得给爸看稿子！好，爸这么大的医生，万一说错了话，可糟糕！
-冯光斗|真有你的！春江，天下是变了，看这个傻小子！
-冯大成|<span class="block">（傻笑了一阵，掏出欢迎词来，喊）</span>大明，大玉，赵妈，都来，念欢迎词喽！
+<p class="xj"><span class="xchar">冯光斗</span> 大成，你怎么又回来了？</p>
+<p class="xj"><span class="xchar">冯大成</span> 先生们听说你回来了，教我回家来吃饭！先生们真棒！校长说，请爸爸给我们讲演一次，行不行？爸！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 我给你们讲什么呢？</p>
+<p class="xj"><span class="xchar">冯大成</span> 你写得了稿子，交我看看就行了！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 你给我看稿子？</p>
+<p class="xj"><span class="xchar">冯大成</span> 我呀，爸爸，希望能光荣的入团，作团员，当然得给爸看稿子！好，爸这么大的医生，万一说错了话，可糟糕！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 真有你的！春江，天下是变了，看这个傻小子！</p>
+<p class="xj"><span class="xchar">冯大成</span> <span class="block">（傻笑了一阵，掏出欢迎词来，喊）</span>大明，大玉，赵妈，都来，念欢迎词喽！</p>
 <p class="l block">〔她们都跑了来。大明扯着赵妈。</p>
-赵妈|我得作饭去，没工夫跟你们玩！
-冯大成|一会儿就完！<span class="block">（开始念）</span>诸位同志：我们热烈的欢迎爸爸回来！<span class="block">（领头鼓掌）</span>我们希望爸本着白求恩服务的精神，为人民服务！<span class="block">（鼓掌）</span>我们也希望他多干活，少闹脾气；要闹脾气的时候，顶好先自己检讨一下！我们敬祝爸爸健康！<span class="block">（鼓掌）</span>
+<p class="xj"><span class="xchar">赵妈</span> 我得作饭去，没工夫跟你们玩！</p>
+<p class="xj"><span class="xchar">冯大成</span> 一会儿就完！<span class="block">（开始念）</span>诸位同志：我们热烈的欢迎爸爸回来！<span class="block">（领头鼓掌）</span>我们希望爸本着白求恩服务的精神，为人民服务！<span class="block">（鼓掌）</span>我们也希望他多干活，少闹脾气；要闹脾气的时候，顶好先自己检讨一下！我们敬祝爸爸健康！<span class="block">（鼓掌）</span></p>
 <p class="l block">〔他把欢迎词恭敬的交给爸爸，爸爸接过放在衣袋中。</p>
-冯大玉|现在，我们请爸爸致答词！
+<p class="xj"><span class="xchar">冯大玉</span> 现在，我们请爸爸致答词！</p>
 <p class="l block">〔大家鼓掌。</p>
-冯光斗|<span class="block">（很受感动）</span>我，我没有预备！只说一句吧，我必定要对得起你们！
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（很受感动）</span>我，我没有预备！只说一句吧，我必定要对得起你们！</p>
 <p class="l block">〔大家鼓掌。</p>
-赵妈|<span class="block">（向四下里闻）</span>坏了！大概是饭糊了！
+<p class="xj"><span class="xchar">赵妈</span> <span class="block">（向四下里闻）</span>坏了！大概是饭糊了！</p>
 <p class="l block">〔大家随着她往厨房跑。</p>
 <p class="l block">〔晚间，孩子已睡。冯夫妇在屋中。光斗整理外科用具，春江打开他的行李，整理。</p>
-冯光斗|春江，我们的生活怎么维持呢？你不怪我提出这个问题？
-岳春江|这是重要的问题，怎能不提呢？你我都去挣薪水，不会很富裕，也不至于过不去。孩子们不像从前了，他们现在不挑吃不挑喝，学费又很少。无聊的应酬通通没有了，又省下一大笔钱。
-冯光斗|我到外国去，来往是自费，多少还有点债！
-岳春江|慢慢的还吧！到必要的时候，卖我的首饰，你的貂皮大衣。你既不开业，那些外科用具也可以卖！
-冯光斗|你倒真有主意！这些器具可不能卖，这是我的宝贝！
-岳春江|我的思想还没都搞通，要是都搞通了，我的办法就更多了！
-冯光斗|<span class="block">（想了想，摸了摸衣袋中的欢迎词）</span>去！思想不思想的，反正我好好作医生！
+<p class="xj"><span class="xchar">冯光斗</span> 春江，我们的生活怎么维持呢？你不怪我提出这个问题？</p>
+<p class="xj"><span class="xchar">岳春江</span> 这是重要的问题，怎能不提呢？你我都去挣薪水，不会很富裕，也不至于过不去。孩子们不像从前了，他们现在不挑吃不挑喝，学费又很少。无聊的应酬通通没有了，又省下一大笔钱。</p>
+<p class="xj"><span class="xchar">冯光斗</span> 我到外国去，来往是自费，多少还有点债！</p>
+<p class="xj"><span class="xchar">岳春江</span> 慢慢的还吧！到必要的时候，卖我的首饰，你的貂皮大衣。你既不开业，那些外科用具也可以卖！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 你倒真有主意！这些器具可不能卖，这是我的宝贝！</p>
+<p class="xj"><span class="xchar">岳春江</span> 我的思想还没都搞通，要是都搞通了，我的办法就更多了！</p>
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（想了想，摸了摸衣袋中的欢迎词）</span>去！思想不思想的，反正我好好作医生！</p>
 
 
 
 
 
-第五段
+<h2 class="title2">第五段</h2>
 
 <p class="l block">〔前段次日，冯光斗很早的即到医院去。</p>
 <p class="l block">〔刚到医院门外，即遇见孙铭来上班。二人立定交谈。</p>
 
-孙铭|哟，冯大夫！怎么不休息两天就来上班呢？
-冯光斗|我来报到。在船上已经休息了四十天，能再休息吗？你也来得早啊！
-孙铭|我作了护士长，得以身作则！
-冯光斗|我问你，自从解放后，医院的一切是不是有进步呢？
-孙铭|当然有！要不然，我还不会这么努力呢！
-冯光斗|那么为什么吴大夫和李芳都闹情绪呢？
-孙铭|李芳知道新办法好，也肯努力。可是，她没作上护士长，就闹起脾气来。护士长的委派是经过评议的。李芳也赞成这种民主办法。但是，护士长没落到她身上，她就不再民主了！
-冯光斗|𫪘！这么说，她的事倒还好办，再多劝劝她就行了！吴大夫呢？
-孙铭|李芳是贫苦出身，有干劲，有热心肠。吴大夫是阔少爷出身，他对新办法，新道理，老是冷笑！这可不好办！自然，他还是个好医生。
+<p class="xj"><span class="xchar">孙铭</span> 哟，冯大夫！怎么不休息两天就来上班呢？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 我来报到。在船上已经休息了四十天，能再休息吗？你也来得早啊！</p>
+<p class="xj"><span class="xchar">孙铭</span> 我作了护士长，得以身作则！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 我问你，自从解放后，医院的一切是不是有进步呢？</p>
+<p class="xj"><span class="xchar">孙铭</span> 当然有！要不然，我还不会这么努力呢！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 那么为什么吴大夫和李芳都闹情绪呢？</p>
+<p class="xj"><span class="xchar">孙铭</span> 李芳知道新办法好，也肯努力。可是，她没作上护士长，就闹起脾气来。护士长的委派是经过评议的。李芳也赞成这种民主办法。但是，护士长没落到她身上，她就不再民主了！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 𫪘！这么说，她的事倒还好办，再多劝劝她就行了！吴大夫呢？</p>
+<p class="xj"><span class="xchar">孙铭</span> 李芳是贫苦出身，有干劲，有热心肠。吴大夫是阔少爷出身，他对新办法，新道理，老是冷笑！这可不好办！自然，他还是个好医生。</p>
 <p class="l block">〔李芳从远处来，孙铭先看见了她。</p>
-孙铭|李芳来了！别教她看见我们在一块儿说话，这些日子，她老见神见鬼！<span class="block">（往医院里走）</span>
+<p class="xj"><span class="xchar">孙铭</span> 李芳来了！别教她看见我们在一块儿说话，这些日子，她老见神见鬼！<span class="block">（往医院里走）</span></p>
 <p class="l block">〔冯大夫慢慢的走入医院，老王从号房出来。</p>
-老王|冯大夫！你可回来了！
-冯光斗|<span class="block">（与老王握手）</span>老王！你还在这儿啊？身体好吗？
-老王|还好！冯大夫，自从一解放，医院可变了样儿啦！他们留下了我，算是没失业；可是，真够我老头子干的！从前，我是愿意干多少活就干多少活，没人管；现在，大家都说我翻了身，我知道我翻了腿！
-冯光斗|怎么翻了腿？
-老王|跑得我呀，腿肚子拧到前面来，还不是翻腿？
+<p class="xj"><span class="xchar">老王</span> 冯大夫！你可回来了！</p>
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（与老王握手）</span>老王！你还在这儿啊？身体好吗？</p>
+<p class="xj"><span class="xchar">老王</span> 还好！冯大夫，自从一解放，医院可变了样儿啦！他们留下了我，算是没失业；可是，真够我老头子干的！从前，我是愿意干多少活就干多少活，没人管；现在，大家都说我翻了身，我知道我翻了腿！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 怎么翻了腿？</p>
+<p class="xj"><span class="xchar">老王</span> 跑得我呀，腿肚子拧到前面来，还不是翻腿？</p>
 <p class="l block">〔李芳进来。</p>
-李芳|冯大夫，你干吗来啦？
-冯光斗|报到来了！
-李芳|凭你这么大的人物，就不休息几天吗？老王，你怎样？跟冯大夫发牢骚哪？
-老王|发牢骚？瞧着吧，有个雷等着我呢！
-李芳|什么雷？
-老王|张竹同志叫我去见她，还不是个雷。
-李芳|好，咱们一块儿去！她要是给你一个雷，我就还她一个霹雷！走，我早就想跟她开火！冯大夫，你也来看看热闹！
-冯光斗|那不合适吧？我刚刚回来，还摸不清你们的事。
-李芳|所以你得看看哪！
+<p class="xj"><span class="xchar">李芳</span> 冯大夫，你干吗来啦？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 报到来了！</p>
+<p class="xj"><span class="xchar">李芳</span> 凭你这么大的人物，就不休息几天吗？老王，你怎样？跟冯大夫发牢骚哪？</p>
+<p class="xj"><span class="xchar">老王</span> 发牢骚？瞧着吧，有个雷等着我呢！</p>
+<p class="xj"><span class="xchar">李芳</span> 什么雷？</p>
+<p class="xj"><span class="xchar">老王</span> 张竹同志叫我去见她，还不是个雷。</p>
+<p class="xj"><span class="xchar">李芳</span> 好，咱们一块儿去！她要是给你一个雷，我就还她一个霹雷！走，我早就想跟她开火！冯大夫，你也来看看热闹！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 那不合适吧？我刚刚回来，还摸不清你们的事。</p>
+<p class="xj"><span class="xchar">李芳</span> 所以你得看看哪！</p>
 <p class="l block">〔景变入张竹的办公室。张竹已在办公。</p>
 <p class="l block">〔冯，李，王三人进去。张与他们握手。</p>
-张竹|冯大夫，怎这么早啊？这一回来，可真是来了生力军！冯大夫，李芳同志，你们坐一坐，我先跟老王说一说。
+<p class="xj"><span class="xchar">张竹</span> 冯大夫，怎这么早啊？这一回来，可真是来了生力军！冯大夫，李芳同志，你们坐一坐，我先跟老王说一说。</p>
 <p class="l block">〔冯，李，坐下。老王不肯坐。</p>
-张竹|老王，你也坐下。<span class="block">（看王坐下）</span>老王，我问你一件事啊，昨天我交给你一封信，注得明明白白要五点以前送到，你怎么没有送到呢？
-老王|昨天的信件太多，送到五点钟，我就回家了。
+<p class="xj"><span class="xchar">张竹</span> 老王，你也坐下。<span class="block">（看王坐下）</span>老王，我问你一件事啊，昨天我交给你一封信，注得明明白白要五点以前送到，你怎么没有送到呢？</p>
+<p class="xj"><span class="xchar">老王</span> 昨天的信件太多，送到五点钟，我就回家了。</p>
 <p class="l block">〔冯大夫一边瞧着，一边看壁上的统计表：门诊部比解放前平均每月增加若干人，住院的增加若干人，药品节约百分数，等等。在张王对话中间，放大各表。</p>
-张竹|那样，不是耽误了事吗？老王！
-老王|现在我们穷人翻了身，该乍活就乍活，该歇会儿就歇会儿。是不是？同志！
-张竹|老王，你今年高寿啦？
-老王|整五十，身子骨还不错。同志，你要是看我老啦，不中用，别为难。我登三轮去，一样能挣钱，还许挣的多点呢！
-张竹|现在，谁能随便开除人呢？你没想对！我是说，你要是腿脚不好，可以调调工作。大家的事，大家商量着办，怎么合适怎么办。
-老王|明升暗降，好教我不好意思干下去？
-张竹|老王，你怎么啦？我们都是一家人，有困难大家想法儿解决，不斗心机！李芳，你说是不是？
+<p class="xj"><span class="xchar">张竹</span> 那样，不是耽误了事吗？老王！</p>
+<p class="xj"><span class="xchar">老王</span> 现在我们穷人翻了身，该乍活就乍活，该歇会儿就歇会儿。是不是？同志！</p>
+<p class="xj"><span class="xchar">张竹</span> 老王，你今年高寿啦？</p>
+<p class="xj"><span class="xchar">老王</span> 整五十，身子骨还不错。同志，你要是看我老啦，不中用，别为难。我登三轮去，一样能挣钱，还许挣的多点呢！</p>
+<p class="xj"><span class="xchar">张竹</span> 现在，谁能随便开除人呢？你没想对！我是说，你要是腿脚不好，可以调调工作。大家的事，大家商量着办，怎么合适怎么办。</p>
+<p class="xj"><span class="xchar">老王</span> 明升暗降，好教我不好意思干下去？</p>
+<p class="xj"><span class="xchar">张竹</span> 老王，你怎么啦？我们都是一家人，有困难大家想法儿解决，不斗心机！李芳，你说是不是？</p>
 <p class="l block">〔李芳没出声。</p>
-老王|都随你的便吧！
-张竹|不能随我的便，老王！医院不是我的，是人民的。我在这儿，不是为管制谁的，而是组织大家，团结大家的。你岁数大，是大家的老大哥，有许多事都仗着你指教我们呢！你有什么困难，说说吧，咱们都是爽快人！
-老王|<span class="block">（半天没说出话来）</span>
-张竹|要不然，你先想一想去，想好了再说。
-老王|<span class="block">（立起来，嘴唇轻颤，说不出话来）</span>
-张竹|李芳，你有什么事？
-李芳|<span class="block">（立起来）</span>我，我，我错了！
-张竹|怎回事？你作错了什么？怎么不先去报告给护士长呢？
-李芳|<span class="block">（含泪）</span>我，我的心错了！
-老王|张竹同志！张竹同志！
-张竹|说话呀！
-老王|<span class="block">（抽了自己一个嘴巴）</span>张同志，唉！从此以后我要再偷懒，耽误了送信，我不是人生父母养的！<span class="block">（极快的跑出去）</span>
-李芳|<span class="block">（向外指）</span>张同志，我跟他一样！<span class="block">（也往外跑）</span>
-张竹|李芳！回来！
-李芳|<span class="block">（已到屋门，站住，转身）</span>我爱争强好胜，只看我个人重要。没作上护士长，我就以为都是你闹的鬼！我错了，我的心眼没放正！我从此改了，再见！<span class="block">（跑去）</span>
-张竹|李芳是个热心肠的人！
-冯光斗|你也真有一套，我想不起合适的字眼来夸奖你！
-张竹|咱们去走一圈儿，到处看看吧？我有好些事要问你呢。
-冯光斗|<span class="block">（指壁上）</span>有这几张表，就差不多了！我今天就上班，日久天长，我会细细的看全医院。哼，我以为我出了国，器材药品都不容易买到，医院一定会弄得乱七八糟。可是，谁想到，你们会这么齐心努力，搞得这么好！
-张竹|中国人只要齐心干，天下就没有难事！
-冯光斗|张竹，算上我一个，我马上去干活！
-张竹|老冯，不光是干活呀，你可也得听大课，跟我们一块儿学习思想啊！
-冯光斗|只要听讲有好处。我就干。不过，我是个医生，好好的看病，是我的责任，向来不大管别的。
-张竹|你看见了那几张表？<span class="block">（冯点头）</span>它们的背面还有点东西呢！
-冯光斗|什么东西？
-张竹|思想！要是没有思想在后面，大家伙怎么会一条心的干呢？
-冯光斗|思想有这么大的好处？好！我跟着学习，今天就开始！
-张竹|老冯，你要真肯这么作呀，你不晓得要有多大的影响！第一个，我希望，你能把吴大夫带起来。他是好医生，可是他傲慢，冷淡，不肯学习。我不敢加紧去劝服他，他家里过得去，我生怕一加紧，他会甩手不干了！你是他的老朋友，你的技术，地位，比他高，你要肯下点工夫，必定能成功。你多分点心吧！
+<p class="xj"><span class="xchar">老王</span> 都随你的便吧！</p>
+<p class="xj"><span class="xchar">张竹</span> 不能随我的便，老王！医院不是我的，是人民的。我在这儿，不是为管制谁的，而是组织大家，团结大家的。你岁数大，是大家的老大哥，有许多事都仗着你指教我们呢！你有什么困难，说说吧，咱们都是爽快人！</p>
+<p class="xj"><span class="xchar">老王</span> <span class="block">（半天没说出话来）</span></p>
+<p class="xj"><span class="xchar">张竹</span> 要不然，你先想一想去，想好了再说。</p>
+<p class="xj"><span class="xchar">老王</span> <span class="block">（立起来，嘴唇轻颤，说不出话来）</span></p>
+<p class="xj"><span class="xchar">张竹</span> 李芳，你有什么事？</p>
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（立起来）</span>我，我，我错了！</p>
+<p class="xj"><span class="xchar">张竹</span> 怎回事？你作错了什么？怎么不先去报告给护士长呢？</p>
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（含泪）</span>我，我的心错了！</p>
+<p class="xj"><span class="xchar">老王</span> 张竹同志！张竹同志！</p>
+<p class="xj"><span class="xchar">张竹</span> 说话呀！</p>
+<p class="xj"><span class="xchar">老王</span> <span class="block">（抽了自己一个嘴巴）</span>张同志，唉！从此以后我要再偷懒，耽误了送信，我不是人生父母养的！<span class="block">（极快的跑出去）</span></p>
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（向外指）</span>张同志，我跟他一样！<span class="block">（也往外跑）</span></p>
+<p class="xj"><span class="xchar">张竹</span> 李芳！回来！</p>
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（已到屋门，站住，转身）</span>我爱争强好胜，只看我个人重要。没作上护士长，我就以为都是你闹的鬼！我错了，我的心眼没放正！我从此改了，再见！<span class="block">（跑去）</span></p>
+<p class="xj"><span class="xchar">张竹</span> 李芳是个热心肠的人！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 你也真有一套，我想不起合适的字眼来夸奖你！</p>
+<p class="xj"><span class="xchar">张竹</span> 咱们去走一圈儿，到处看看吧？我有好些事要问你呢。</p>
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（指壁上）</span>有这几张表，就差不多了！我今天就上班，日久天长，我会细细的看全医院。哼，我以为我出了国，器材药品都不容易买到，医院一定会弄得乱七八糟。可是，谁想到，你们会这么齐心努力，搞得这么好！</p>
+<p class="xj"><span class="xchar">张竹</span> 中国人只要齐心干，天下就没有难事！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 张竹，算上我一个，我马上去干活！</p>
+<p class="xj"><span class="xchar">张竹</span> 老冯，不光是干活呀，你可也得听大课，跟我们一块儿学习思想啊！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 只要听讲有好处。我就干。不过，我是个医生，好好的看病，是我的责任，向来不大管别的。</p>
+<p class="xj"><span class="xchar">张竹</span> 你看见了那几张表？<span class="block">（冯点头）</span>它们的背面还有点东西呢！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 什么东西？</p>
+<p class="xj"><span class="xchar">张竹</span> 思想！要是没有思想在后面，大家伙怎么会一条心的干呢？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 思想有这么大的好处？好！我跟着学习，今天就开始！</p>
+<p class="xj"><span class="xchar">张竹</span> 老冯，你要真肯这么作呀，你不晓得要有多大的影响！第一个，我希望，你能把吴大夫带起来。他是好医生，可是他傲慢，冷淡，不肯学习。我不敢加紧去劝服他，他家里过得去，我生怕一加紧，他会甩手不干了！你是他的老朋友，你的技术，地位，比他高，你要肯下点工夫，必定能成功。你多分点心吧！</p>
 
 <p class="l block">〔铃声，上大课。孙铭拉着李芳，亲热的一块走。张竹同冯光斗同来，小礼堂内，大家见冯光斗进来，热烈的鼓掌。吴大夫最后进来，冷淡的坐在最后。</p>
 <p class="l block">〔景隐。</p>
@@ -585,107 +585,107 @@
 
 
 
-第六段
+<h2 class="title2">第六段</h2>
 
 <p class="l block">〔一九五〇年春天，晚间。</p>
 <p class="l block">〔岳春江在灯下改卷子。另室，冯光斗在编讲义。</p>
 
-冯光斗|<span class="block">（拿着讲义稿子，来找她）</span>你给看看，大概白字又不少！忙得连查字典的工夫也没有！
-岳春江|在解放前，想忙还忙不上呢！
-冯光斗|要是给我三天假，我能一气睡三天三夜！
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（拿着讲义稿子，来找她）</span>你给看看，大概白字又不少！忙得连查字典的工夫也没有！</p>
+<p class="xj"><span class="xchar">岳春江</span> 在解放前，想忙还忙不上呢！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 要是给我三天假，我能一气睡三天三夜！</p>
 <p class="l block">〔门铃响。冯跑出去。</p>
 <p class="l block">〔李芳打着灯笼，立在门口。</p>
-李芳|冯大夫，吴大夫给开刀的那个病人起了变化，吴大夫上医院去了，看完了病人，跟丁今夫闹起来！你看看去吧！
-冯光斗|走！<span class="block">（向门内喊）</span>春江，我上医院，关上门来！
+<p class="xj"><span class="xchar">李芳</span> 冯大夫，吴大夫给开刀的那个病人起了变化，吴大夫上医院去了，看完了病人，跟丁今夫闹起来！你看看去吧！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 走！<span class="block">（向门内喊）</span>春江，我上医院，关上门来！</p>
 <p class="l block">〔二人疾走，渐渐只见灯光移动。</p>
 <p class="l block">〔景转入吴大夫办公室，吴独自坐在那里，仍有余怒。二人进去。</p>
-冯光斗|怎么啦？老吴！病人怎样了？
-吴惠全|病人不要紧！我就要开了丁今夫！
-李芳|吴大夫！已经跟他闹了一场，就别再生气了吧！
-吴惠全|不行！冯大夫，你是外科主任，你要是不管管丁今夫，我就辞职不干啦！
-冯光斗|老吴，那怎么行呢？外科没有你，还不得垮台？
-李芳|吴大夫，回家休息休息去吧！
-冯光斗|对了，先回去休息休息，明天再说。
-吴惠全|我非现在都说完了不可！丁今夫不过是个实习生，你看他那个神气，开口思想，闭口革命，好像他倒得作我的老师！今天，该他值日，病人起了变化，该他负责！
-冯光斗|你不去，病人要是出了危险呢？
-吴惠全|我准知道，你会去！你积极，而且怕丁今夫说你不努力！
-冯光斗|先别说废话，病人要紧！走！<span class="block">（扯吴疾走）</span>
+<p class="xj"><span class="xchar">冯光斗</span> 怎么啦？老吴！病人怎样了？</p>
+<p class="xj"><span class="xchar">吴惠全</span> 病人不要紧！我就要开了丁今夫！</p>
+<p class="xj"><span class="xchar">李芳</span> 吴大夫！已经跟他闹了一场，就别再生气了吧！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 不行！冯大夫，你是外科主任，你要是不管管丁今夫，我就辞职不干啦！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 老吴，那怎么行呢？外科没有你，还不得垮台？</p>
+<p class="xj"><span class="xchar">李芳</span> 吴大夫，回家休息休息去吧！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 对了，先回去休息休息，明天再说。</p>
+<p class="xj"><span class="xchar">吴惠全</span> 我非现在都说完了不可！丁今夫不过是个实习生，你看他那个神气，开口思想，闭口革命，好像他倒得作我的老师！今天，该他值日，病人起了变化，该他负责！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 你不去，病人要是出了危险呢？</p>
+<p class="xj"><span class="xchar">吴惠全</span> 我准知道，你会去！你积极，而且怕丁今夫说你不努力！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 先别说废话，病人要紧！走！<span class="block">（扯吴疾走）</span></p>
 <p class="l block">〔景隐。</p>
 <p class="l block">〔次晨。医院里，李芳与丁今夫相遇于走廊。</p>
-李芳|丁同志，你怎么办呢？你晓得冯大夫的脾气？
-丁今夫|跟他念过几年书，怎能不知道！我也早知道吴大夫专等我的破绽，好收拾收拾我！唉，我正申请入党；凭我的思想，勤苦，我相信可以被批准。可谁知道，会出了这个岔子。我昨天，不错眼珠的看着病人，看了三个钟头。他的情形很好，我才出去一会儿，参加一个小组会议；我有极要紧的一个提议，非亲自去不可。谁知道，就在这个时候，病人发生了变化！假若为这个错误，而影响到入党，我，我真冤枉！
-李芳|好在病人又好起来，没出大岔子。
-丁今夫|错误到底是错误，两位大夫不会饶了我！
-李芳|就去给吴大夫道歉去吧！
-丁今夫|去道歉，给他道歉，实在不大好受！不错，他是先生，我可以去低头见他。可是，他除了看病，什么也不努力。大家提倡省酒精，他花花的用，像用凉水似的。我一劝他，他就斜楞着眼说：我就是这么学来的！我应当批评他，检讨他，好，倒去给他道歉，我，我不能去！
-李芳|我陪你去，你道歉，是作了你该作的，他要还犯刺儿，我直言无隐的跟他开火，走。
+<p class="xj"><span class="xchar">李芳</span> 丁同志，你怎么办呢？你晓得冯大夫的脾气？</p>
+<p class="xj"><span class="xchar">丁今夫</span> 跟他念过几年书，怎能不知道！我也早知道吴大夫专等我的破绽，好收拾收拾我！唉，我正申请入党；凭我的思想，勤苦，我相信可以被批准。可谁知道，会出了这个岔子。我昨天，不错眼珠的看着病人，看了三个钟头。他的情形很好，我才出去一会儿，参加一个小组会议；我有极要紧的一个提议，非亲自去不可。谁知道，就在这个时候，病人发生了变化！假若为这个错误，而影响到入党，我，我真冤枉！</p>
+<p class="xj"><span class="xchar">李芳</span> 好在病人又好起来，没出大岔子。</p>
+<p class="xj"><span class="xchar">丁今夫</span> 错误到底是错误，两位大夫不会饶了我！</p>
+<p class="xj"><span class="xchar">李芳</span> 就去给吴大夫道歉去吧！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 去道歉，给他道歉，实在不大好受！不错，他是先生，我可以去低头见他。可是，他除了看病，什么也不努力。大家提倡省酒精，他花花的用，像用凉水似的。我一劝他，他就斜楞着眼说：我就是这么学来的！我应当批评他，检讨他，好，倒去给他道歉，我，我不能去！</p>
+<p class="xj"><span class="xchar">李芳</span> 我陪你去，你道歉，是作了你该作的，他要还犯刺儿，我直言无隐的跟他开火，走。</p>
 <p class="l block">〔老王跑了过来。</p>
-老王|丁同志，冯主任请，在小会议室里！李同志，也有你！<span class="block">（走开）</span>
-李芳|得！雷到了！
+<p class="xj"><span class="xchar">老王</span> 丁同志，冯主任请，在小会议室里！李同志，也有你！<span class="block">（走开）</span></p>
+<p class="xj"><span class="xchar">李芳</span> 得！雷到了！</p>
 <p class="l block">〔景变为小会议室，护士长与护士二三人，吴大夫，冯大夫，和实习生数人，有立有坐。丁李二人轻轻的进去。</p>
-冯光斗|请都坐下！今天下午有个大手术，我作，吴大夫帮助我。护士是李芳，徐贵仁，凌芬。实习生全体观摩。这个手术相当的难，李芳注意，有一把刀子摆错了地方，我会生气，影响到作手术！在北京，只有三两位医生会作这个手术，我是其中的一个。假若在座的有人能代替我，请立起来！
+<p class="xj"><span class="xchar">冯光斗</span> 请都坐下！今天下午有个大手术，我作，吴大夫帮助我。护士是李芳，徐贵仁，凌芬。实习生全体观摩。这个手术相当的难，李芳注意，有一把刀子摆错了地方，我会生气，影响到作手术！在北京，只有三两位医生会作这个手术，我是其中的一个。假若在座的有人能代替我，请立起来！</p>
 <p class="l block">〔众人相窥无语。</p>
-冯光斗|没人。好，丁今夫，站起来！
+<p class="xj"><span class="xchar">冯光斗</span> 没人。好，丁今夫，站起来！</p>
 <p class="l block">〔丁起立。</p>
-冯光斗|丁今夫，从前你就是个不十分用功的学生，一天到晚老忙别的事。昨天，你又犯了错误。你要知道，你是学医的，怎可以不先搞好技术，不重视业务呢？你以为你的思想好，思想好并不见得就成功为一个技术高的医生。你的思想好，今天这
+<p class="xj"><span class="xchar">冯光斗</span> 丁今夫，从前你就是个不十分用功的学生，一天到晚老忙别的事。昨天，你又犯了错误。你要知道，你是学医的，怎可以不先搞好技术，不重视业务呢？你以为你的思想好，思想好并不见得就成功为一个技术高的医生。你的思想好，今天这</p>
 个大手术，是你作，还是我作？说！
-丁今夫|我不能作，先生！
-冯光斗|你一来批评这个，二来检讨那个，特别是对吴大夫，你一点也不尊敬。吴大夫到底是个技术高的医生，他能帮助我作今天的大手术，你不能！吴大夫，你有什么要说的吗？
-吴惠全|<span class="block">（很满意冯的斥责丁今夫）</span>我没有话说。
-冯光斗|丁今夫，你呢。
+<p class="xj"><span class="xchar">丁今夫</span> 我不能作，先生！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 你一来批评这个，二来检讨那个，特别是对吴大夫，你一点也不尊敬。吴大夫到底是个技术高的医生，他能帮助我作今天的大手术，你不能！吴大夫，你有什么要说的吗？</p>
+<p class="xj"><span class="xchar">吴惠全</span> <span class="block">（很满意冯的斥责丁今夫）</span>我没有话说。</p>
+<p class="xj"><span class="xchar">冯光斗</span> 丁今夫，你呢。</p>
 <p class="l block">〔丁今夫看看这个，看看那个，不知如何是好。李芳拉了拉他的袖子。</p>
-丁今夫|先生，我承认我的错误，我给吴大夫道歉！我保证，以后不再犯这样的错误！
-冯光斗|吴大夫，你接受丁今夫的道歉？
-吴惠全|<span class="block">（欲语不语）</span>
-李芳|吴大夫，有话说吧！你应当接受丁今夫的道歉！他有错误，你也有！你为什么不听到病人起了变化，就马上来呢？
-吴惠全|<span class="block">（含怒）</span>李芳，在外面你我是朋友，在医院里，你是护士，我是大夫，记明白了！
-李芳|<span class="block">（也火了）</span>不管是朋友，是医生，我都应当批评你！
-吴惠全|<span class="block">（起立）</span>好！我退席！
-冯光斗|坐下，老吴！今天咱们要把话都说明白了！
-丁今夫|先生，我可以说几句话吗？
-冯光斗|可以！
-丁今夫|我已经承认了昨天的错误，可是我不能承认我批评人也是不对的。以吴大夫说，大家提倡节约，他就不那么作！
-吴惠全|我就是那么学来的！我不能为了节约，就不用酒精消毒，也不能把用过的棉花，从地上捡起来，再用一回。要打算一个钱不花，开医院干吗？
-孙铭|冯大夫，我提议这些问题应当开正式的会议讨论，大家现在还都有事。
-冯光斗|<span class="block">（没有了再好的办法）</span>好，我们再说。
+<p class="xj"><span class="xchar">丁今夫</span> 先生，我承认我的错误，我给吴大夫道歉！我保证，以后不再犯这样的错误！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 吴大夫，你接受丁今夫的道歉？</p>
+<p class="xj"><span class="xchar">吴惠全</span> <span class="block">（欲语不语）</span></p>
+<p class="xj"><span class="xchar">李芳</span> 吴大夫，有话说吧！你应当接受丁今夫的道歉！他有错误，你也有！你为什么不听到病人起了变化，就马上来呢？</p>
+<p class="xj"><span class="xchar">吴惠全</span> <span class="block">（含怒）</span>李芳，在外面你我是朋友，在医院里，你是护士，我是大夫，记明白了！</p>
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（也火了）</span>不管是朋友，是医生，我都应当批评你！</p>
+<p class="xj"><span class="xchar">吴惠全</span> <span class="block">（起立）</span>好！我退席！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 坐下，老吴！今天咱们要把话都说明白了！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 先生，我可以说几句话吗？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 可以！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 我已经承认了昨天的错误，可是我不能承认我批评人也是不对的。以吴大夫说，大家提倡节约，他就不那么作！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 我就是那么学来的！我不能为了节约，就不用酒精消毒，也不能把用过的棉花，从地上捡起来，再用一回。要打算一个钱不花，开医院干吗？</p>
+<p class="xj"><span class="xchar">孙铭</span> 冯大夫，我提议这些问题应当开正式的会议讨论，大家现在还都有事。</p>
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（没有了再好的办法）</span>好，我们再说。</p>
 <p class="l block">〔景隐。</p>
 <p class="l block">〔晚间。冯家。张竹、岳春江、冯光斗，在客厅里。</p>
-冯光斗|<span class="block">（来回的走）</span>我是怎么回事呢？今天早半天，差点儿下不来台！
-张竹|孙铭都学给我听了。
-岳春江|<span class="block">（笑着）</span>你的思想还是没搞通。
-冯光斗|大概是！我对丁今夫以前的不用功，和前天的错误是真生气。可是他的好批评人，搞政治，细一想，又不算错。对老吴，我知道他的思想比我还落后，可是我又真佩服他的技术。他的不大节约，不对；可是他说他是那么学来的，我又无词以对，我也是那么想呀！今天上午，我本来想去解决问题，哼，反倒弄不转了！你看糟不糟！
-岳春江|你事前根本应当跟张竹商量一下！你老是毛毛腾腾，沉不住气！张竹，你说说吧！
-张竹|我是这么看：丁今夫正申请入党，所以思想格外积极，这也是人之常情。至于他因贪功，而忽略了学习业务，是个错误，必须矫正。在这一点上，连我也有错误了，我因热心发展党团，没透彻的嘱咐他们注意学习业务。我在这儿认错儿！
-冯光斗|张竹，我跟着大家伙学习思想，我知道思想有用，可是我还想不通这么一点——你看，我从幼儿到现在，始终是个好人，那并不是党里教给我的呀！
-张竹|所以，你以为学一点思想就够了；丁今夫未免太过火了，是不是？
-冯光斗|你猜的差不多。
-张竹|这正是你吃了亏的地方，老冯！
-冯光斗|怎么？
-张竹|因为你从前没有思想教育，所以你只成了个好人，而没有成了个革命的人；只成了个好医生，而没成为一个革命的医生！
-冯光斗|一个革命的医生什么样儿呢？凭我的本事，由国外回来，不去自己开业，而到医院服务，还是真尽心的服务。我也学习思想，热心的拥护新政府，新办法。连丁今夫批评我，我都只在今天才跟他发了回脾气，这还不革命？
-岳春江|说真的，张竹，老冯能这样，确是不容易！
-张竹|实在不容易，不过，老冯，我只说一件事吧。就拿节约来说，你跟吴大夫都觉得该用多少酒精就用多少，该怎么办怎么办，你们是那么学来的。可是，那是你们学来的，并不是你创造出来的。一个革命的大夫，就会想尽方法创造，即使没有酒精，还能有办法消毒！如此类推，老冯你想想去吧！
-冯光斗|春江，你也得帮着我想！张竹的话的确有味儿！
-张竹|你要真有革命的热情，就连脾气都能改了！你信不信？
-冯光斗|能吗？
-张竹|能！你试试看！老冯，我托你感化吴大夫，到今天，还没有多少成效。因为你的热情还不够，思想还不深，所以他还没受感动。
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（来回的走）</span>我是怎么回事呢？今天早半天，差点儿下不来台！</p>
+<p class="xj"><span class="xchar">张竹</span> 孙铭都学给我听了。</p>
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（笑着）</span>你的思想还是没搞通。</p>
+<p class="xj"><span class="xchar">冯光斗</span> 大概是！我对丁今夫以前的不用功，和前天的错误是真生气。可是他的好批评人，搞政治，细一想，又不算错。对老吴，我知道他的思想比我还落后，可是我又真佩服他的技术。他的不大节约，不对；可是他说他是那么学来的，我又无词以对，我也是那么想呀！今天上午，我本来想去解决问题，哼，反倒弄不转了！你看糟不糟！</p>
+<p class="xj"><span class="xchar">岳春江</span> 你事前根本应当跟张竹商量一下！你老是毛毛腾腾，沉不住气！张竹，你说说吧！</p>
+<p class="xj"><span class="xchar">张竹</span> 我是这么看：丁今夫正申请入党，所以思想格外积极，这也是人之常情。至于他因贪功，而忽略了学习业务，是个错误，必须矫正。在这一点上，连我也有错误了，我因热心发展党团，没透彻的嘱咐他们注意学习业务。我在这儿认错儿！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 张竹，我跟着大家伙学习思想，我知道思想有用，可是我还想不通这么一点——你看，我从幼儿到现在，始终是个好人，那并不是党里教给我的呀！</p>
+<p class="xj"><span class="xchar">张竹</span> 所以，你以为学一点思想就够了；丁今夫未免太过火了，是不是？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 你猜的差不多。</p>
+<p class="xj"><span class="xchar">张竹</span> 这正是你吃了亏的地方，老冯！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 怎么？</p>
+<p class="xj"><span class="xchar">张竹</span> 因为你从前没有思想教育，所以你只成了个好人，而没有成了个革命的人；只成了个好医生，而没成为一个革命的医生！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 一个革命的医生什么样儿呢？凭我的本事，由国外回来，不去自己开业，而到医院服务，还是真尽心的服务。我也学习思想，热心的拥护新政府，新办法。连丁今夫批评我，我都只在今天才跟他发了回脾气，这还不革命？</p>
+<p class="xj"><span class="xchar">岳春江</span> 说真的，张竹，老冯能这样，确是不容易！</p>
+<p class="xj"><span class="xchar">张竹</span> 实在不容易，不过，老冯，我只说一件事吧。就拿节约来说，你跟吴大夫都觉得该用多少酒精就用多少，该怎么办怎么办，你们是那么学来的。可是，那是你们学来的，并不是你创造出来的。一个革命的大夫，就会想尽方法创造，即使没有酒精，还能有办法消毒！如此类推，老冯你想想去吧！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 春江，你也得帮着我想！张竹的话的确有味儿！</p>
+<p class="xj"><span class="xchar">张竹</span> 你要真有革命的热情，就连脾气都能改了！你信不信？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 能吗？</p>
+<p class="xj"><span class="xchar">张竹</span> 能！你试试看！老冯，我托你感化吴大夫，到今天，还没有多少成效。因为你的热情还不够，思想还不深，所以他还没受感动。</p>
 <p class="l block">〔丁今夫同吴大夫进来。大家彼此招呼。吴坐丁立。</p>
-岳春江|丁今夫，你坐下。
-丁今夫|我不坐，师母！<span class="block">（对冯）</span>先生，我刚刚到吴大夫那里去，又道了一次歉！吴大夫原谅了我！
-冯光斗|老吴，你有根！
-吴惠全|我不单接受了他的道歉，也接受了他的批评！
-冯光斗|什么？什么？
+<p class="xj"><span class="xchar">岳春江</span> 丁今夫，你坐下。</p>
+<p class="xj"><span class="xchar">丁今夫</span> 我不坐，师母！<span class="block">（对冯）</span>先生，我刚刚到吴大夫那里去，又道了一次歉！吴大夫原谅了我！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 老吴，你有根！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 我不单接受了他的道歉，也接受了他的批评！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 什么？什么？</p>
 <p class="l block">〔岳春江过去和吴握手。</p>
-岳春江|这就对了！你的手要握别人的手，你的思想要容纳别人的思想！
-吴惠全|丁今夫，还是你说吧。
-丁今夫|我又道了歉，可是我也又说明白了我们为什么要批评，为什么要节约等等。我觉得，只道了歉，不过是面子事。我必须证明，我是申请入党的人，必须教吴大夫明白了我的心！明白我的思想！
-张竹|丁今夫，你作的对！
-丁今夫|我预备好，就是给吴大夫磕头，我也肯，只要能把他说服了！
-吴惠全|张竹同志！丁今夫告诉我的，正是你常告诉我的；可是，因为你是支书，我故意的把你的话当作耳旁风，好表示我有身份！冯大哥，你没短劝我，可是我一提到技术，你就也随着我说了，以为咱俩是北京数一数二的名医，思想没有太大的关系。今天丁今夫这么一来，我恨不得哭一大场！这几个月，我心里并不是不痛苦，可是我故意的摆出满不在乎的样子，我不肯低头承认自己的过错。今天，他，他是个学生，倒肯该低头就低头，该争论照样争论，我，我，我说不下去了！……张竹同志，我要慢慢的赶，赶上冯大哥就不错了！
-冯光斗|旁观者清，闹了半天，我并不怎么高明！
+<p class="xj"><span class="xchar">岳春江</span> 这就对了！你的手要握别人的手，你的思想要容纳别人的思想！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 丁今夫，还是你说吧。</p>
+<p class="xj"><span class="xchar">丁今夫</span> 我又道了歉，可是我也又说明白了我们为什么要批评，为什么要节约等等。我觉得，只道了歉，不过是面子事。我必须证明，我是申请入党的人，必须教吴大夫明白了我的心！明白我的思想！</p>
+<p class="xj"><span class="xchar">张竹</span> 丁今夫，你作的对！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 我预备好，就是给吴大夫磕头，我也肯，只要能把他说服了！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 张竹同志！丁今夫告诉我的，正是你常告诉我的；可是，因为你是支书，我故意的把你的话当作耳旁风，好表示我有身份！冯大哥，你没短劝我，可是我一提到技术，你就也随着我说了，以为咱俩是北京数一数二的名医，思想没有太大的关系。今天丁今夫这么一来，我恨不得哭一大场！这几个月，我心里并不是不痛苦，可是我故意的摆出满不在乎的样子，我不肯低头承认自己的过错。今天，他，他是个学生，倒肯该低头就低头，该争论照样争论，我，我，我说不下去了！……张竹同志，我要慢慢的赶，赶上冯大哥就不错了！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 旁观者清，闹了半天，我并不怎么高明！</p>
 <p class="l block">〔众笑。</p>
-丁今夫|先生，我走啦。
-冯光斗|丁今夫，记住，你的业务要搞不好，我还跟你开火！
+<p class="xj"><span class="xchar">丁今夫</span> 先生，我走啦。</p>
+<p class="xj"><span class="xchar">冯光斗</span> 丁今夫，记住，你的业务要搞不好，我还跟你开火！</p>
 <p class="l block">〔景隐。</p>
 
 
@@ -694,152 +694,152 @@
 
 
 
-第七段
+<h2 class="title2">第七段</h2>
 
 <p class="l block">〔抗美援朝运动中。秋天，赵妈在院中洗衣服，大明在一旁玩耍。一边玩，她一边跟赵妈说话儿。</p>
 
-冯大明|赵妈，你作了慰劳袋没有啊？
-赵妈|什么慰劳袋啊？
-冯大明|作个口袋，里面装上东西，给志愿军送去。
-赵妈|就是这几天，你妈作的那些呀？我没有东西可送啊！
-冯大明|待会儿呀，等爸爸回来，咱们俩一人跟他要五千块钱，教给妈妈作慰劳袋，好不好？
-赵妈|大明，你可千万别告诉别人哪，我偷偷的跟你说。当初啊，日本人在这儿的时候，那些高丽棒子可闹的凶！他们卖白面儿，开赌局，抢东西，无恶不作。今天，也不是怎么一回事，我们又帮助高丽棒子打美国鬼子啦，我心里简直绕不过花儿来！
-冯大明|你等我想想啊！<span class="block">（作沉思状）</span>嗯，我想明白了，你呀，瞎说八道！
-赵妈|怎么着，凭你个小丫头片子，敢说我瞎说八道？你忘了，我差不多就是你们家的人哪！
-冯大明|你不是，你不是！你说高丽人不好，你不是！
-赵妈|<span class="block">（这伤了她的心）</span>好哇，我在这儿这么多年，大成大玉跟你，都是我抱大了的！你<span class="block">（提襟拭泪）</span>你，我没儿没女的，好，待会儿我就走，不干啦！
-冯大明|爱干不干，瞎扯臊！我就不许你说高丽人不好！
-赵妈|好！<span class="block">（立起来）</span>我马上就走！
-冯大明|<span class="block">（过去，抱着她的腿）</span>不唧，不唧！赵妈你不走！
+<p class="xj"><span class="xchar">冯大明</span> 赵妈，你作了慰劳袋没有啊？</p>
+<p class="xj"><span class="xchar">赵妈</span> 什么慰劳袋啊？</p>
+<p class="xj"><span class="xchar">冯大明</span> 作个口袋，里面装上东西，给志愿军送去。</p>
+<p class="xj"><span class="xchar">赵妈</span> 就是这几天，你妈作的那些呀？我没有东西可送啊！</p>
+<p class="xj"><span class="xchar">冯大明</span> 待会儿呀，等爸爸回来，咱们俩一人跟他要五千块钱，教给妈妈作慰劳袋，好不好？</p>
+<p class="xj"><span class="xchar">赵妈</span> 大明，你可千万别告诉别人哪，我偷偷的跟你说。当初啊，日本人在这儿的时候，那些高丽棒子可闹的凶！他们卖白面儿，开赌局，抢东西，无恶不作。今天，也不是怎么一回事，我们又帮助高丽棒子打美国鬼子啦，我心里简直绕不过花儿来！</p>
+<p class="xj"><span class="xchar">冯大明</span> 你等我想想啊！<span class="block">（作沉思状）</span>嗯，我想明白了，你呀，瞎说八道！</p>
+<p class="xj"><span class="xchar">赵妈</span> 怎么着，凭你个小丫头片子，敢说我瞎说八道？你忘了，我差不多就是你们家的人哪！</p>
+<p class="xj"><span class="xchar">冯大明</span> 你不是，你不是！你说高丽人不好，你不是！</p>
+<p class="xj"><span class="xchar">赵妈</span> <span class="block">（这伤了她的心）</span>好哇，我在这儿这么多年，大成大玉跟你，都是我抱大了的！你<span class="block">（提襟拭泪）</span>你，我没儿没女的，好，待会儿我就走，不干啦！</p>
+<p class="xj"><span class="xchar">冯大明</span> 爱干不干，瞎扯臊！我就不许你说高丽人不好！</p>
+<p class="xj"><span class="xchar">赵妈</span> 好！<span class="block">（立起来）</span>我马上就走！</p>
+<p class="xj"><span class="xchar">冯大明</span> <span class="block">（过去，抱着她的腿）</span>不唧，不唧！赵妈你不走！</p>
 <p class="l block">〔冯大成自外边进来。</p>
-冯大成|你们干什么呢？哟，赵妈你怎么哭啦？
-赵妈|我说了句高丽棒子不好，小妞子就轰我走！
-冯大明|我没有！没有！闹着玩哪！
-冯大成|赵妈，我明白这回事，先生们都讲过了：高丽棒子是那些给日本人作狗腿子的，不好。咱们现在帮助的是朝鲜的好百姓！你看，咱们的志愿军能够那么胡涂，去帮助坏人吗？
-赵妈|𫪘，这我可就明白了！<span class="block">（擦手，掏钱）</span>得啦，小妞子，拿这一千块钱，作，作，什么来着？
-冯大成|慰劳袋。
-冯大明|赵妈，我永远不再说，你瞎说八道了！赶明儿个儿结婚，我还请你帮忙呢！
-赵妈|我呀，伺候不着！大成，你干什么回来啦？
-冯大成|赵妈，老太太，你摸摸<span class="block">（伸臂）</span>棒不棒？
-赵妈|怎么老是这一套呀，都贫了！
-冯大成|你不知道，老太太，你要说我棒，我就求你点事！行吧？
-赵妈|什么事呢？
-冯大成|我要去报名参军！
-赵妈|报名干什么去？
-冯大成|参军！参军！
-赵妈|当兵去？你呀，老老实实的呆着吧！
-冯大成|赵妈，赵妈，老太太，我不敢跟妈妈说，你给我问问，行不行？
-赵妈|我不能！那不是得教你妈说我胡涂吗？这么娇生惯养的孩子，上阵打仗去，没有影儿的事！
-冯大成|不是打仗去，是学习打仗。学陆军啊，海军啊，空军啊，我学海军！
-赵妈|更不像话了，那玩艺，要掉在海里，连泡儿都不冒就完啦！
-冯大成|得了，老太太，你给我说说！你不给我说，我就偷偷的报上名，妈妈要是闹气，可跟你闹！
-赵妈|整个儿是个大傻子！好，我去给你说，你妈不答应，可别怨我！
-冯大成|你说，妈妈一定答应！
-赵妈|我怎那么灵呢？
-冯大成|赵老太太，这里就数你岁数大，你一张嘴，妈妈不好驳回！
-赵妈|哼，倒怪有个心眼呢！
-冯大成|得，我走啦，小妹，来摸摸，棒不棒？双手抱住桅杆，噌，噌，几下子，上去了，海军！<span class="block">（匆匆走去）</span>
-赵妈|唉，年月是改了，孩子们都长了心胸！
+<p class="xj"><span class="xchar">冯大成</span> 你们干什么呢？哟，赵妈你怎么哭啦？</p>
+<p class="xj"><span class="xchar">赵妈</span> 我说了句高丽棒子不好，小妞子就轰我走！</p>
+<p class="xj"><span class="xchar">冯大明</span> 我没有！没有！闹着玩哪！</p>
+<p class="xj"><span class="xchar">冯大成</span> 赵妈，我明白这回事，先生们都讲过了：高丽棒子是那些给日本人作狗腿子的，不好。咱们现在帮助的是朝鲜的好百姓！你看，咱们的志愿军能够那么胡涂，去帮助坏人吗？</p>
+<p class="xj"><span class="xchar">赵妈</span> 𫪘，这我可就明白了！<span class="block">（擦手，掏钱）</span>得啦，小妞子，拿这一千块钱，作，作，什么来着？</p>
+<p class="xj"><span class="xchar">冯大成</span> 慰劳袋。</p>
+<p class="xj"><span class="xchar">冯大明</span> 赵妈，我永远不再说，你瞎说八道了！赶明儿个儿结婚，我还请你帮忙呢！</p>
+<p class="xj"><span class="xchar">赵妈</span> 我呀，伺候不着！大成，你干什么回来啦？</p>
+<p class="xj"><span class="xchar">冯大成</span> 赵妈，老太太，你摸摸<span class="block">（伸臂）</span>棒不棒？</p>
+<p class="xj"><span class="xchar">赵妈</span> 怎么老是这一套呀，都贫了！</p>
+<p class="xj"><span class="xchar">冯大成</span> 你不知道，老太太，你要说我棒，我就求你点事！行吧？</p>
+<p class="xj"><span class="xchar">赵妈</span> 什么事呢？</p>
+<p class="xj"><span class="xchar">冯大成</span> 我要去报名参军！</p>
+<p class="xj"><span class="xchar">赵妈</span> 报名干什么去？</p>
+<p class="xj"><span class="xchar">冯大成</span> 参军！参军！</p>
+<p class="xj"><span class="xchar">赵妈</span> 当兵去？你呀，老老实实的呆着吧！</p>
+<p class="xj"><span class="xchar">冯大成</span> 赵妈，赵妈，老太太，我不敢跟妈妈说，你给我问问，行不行？</p>
+<p class="xj"><span class="xchar">赵妈</span> 我不能！那不是得教你妈说我胡涂吗？这么娇生惯养的孩子，上阵打仗去，没有影儿的事！</p>
+<p class="xj"><span class="xchar">冯大成</span> 不是打仗去，是学习打仗。学陆军啊，海军啊，空军啊，我学海军！</p>
+<p class="xj"><span class="xchar">赵妈</span> 更不像话了，那玩艺，要掉在海里，连泡儿都不冒就完啦！</p>
+<p class="xj"><span class="xchar">冯大成</span> 得了，老太太，你给我说说！你不给我说，我就偷偷的报上名，妈妈要是闹气，可跟你闹！</p>
+<p class="xj"><span class="xchar">赵妈</span> 整个儿是个大傻子！好，我去给你说，你妈不答应，可别怨我！</p>
+<p class="xj"><span class="xchar">冯大成</span> 你说，妈妈一定答应！</p>
+<p class="xj"><span class="xchar">赵妈</span> 我怎那么灵呢？</p>
+<p class="xj"><span class="xchar">冯大成</span> 赵老太太，这里就数你岁数大，你一张嘴，妈妈不好驳回！</p>
+<p class="xj"><span class="xchar">赵妈</span> 哼，倒怪有个心眼呢！</p>
+<p class="xj"><span class="xchar">冯大成</span> 得，我走啦，小妹，来摸摸，棒不棒？双手抱住桅杆，噌，噌，几下子，上去了，海军！<span class="block">（匆匆走去）</span></p>
+<p class="xj"><span class="xchar">赵妈</span> 唉，年月是改了，孩子们都长了心胸！</p>
 <p class="l block">〔景移至新时学校。学生们都忙着作抗美援朝的工作，有的一群在练习快板，有的一群研究怎样对民众宣传，有的正编写标语……。郭志贞与岳春江商谈。</p>
-岳春江|学生们可真好，多么热心哪！
-郭志贞|先生们可差点事！有的嘴里不说，心里可觉得去打美国鬼子有点太鲁莽。有的当初受过美国教会的教育，一时转不过弯儿来，不肯积极。有的以为学生们应当多念书，少往街上跑。老师，你得带着头儿干！你既不在党里，又受过教会学校的教育，你说话不会招大家疑心。
-岳春江|好，就那么办！这，我可真有点用处了！你看着，学生们游行，我跟着！学生们搞控诉大会，我发言！
+<p class="xj"><span class="xchar">岳春江</span> 学生们可真好，多么热心哪！</p>
+<p class="xj"><span class="xchar">郭志贞</span> 先生们可差点事！有的嘴里不说，心里可觉得去打美国鬼子有点太鲁莽。有的当初受过美国教会的教育，一时转不过弯儿来，不肯积极。有的以为学生们应当多念书，少往街上跑。老师，你得带着头儿干！你既不在党里，又受过教会学校的教育，你说话不会招大家疑心。</p>
+<p class="xj"><span class="xchar">岳春江</span> 好，就那么办！这，我可真有点用处了！你看着，学生们游行，我跟着！学生们搞控诉大会，我发言！</p>
 <p class="l block">〔岳春江高兴的往各处跑，帮着学生修改快板，编写标语……。控诉会上，她首先发言。</p>
-岳春江|<span class="block">（见教员们都不说话，她立起来，掌声雷动）</span>我当初受过教会学校的教育，我现在来控诉。那时候，我们的校长，一个美国老太太，每天要检查我们，看我们擦了口红没有，袜子缝直不直，坐着要拉好衣襟，鼻子上老得扑粉，不准发红……这就是教育，她和那些美国教员不喜欢我们中国话。她们天天告诉我们，慢慢的我们自己也承认了，美国的一切都比中国好，中国人是低等民族……。这种教育使我不敢挺起腰板作人，使我自卑，苟安！我们今天一定不要怕美国，真理不是枪炮所能打碎的！<span class="block">（掌声）</span>……
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（见教员们都不说话，她立起来，掌声雷动）</span>我当初受过教会学校的教育，我现在来控诉。那时候，我们的校长，一个美国老太太，每天要检查我们，看我们擦了口红没有，袜子缝直不直，坐着要拉好衣襟，鼻子上老得扑粉，不准发红……这就是教育，她和那些美国教员不喜欢我们中国话。她们天天告诉我们，慢慢的我们自己也承认了，美国的一切都比中国好，中国人是低等民族……。这种教育使我不敢挺起腰板作人，使我自卑，苟安！我们今天一定不要怕美国，真理不是枪炮所能打碎的！<span class="block">（掌声）</span>……</p>
 <p class="l block">〔岳春江下台，别的先生上去。会场情绪渐渐热烈。会后，岳由学校出来，大玉在门口等着她呢。</p>
-岳春江|哟，大玉，你在这儿干什么呢？
-冯大玉|妈，难道你没有看见吗？
-岳春江|<span class="block">（看见了大玉的红领巾）</span>𫪘，你入了少先队！
-冯大玉|啊！妈！妈！我简直的没法说出我怎么高兴！你快回家吧，小妹把眼睛都哭红啦！
-岳春江|为什么呢？
-冯大玉|我有红领巾，她没有啊！<span class="block">（说完就跑）</span>
-岳春江|你上哪儿去？大玉！
-冯大玉|我找爸爸去，教他看看！
-岳春江|他忙，不要跟他捣乱去！
-冯大玉|我入了少先队，爸爸要是不高兴，还算爸爸吗？<span class="block">（飞跑而去）</span>
+<p class="xj"><span class="xchar">岳春江</span> 哟，大玉，你在这儿干什么呢？</p>
+<p class="xj"><span class="xchar">冯大玉</span> 妈，难道你没有看见吗？</p>
+<p class="xj"><span class="xchar">岳春江</span> <span class="block">（看见了大玉的红领巾）</span>𫪘，你入了少先队！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 啊！妈！妈！我简直的没法说出我怎么高兴！你快回家吧，小妹把眼睛都哭红啦！</p>
+<p class="xj"><span class="xchar">岳春江</span> 为什么呢？</p>
+<p class="xj"><span class="xchar">冯大玉</span> 我有红领巾，她没有啊！<span class="block">（说完就跑）</span></p>
+<p class="xj"><span class="xchar">岳春江</span> 你上哪儿去？大玉！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 我找爸爸去，教他看看！</p>
+<p class="xj"><span class="xchar">岳春江</span> 他忙，不要跟他捣乱去！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 我入了少先队，爸爸要是不高兴，还算爸爸吗？<span class="block">（飞跑而去）</span></p>
 <p class="l block">〔两日后，各学校分队到街上游行，作宣传，下了一阵大雨，队伍仍不散。傍晚，赵妈在家中忙着烧水。大明跟着她乱转。</p>
-赵妈|小妞子，就别老跟着我，裹乱我啦！待会儿你瞧吧，要不一个个的淋成水鸡子才怪！下这么大的雨！
-冯大明|赵妈，我怎么老不长身量啊？我什么时候才能游行去呀？赵妈，你身量这么高，怎么老不游行去啊？
-赵妈|就别问我啦，我得忙着给他们烧水，做饭！
+<p class="xj"><span class="xchar">赵妈</span> 小妞子，就别老跟着我，裹乱我啦！待会儿你瞧吧，要不一个个的淋成水鸡子才怪！下这么大的雨！</p>
+<p class="xj"><span class="xchar">冯大明</span> 赵妈，我怎么老不长身量啊？我什么时候才能游行去呀？赵妈，你身量这么高，怎么老不游行去啊？</p>
+<p class="xj"><span class="xchar">赵妈</span> 就别问我啦，我得忙着给他们烧水，做饭！</p>
 <p class="l block">〔冯大成狂笑着跑进来。他的新蓝制服已淋得裹在身上。</p>
-冯大明|哥，你回来啦，看你的新制服哟！
+<p class="xj"><span class="xchar">冯大明</span> 哥，你回来啦，看你的新制服哟！</p>
 <p class="l block">〔大成仍傻笑。</p>
-赵妈|大成！崭崭新的制服啊，淋成这个样！看，连你的牙全蓝了哟！<span class="block">（扯他）</span>快去洗澡，我给你弄姜糖水去！要不病一场，就是万幸！
-冯大成|有什么吃的，我先吃一口！
-赵妈|先洗去，这样会着凉生病！<span class="block">（把他扯走）</span>
+<p class="xj"><span class="xchar">赵妈</span> 大成！崭崭新的制服啊，淋成这个样！看，连你的牙全蓝了哟！<span class="block">（扯他）</span>快去洗澡，我给你弄姜糖水去！要不病一场，就是万幸！</p>
+<p class="xj"><span class="xchar">冯大成</span> 有什么吃的，我先吃一口！</p>
+<p class="xj"><span class="xchar">赵妈</span> 先洗去，这样会着凉生病！<span class="block">（把他扯走）</span></p>
 <p class="l block">〔冯大玉跑进来，新白汗衫已被红领巾染红。</p>
-冯大玉|大明，你看好不好，白衣裳红道道！
-赵妈|<span class="block">（跑回来）</span>呵！又是一个水鸡子，快上厨房洗去，哥哥占着澡盆呢！
-冯大玉|赵妈，你是没去呀，太有劲啦！
-赵妈|快走！<span class="block">（把她扯走）</span>
+<p class="xj"><span class="xchar">冯大玉</span> 大明，你看好不好，白衣裳红道道！</p>
+<p class="xj"><span class="xchar">赵妈</span> <span class="block">（跑回来）</span>呵！又是一个水鸡子，快上厨房洗去，哥哥占着澡盆呢！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 赵妈，你是没去呀，太有劲啦！</p>
+<p class="xj"><span class="xchar">赵妈</span> 快走！<span class="block">（把她扯走）</span></p>
 <p class="l block">〔大明跑到院中，立在水坑里，把鞋故意弄湿。冯光斗从外边进来，他未去游行，所以身上不湿。</p>
-冯光斗|小妞子，你干什么哪？
-冯大明|<span class="block">（紧踩两下水）</span>哥哥，姐姐，都去游行，身上全湿了，我也得那样！<span class="block">（过来，拉住爸）</span>爸，你好丢人哟，没去游行！你的鞋比我的还干松哟！
-冯光斗|爸不是不愿意去，是医院有事呀！赵妈，给这位小姐换鞋！
-赵妈|<span class="block">（跑来）</span>真是的，小姑奶奶，我越忙，你越给我添乱！快来！
+<p class="xj"><span class="xchar">冯光斗</span> 小妞子，你干什么哪？</p>
+<p class="xj"><span class="xchar">冯大明</span> <span class="block">（紧踩两下水）</span>哥哥，姐姐，都去游行，身上全湿了，我也得那样！<span class="block">（过来，拉住爸）</span>爸，你好丢人哟，没去游行！你的鞋比我的还干松哟！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 爸不是不愿意去，是医院有事呀！赵妈，给这位小姐换鞋！</p>
+<p class="xj"><span class="xchar">赵妈</span> <span class="block">（跑来）</span>真是的，小姑奶奶，我越忙，你越给我添乱！快来！</p>
 <p class="l block">〔岳春江自外边进来，也浑身精湿。</p>
-赵妈|呵，又来了一位水里捞出来的！
-冯大明|妈，咱们的鞋都是湿的哟，爸爸的不湿哟！
-岳春江|你没去呀？老冯！
-冯光斗|<span class="block">（怪不得劲的）</span>医院里忙，我又得编点讲义！
-赵妈|两大个的都回来了，都洗澡呢。还倒有个心眼，知道回家来洗洗换换，要不然非闹病不可！<span class="block">（喊）</span>大成，快着呀，洗完好让妈妈洗！
-岳春江|𫪘，我还得回学校，告诉学生们换衣裳，洗脚，沏点姜水喝！<span class="block">（要走）</span>
-冯光斗|等等，我替你去！
-岳春江|还是我亲自去，我要不亲眼看见他们烧了水，喝了姜糖水，我不放心！
-冯光斗|我就不会那么办吗？况且我是大夫，他们更得听我的话！<span class="block">（匆匆走出去）</span>
+<p class="xj"><span class="xchar">赵妈</span> 呵，又来了一位水里捞出来的！</p>
+<p class="xj"><span class="xchar">冯大明</span> 妈，咱们的鞋都是湿的哟，爸爸的不湿哟！</p>
+<p class="xj"><span class="xchar">岳春江</span> 你没去呀？老冯！</p>
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（怪不得劲的）</span>医院里忙，我又得编点讲义！</p>
+<p class="xj"><span class="xchar">赵妈</span> 两大个的都回来了，都洗澡呢。还倒有个心眼，知道回家来洗洗换换，要不然非闹病不可！<span class="block">（喊）</span>大成，快着呀，洗完好让妈妈洗！</p>
+<p class="xj"><span class="xchar">岳春江</span> 𫪘，我还得回学校，告诉学生们换衣裳，洗脚，沏点姜水喝！<span class="block">（要走）</span></p>
+<p class="xj"><span class="xchar">冯光斗</span> 等等，我替你去！</p>
+<p class="xj"><span class="xchar">岳春江</span> 还是我亲自去，我要不亲眼看见他们烧了水，喝了姜糖水，我不放心！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 我就不会那么办吗？况且我是大夫，他们更得听我的话！<span class="block">（匆匆走出去）</span></p>
 <p class="l block">〔景隐。</p>
 <p class="l block">〔过了些日子。岳春江和大成在屋里，岳坐，大成立。</p>
 <p class="l block">〔大成流着泪。</p>
-岳春江|别哭啊，大成！经过检查，你身体不合格，那有什么办法呢？
-冯大成|我老让人家摸我的胳膊棒不棒，临完，我不棒！
-岳春江|反正你没不练身体，没不爱国，还委屈什么呢？你不是有希望作团员吗？好啦，努力，一定要作上团员！好好干才是男子汉，哭多么丢人！
+<p class="xj"><span class="xchar">岳春江</span> 别哭啊，大成！经过检查，你身体不合格，那有什么办法呢？</p>
+<p class="xj"><span class="xchar">冯大成</span> 我老让人家摸我的胳膊棒不棒，临完，我不棒！</p>
+<p class="xj"><span class="xchar">岳春江</span> 反正你没不练身体，没不爱国，还委屈什么呢？你不是有希望作团员吗？好啦，努力，一定要作上团员！好好干才是男子汉，哭多么丢人！</p>
 <p class="l block">〔李芳喜形于色的进来。</p>
-李芳|冯太太，嗨，大傻子，摸摸<span class="block">（伸臂）</span>棒不棒？
-岳春江|就别逗他了，他刚刚哭完。报名参军，身体不及格。
-李芳|这年月，女人一点不比你们软弱！冯太太，我报了名，参加医疗队！
-岳春江|真的！李芳，你真给女人们争气！
-冯大成|李姨儿，你太棒了！
-李芳|冯太太，我要是真能去，你可得多照应着点我的妈妈！
-岳春江|那没错儿！
-冯大成|放心吧，李姨儿，都有我们呢！
+<p class="xj"><span class="xchar">李芳</span> 冯太太，嗨，大傻子，摸摸<span class="block">（伸臂）</span>棒不棒？</p>
+<p class="xj"><span class="xchar">岳春江</span> 就别逗他了，他刚刚哭完。报名参军，身体不及格。</p>
+<p class="xj"><span class="xchar">李芳</span> 这年月，女人一点不比你们软弱！冯太太，我报了名，参加医疗队！</p>
+<p class="xj"><span class="xchar">岳春江</span> 真的！李芳，你真给女人们争气！</p>
+<p class="xj"><span class="xchar">冯大成</span> 李姨儿，你太棒了！</p>
+<p class="xj"><span class="xchar">李芳</span> 冯太太，我要是真能去，你可得多照应着点我的妈妈！</p>
+<p class="xj"><span class="xchar">岳春江</span> 那没错儿！</p>
+<p class="xj"><span class="xchar">冯大成</span> 放心吧，李姨儿，都有我们呢！</p>
 <p class="l block">〔大玉背着妹妹，冯大夫在后面跟着，进来。</p>
-李芳|你们上哪儿啦？
-冯大玉|爸爸上我们学校讲话，小妹非跟着不可，还教我给背回来，这个小妹！<span class="block">（放下妹妹）</span>
-冯大明|爸爸讲的一点也不好，人家不鼓掌！
-冯大玉|爸爸光说大家应该爱国，可不说反抗美帝，没劲！
-冯大成|爸，我身体不及格，吹啦！爸，咱们家总得有个人出去啊！看，李姨儿都报了名，参加医疗队。
-冯光斗|用不着你们乱叨唠，要讲去服务，还是咱！
-冯大玉|那么你怎么还不报名去呀？让李姨儿抢了先，多丢人哪！
-冯光斗|明天我就报名去！你们爱国，我比你们更爱国！
-李芳|冯大夫，明天真去报名？
-冯光斗|我什么时候说过假话？
-冯大玉|<span class="block">（从花瓶中折了一朵红花）</span>来呀，给爸爸戴红花！
+<p class="xj"><span class="xchar">李芳</span> 你们上哪儿啦？</p>
+<p class="xj"><span class="xchar">冯大玉</span> 爸爸上我们学校讲话，小妹非跟着不可，还教我给背回来，这个小妹！<span class="block">（放下妹妹）</span></p>
+<p class="xj"><span class="xchar">冯大明</span> 爸爸讲的一点也不好，人家不鼓掌！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 爸爸光说大家应该爱国，可不说反抗美帝，没劲！</p>
+<p class="xj"><span class="xchar">冯大成</span> 爸，我身体不及格，吹啦！爸，咱们家总得有个人出去啊！看，李姨儿都报了名，参加医疗队。</p>
+<p class="xj"><span class="xchar">冯光斗</span> 用不着你们乱叨唠，要讲去服务，还是咱！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 那么你怎么还不报名去呀？让李姨儿抢了先，多丢人哪！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 明天我就报名去！你们爱国，我比你们更爱国！</p>
+<p class="xj"><span class="xchar">李芳</span> 冯大夫，明天真去报名？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 我什么时候说过假话？</p>
+<p class="xj"><span class="xchar">冯大玉</span> <span class="block">（从花瓶中折了一朵红花）</span>来呀，给爸爸戴红花！</p>
 <p class="l block">〔大玉把花插在爸的胸前，三个孩子围着他跳跃，欢呼。</p>
-冯光斗|可是，我有点顾虑。
-岳春江|家里的事都有我呢！
-冯光斗|那个我知道。
-李芳|怕医院受损失？
-冯光斗|也不是！
-冯大玉|怕前方危险？
-冯光斗|更不是！为爱国，我死也不怕。我怕只怕，美国的科学发达，机械好，钢铁多，我们打不过他！
-小孩们|美帝是个纸老虎，我们必能打垮他！
-冯光斗|不要吵啊，我们在这儿说正经话呢！
-岳春江|不管怎样，美国既打到咱们的大门口来，我们就得跟它干！
-冯光斗|我知道那个，我到过外国，我怕咱们吃了亏！
-李芳|敢拼命的就不考虑吃亏不吃亏！
-冯光斗|李芳，我至少也跟你一样勇敢。我顾虑的是国家大事，不是个人的利害。
-李芳|可是，你那么一想，不就泄了气吗？
-岳春江|老冯，想想吧！当解放军差不多是赤手空拳，可是能打败了日本的精兵，和消灭美国装备的国民党军队！认识了这个事实，我们还怕什么呢？
-冯光斗|好，明天我去报名！
+<p class="xj"><span class="xchar">冯光斗</span> 可是，我有点顾虑。</p>
+<p class="xj"><span class="xchar">岳春江</span> 家里的事都有我呢！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 那个我知道。</p>
+<p class="xj"><span class="xchar">李芳</span> 怕医院受损失？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 也不是！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 怕前方危险？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 更不是！为爱国，我死也不怕。我怕只怕，美国的科学发达，机械好，钢铁多，我们打不过他！</p>
+<p class="xj"><span class="xchar">小孩们</span> 美帝是个纸老虎，我们必能打垮他！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 不要吵啊，我们在这儿说正经话呢！</p>
+<p class="xj"><span class="xchar">岳春江</span> 不管怎样，美国既打到咱们的大门口来，我们就得跟它干！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 我知道那个，我到过外国，我怕咱们吃了亏！</p>
+<p class="xj"><span class="xchar">李芳</span> 敢拼命的就不考虑吃亏不吃亏！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 李芳，我至少也跟你一样勇敢。我顾虑的是国家大事，不是个人的利害。</p>
+<p class="xj"><span class="xchar">李芳</span> 可是，你那么一想，不就泄了气吗？</p>
+<p class="xj"><span class="xchar">岳春江</span> 老冯，想想吧！当解放军差不多是赤手空拳，可是能打败了日本的精兵，和消灭美国装备的国民党军队！认识了这个事实，我们还怕什么呢？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 好，明天我去报名！</p>
 <p class="l block">〔景隐。</p>
 <p class="l block">〔次日，冯大夫报了名。消息传遍全医院，大家兴奋：有的赶紧去报名，有的围着冯，向他致敬，连老王也来与他握手。</p>
 <p class="l block">〔景变为医院中的欢送大会。冯大夫，丁今夫，李芳，还有七八人，都佩红花，坐于台上。张竹，吴大夫，和主席团也坐台上。记者们忙着摄影，乐队奏乐。</p>
-张竹|<span class="block">（致词）</span>……这次，大夫们，护士们，表现了高度的爱国热情，受到人民的一致的敬爱，<span class="block">（鼓掌）</span>这才是精深的技术与崇高的感情，结系到一处，给医术界添了新的光彩！<span class="block">（鼓掌）</span>我们的志愿军是世界上无敌的勇士，是保卫正义与和平的队伍，诸位能去给他们服务，是最光荣的！<span class="block">（大鼓掌）</span>……
+<p class="xj"><span class="xchar">张竹</span> <span class="block">（致词）</span>……这次，大夫们，护士们，表现了高度的爱国热情，受到人民的一致的敬爱，<span class="block">（鼓掌）</span>这才是精深的技术与崇高的感情，结系到一处，给医术界添了新的光彩！<span class="block">（鼓掌）</span>我们的志愿军是世界上无敌的勇士，是保卫正义与和平的队伍，诸位能去给他们服务，是最光荣的！<span class="block">（大鼓掌）</span>……</p>
 <p class="l block">〔奏乐，献旗。</p>
-冯光斗|我本来只参加医疗队，去尽一点新社会的医生该尽的责任，没想到我还被选为队长，我感到光荣！<span class="block">（鼓掌）</span>我没有干过这种事，我要时刻不停的学习<span class="block">（我的思想还没十分搞通）</span>把队伍搞好，把我们的技术能力尽量的发挥出去！我希望，通过这任务，大夫们<span class="block">（我自己在内）</span>，护士们，都能变成有革命精神的大夫与护士！<span class="block">（大鼓掌）</span>……
-吴惠全|组织上不教我去，我就不去。在这里，我保证我一个人要作两个人的事！<span class="block">（鼓掌）</span>……
+<p class="xj"><span class="xchar">冯光斗</span> 我本来只参加医疗队，去尽一点新社会的医生该尽的责任，没想到我还被选为队长，我感到光荣！<span class="block">（鼓掌）</span>我没有干过这种事，我要时刻不停的学习<span class="block">（我的思想还没十分搞通）</span>把队伍搞好，把我们的技术能力尽量的发挥出去！我希望，通过这任务，大夫们<span class="block">（我自己在内）</span>，护士们，都能变成有革命精神的大夫与护士！<span class="block">（大鼓掌）</span>……</p>
+<p class="xj"><span class="xchar">吴惠全</span> 组织上不教我去，我就不去。在这里，我保证我一个人要作两个人的事！<span class="block">（鼓掌）</span>……</p>
 <p class="l block">〔景变为火车站。送行的团体甚多，向医疗队欢呼，献旗，献花。献旗的少年有冯大成，献花的女学生里有冯大玉。岳春江拉着大明，走到冯光斗的身前，他把手中的花给了大明一半。</p>
-岳春江|多学习，少闹气，作个最光荣的大夫！
+<p class="xj"><span class="xchar">岳春江</span> 多学习，少闹气，作个最光荣的大夫！</p>
 <p class="l block">〔医疗队登车。奏乐，欢呼，万旗摇动。车缓缓出站……车疾驰，穿过伟大的华北平原。</p>
 
 
@@ -847,133 +847,133 @@
 
 
 
-第八段
+<h2 class="title2">第八段</h2>
 
 <p class="l block">〔东北某处军医院。虽仅初冬，而天已飞雪。医院在一小县城外，原系小学校，院子宽大，房屋齐整。晚九点钟左右，病房灯已熄，冯大夫李芳等还在工作，屋中灯光尚明。大门外有警卫，荷枪来回的走。</p>
 <p class="l block">〔医院外，远处有小山。山尖上忽隐隐有灯光，如小星。灯光渐低渐明，隐隐有人影蠕动，系担架队。</p>
 <p class="l block">〔警卫跑进去。</p>
 
-警卫|报告队长，担架队转过山头来了。<span class="block">（跑出去）</span>
+<p class="xj"><span class="xchar">警卫</span> 报告队长，担架队转过山头来了。<span class="block">（跑出去）</span></p>
 <p class="l block">〔景转入室中。冯队长，丁今夫，李芳，还有其他的人都在屋中办公。</p>
-冯光斗|李芳，你主持登记。登记完，依照病势轻重，分别先后检查。丁今夫，你主持检查，必须在夜里都检查完。
-丁今夫|不知道又来多少。咱们的人手不够！
-李芳|<span class="block">（焦急的）</span>睡衣不够，胶布不够，手术器材不够，什么都不够！
-冯光斗|你急，我比你还急！没看见过这样的医院！专家，这样的医院，有专家也不中用！
-丁今夫|队长，别急！咱们不是新来乍到吗？过两天，咱们就摸着门了！
-冯光斗|好，你分配人。我接他们去！<span class="block">（匆匆戴帽，穿大衣，提着灯，匆匆跑出去）</span>
+<p class="xj"><span class="xchar">冯光斗</span> 李芳，你主持登记。登记完，依照病势轻重，分别先后检查。丁今夫，你主持检查，必须在夜里都检查完。</p>
+<p class="xj"><span class="xchar">丁今夫</span> 不知道又来多少。咱们的人手不够！</p>
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（焦急的）</span>睡衣不够，胶布不够，手术器材不够，什么都不够！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 你急，我比你还急！没看见过这样的医院！专家，这样的医院，有专家也不中用！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 队长，别急！咱们不是新来乍到吗？过两天，咱们就摸着门了！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 好，你分配人。我接他们去！<span class="block">（匆匆戴帽，穿大衣，提着灯，匆匆跑出去）</span></p>
 <p class="l block">〔四邻犬吠，人家灯光次第亮起来，有不少人开了门，走出来，人影动摇。</p>
-人声|担架队到了！担架队到了！
-人声|打着灯笼的是冯大夫吧？冯大夫！冯大夫！
-冯光斗|啊！
-人声|我们去吧，你老在医院里等吧！
-冯光斗|咱们一块儿去！快！接一接他们，换换肩，离这儿还有一些路呢！
+<p class="xj"><span class="xchar">人声</span> 担架队到了！担架队到了！</p>
+<p class="xj"><span class="xchar">人声</span> 打着灯笼的是冯大夫吧？冯大夫！冯大夫！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 啊！</p>
+<p class="xj"><span class="xchar">人声</span> 我们去吧，你老在医院里等吧！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 咱们一块儿去！快！接一接他们，换换肩，离这儿还有一些路呢！</p>
 <p class="l block">〔医院里又有人出来，都打着灯笼，疾走。</p>
 <p class="l block">〔人家里继续出来人，有妇女的声音。</p>
-冯光斗|<span class="block">（立在较高的地方，转身喊）</span>妇女们不要来吧，回去多烧水！
-妇女声|我们也会抬担架，冯大夫！
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（立在较高的地方，转身喊）</span>妇女们不要来吧，回去多烧水！</p>
+<p class="xj"><span class="xchar">妇女声</span> 我们也会抬担架，冯大夫！</p>
 <p class="l block">〔然后，近处与远处的灯光，人声，合到一处。</p>
 <p class="l block">〔景变为医院院内，工作人员招呼着伤员，能走的鱼贯而走，往登记处里走。不能走的一一被抬进另室。共约廿余人。邻居们来帮忙的三三两两立院内说话。</p>
-丁今夫|乡亲们，轻一点，别吵醒了病人们。
+<p class="xj"><span class="xchar">丁今夫</span> 乡亲们，轻一点，别吵醒了病人们。</p>
 <p class="l block">〔院中马上安静。</p>
-丁今夫|乡亲们，回家去提开水，越多越好，我们的锅炉小，不顶用。
+<p class="xj"><span class="xchar">丁今夫</span> 乡亲们，回家去提开水，越多越好，我们的锅炉小，不顶用。</p>
 <p class="l block">〔院中人渐渐散开。</p>
-李芳|<span class="block">（在登记处门内）</span>丁今夫同志，快来几壶开水，同志们渴得要命。
+<p class="xj"><span class="xchar">李芳</span> <span class="block">（在登记处门内）</span>丁今夫同志，快来几壶开水，同志们渴得要命。</p>
 <p class="l block">〔丁指挥一工作人员，去拿开水。</p>
 <p class="l block">〔担架队员<span class="block">（他们的担架已由邻人代抬回来）</span>逐渐进来。队长问丁。</p>
-队长|伤员都到齐了，我们的队员也全到了，要是没别的事，我们先到南院去休息，明天早上再汇报一切。
-丁今夫|诸位都辛苦了，请去休息吧！看见冯大夫没有？
-队长|在后面背人呢！
-丁今夫|冯队长亲自背人？
-队长|我们怎么说也不行，他非背不可！
+<p class="xj"><span class="xchar">队长</span> 伤员都到齐了，我们的队员也全到了，要是没别的事，我们先到南院去休息，明天早上再汇报一切。</p>
+<p class="xj"><span class="xchar">丁今夫</span> 诸位都辛苦了，请去休息吧！看见冯大夫没有？</p>
+<p class="xj"><span class="xchar">队长</span> 在后面背人呢！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 冯队长亲自背人？</p>
+<p class="xj"><span class="xchar">队长</span> 我们怎么说也不行，他非背不可！</p>
 <p class="l block">〔众人往外走，冯光斗背着伤员李雄进来。众人去帮忙。</p>
-冯光斗|慢着！留神！他的胯骨碎了！慢着！
+<p class="xj"><span class="xchar">冯光斗</span> 慢着！留神！他的胯骨碎了！慢着！</p>
 <p class="l block">〔众人把李雄接下来。冯光斗擦脸上的汗。</p>
 <p class="l block">〔大家抬着李雄，往屋中走。冯丁跟进去。大家把李放在床上。</p>
-李雄|背我的是大夫？
-冯光斗|同志，先闭闭眼，别再说话。我马上给你开刀！
-李雄|我要谢谢你！
-冯光斗|你还谢谢我？我不知道我应当怎样谢谢你！丁今夫，这位同志，作了人所不能作的事！他的胯骨碎了，还把担架让给了别人，走了五里地！这是不可能的事，他却作到了！我告诉你，这不可能！可是，他作到了！这是奇迹！
+<p class="xj"><span class="xchar">李雄</span> 背我的是大夫？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 同志，先闭闭眼，别再说话。我马上给你开刀！</p>
+<p class="xj"><span class="xchar">李雄</span> 我要谢谢你！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 你还谢谢我？我不知道我应当怎样谢谢你！丁今夫，这位同志，作了人所不能作的事！他的胯骨碎了，还把担架让给了别人，走了五里地！这是不可能的事，他却作到了！我告诉你，这不可能！可是，他作到了！这是奇迹！</p>
 <p class="l block">〔另一伤员程振英，哼哼了几声。</p>
-程振英|大夫，大夫！
+<p class="xj"><span class="xchar">程振英</span> 大夫，大夫！</p>
 <p class="l block">〔冯丁走过去。</p>
-程振英|李同志把担架让给了我！我对不起他！他的胯骨能治得好吗？
-丁今夫|能！冯队长是北京的最好的外科大夫！
-冯光斗|你什么地方受了伤？同志。
-程振英|一个枪弹在我这里<span class="block">（指左腿）</span>，不用管我，我现在不觉得疼了！先给李同志治胯骨，要不然我不能闭眼睡觉！
-冯光斗|我必能挖出你的枪弹来！
-程振英|大夫！大夫！那得要快点呀，我还得回去打美国鬼子去呢！
+<p class="xj"><span class="xchar">程振英</span> 李同志把担架让给了我！我对不起他！他的胯骨能治得好吗？</p>
+<p class="xj"><span class="xchar">丁今夫</span> 能！冯队长是北京的最好的外科大夫！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 你什么地方受了伤？同志。</p>
+<p class="xj"><span class="xchar">程振英</span> 一个枪弹在我这里<span class="block">（指左腿）</span>，不用管我，我现在不觉得疼了！先给李同志治胯骨，要不然我不能闭眼睡觉！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 我必能挖出你的枪弹来！</p>
+<p class="xj"><span class="xchar">程振英</span> 大夫！大夫！那得要快点呀，我还得回去打美国鬼子去呢！</p>
 <p class="l block">〔外面有争吵声。</p>
-李芳|同志！同志！你干吗去？
+<p class="xj"><span class="xchar">李芳</span> 同志！同志！你干吗去？</p>
 <p class="l block">〔伤员关连泰已在院中。</p>
-关连泰|我找大夫去！大夫！大夫！快给我上药！快！
+<p class="xj"><span class="xchar">关连泰</span> 我找大夫去！大夫！大夫！快给我上药！快！</p>
 <p class="l block">〔冯丁出来。</p>
-关连泰|你是大夫？快，快给我上药！我好快回前线！我冤枉，我这是冻疮，不是挂彩！我不应当躺在这儿，我才消灭了三个敌人，我得快回去打他们！
-丁今夫|同志！同志！我们马上动手，今儿个夜里，我们一夜不睡！
-冯光斗|丁今夫，你带一位大夫，两个护士，先给轻伤的诊断上药。马上作，明天再详细登记。
-丁今夫|是！<span class="block">（敬礼跑去）</span>
-冯光斗|李芳，预备作手术，我们一夜不睡！
+<p class="xj"><span class="xchar">关连泰</span> 你是大夫？快，快给我上药！我好快回前线！我冤枉，我这是冻疮，不是挂彩！我不应当躺在这儿，我才消灭了三个敌人，我得快回去打他们！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 同志！同志！我们马上动手，今儿个夜里，我们一夜不睡！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 丁今夫，你带一位大夫，两个护士，先给轻伤的诊断上药。马上作，明天再详细登记。</p>
+<p class="xj"><span class="xchar">丁今夫</span> 是！<span class="block">（敬礼跑去）</span></p>
+<p class="xj"><span class="xchar">冯光斗</span> 李芳，预备作手术，我们一夜不睡！</p>
 <p class="l block">〔一间病房里，灯亮了。一位旧伤员问。</p>
-伤员|大夫！大夫！用人吗？我好多了，可以起来帮忙！新来的同志，有睡衣吗？我可以脱下来，我光着睡舒服！
-冯光斗|<span class="block">（几乎要哭出来）</span>请睡觉吧！你要是起来着了凉，不是更麻烦吗？睡衣也不要脱！睡吧！
-伤员|答应我，明天我去挑水，扫地！
-冯光斗|好！睡吧！
+<p class="xj"><span class="xchar">伤员</span> 大夫！大夫！用人吗？我好多了，可以起来帮忙！新来的同志，有睡衣吗？我可以脱下来，我光着睡舒服！</p>
+<p class="xj"><span class="xchar">冯光斗</span> <span class="block">（几乎要哭出来）</span>请睡觉吧！你要是起来着了凉，不是更麻烦吗？睡衣也不要脱！睡吧！</p>
+<p class="xj"><span class="xchar">伤员</span> 答应我，明天我去挑水，扫地！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 好！睡吧！</p>
 <p class="l block">〔病房灯复灭。</p>
 <p class="l block">〔深夜，丁今夫诊治一位伤员——祝丰年。</p>
-丁今夫|恐怕得开刀，同志！
-祝丰年|上点药还不行？
-丁今夫|不行！同志，你怕开刀吗？
-祝丰年|死都不怕，还怕开刀！我怕开刀开不好，耽误了再上前线！
-丁今夫|我们的队长冯大夫是有名的专家！
-祝丰年|专家不专家的，反正我不开刀！<span class="block">（怒）</span>你是大夫不是？是不是？你要是大夫，就会不开刀把我治好！
-丁今夫|非开刀不可！准没危险！
-祝丰年|我不信！
-丁今夫|同志，冯大夫刚刚把程振英同志的枪弹挖出来，你来看看，好不好？
-祝丰年|走！
+<p class="xj"><span class="xchar">丁今夫</span> 恐怕得开刀，同志！</p>
+<p class="xj"><span class="xchar">祝丰年</span> 上点药还不行？</p>
+<p class="xj"><span class="xchar">丁今夫</span> 不行！同志，你怕开刀吗？</p>
+<p class="xj"><span class="xchar">祝丰年</span> 死都不怕，还怕开刀！我怕开刀开不好，耽误了再上前线！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 我们的队长冯大夫是有名的专家！</p>
+<p class="xj"><span class="xchar">祝丰年</span> 专家不专家的，反正我不开刀！<span class="block">（怒）</span>你是大夫不是？是不是？你要是大夫，就会不开刀把我治好！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 非开刀不可！准没危险！</p>
+<p class="xj"><span class="xchar">祝丰年</span> 我不信！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 同志，冯大夫刚刚把程振英同志的枪弹挖出来，你来看看，好不好？</p>
+<p class="xj"><span class="xchar">祝丰年</span> 走！</p>
 <p class="l block">〔一同出去。</p>
 <p class="l block">〔又回来。</p>
-祝丰年|好！他真是专家！快，<span class="block">（解衣）</span>我开刀。
-丁今夫|等等，冯大夫正给李雄治胯骨呢！
-祝丰年|我等着！你先看别人。
+<p class="xj"><span class="xchar">祝丰年</span> 好！他真是专家！快，<span class="block">（解衣）</span>我开刀。</p>
+<p class="xj"><span class="xchar">丁今夫</span> 等等，冯大夫正给李雄治胯骨呢！</p>
+<p class="xj"><span class="xchar">祝丰年</span> 我等着！你先看别人。</p>
 <p class="l block">〔天已发亮。李芳监视着由手术室抬出一位伤员来，送至病室。</p>
 <p class="l block">〔冯光斗已极疲惫，洗手。</p>
 <p class="l block">〔丁今夫进来。</p>
-冯光斗|我的眼已不大睁得开了！给我找碗酽茶喝！
-丁今夫|到办公室去，那里有！
+<p class="xj"><span class="xchar">冯光斗</span> 我的眼已不大睁得开了！给我找碗酽茶喝！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 到办公室去，那里有！</p>
 <p class="l block">〔办公室内，冯喝茶，丁今夫拿着些病历，放在桌上。李芳进来。她也极疲倦，但仍强打精神。</p>
-李芳|冯大夫，睡去！
-冯光斗|不困！我得拟好了电报，教春江用最快的办法，把我自己的手术器材送了来，献给这个医院！
-李芳|先睡去，睡醒了再打电报不晚。
-冯光斗|非马上办了，我睡不着！我还得给她写信，告诉她，我们确是能打胜，美国英国都不行，它们没有我们这样的兵！我也得告诉她，我跟她要比赛一下，看谁立的功更多更大！
-丁今夫|打电报可贵呀，咱们没有很大的预算！
-冯光斗|我不会自己掏腰包吗？志愿军有命去拼，我们出点力，出点钱，算得了什么呢？今夫，给张竹写信，教她发动大家捐献盘尼西林跟消炎片。李芳，用咱们的富余的衣服，和白面口袋，作成睡衣！咱们还得发明，发明胶布，发明一切缺乏的东西！教全中国，全世界，看看，咱们确是会创造的医生和护士！看看，咱们的志愿军怎样会打仗，咱们就怎样的会治病！咱们把这个简陋的医院要变成什么病都能治的医院！
-李芳|冯大夫，照你这么说，咱们全得像发了疯的干，是不是？
-冯光斗|就是，发疯似的忘了自己是平常人，像李雄同志似的，胯骨碎了，还走五里路。
+<p class="xj"><span class="xchar">李芳</span> 冯大夫，睡去！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 不困！我得拟好了电报，教春江用最快的办法，把我自己的手术器材送了来，献给这个医院！</p>
+<p class="xj"><span class="xchar">李芳</span> 先睡去，睡醒了再打电报不晚。</p>
+<p class="xj"><span class="xchar">冯光斗</span> 非马上办了，我睡不着！我还得给她写信，告诉她，我们确是能打胜，美国英国都不行，它们没有我们这样的兵！我也得告诉她，我跟她要比赛一下，看谁立的功更多更大！</p>
+<p class="xj"><span class="xchar">丁今夫</span> 打电报可贵呀，咱们没有很大的预算！</p>
+<p class="xj"><span class="xchar">冯光斗</span> 我不会自己掏腰包吗？志愿军有命去拼，我们出点力，出点钱，算得了什么呢？今夫，给张竹写信，教她发动大家捐献盘尼西林跟消炎片。李芳，用咱们的富余的衣服，和白面口袋，作成睡衣！咱们还得发明，发明胶布，发明一切缺乏的东西！教全中国，全世界，看看，咱们确是会创造的医生和护士！看看，咱们的志愿军怎样会打仗，咱们就怎样的会治病！咱们把这个简陋的医院要变成什么病都能治的医院！</p>
+<p class="xj"><span class="xchar">李芳</span> 冯大夫，照你这么说，咱们全得像发了疯的干，是不是？</p>
+<p class="xj"><span class="xchar">冯光斗</span> 就是，发疯似的忘了自己是平常人，像李雄同志似的，胯骨碎了，还走五里路。</p>
 <p class="l block">〔天已大亮。</p>
-冯光斗|别说了，我拟电报！
+<p class="xj"><span class="xchar">冯光斗</span> 别说了，我拟电报！</p>
 <p class="l block">〔景变为北京，冯家。冯大夫要献出的手术用具都装好，大箱小匣的置于桌上。</p>
-冯大成|爸爸太棒了！简直是太棒了！
-冯大玉|妈，爸要是一个劲儿进步，可要赛过妈去了！
-岳春江|我才不怕！他献这些东西，我就不会捐上金戒指？看！<span class="block">（从手上摘下戒指来）</span>
-赵妈|看样子，慢慢的连箱子、碗都得献出去，看你们怎么吃饭！
-冯大明|赵妈，你又犯顽固了！
-赵妈|你才顽固呢！教你们看，我顽固不顽固。<span class="block">（掏了半天，掏出个小纸包来）</span>这儿有一小瓶万应锭，同仁堂的，送给伤兵们！
-孩子们|<span class="block">（大笑起来）</span>万应锭？万应锭？
-赵妈|真正同仁堂的！
-岳春江|别笑啦！我现在替赵妈义卖这一小瓶药，卖了钱，去买消炎片！
-冯大成|哼，我这儿才有五百！
-冯大明|我一个子儿没有！
-冯大玉|妈，你先借给我一千！
+<p class="xj"><span class="xchar">冯大成</span> 爸爸太棒了！简直是太棒了！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 妈，爸要是一个劲儿进步，可要赛过妈去了！</p>
+<p class="xj"><span class="xchar">岳春江</span> 我才不怕！他献这些东西，我就不会捐上金戒指？看！<span class="block">（从手上摘下戒指来）</span></p>
+<p class="xj"><span class="xchar">赵妈</span> 看样子，慢慢的连箱子、碗都得献出去，看你们怎么吃饭！</p>
+<p class="xj"><span class="xchar">冯大明</span> 赵妈，你又犯顽固了！</p>
+<p class="xj"><span class="xchar">赵妈</span> 你才顽固呢！教你们看，我顽固不顽固。<span class="block">（掏了半天，掏出个小纸包来）</span>这儿有一小瓶万应锭，同仁堂的，送给伤兵们！</p>
+<p class="xj"><span class="xchar">孩子们</span> <span class="block">（大笑起来）</span>万应锭？万应锭？</p>
+<p class="xj"><span class="xchar">赵妈</span> 真正同仁堂的！</p>
+<p class="xj"><span class="xchar">岳春江</span> 别笑啦！我现在替赵妈义卖这一小瓶药，卖了钱，去买消炎片！</p>
+<p class="xj"><span class="xchar">冯大成</span> 哼，我这儿才有五百！</p>
+<p class="xj"><span class="xchar">冯大明</span> 我一个子儿没有！</p>
+<p class="xj"><span class="xchar">冯大玉</span> 妈，你先借给我一千！</p>
 <p class="l block">〔吴大夫跑了进来，他已不穿西服，并剃去了短须。</p>
-吴惠全|你们干什么呢？
-冯大成|妈妈义卖赵妈的万应锭呢，好捐献点消炎片。我们都没有钱。
-吴惠全|<span class="block">（接过小瓶来，交给赵妈）</span>老太太，您收着万应锭。我捐一百颗消炎片！
+<p class="xj"><span class="xchar">吴惠全</span> 你们干什么呢？</p>
+<p class="xj"><span class="xchar">冯大成</span> 妈妈义卖赵妈的万应锭呢，好捐献点消炎片。我们都没有钱。</p>
+<p class="xj"><span class="xchar">吴惠全</span> <span class="block">（接过小瓶来，交给赵妈）</span>老太太，您收着万应锭。我捐一百颗消炎片！</p>
 <p class="l block">〔孩子们鼓掌。</p>
-赵妈|哟，吴大夫！你看，还是万应锭贵重不是！一小瓶能换一百颗消炎片！
-吴惠全|走吧，大嫂！今天献上这点东西，三四天内准能带到冯大哥手里！
-孩子们|我们也去！
-吴惠全|走哇！<span class="block">（提起大箱子）</span>
+<p class="xj"><span class="xchar">赵妈</span> 哟，吴大夫！你看，还是万应锭贵重不是！一小瓶能换一百颗消炎片！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 走吧，大嫂！今天献上这点东西，三四天内准能带到冯大哥手里！</p>
+<p class="xj"><span class="xchar">孩子们</span> 我们也去！</p>
+<p class="xj"><span class="xchar">吴惠全</span> 走哇！<span class="block">（提起大箱子）</span></p>
 <p class="l block">〔岳与孩子们分提小件。</p>
-岳春江|可留神啊，别摔了！
+<p class="xj"><span class="xchar">岳春江</span> 可留神啊，别摔了！</p>
 <p class="l block">〔大家欢欢喜喜往外走。</p>
 <p class="l block">〔街上，各处贴有抗美援朝的各色标语。</p>
 <p class="l block">〔天安门前，红旗招展。毛主席像，高悬城上。</p>

@@ -2,7 +2,7 @@
 ·儿童歌剧·
 
 
-第一场
+<h2 class="title2">第一场</h2>
 
 时间 在古远时代的那么一天。
 地点 青蛙骑手的家。
@@ -10,7 +10,7 @@
 
 <p class="l block">〔幕启：一片晴空，远山起伏。近处山坡上种着点青稞。山凹避风处有两间破旧的小屋——青蛙骑手的家。母亲独自在屋外缝补旧衣。</p>
 
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>如水光阴日夜流，</p>
 <p>二十载风霜，青年夫妇白了头！</p>
@@ -51,7 +51,7 @@
 <p><span class="block">（叫）</span>蛙儿！蛙儿！</p>
 </blockquote>
 <p class="l block">〔音乐奏《青蛙之曲》。蛙儿负着一大捆干柴，手持一束野花，上。</p>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>上山打柴是一个好游戏，</p>
 <p>顺手儿摘来几朵花；</p>
@@ -59,10 +59,10 @@
 <p>野花献给亲爱的妈！<span class="block">（放下柴，献花）</span></p>
 <p>妈，看我长得多么快！</p>
 </blockquote>
-母亲|七岁身高四尺五，我的好娃娃！
-蛙儿|看我的力气多么大！
-母亲|这些柴火本该两人抬，我的好娃娃！
-蛙儿|
+<p class="xj"><span class="xchar">母亲</span> 七岁身高四尺五，我的好娃娃！</p>
+<p class="xj"><span class="xchar">蛙儿</span> 看我的力气多么大！</p>
+<p class="xj"><span class="xchar">母亲</span> 这些柴火本该两人抬，我的好娃娃！</p>
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>我的头还没顶到天，</p>
 <p>我的力气还不能降野马！</p>
@@ -71,14 +71,14 @@
 <p>练成钢筋铁骨力拔山，</p>
 <p>天下第一个好娃娃！</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>可惜呀，你的心雄貌不美，</p>
 <p>哪个贤慧的姑娘肯配你成家？</p>
 <p>可怜呀，你本该自由自在去玩耍，</p>
 <p>可怎奈外人会说闲言与歹话！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>好妈妈，别再多说这样伤心的话；</p>
 <p>青蛙，青蛙，消灭害虫谁能比他！</p>
@@ -94,12 +94,12 @@
 <p>心是金的，眉宇自会露光华！</p>
 </blockquote>
 <p class="l block">〔父亲垂头丧气地走来。</p>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>神明不佑寒苦人，</p>
 <p>头人的威风啊比天还大！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>亲亲热热叫声爸，</p>
 <p>是头人吗？他又欺侮了老人家？</p>
@@ -110,31 +110,31 @@
 <p>都告诉我，告诉我！</p>
 <p>我把耻辱、忧愁送还头人的家！</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>算了吧！少说话！</p>
 <p>你呀，你就是祸根生出的芽！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>啊！什吗？</p>
 <p>老父亲，你，你说什吗？</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>父子且莫吵，</p>
 <p>先说心腹话！</p>
 <p>头人怎么说？</p>
 <p>你怎回复他？</p>
 </blockquote>
-父亲|那头人，头人……
-蛙儿|说吧！头人不是神，是神也不怕！
-母亲|
+<p class="xj"><span class="xchar">父亲</span> 那头人，头人……</p>
+<p class="xj"><span class="xchar">蛙儿</span> 说吧！头人不是神，是神也不怕！</p>
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>说吧，我家不欠他的粮，</p>
 <p>没有借过他的盐与茶！</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>都是你，你，不听我的话，</p>
 <p>不将蛙儿好好藏在家！</p>
@@ -147,26 +147,26 @@
 <p>他说呀：妖魔长大必成患，</p>
 <p>惹起天怒啊，殃及千万家！</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>头人要怎样？</p>
 <p>怎样处置神赐的小娃娃？</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>头人说，三天内，</p>
 <p>三天内结果了小青蛙！</p>
 <p>不然，不然哪，</p>
 <p>他会杀净我们全家！</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>拉住我的心上肉，</p>
 <p>儿呀，不要伤心不要怕！</p>
 <p>为娘的迟早有一死，</p>
 <p>我情愿一死救娃娃！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>妈妈莫惊慌，</p>
 <p>爸爸不要怕！</p>
@@ -174,27 +174,27 @@
 <p>拿起一枝山上的花，</p>
 <p>辞别好双亲。</p>
 </blockquote>
-母亲|儿呀，难道就这样逃出了家？
-父亲|
+<p class="xj"><span class="xchar">母亲</span> 儿呀，难道就这样逃出了家？</p>
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>老婆子！刀在项上还不逃走？</p>
 <p>难道你愿亲眼看着杀了他？</p>
 <p>他走后，头人必来细追问，</p>
 <p>儿呀，为保全你呀，苦了爹妈！</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>儿呀，逃命吧！</p>
 <p>不必管我们如何受惩罚！</p>
 <p>娘去作些干粮儿带上，</p>
 <p>好好藏在深山古洞莫思家！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>好爸爸，好妈妈，请听我的话：</p>
 <p>我要啊，谁想杀我，我去寻他！</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>傻娃娃，闭上你的嘴，</p>
 <p>放下你的花！</p>
@@ -203,7 +203,7 @@
 <p>你远走高飞还怕难逃命，</p>
 <p>怎可以找上门去请他杀？</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>他既要杀我，</p>
 <p>躲避不如面见他！</p>
@@ -211,13 +211,13 @@
 <p>别人怕他我不怕！</p>
 <p>丑陋的模样不是罪！</p>
 </blockquote>
-父亲|他还听见了你的话！
-母亲|
+<p class="xj"><span class="xchar">父亲</span> 他还听见了你的话！</p>
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>什么话？什么话？</p>
 <p>童言无忌，头人干吗害了怕？</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>遇见耕田的老夫妇，</p>
 <p>或是山中放牛的小娃娃，</p>
@@ -227,26 +227,26 @@
 <p>来来往往，汉藏成一家！</p>
 <p>蛙儿，回答我，你说过没有这些梦话？</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>说过！说过！</p>
 <p>一点儿也不假！</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>蛙儿，宝贝，谁教给你的这些话？</p>
 <p>为什么不先告诉老爹妈？</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>我时常梦见慈悲“地母”，</p>
 <p>告诉我这三条的就是“地母”老人家！</p>
 <p>怕爹妈不信，不敢在家中讲，</p>
 <p>先去试试老人与牛娃。</p>
 </blockquote>
-父亲|这些话就惹下杀身的祸！
-母亲|头人愿千年万代把百姓欺压！
-蛙儿|
+<p class="xj"><span class="xchar">父亲</span> 这些话就惹下杀身的祸！</p>
+<p class="xj"><span class="xchar">母亲</span> 头人愿千年万代把百姓欺压！</p>
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>头人难道比“地母”大？</p>
 <p>难道说他不愿听的就是假话？</p>
@@ -255,12 +255,12 @@
 <p>你们难道愿意受欺压，</p>
 <p>不肯相信“地母”的话？</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>“地母”慈悲爱世人，</p>
 <p>可是呀，千年的冰河何日得融化？</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>“地母”的语言是蟠桃的芽，</p>
 <p>百年千年，一代几代，终必会开花！</p>
@@ -273,14 +273,14 @@
 <p>她生儿，她养女，</p>
 <p>代代传说“地母”的话！</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>娃娃！红日当空，休再说梦话，</p>
 <p>哪朵鲜花肯到这苦山洼？</p>
 <p>快，快，快去逃活命，</p>
 <p>我的儿，我的小冤家！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>孩儿不是说梦话，</p>
 <p>父子情深不是冤家！</p>
@@ -295,55 +295,55 @@
 <p><span class="block">（边唱边走）</span>我唱着歌儿去，</p>
 <p>明天，我唱着歌儿回到家！<span class="block">（下）</span></p>
 </blockquote>
-父亲 母亲|<span class="block">（追叫）</span>蛙儿！蛙儿！<span class="block">（蛙儿已走远）</span>
+<p class="xj"><span class="xchar">父亲 母亲</span> <span class="block">（追叫）</span>蛙儿！蛙儿！<span class="block">（蛙儿已走远）</span></p>
 【幕】
 
 
 
 
-第二场
+<h2 class="title2">第二场</h2>
 时间 前场后片刻。
 地点 头人家里。
 人物 大姐 二姐 三姐 仆甲 头人 仆乙 男女仆若干 蛙儿
 
 <p class="l block">〔幕启：一间相当阔绰的大厅。大姐与二姐闷坐无聊。</p>
-大姐|天下什么最虚空？
-二姐|莫非是青山寂寂，花儿为谁红？
-大姐|不对！清风吹过香十里，招来呀多彩的蝴蝶，金色的蜂！
-二姐|
+<p class="xj"><span class="xchar">大姐</span> 天下什么最虚空？</p>
+<p class="xj"><span class="xchar">二姐</span> 莫非是青山寂寂，花儿为谁红？</p>
+<p class="xj"><span class="xchar">大姐</span> 不对！清风吹过香十里，招来呀多彩的蝴蝶，金色的蜂！</p>
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>莫不是天上的白云最寂寞，</p>
 <p>终日飘来飘去西到东？</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>不对！白天随着和风翩翩舞，</p>
 <p>夜晚悄悄地吻群星！</p>
 <p>我看哪，唉！唉！</p>
 <p>我们姐妹最虚空！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>咱们？既非天上的云两片，</p>
 <p>又非空谷幽寂花两丛！</p>
 <p>身穿天堂苏杭来的绸缎，</p>
 <p>头戴珍珠日夜明！</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>绸缎不说知心话，</p>
 <p>珍宝啊冷冰冰的不出声！</p>
 <p>并蒂花儿不在春天放，</p>
 <p>转眼哪风雪无情入了冬！</p>
 </blockquote>
-二姐|大姐呀，这番一猜必猜到。
-大姐|说吧，快快说与大姐听！
-二姐|
+<p class="xj"><span class="xchar">二姐</span> 大姐呀，这番一猜必猜到。</p>
+<p class="xj"><span class="xchar">大姐</span> 说吧，快快说与大姐听！</p>
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>你呀，痴望着星天暗祷告，</p>
 <p>便愿那牛郎来会织女星！</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>天上的星星我不问，</p>
 <p>我只盼地上的鸳鸯早相逢！</p>
@@ -352,24 +352,24 @@
 <p>可叹哪，父亲更爱牛和马，</p>
 <p>不关心女儿们的好事情！</p>
 </blockquote>
-二姐|可叹哪，父亲更爱财和宝，不关心姑娘们的好事情！
+<p class="xj"><span class="xchar">二姐</span> 可叹哪，父亲更爱财和宝，不关心姑娘们的好事情！</p>
 <p class="l block">〔三姐上，捧着茶具，伺候她们。</p>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>大姐二姐请把茶用，</p>
 <p>用过了，好去散闷后园中。</p>
 </blockquote>
-大姐|我闷与不闷何劳你在意！
-二姐|我们散闷，你好偷懒睡到日西倾。
-大姐|<span class="block">（见三姐垂首）</span>不许你低头，暗中诅咒我！
-二姐|<span class="block">（见三姐扬头）</span>你是谁？敢怒目相视挺起胸？
-大姐 二姐|早晚撕碎你的脸，去掉你的娇媚，只给你留下穷！
+<p class="xj"><span class="xchar">大姐</span> 我闷与不闷何劳你在意！</p>
+<p class="xj"><span class="xchar">二姐</span> 我们散闷，你好偷懒睡到日西倾。</p>
+<p class="xj"><span class="xchar">大姐</span> <span class="block">（见三姐垂首）</span>不许你低头，暗中诅咒我！</p>
+<p class="xj"><span class="xchar">二姐</span> <span class="block">（见三姐扬头）</span>你是谁？敢怒目相视挺起胸？</p>
+<p class="xj"><span class="xchar">大姐 二姐</span> 早晚撕碎你的脸，去掉你的娇媚，只给你留下穷！</p>
 <p class="l block">〔仆甲上。</p>
-仆甲|小姐们，祥风吹动了门前柳，
-大姐|莫非来了求婚的美英雄？
-仆甲|大小姐，你的聪明世上少有！
-二姐|快说！快说！他带着多少礼品与仆从？
-大姐|
+<p class="xj"><span class="xchar">仆甲</span> 小姐们，祥风吹动了门前柳，</p>
+<p class="xj"><span class="xchar">大姐</span> 莫非来了求婚的美英雄？</p>
+<p class="xj"><span class="xchar">仆甲</span> 大小姐，你的聪明世上少有！</p>
+<p class="xj"><span class="xchar">二姐</span> 快说！快说！他带着多少礼品与仆从？</p>
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>妹妹你先少开口，</p>
 <p>求婚的一定久慕我的名！</p>
@@ -379,7 +379,7 @@
 <p>告诉他换上新衣把娇客迎！</p>
 </blockquote>
 <p class="l block">〔仆甲下。大姐携二姐急下。三姐收拾屋中。</p>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>父母双亡无弟兄，</p>
 <p>举目无亲天地空！</p>
@@ -405,7 +405,7 @@
 <p>我自己操劳，热汗哪融解了千年的雪与冰！</p>
 </blockquote>
 <p class="l block">〔大姐、二姐回来，都顾影自怜，作出各种娇态。</p>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>祥风吹到家门口，</p>
 <p>吹开我身上每个小毛孔！</p>
@@ -417,7 +417,7 @@
 <p>进来吧，别怕手足失措，忘了礼貌，</p>
 <p>我会原谅你，我的美呀你神人也会似醉如疯！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>姐姐呀，你的自信超过自知，</p>
 <p>跟我比比吧，谁的眼比夜明珠更明？</p>
@@ -426,94 +426,94 @@
 <p>姐姐呀，我决不与你争爱夺宠，</p>
 <p>可是对不起，我的美丽自自然然使你拜下风！</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>不要向我夸海口，</p>
 <p>省得呀，我的胜利叫你难为情！</p>
 <p><span class="block">（转向三姐）</span>你还在这里干什么？</p>
 <p>难道说相女婿的事儿你也敢竞争？</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>唉！你的怒容我看惯，</p>
 <p>息怒吧，把求婚的吓坏，好事难成！<span class="block">（下）</span></p>
 </blockquote>
-大姐 二姐|呸！呸！
+<p class="xj"><span class="xchar">大姐 二姐</span> 呸！呸！</p>
 <p class="l block">〔仆甲、乙引头人上。二女施礼。</p>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>求婚的是老还是少？</p>
 <p>带着多少礼物与仆从？</p>
 </blockquote>
-仆甲|
+<p class="xj"><span class="xchar">仆甲</span> </p>
 <blockquote>
 <p>很难辨出老或少，</p>
 <p>独自一个没有仆从。</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>你怎么越活越糊涂？</p>
 <p>一个穷汉也值得我出迎？</p>
 </blockquote>
-仆甲|
+<p class="xj"><span class="xchar">仆甲</span> </p>
 <blockquote>
 <p>不是我大胆惊动你，</p>
 <p>客人说呀，你不接见就是大不敬！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>不敬？不敬？什么人这样大胆狂妄？</p>
 <p>去，去告诉他：惹恼了我呀，手下不留情！</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>且慢！亲爱的父亲莫动怒，</p>
 <p>等我慢慢把事问清。</p>
 <p>老仆啊！那客人的相貌是丑还是俊？</p>
 </blockquote>
-仆甲|他的相貌世上少有！
-二姐|父亲哪，你不出迎我去迎！
-头人|没有我的吩咐，谁也不许动！
-大姐|老仆啊，快说，他到底怎样与众不同？
-仆甲|他的脸，
-大姐|脸怎样？
-仆甲|比雨后的松针多着三分绿！
-二姐|绿叶正好配花红！
-仆甲|他的眼，
-大姐|眼如何？
-仆甲|两颗呀琉璃巨珠光四射！
-二姐|𫪘！目光炯炯是英雄！
-仆甲|他的嘴呀，
-大姐|什么样？
-仆甲|嘴角一直通到双耳！
-二姐|哎呀！奇人奇相有奇能！
-头人|
+<p class="xj"><span class="xchar">仆甲</span> 他的相貌世上少有！</p>
+<p class="xj"><span class="xchar">二姐</span> 父亲哪，你不出迎我去迎！</p>
+<p class="xj"><span class="xchar">头人</span> 没有我的吩咐，谁也不许动！</p>
+<p class="xj"><span class="xchar">大姐</span> 老仆啊，快说，他到底怎样与众不同？</p>
+<p class="xj"><span class="xchar">仆甲</span> 他的脸，</p>
+<p class="xj"><span class="xchar">大姐</span> 脸怎样？</p>
+<p class="xj"><span class="xchar">仆甲</span> 比雨后的松针多着三分绿！</p>
+<p class="xj"><span class="xchar">二姐</span> 绿叶正好配花红！</p>
+<p class="xj"><span class="xchar">仆甲</span> 他的眼，</p>
+<p class="xj"><span class="xchar">大姐</span> 眼如何？</p>
+<p class="xj"><span class="xchar">仆甲</span> 两颗呀琉璃巨珠光四射！</p>
+<p class="xj"><span class="xchar">二姐</span> 𫪘！目光炯炯是英雄！</p>
+<p class="xj"><span class="xchar">仆甲</span> 他的嘴呀，</p>
+<p class="xj"><span class="xchar">大姐</span> 什么样？</p>
+<p class="xj"><span class="xchar">仆甲</span> 嘴角一直通到双耳！</p>
+<p class="xj"><span class="xchar">二姐</span> 哎呀！奇人奇相有奇能！</p>
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>算了吧，分明这是小青蛙，</p>
 <p>前来送死，我叫他活不成。</p>
 </blockquote>
-大姐 二姐|
+<p class="xj"><span class="xchar">大姐 二姐</span> </p>
 <blockquote>
 <p>青蛙？青蛙？敢来求婚，</p>
 <p>三丫头，小妖精！快来！快来！</p>
 </blockquote>
 <p class="l block">〔三姐急上。</p>
-大姐 二姐|你配青蛙正好妖精爱妖精！
-头人|
+<p class="xj"><span class="xchar">大姐 二姐</span> 你配青蛙正好妖精爱妖精！</p>
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>叫那找死的进来吧，</p>
 <p>自取灭亡，莫道我无情！</p>
 </blockquote>
 <p class="l block">〔仆甲下。</p>
-仆乙|主人，他既敢来必定有本领！
-头人|叫男女仆从执枪仗剑速到前厅！
-仆乙|
+<p class="xj"><span class="xchar">仆乙</span> 主人，他既敢来必定有本领！</p>
+<p class="xj"><span class="xchar">头人</span> 叫男女仆从执枪仗剑速到前厅！</p>
+<p class="xj"><span class="xchar">仆乙</span> </p>
 <blockquote>
 <p>下面听着：主人传唤齐进见，</p>
 <p>各持枪刀与弩弓！</p>
 </blockquote>
 <p class="l block">〔众仆上。</p>
-众仆|
+<p class="xj"><span class="xchar">众仆</span> </p>
 <blockquote>
 <p>晴天白日处处安静，</p>
 <p>并无匪盗来进攻，</p>
@@ -528,44 +528,44 @@
 <p>参见主人公，</p>
 <p>请你下命令！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>弓上弦，刀出鞘，</p>
 <p>准备厮杀灭妖精！</p>
 </blockquote>
-众仆|
+<p class="xj"><span class="xchar">众仆</span> </p>
 <blockquote>
 <p>我们会干活儿，</p>
 <p>还没学会捉妖精！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>紧紧护着我，不许多出声！</p>
 <p>我一抬手，说声“蛙”，你们就进攻！</p>
 </blockquote>
 <p class="l block">〔仆甲引蛙儿上。大姐、二姐惊慌后退。三姐不动声色。</p>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>手举山中一朵花，</p>
 <p>蛙郎来到头人家。</p>
 <p>头人哪，你的闺女该出嫁，</p>
 <p>给我哪个请你快回答！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>嘟！嘟！嘟！说什么我家女儿该出嫁，</p>
 <p>嫁谁也不嫁给小青蛙！</p>
 <p>我正要捉你除祸害，</p>
 <p>你来找死，别怨我将毒手下！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>丈人你说哪里的话，</p>
 <p>谁见过喜气临门却把女婿杀？</p>
 </blockquote>
-头人|谁是丈人？哪个是女婿？
-蛙儿|就是你、我，咱们俩！
-头人|
+<p class="xj"><span class="xchar">头人</span> 谁是丈人？哪个是女婿？</p>
+<p class="xj"><span class="xchar">蛙儿</span> 就是你、我，咱们俩！</p>
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>小小妖魔太放肆，</p>
 <p>口出狂言，胆敢将我来戏耍！</p>
@@ -573,13 +573,13 @@
 <p>蛙！蛙！蛙！</p>
 </blockquote>
 <p class="l block">〔仆从们刀枪齐举。</p>
-蛙儿|<span class="block">（举起花来）</span>
+<p class="xj"><span class="xchar">蛙儿</span> <span class="block">（举起花来）</span></p>
 <blockquote>
 <p>你有刀枪我有花，</p>
 <p>你那里蛙！蛙！蛙！我这里哈！哈！哈！</p>
 </blockquote>
 <p class="l block">〔头人的手不能落下来，仆从们亦不能动。</p>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>啊？啊？啊？小妖真地有妖法，</p>
 <p>气得我要咬碎了牙！<span class="block">（用力摇动胳臂，仍不能落下）</span></p>
@@ -588,26 +588,26 @@
 <p>你若好意来求婚，</p>
 <p>叫老丈人的手儿先放下！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>无理的手啊总想伸掌将人打，</p>
 <p>和善的手啊愿将别人的手儿拉！</p>
 <p>放弃你的毒狠与杀机，</p>
 <p>我叫你高扬的手臂从容落下！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>青蛙郎啊，不要误解我，</p>
 <p>我的心慈善，我的手连一只鸡儿也不肯杀！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>你的唇上有蜂蜜，</p>
 <p>心中却是毒蛇的家！</p>
 <p>好吧，先把手放下！</p>
 <p>说真话吧，我最恨的是虚假！</p>
 </blockquote>
-头人|<span class="block">（放下手，仆从们亦收回刀枪）</span>
+<p class="xj"><span class="xchar">头人</span> <span class="block">（放下手，仆从们亦收回刀枪）</span></p>
 <blockquote>
 <p>亲爱的青蛙郎啊，</p>
 <p>听我几句诚恳的话：</p>
@@ -616,14 +616,14 @@
 <p>请你不要再提求婚的话，</p>
 <p>你想想，我的女儿怎好配青蛙？</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>不要你的牛，不要你的马，</p>
 <p>只要你家中的一枝花！</p>
 <p>我的双亲年年头上添白发，</p>
 <p>为孝养他们，我须早成家！</p>
 </blockquote>
-头人|<span class="block">（又渐渐强硬）</span>
+<p class="xj"><span class="xchar">头人</span> <span class="block">（又渐渐强硬）</span></p>
 <blockquote>
 <p>你年幼不分好和歹，</p>
 <p>我越退让，你会越自大。</p>
@@ -631,50 +631,50 @@
 <p>我的手就放不下；</p>
 <p>实在是刚才忽然臂上发了麻！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>幸亏发麻难落下，</p>
 <p>要不然我的身首分了家！</p>
 <p>谁不知你是这一方的小皇帝，</p>
 <p>你要杀谁就去杀？</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>他既知我是小皇帝，</p>
 <p>你，丑陋的小东西，怎配当驸马？</p>
 <p>好好地给我滚出去，</p>
 <p>饶你不死，全因我的度量大！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>我比你的度量还更大，</p>
 <p>饶恕你无礼，急等你的最后回答！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>去！去！去到池塘高声唱，</p>
 <p>你会找到个大眼大嘴的女青蛙！</p>
 </blockquote>
-蛙儿|这是你的最后的话？
-头人|不！最后还有一个“杀”！
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> 这是你的最后的话？</p>
+<p class="xj"><span class="xchar">头人</span> 不！最后还有一个“杀”！</p>
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>你的话好笑，</p>
 <p>我就笑哈哈！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>任凭你笑，任凭你哈，</p>
 <p>决不容你妖言惑众说疯话！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>你听着，我要高声笑，</p>
 <p>吉祥的事啊理当笑哈哈！</p>
 <p><span class="block">（狂笑）</span>哈哈！哈哈！哈哈！</p>
 </blockquote>
 <p class="l block">〔屋子震动。头人遮上双耳，身子左右摇摆。大姐、二姐亦遮上耳摇摆，三姐不动。仆从们很快地左右摇摆，如逢地震。</p>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>快快停止笑！</p>
 <p>快快停住哈！</p>
@@ -684,7 +684,7 @@
 <p>彩凤嫁青蛙！</p>
 </blockquote>
 <p class="l block">〔蛙儿停笑，众安静下来。</p>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>大闺女呀，大姑娘！</p>
 <p>你的岁数大，理应先出嫁，</p>
@@ -693,26 +693,26 @@
 <p>你去，你去，</p>
 <p>欢欢喜喜嫁给他！</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>父亲哪，门当户对我愿早出嫁，</p>
 <p>不等你催，我骑上快马飞奔婆家！</p>
 <p>我可是不能把这鲜花一大朵，</p>
 <p>不插花瓶，却在粪上插！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>姑娘，姑娘，救救我，</p>
 <p>我给你金银锦缎和牛马！</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>你爱金银与牛马，</p>
 <p>我爱情郎俏似花！</p>
 <p>你怕这绿脸的小怪物，</p>
 <p>我有护身神符不怕他<span class="block">（抓起桌上的杯子，向蛙儿掷去。飞跑下）</span></p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>青蛙郎啊，看我多诚实，</p>
 <p>愿把女儿嫁，丝毫不虚假！</p>
@@ -721,31 +721,31 @@
 <p>我赏你一斗金，赏你一斗银，</p>
 <p>好好地回去侍奉老人家！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>大姐刁怪难作贫家妇，</p>
 <p>那厢<span class="block">（指二姐、三姐、）</span>还有两枝花。</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>青蛙郎啊，听听我的话：</p>
 <p>欺侮人哪莫要欺到家！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>若讲欺人你是能手，</p>
 <p>你那饮血的枪刀专将好人杀！</p>
 <p>求婚若是难如愿，</p>
 <p>我会哭喊，哭喊到夕阳烘晚霞！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>你的怪笑声刺耳，</p>
 <p>你要啼哭我不怕！</p>
 <p>淘气的孩子善哭啼！</p>
 <p>哭到了力尽筋疲啊，太平天下！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>我就试一试，</p>
 <p>看你怕不怕，</p>
@@ -753,7 +753,7 @@
 <p>说好话。<span class="block">（哭啼）</span>哇！哇！哇！</p>
 </blockquote>
 <p class="l block">〔天旋地转，众人皆就地转圈。</p>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>青蛙郎！青蛙郎！</p>
 <p>快快收住泪！立刻别再哇！</p>
@@ -763,7 +763,7 @@
 <p>哭声比笑声更可怕！</p>
 </blockquote>
 <p class="l block">〔蛙儿停哭，大家安静下来。</p>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>二姑娘！二小姐！</p>
 <p>你快行好救命吧！</p>
@@ -778,7 +778,7 @@
 <p>几时你心中不自在，</p>
 <p>骑上骏马来住娘家！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>我比大姐多着几分美，</p>
 <p>她若是杜鹃花儿我是山茶！</p>
@@ -791,12 +791,12 @@
 <p>人人都会在你身后指指点点，</p>
 <p>拿你呀当作酒后茶余的小笑话！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>姑娘有见识，</p>
 <p>姑娘眼光大！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>青蛙，青蛙，放弃贪心吧，</p>
 <p>我永远永远不会将你嫁！</p>
@@ -805,7 +805,7 @@
 <p>你若知道好与歹，</p>
 <p>青蛙呀，赶紧蹦蹦跳跳转回家！<span class="block">（下）</span></p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>你看！你看！不是我固执，</p>
 <p>怎奈姑娘看不上小蛤蟆！</p>
@@ -814,7 +814,7 @@
 <p>拿着粮，拿着油，</p>
 <p>拿着够吃半年的盐与茶！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>不要你的粮，</p>
 <p>不要你的茶，</p>
@@ -823,14 +823,14 @@
 <p>你怕我的笑，又怕我的哭，</p>
 <p>惹恼了我呀，我会哈哈、哇哇，双管齐下！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>青蛙郎啊，你莫哇哇地哭，</p>
 <p>也莫笑哈哈！</p>
 <p>我愿随你去，</p>
 <p>请你递过手中的花！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>住口！没有我的话，</p>
 <p>看谁胆敢自己找婆家！</p>
@@ -839,7 +839,7 @@
 <p>我宁愿舍去几头牛，</p>
 <p>决不许你早出嫁！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>她是一朵自由自在的花，</p>
 <p>她要出嫁就出嫁！</p>
@@ -855,27 +855,27 @@
 <p>乐坏了我的慈善老爹妈！<span class="block">（献花）</span></p>
 <p>咱们走！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>走！走！我愿跟你走！</p>
 <p>这里呀是我的监牢不是家！</p>
 <p>你的好话打动我的心，</p>
 <p>我就渴望不分贫富，不受欺压！</p>
 </blockquote>
-蛙儿|我家虽寒苦，恩爱不缺乏！咱们走！
-三姐|走！走！我愿同你走，有恩爱的地方才是家！
-头人|
+<p class="xj"><span class="xchar">蛙儿</span> 我家虽寒苦，恩爱不缺乏！咱们走！</p>
+<p class="xj"><span class="xchar">三姐</span> 走！走！我愿同你走，有恩爱的地方才是家！</p>
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>站住！你走！你走！</p>
 <p>我不给你一颗种子，一根头发，</p>
 <p>看你用什么去充饥，</p>
 <p>看你拿什么过冬夏！</p>
 </blockquote>
-蛙儿|双手是我们的传家宝，
-三姐|种地、砍柴，也折花！
-蛙儿|我们的热汗滴湿了土，
-三姐|既收粮食又收麻！
-蛙儿 三姐|
+<p class="xj"><span class="xchar">蛙儿</span> 双手是我们的传家宝，</p>
+<p class="xj"><span class="xchar">三姐</span> 种地、砍柴，也折花！</p>
+<p class="xj"><span class="xchar">蛙儿</span> 我们的热汗滴湿了土，</p>
+<p class="xj"><span class="xchar">三姐</span> 既收粮食又收麻！</p>
+<p class="xj"><span class="xchar">蛙儿 三姐</span> </p>
 <blockquote>
 <p>你只知道爱黄金，</p>
 <p>黄金有价，爱无价！</p>
@@ -884,36 +884,36 @@
 <p>我们会养牛，我们会养马，</p>
 <p>不辞劳苦呀，我们连天神也不怕！<span class="block">（往外走）</span></p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>站住！我允许你们去成家，</p>
 <p>只要你们不再说怪话：</p>
 <p>什么修路通北京，</p>
 <p>什么不分贫富，不受欺压！</p>
 </blockquote>
-蛙儿 三姐|
+<p class="xj"><span class="xchar">蛙儿 三姐</span> </p>
 <blockquote>
 <p>我们高兴说，大家愿意听，</p>
 <p>谁能拦住百姓说真话？<span class="block">（又走）</span></p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>站住！站住！你们敢再走一步，</p>
 <p>我的毒弩一齐发！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>难道你忘了我会哭，</p>
 <p>我会笑？哇哇！哈哈！</p>
 </blockquote>
 <p class="l block">〔头人等皆不能动。</p>
-蛙儿 三姐|
+<p class="xj"><span class="xchar">蛙儿 三姐</span> </p>
 <blockquote>
 <p>再会吧，再会吧！</p>
 <p>走出这阴暗的肮脏的小朝廷，</p>
 <p>红日清风天地大！<span class="block">（下）</span></p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>哇呀呀！哇呀呀！</p>
 <p>我的心气碎！肺气炸！</p>
@@ -930,7 +930,7 @@
 
 
 
-第三场
+<h2 class="title2">第三场</h2>
 时间 秋收之后。
 地点 蛙儿家外面。
 人物 仆甲 大姐 二姐 三姐 父亲 母亲 蛙儿
@@ -938,12 +938,12 @@
 <p class="l block">〔幕启：景如第一场，但屋子靠后一些。靠近台口，大树数株，左右都有小道。中间一小道，通到蛙儿的家。屋子增加了一间，原有的两间也修理齐整。屋外堆起新的禾草，时时有牛羊与鸡鹅的鸣声。不问可知，蛙儿家的生活比以前好多了。</p>
 
 <p class="l block">〔仆甲引大姐、二姐上，往蛙儿家走。</p>
-仆甲|
+<p class="xj"><span class="xchar">仆甲</span> </p>
 <blockquote>
 <p>头人一定猜的对：</p>
 <p>三姐出嫁必后悔！</p>
 </blockquote>
-大姐 二姐|
+<p class="xj"><span class="xchar">大姐 二姐</span> </p>
 <blockquote>
 <p>她怎能不后悔？</p>
 <p>食无粮，眠无被！</p>
@@ -958,7 +958,7 @@
 <p>他若是一时死不了，</p>
 <p>头人会给他千百个死亡的好机会！</p>
 </blockquote>
-仆甲|<span class="block">（看见小屋，惊异）</span>
+<p class="xj"><span class="xchar">仆甲</span> <span class="block">（看见小屋，惊异）</span></p>
 <blockquote>
 <p>哎呀不对！哎呀不对！</p>
 <p>看<span class="block">（指）</span>，三姐并没有活受罪：</p>
@@ -971,7 +971,7 @@
 <p>纵然万语千言，字字甜如蜜，</p>
 <p>恐怕呀，她也不肯意转心回。</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>她受罪，正好劝她早回家；</p>
 <p>她享福，哼，我施巧计将她毁！</p>
@@ -983,20 +983,20 @@
 <p>我们会将蛛网织在她屋内！</p>
 </blockquote>
 <p class="l block">〔三姐手提乳桶，唱着由旁边走来。她更健美可爱了。</p>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>秋高气爽牛羊肥，</p>
 <p>勤俭持家生活美！</p>
 <p><span class="block">（看见她们）</span>啊？姐姐们怎么有闲情，</p>
 <p>不嫌地僻山高来看小妹？</p>
 </blockquote>
-大姐|山高挡不住姐妹的爱，
-二姐|地僻拦不住马如飞！
-大姐|我们日夜思念好三妹，
-二姐|梦里啊呼唤你千万回！
-大姐|想到啊你受饥寒姐酸心，
-二姐|想到啊你不快活姐落泪！
-三姐|
+<p class="xj"><span class="xchar">大姐</span> 山高挡不住姐妹的爱，</p>
+<p class="xj"><span class="xchar">二姐</span> 地僻拦不住马如飞！</p>
+<p class="xj"><span class="xchar">大姐</span> 我们日夜思念好三妹，</p>
+<p class="xj"><span class="xchar">二姐</span> 梦里啊呼唤你千万回！</p>
+<p class="xj"><span class="xchar">大姐</span> 想到啊你受饥寒姐酸心，</p>
+<p class="xj"><span class="xchar">二姐</span> 想到啊你不快活姐落泪！</p>
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>多谢大姐与二姐，</p>
 <p>我婚后的生活比婚前美：</p>
@@ -1009,24 +1009,24 @@
 <p>现在啊，每日里清风吹送我的歌声，</p>
 <p>我相信，青山明月听见也心醉！</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>三姐呀，随我们回去吧，</p>
 <p>头人想你彻夜难安睡！</p>
 </blockquote>
-三姐|他呀，想我如想失去的一头牛！
-二姐|
+<p class="xj"><span class="xchar">三姐</span> 他呀，想我如想失去的一头牛！</p>
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>你这么说话就造了罪！</p>
 <p>头人关心你快活不快活，</p>
 <p>头人关心你洗面用水还是用泪！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>请你们替我告诉他，</p>
 <p>我每逢回想过去才落泪！</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>三姐不要太无情，</p>
 <p>叫我们的善心都白费！</p>
@@ -1037,7 +1037,7 @@
 <p>你想啊，哪个新妇不愿夸新郎，</p>
 <p>只有你，提起新郎就含羞带愧。</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>我为什么羞？为什么愧？</p>
 <p>蛙郎的貌随心田美！</p>
@@ -1048,29 +1048,29 @@
 <p>他不辞劳，不畏苦，</p>
 <p>他一边歌唱一边抡动锄与锤！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>三姐你是迷了心，</p>
 <p>分不清哪是丑陋哪是美！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>什么是美？什么是美？</p>
 <p>难道就是皮鞭打烂别人的头与背？</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>三姐你夸丈夫美，</p>
 <p>不过是嘴上刚强，心中却后悔！</p>
 <p>你可敢同他去出游？</p>
 <p>你可敢携手同他去赴会？</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>告诉我要赴什么会，</p>
 <p>准叫你看见手拉手儿我们一对！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>秋收已过谢神恩，</p>
 <p>百里之内老少男女齐赴赛马会。</p>
@@ -1081,50 +1081,50 @@
 <p>你可敢当众给他牵着马，</p>
 <p>叫声绿脸情哥呀，祝你得胜归？</p>
 </blockquote>
-三姐|<span class="block">（低首思索）</span>……
-大姐|
+<p class="xj"><span class="xchar">三姐</span> <span class="block">（低首思索）</span>……</p>
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>三姐呀，你若没有衣装去赴会，</p>
 <p>姐姐借给你，锦衣成套，珠翠成堆！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>红莲不靠胭脂染，</p>
 <p>红颜不靠装饰放光辉。</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>到底你敢去不敢去？</p>
 <p>证明你并不口是心非。</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>二姐，不要逼她强点头，</p>
 <p>叫她难过，嘴硬心中馁！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>我心口如一爱蛙郎，</p>
 <p>我敢陪他并肩携手去赴会！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>不幸啊，蛙郎若从马上掉下来，</p>
 <p>跌碎了玻璃眼珠哪里去配？</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>是呀，眼珠易跌碎，</p>
 <p>跌碎不好配！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>你们心里没有一个好念头，</p>
 <p>你们的舌上有毒，唇污秽！</p>
 <p>恕我不让你们家中坐，</p>
 <p>再见吧，你我相逢在赛马会！<span class="block">（含怒往家中跑）</span></p>
 </blockquote>
-大姐 二姐|
+<p class="xj"><span class="xchar">大姐 二姐</span> </p>
 <blockquote>
 <p>哈哈，三姐中计冒了火，</p>
 <p>哈哈，青蛙必定去赛会！</p>
@@ -1133,69 +1133,69 @@
 <p>拔去父亲的眼中钉，</p>
 <p>老人家必定厚酬我姐妹！</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>事不宜迟，叫他三分田与财，</p>
 <p>你，我，他各得一份，</p>
 <p>公平分配！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>叫他立下字据来，那就是</p>
 <p>你我应得的嫁妆费。</p>
 <p>赛马会上你我找情郎，</p>
 <p>有情，有财，你我比天仙美十倍！</p>
 </blockquote>
-仆甲|
+<p class="xj"><span class="xchar">仆甲</span> </p>
 <blockquote>
 <p>那边来了蛙姑爷，</p>
 <p>上前迎接还是后退？</p>
 </blockquote>
 <p class="l block">〔他们急藏在树后，仆也藏起。蛙儿与父母各执农具自田中归来。</p>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>蛙儿呀，这几天为什么笑声少？</p>
 <p>莫非身上不舒服？</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>莫非是恐怕头人未息怒，</p>
 <p>找上门来图报复？</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>双亲哪，儿已是成了家的人，</p>
 <p>理应当少贪游戏多辛苦！</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>金鸡未唱你起床，</p>
 <p>日落西山你手脚不停住，</p>
 <p>你已够辛苦，</p>
 <p>操劳勿过度！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>妈妈呀，我虽早起晚睡多辛苦，</p>
 <p>可是啊，我的力量还不足！</p>
 <p>前几天，又梦见了慈悲“地母”，</p>
 <p>给我指出光明路。</p>
 </blockquote>
-父亲|莫非还是那三条？
-蛙儿|
+<p class="xj"><span class="xchar">父亲</span> 莫非还是那三条？</p>
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>是！一叫世人不再分贫富！</p>
 <p>二叫百姓不受官欺侮！</p>
 <p>三是一条大道通北京，</p>
 <p>有无相通，汉人与我们万世永和睦！</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>感谢神明，慈悲的“地母”！</p>
 <p>做到这三条啊，人人都在天堂住！</p>
 </blockquote>
-父亲|蛙儿呀，“地母”还有什么新嘱咐？
-蛙儿|
+<p class="xj"><span class="xchar">父亲</span> 蛙儿呀，“地母”还有什么新嘱咐？</p>
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>叫我呀，先把精力养十足：</p>
 <p>日行千里不疲劳，</p>
@@ -1203,49 +1203,49 @@
 <p>天南地北逢人说，</p>
 <p>说这三条光明路！</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>可是呀，百姓和头人心不同，</p>
 <p>头人必将你拦阻！</p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>所以呀，我才应当操劳再操劳，</p>
 <p>养足力量，穿山越岭如猛虎！</p>
 </blockquote>
 <p class="l block">〔三姐跑来。</p>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>父亲母亲请去用饭，</p>
 <p>饭后啊请你们休息一下午！</p>
 </blockquote>
-父亲 母亲|
+<p class="xj"><span class="xchar">父亲 母亲</span> </p>
 <blockquote>
 <p>贤孝儿媳多么可爱，</p>
 <p>真是我呀我二老的掌上珠！<span class="block">（下）</span></p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>蛙郎，蛙郎，我问你，</p>
 <p>赛马会将到，你可以驰马赛箭邀神福？</p>
 </blockquote>
-蛙儿|好三姐，容我想一想！
-三姐|
+<p class="xj"><span class="xchar">蛙儿</span> 好三姐，容我想一想！</p>
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>想一想？𫪘，𫪘，莫非你怕相貌丑，</p>
 <p>姑娘们不给你欢呼？</p>
 <p>我会用尽全身力，</p>
 <p>喊破喉咙，我给你欢呼！</p>
 </blockquote>
-蛙儿|好三姐，的确真心热爱我！
-三姐|
+<p class="xj"><span class="xchar">蛙儿</span> 好三姐，的确真心热爱我！</p>
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>我爱丈夫正如你爱我这小媳妇！</p>
 <p>好，好，你我携手去，</p>
 <p>赛马会上叫千人万人认识我的好丈夫！</p>
 </blockquote>
-蛙儿|三姐容我细细想一想！
-三姐|
+<p class="xj"><span class="xchar">蛙儿</span> 三姐容我细细想一想！</p>
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>难道你失去勇敢变成懦夫？</p>
 <p>蛙郎，去吧！去吧！</p>
@@ -1255,36 +1255,36 @@
 <p>大姐二姐刚才来看我，</p>
 <p>想必是测探虚实面善心毒！</p>
 </blockquote>
-蛙儿|我，我，我……
-三姐|
+<p class="xj"><span class="xchar">蛙儿</span> 我，我，我……</p>
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>为什么迟疑不决，吞吞吐吐？</p>
 <p>为什么叫我伤心想啼哭？<span class="block">（掩面跑下）</span></p>
 </blockquote>
-蛙儿|
+<p class="xj"><span class="xchar">蛙儿</span> </p>
 <blockquote>
 <p>三姐莫伤心，我去，我去！</p>
 <p>好好地商量切莫啼哭！<span class="block">（追下）</span></p>
 </blockquote>
 <p class="l block">〔大姐等从树后探头，轻轻地出来。</p>
-大姐|二姐你可听清楚？
-二姐|还是那三条催命符！
-大姐|
+<p class="xj"><span class="xchar">大姐</span> 二姐你可听清楚？</p>
+<p class="xj"><span class="xchar">二姐</span> 还是那三条催命符！</p>
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>没有穷没有富，</p>
 <p>谁去享福谁受苦？</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>百姓不受官欺侮，</p>
 <p>作官还有什么好处？</p>
 </blockquote>
-仆甲|
+<p class="xj"><span class="xchar">仆甲</span> </p>
 <blockquote>
 <p>一条大路到北京，</p>
 <p>逛逛北京真舒服！</p>
 </blockquote>
-大姐 二姐|
+<p class="xj"><span class="xchar">大姐 二姐</span> </p>
 <blockquote>
 <p>呸！呸！头人本会作买卖，</p>
 <p>干什么有无相通修大路？</p>
@@ -1300,14 +1300,14 @@
 
 
 
-第四场
+<h2 class="title2">第四场</h2>
 时间 前场后数日。
 地点 赛马大会。
 人物 群众若干人 仆甲 头人 大姐 二姐 仆乙 三姐 父亲 蛙骑手<span class="block">（蛙儿）</span>
 
 <p class="l block">〔幕启：远山。一片广场。远处有不少帐篷，远道而来的在帐篷中过夜。近处有看台，备头人等休息及看赛马之用。台口设大束红花——赛马的锦标，来来往往有游玩的，有卖香烛的，有卖小吃的……一群姑娘围着四位骑手正在歌舞。一些年纪较大的旁观。</p>
 
-姑娘们|
+<p class="xj"><span class="xchar">姑娘们</span> </p>
 <blockquote>
 <p>哪里有爱情，</p>
 <p>哪里是春天！</p>
@@ -1322,14 +1322,14 @@
 <p>更别忘赐福给青年男女，</p>
 <p>叫我们随心如意早结良缘！</p>
 </blockquote>
-骑手们|
+<p class="xj"><span class="xchar">骑手们</span> </p>
 <blockquote>
 <p>我们谢神显身手，</p>
 <p>矫健如虎，轻捷如猿！</p>
 <p>姑娘们，我们的幸福啊，</p>
 <p>全在你们的秋波里一转！</p>
 </blockquote>
-姑娘们|
+<p class="xj"><span class="xchar">姑娘们</span> </p>
 <blockquote>
 <p>说什么秋波那一转，</p>
 <p>我们是来看驰马与射箭。</p>
@@ -1338,21 +1338,21 @@
 <p>谁能够扬鞭一马当先，</p>
 <p>姑娘们的心啊就会飞到马前边！</p>
 </blockquote>
-骑手们|
+<p class="xj"><span class="xchar">骑手们</span> </p>
 <blockquote>
 <p>我们的雕翎响处天地颤，</p>
 <p>我们的骏马追过暴风前！</p>
 <p>我们怎能不勇敢，</p>
 <p>姑娘们喜爱勇敢青年！</p>
 </blockquote>
-姑娘们 骑手们|
+<p class="xj"><span class="xchar">姑娘们 骑手们</span> </p>
 <blockquote>
 <p>多么美的地，多么美的山，</p>
 <p>多么美的男女，地上山前！</p>
 <p>歌吧，舞吧，日夜狂欢。</p>
 <p>叫美丽的地上呀永远是春天！</p>
 </blockquote>
-旁观者|
+<p class="xj"><span class="xchar">旁观者</span> </p>
 <blockquote>
 <p>地美山美万物美，</p>
 <p>只可惜人的生活并不美满！</p>
@@ -1360,7 +1360,7 @@
 <p>手脚不动的反倒粮谷堆成山！</p>
 </blockquote>
 <p class="l block">〔仆甲执鞭引头人、大姐、二姐上。仆乙后随。人们一齐敬礼，场上静寂。</p>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>适才间是哪个口出怨言：</p>
 <p>说什么生活不美满？<span class="block">（无人敢回答）</span></p>
@@ -1378,7 +1378,7 @@
 <p>我是慈心的富贵神仙！</p>
 </blockquote>
 <p class="l block">〔众仍不语。</p>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>他们不语，因为心有愧，</p>
 <p>后悔随便说出怨言。</p>
@@ -1386,7 +1386,7 @@
 <p>请上台去看我们舞翩跹！</p>
 </blockquote>
 <p class="l block">〔仆甲、乙引头人上看台。姑娘们要躲开。</p>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>别走，别走，咱们同歌舞！</p>
 <p>你们的红裙绿袄招我喜欢！</p>
@@ -1395,7 +1395,7 @@
 <p>我家的地，你们来玩，</p>
 <p>你们看，父亲慈善不慈善？</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p><span class="block">（对骑手们）</span>来吧，陪我唱，陪我舞，</p>
 <p>我今天不管谁穷谁有钱！</p>
@@ -1405,7 +1405,7 @@
 <p>做到啊皆大欢喜四季平安！</p>
 </blockquote>
 <p class="l block">〔先由大姐、二姐与二骑手起舞，慢慢地姑娘们也参加进来。头人高坐台上，二仆侍立。</p>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>拐走三姐，青蛙的胆包天，</p>
 <p>此仇不报，怎能保住我的威严？</p>
@@ -1415,8 +1415,8 @@
 <p>养痈成患啊哪里有灵丹？</p>
 <p>仆人们，四面可曾埋伏好？</p>
 </blockquote>
-仆甲|家人们已经混藏在游人里边！
-头人|嗯！<span class="block">（对仆乙）</span>
+<p class="xj"><span class="xchar">仆甲</span> 家人们已经混藏在游人里边！</p>
+<p class="xj"><span class="xchar">头人</span> 嗯！<span class="block">（对仆乙）</span></p>
 <blockquote>
 <p>再去嘱咐他们一遍，</p>
 <p>叫他们紧记在心间！</p>
@@ -1432,57 +1432,57 @@
 <p>叫他纵然不死也得受饥寒！</p>
 </blockquote>
 <p class="l block">〔仆乙下。三姐同公公上。</p>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>三姐呀，头人高坐看台上，</p>
 <p>你我顶好躲在外边！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>亲爱的父亲不要怕，</p>
 <p>谢神的会上他不敢动凶蛮！</p>
 </blockquote>
 <p class="l block">〔大姐、二姐舞罢，看见三姐。</p>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>三姐三姐你可好？</p>
 <p>你的蛙郎他在哪里玩？</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>老人家，你可好？</p>
 <p>老妈妈为何不在你身边？</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>莫不是蛙郎自惭形秽？</p>
 <p>莫不是你伴他同来同去有点难堪？</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>莫不是妈妈不许他出来赛马，</p>
 <p>怕他出丑现眼，连人带马跌成一团？</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>你们不必心坏嘴尖酸，</p>
 <p>勇敢的蛙郎就在后边！</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>为什么在后边？</p>
 <p>不与你并肩？</p>
 <p>是你嫌他丑？</p>
 <p>还是他难堪？</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>为什么在后边？</p>
 <p>走的比你慢？</p>
 <p>难道没有马？</p>
 <p>骑牛过青山？</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>骑牛最稳当，</p>
 <p>骑马多危险，</p>
@@ -1490,7 +1490,7 @@
 <p>摔成烂鸡蛋！</p>
 </blockquote>
 <p class="l block">〔姐妹狂笑着到看台去。</p>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>蛙郎，蛙郎，为什么不快来，</p>
 <p>莫非真在中途出了危险？</p>
@@ -1501,12 +1501,12 @@
 <p>蛙郎啊，来吧，我知道你勇敢，</p>
 <p>你必得胜叫仇人胆寒！</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>三姐呀，他既不来，我们回去吧，</p>
 <p>这样争强斗胜叫我不安！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>我与蛙郎仔细想过：</p>
 <p>他来赛马是为叫我们更安全。</p>
@@ -1518,7 +1518,7 @@
 <p>头人反会后退暂避争端！</p>
 </blockquote>
 <p class="l block">〔锣鼓齐作，号筒齐鸣，赛马即将开始，若干骑手们结队而来，执鞭带箭。大姐、二姐下台来鼓舞最漂亮的青年们。</p>
-大姐 二姐|
+<p class="xj"><span class="xchar">大姐 二姐</span> </p>
 <blockquote>
 <p>开屏的孔雀不比你们美，</p>
 <p>云里的雄鹰不比你们的羽翼坚！</p>
@@ -1533,66 +1533,66 @@
 <p>得胜回来幸福不浅！</p>
 <p>我们的美青年！美青年！<span class="block">（她们看见三姐，走过去）</span></p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>三姐看看这些美青年，</p>
 <p>没有一个长着琉璃眼。</p>
 <p>哎呀，我真想见见蛙郎面，</p>
 <p>怎奈他不肯赏脸，不肯赏脸！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>三姐你爱哪个美青年？</p>
 <p>请你自己来挑选。</p>
 <p>你若仍旧爱蛙郎，</p>
 <p>怎奈蛙郎不肯露面，不肯露面！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>蛙郎不用你们关心，</p>
 <p>我知道他比谁都勇敢！</p>
 </blockquote>
-大姐 二姐|
+<p class="xj"><span class="xchar">大姐 二姐</span> </p>
 <blockquote>
 <p>是呀，蛙郎比猛虎还勇敢，</p>
 <p>可惜呀藏在洞里不敢下山！</p>
 </blockquote>
 <p class="l block">〔锣鼓再响，骑手们作“赛马舞”、“射箭舞”，而后再作“赛马舞”，疾下。</p>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>骏马奔腾红尘遮住天，</p>
 <p>三姐呀，不见蛙郎我替你不安！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>蛙郎，蛙郎，快来吧，</p>
 <p>自信必胜的不怕来晚！</p>
 </blockquote>
 <p class="l block">〔应声而上，来了个最英俊的青年，执鞭带箭，春风满面，即青蛙骑手。大家都认不出他是谁。</p>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>不忍催马紧加鞭，</p>
 <p>信马游缰山水间。</p>
 </blockquote>
-三姐|<span class="block">（急迎上去）</span>蛙郎，蛙郎，𫪘，不是！不是！<span class="block">（低首含羞）</span>
-大姐|三姐，错认了丈夫多么难堪！<span class="block">（用指羞她。凑近骑手）</span>哎呀，哎呀，我不必问你的名和姓，我愿与你立刻订良缘！<span class="block">（骑手不理她）</span>
-二姐|
+<p class="xj"><span class="xchar">三姐</span> <span class="block">（急迎上去）</span>蛙郎，蛙郎，𫪘，不是！不是！<span class="block">（低首含羞）</span></p>
+<p class="xj"><span class="xchar">大姐</span> 三姐，错认了丈夫多么难堪！<span class="block">（用指羞她。凑近骑手）</span>哎呀，哎呀，我不必问你的名和姓，我愿与你立刻订良缘！<span class="block">（骑手不理她）</span></p>
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>大姐你且退后点，</p>
 <p>我早与他梦里誓海盟山！</p>
 </blockquote>
-蛙骑手|<span class="block">（不理她）</span>
+<p class="xj"><span class="xchar">蛙骑手</span> <span class="block">（不理她）</span></p>
 <blockquote>
 <p>青年骑手都何在？</p>
 <p>为何不见风驰电掣马壮人欢？</p>
 </blockquote>
 <p class="l block">〔一群姑娘都围上来。</p>
-姑娘们|
+<p class="xj"><span class="xchar">姑娘们</span> </p>
 <blockquote>
 <p>你艺高胆大来的晚，</p>
 <p>你看<span class="block">（指远处）</span>，看，他们放马着先鞭。</p>
 </blockquote>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>姑娘们，且看我蹬里藏花巧射三支箭，</p>
 <p>箭中红心，请你们莫吝欢呼声震天！<span class="block">（弯身巧射三箭，都中红心。姑娘们跳跃欢呼。随后，俯拾野花一把）</span></p>
@@ -1601,24 +1601,24 @@
 <p>青骢马呀，施展你腾云超海的真本领，</p>
 <p>赶上、超过，远远超过那些青年！<span class="block">（疾驰而去）</span></p>
 </blockquote>
-姑娘们|
+<p class="xj"><span class="xchar">姑娘们</span> </p>
 <blockquote>
 <p>他是谁？他是谁？</p>
 <p>骏马如龙人似仙？</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>他是我的好朋友，</p>
 <p>我不许你们多看他一眼！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>姐姐的朋友是我的未婚郎，</p>
 <p>谁多看他一眼哪，谁就烂眼边！</p>
 </blockquote>
-大姐|<span class="block">（对二姐）</span>呸！呸！
+<p class="xj"><span class="xchar">大姐</span> <span class="block">（对二姐）</span>呸！呸！</p>
 <p class="l block">〔姑娘们大笑，三姐亦笑。</p>
-大姐 二姐|<span class="block">（齐对三姐）</span>
+<p class="xj"><span class="xchar">大姐 二姐</span> <span class="block">（齐对三姐）</span></p>
 <blockquote>
 <p>请问你，有什么心肠哈哈地笑？</p>
 <p>难道说蛙郎就是那个美青年？</p>
@@ -1627,14 +1627,14 @@
 <p>走，走，上台去见老父亲，</p>
 <p>他会赏你皮鞭与锁链！</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>二位小姐高抬手，</p>
 <p>原谅三姐年轻不知深浅！</p>
 <p>三姐呀，蛙郎想是不能来，</p>
 <p>快随老父回家转！<span class="block">（拉三姐走）</span></p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>我本想在千人万人前，</p>
 <p>显一显蛙郎的本领与勇敢！</p>
@@ -1650,15 +1650,15 @@
 <p>我不会一步一心酸！</p>
 </blockquote>
 <p class="l block">〔三姐一边唱一边搀着父亲走去。</p>
-大姐|二姐，放走三姐还是捉住？
-二姐|
+<p class="xj"><span class="xchar">大姐</span> 二姐，放走三姐还是捉住？</p>
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>且叫她多活三两天！</p>
 <p>三姐无足虑，蛙儿是祸胎，</p>
 <p>打草惊蛇不上算！</p>
 </blockquote>
 <p class="l block">〔蛙骑手为首，骑手们先后驰归。姑娘们欢呼。骑手们绕场疾舞一匝。蛙骑手到台前取得红花。</p>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>英雄爱骏马，</p>
 <p>人海一扬鞭！</p>
@@ -1675,7 +1675,7 @@
 <p>明年赛马会，</p>
 <p>相见再联欢！<span class="block">（疾走下）</span></p>
 </blockquote>
-大姐 二姐|
+<p class="xj"><span class="xchar">大姐 二姐</span> </p>
 <blockquote>
 <p>请你不要走，不要走！</p>
 <p>我们给你设酒宴！</p>
@@ -1689,14 +1689,14 @@
 
 
 
-第五场
+<h2 class="title2">第五场</h2>
 时间 与前场同时。
 地点 蛙儿的家。
 人物 母亲 打手 蛙骑手 父亲 三姐
 
 <p class="l block">〔幕启：母亲独坐屋外。膝上放着蛙儿的绿皮。打手窥探。</p>
 
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>三姐说的也有理：</p>
 <p>越怕出头越受委屈！</p>
@@ -1722,13 +1722,13 @@
 <p>只有看见你啊我才能够自在呼吸！</p>
 </blockquote>
 <p class="l block">〔打手冷不防地跳过来，夺取蛙皮。母亲不放手，被打手踢倒，把蛙皮抢去。</p>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>救命啊！救命啊！</p>
 <p>你，你，要东西要钱，请你随便取，</p>
 <p>千万别伤了那张皮！</p>
 </blockquote>
-打手|
+<p class="xj"><span class="xchar">打手</span> </p>
 <blockquote>
 <p>我来是为放一把火，</p>
 <p>风高火旺，顷刻烧完一切破东西！</p>
@@ -1738,7 +1738,7 @@
 <p>抱着冰冷的蛙儿日夜啼！<span class="block">（下）</span></p>
 </blockquote>
 <p class="l block">〔母亲想追，但无力气立起来。</p>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>神哪！慈悲的神哪！</p>
 <p>我造过什么孽？叫谁受过屈？</p>
@@ -1751,7 +1751,7 @@
 <p>保佑蛙儿，惩罚杀人放火的坏东西？</p>
 </blockquote>
 <p class="l block">〔蛙骑手唱着走来。</p>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>马走如飞心狂喜，</p>
 <p>这回的胜利解去犹疑，</p>
@@ -1767,11 +1767,11 @@
 <p>遵你嘱咐，我没敢耽延到日向西！</p>
 <p>啊？妈妈！妈妈！</p>
 </blockquote>
-母亲|儿！我的儿！强盗啊劫去了你的皮！
-蛙骑手|啊？什么？妈妈！什么？
-母亲|强盗，强盗，劫去你的皮！
+<p class="xj"><span class="xchar">母亲</span> 儿！我的儿！强盗啊劫去了你的皮！</p>
+<p class="xj"><span class="xchar">蛙骑手</span> 啊？什么？妈妈！什么？</p>
+<p class="xj"><span class="xchar">母亲</span> 强盗，强盗，劫去你的皮！</p>
 <p class="l block">〔蛙骑手昏倒。</p>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>儿呀，儿呀，不是为娘不在意，</p>
 <p>你走后，我抱着它呀片刻未曾离！</p>
@@ -1780,7 +1780,7 @@
 <p>蛙儿！蛙儿！醒醒吧！</p>
 <p>快与妈妈同想好主意！</p>
 </blockquote>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>妈妈呀，不要伤心，事不怨你！</p>
 <p>都怪我呀粗心不仔细！</p>
@@ -1797,29 +1797,29 @@
 <p>妈妈呀，不要伤心哭坏身体，</p>
 <p>大事已去，无须相对苦悲啼！</p>
 </blockquote>
-母亲|儿呀，你的马匹在哪里？
-蛙骑手|在门前草地落汗、休息。
-母亲|你能不能熬过今夜晚？
-蛙骑手|熬不过报晓的三遍鸡！
-母亲|
+<p class="xj"><span class="xchar">母亲</span> 儿呀，你的马匹在哪里？</p>
+<p class="xj"><span class="xchar">蛙骑手</span> 在门前草地落汗、休息。</p>
+<p class="xj"><span class="xchar">母亲</span> 你能不能熬过今夜晚？</p>
+<p class="xj"><span class="xchar">蛙骑手</span> 熬不过报晓的三遍鸡！</p>
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>好，我骑上你的青骢马，</p>
 <p>去找头人要宝衣！</p>
 <p>我的血泪，哀求，与母爱，</p>
 <p>也许能感动豺狼放弃杀机！</p>
 </blockquote>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>我劝老娘不必去，</p>
 <p>恶兽不会放松口中的鸡！</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>好吧，叫为娘紧紧搂抱你，</p>
 <p>等三姐回来定主意！<span class="block">（抱他）</span></p>
 </blockquote>
 <p class="l block">〔有马蹄声，三姐同父亲上。</p>
-三姐|<span class="block">（回顾）</span>
+<p class="xj"><span class="xchar">三姐</span> <span class="block">（回顾）</span></p>
 <blockquote>
 <p>千谢万谢好邻居，</p>
 <p>肯将快马借给我们骑！</p>
@@ -1828,55 +1828,55 @@
 <p><span class="block">（对父亲）</span>一路之上我思来想去，</p>
 <p>莫非蛙郎变了模样赛马得第一？</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>他若是蛙郎，应当道喜，</p>
 <p>你不嫌他丑，当然更爱他颜如玉！</p>
 </blockquote>
-母亲|三姐，三姐，快点来吧！
-三姐|
+<p class="xj"><span class="xchar">母亲</span> 三姐，三姐，快点来吧！</p>
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p><span class="block">（跑）</span>母亲因何这样着急？</p>
 <p><span class="block">（看见蛙骑手）</span>啊？你是，你真是那个美骑手，</p>
 <p>为什么面色苍白身软如泥？</p>
 </blockquote>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>儿呀，莫非劳累伤了元气？</p>
 <p>喝杯烈酒把神提？</p>
 </blockquote>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>三姐！三姐！握住我的手，</p>
 <p>我们至死不相离！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>啊？死！死！红花刚刚才佩起，</p>
 <p>说什么死别与生离？</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>三姐，三姐，把他交给你，</p>
 <p>我去找头人索要蛙郎的皮！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p><span class="block">（哭）</span>皮！皮！蛙郎，蛙郎，是我害了你！</p>
 <p><span class="block">（抱他）</span>你活我活，你死我死，决不相离！</p>
 </blockquote>
-父亲|<span class="block">（对妻）</span>
+<p class="xj"><span class="xchar">父亲</span> <span class="block">（对妻）</span></p>
 <blockquote>
 <p>去找头人有何用？</p>
 <p>他久把咱们全家视作仇敌！</p>
 </blockquote>
-母亲|我去！我去哀求说好话，好话不行啊，一头撞去至死不屈！
-蛙骑手|<span class="block">（声音微弱）</span>妈妈！妈妈！不必去！
-母亲|神的孩子呀，等着我，你必须熬过三遍鸡！
+<p class="xj"><span class="xchar">母亲</span> 我去！我去哀求说好话，好话不行啊，一头撞去至死不屈！</p>
+<p class="xj"><span class="xchar">蛙骑手</span> <span class="block">（声音微弱）</span>妈妈！妈妈！不必去！</p>
+<p class="xj"><span class="xchar">母亲</span> 神的孩子呀，等着我，你必须熬过三遍鸡！</p>
 <p class="l block">〔母亲要走，父亲拦阻，拦不住。父亲追下。</p>
-三姐|蛙郎啊，难道你熬不过鸡鸣三遍？
-蛙骑手|三姐，安心吧，在你的怀中至死也欢喜！
-三姐|
+<p class="xj"><span class="xchar">三姐</span> 蛙郎啊，难道你熬不过鸡鸣三遍？</p>
+<p class="xj"><span class="xchar">蛙骑手</span> 三姐，安心吧，在你的怀中至死也欢喜！</p>
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>靠紧点，靠紧点，</p>
 <p>叫我的热泪往你身上滴！</p>
@@ -1888,7 +1888,7 @@
 <p>我的心，我的血，我的生命全都交给你！</p>
 </blockquote>
 <p class="l block">〔光渐微。父亲回来。</p>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>白日西沉凉风起，</p>
 <p>将蛙郎啊轻轻地移到屋中去！</p>
@@ -1902,7 +1902,7 @@
 <p>温暖就在咱们这寒家里！</p>
 </blockquote>
 <p class="l block">〔灯熄，暗转。灯再明，屋里。已至半夜。三姐仍搂抱着蛙郎。鸡鸣第一遍。</p>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>惊闻一声鸡，</p>
 <p>泪尽还要啼！</p>
@@ -1917,8 +1917,8 @@
 <p>活起来，活下去！</p>
 <p>把“地母”的话呀播种在人心里！</p>
 </blockquote>
-蛙骑手|<span class="block">（微弱地）</span>三姐，你的泪落在我脸上是暖的！
-三姐|<span class="block">（用灯照）</span>
+<p class="xj"><span class="xchar">蛙骑手</span> <span class="block">（微弱地）</span>三姐，你的泪落在我脸上是暖的！</p>
+<p class="xj"><span class="xchar">三姐</span> <span class="block">（用灯照）</span></p>
 <blockquote>
 <p>我的泪变红，热血，热血，全给你！</p>
 <p>若是我的热血能将你救活，</p>
@@ -1929,8 +1929,8 @@
 <p>我的爱都交给你！</p>
 <p>是不是热血涂哪里，哪里觉温暖？</p>
 </blockquote>
-蛙骑手|是！是！三姐，为救我呀苦了你！
-三姐|<span class="block">（继续涂血）</span>
+<p class="xj"><span class="xchar">蛙骑手</span> 是！是！三姐，为救我呀苦了你！</p>
+<p class="xj"><span class="xchar">三姐</span> <span class="block">（继续涂血）</span></p>
 <blockquote>
 <p>说什么苦了我，</p>
 <p>你我原来是一体！</p>
@@ -1967,28 +1967,28 @@
 <p>北京和这里互送好东西！</p>
 </blockquote>
 <p class="l block">〔父亲上。</p>
-父亲|三姐！三姐！鸡鸣二遍！
-三姐|他身上心里可已不战栗！
-蛙骑手|
+<p class="xj"><span class="xchar">父亲</span> 三姐！三姐！鸡鸣二遍！</p>
+<p class="xj"><span class="xchar">三姐</span> 他身上心里可已不战栗！</p>
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>感谢贤妻！感谢贤妻！</p>
 <p>春风又吹到我的身上和心里！</p>
 <p>世间没有妙药与灵丹，</p>
 <p>起死回生仗着你的爱心无穷无息！</p>
 </blockquote>
-三姐|蛙郎啊，蛙郎！<span class="block">（昏倒）</span>
-蛙骑手|
+<p class="xj"><span class="xchar">三姐</span> 蛙郎啊，蛙郎！<span class="block">（昏倒）</span></p>
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>父亲！父亲！快救三姐！</p>
 <p>神哪，别将死罪转给我的妻！</p>
 </blockquote>
 <p class="l block">〔父亲给三姐扎裹止血。鸡鸣三遍。</p>
-父亲|
+<p class="xj"><span class="xchar">父亲</span> </p>
 <blockquote>
 <p>三姐，好儿媳！</p>
 <p>救人的不会毁了自己！</p>
 </blockquote>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>三姐，热血把我们凝在一起，</p>
 <p>我们的身、心永不分离！</p>
@@ -1999,45 +1999,45 @@
 
 
 
-第六场
+<h2 class="title2">第六场</h2>
 时间 前场次日。
 地点 头人的大门前。
 人物 群众若干人 头人的仆奴若干人 母亲 仆甲、乙 头人 大姐 二姐 三姐 蛙骑手
 
 <p class="l block">〔幕启：头人的大门外，群众三五成组，交头接耳。头人的仆奴们武装肃立。母亲被锁在一株小树上。</p>
 
-群众一组|<span class="block">（低唱）</span>
+<p class="xj"><span class="xchar">群众一组</span> <span class="block">（低唱）</span></p>
 <blockquote>
 <p>作人难！作人难！</p>
 <p>下有头人上有天！</p>
 </blockquote>
-群众二组|<span class="block">（低唱）</span>
+<p class="xj"><span class="xchar">群众二组</span> <span class="block">（低唱）</span></p>
 <blockquote>
 <p>天降灾，涝与旱，</p>
 <p>头人依旧要粮、钱！</p>
 </blockquote>
-群众三组|<span class="block">（低唱）</span>
+<p class="xj"><span class="xchar">群众三组</span> <span class="block">（低唱）</span></p>
 <blockquote>
 <p>头人莫轻犯，</p>
 <p>宁可得罪天！</p>
 <p>天神无刀剑，</p>
 <p>头人有皮鞭！</p>
 </blockquote>
-群众四组|<span class="block">（低唱）</span>
+<p class="xj"><span class="xchar">群众四组</span> <span class="block">（低唱）</span></p>
 </blockquote>
 今朝又何事？
 传唤到门前？
 家无隔夜粟，
 身无一文钱！
 </blockquote>
-群众全体|<span class="block">（低唱）</span>
+<p class="xj"><span class="xchar">群众全体</span> <span class="block">（低唱）</span></p>
 <blockquote>
 <p>为什么锁上老婆婆？</p>
 <p>莫非当众将她审判？</p>
 <p>她莫非欠下了钱？</p>
 <p>还是家奴梦想挣脱铁锁链？</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>我不欠他一文钱！</p>
 <p>为救娇儿项带锁链！</p>
@@ -2047,14 +2047,14 @@
 <p>反说我兴风作浪应当严惩办！</p>
 </blockquote>
 <p class="l block">〔大家同情她，纷纷耳语。</p>
-众仆|
+<p class="xj"><span class="xchar">众仆</span> </p>
 <blockquote>
 <p>肃静，肃静，不许交谈！</p>
 <p>静候头人驾到，一齐参见！</p>
 </blockquote>
 <p class="l block">〔众静默。仆甲、乙导头人出来，大姐、二姐随后。头人手中提着蛙皮，像提着一块破布那样。</p>
-母亲|<span class="block">（挣扎）</span>给我！给我那张皮！给我！人命关天！人命关天！
-头人|
+<p class="xj"><span class="xchar">母亲</span> <span class="block">（挣扎）</span>给我！给我那张皮！给我！人命关天！人命关天！</p>
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>住口！你敢再狂喊，</p>
 <p>我叫你立刻腰折骨断！</p>
@@ -2063,8 +2063,8 @@
 <p>这个妖婆<span class="block">（指母亲）</span>住在小山后，</p>
 <p>造孽呀，生下个妖精将我隐瞒！</p>
 </blockquote>
-群众|妖精？妖精？
-头人|
+<p class="xj"><span class="xchar">群众</span> 妖精？妖精？</p>
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>那妖精本是青蛙变，</p>
 <p>绿脸金睛眼观天！</p>
@@ -2077,17 +2077,17 @@
 <p>想起贤慧的三闺女，</p>
 <p>我们全家日夜泪涟涟！<span class="block">（抹泪）</span></p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>可怜的三妹吞声饮泪，</p>
 <p>陪着个冰凉的青蛙呀共枕同眠！<span class="block">（抹泪）</span></p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>可怜的三妹中了魔法，</p>
 <p>把塘中的蝌蚪叫作亲眷！<span class="block">（抹泪）</span></p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>我越宽大，妖精越狂妄，</p>
 <p>到处去惑乱人心散布谣言：</p>
@@ -2100,22 +2100,22 @@
 <p>他摇身一变变成个美男子，</p>
 <p>在赛马会上射箭扬鞭！</p>
 </blockquote>
-群众|
+<p class="xj"><span class="xchar">群众</span> </p>
 <blockquote>
 <p>原来是他？原来是他？</p>
 <p>我们都爱他人强马壮飘飘欲仙？</p>
 </blockquote>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>当时连我也心里发乱，</p>
 <p>真想跟他立结良缘！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>妖精只要长的美，</p>
 <p>我嫁妖精也心甘！<span class="block">（媚笑）</span></p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>不准乱讲！不准发笑！</p>
 <p>听我说怎么看破个里机关！</p>
@@ -2128,36 +2128,36 @@
 <p>神仙说：头人哪，你的德高福气大，</p>
 <p>这张皮啊，给你作双靴子穿！</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>还给我！还给我！</p>
 <p>还我儿子的命，别再造谣言！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>住口！妖婆啊，这张皮已没用处，</p>
 <p>你看看，红日当空明万山！</p>
 <p>现在呀，蛙妖已经遍体冷如冰，</p>
 <p>十个太阳难叫他温暖！</p>
 </blockquote>
-群众|
+<p class="xj"><span class="xchar">群众</span> </p>
 <blockquote>
 <p>头人哪，青蛙现已死，</p>
 <p>请忘旧怨结个善缘！</p>
 <p>还给他的身上皮，</p>
 <p>当作寿衣埋起，他必感激！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>胡说！哪个妖魔穿寿衣？</p>
 <p>哪个妖魔懂感激？</p>
 </blockquote>
-群众|
+<p class="xj"><span class="xchar">群众</span> </p>
 <blockquote>
 <p>请头人释放老婆婆，</p>
 <p>叫她回家去哭奠！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>妖母才会生妖娃，</p>
 <p>放走她，她还会兴妖作怪天昏地暗！</p>
@@ -2174,7 +2174,7 @@
 </blockquote>
 <p class="l block">〔二仆尚未及举鞭，马蹄疾响，蛙郎与三姐高唱而来。</p>
 <p class="l block">〔三姐的左臂用小板托着。</p>
-蛙骑手 三姐|
+<p class="xj"><span class="xchar">蛙骑手 三姐</span> </p>
 <blockquote>
 <p>日朗风清秋色艳，</p>
 <p>红叶如花花未残。</p>
@@ -2187,34 +2187,34 @@
 <p>慈祥的老母项带铁链，</p>
 <p>罪恶的手啊扬起皮鞭！<span class="block">（过去，把老母解下）</span></p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>蛙郎！三姐！</p>
 <p>难道这是相逢在九泉？</p>
 </blockquote>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>母亲啊！鸡鸣三遍儿体未僵冷，</p>
 <p>三姐的热血暖到我心间！</p>
 </blockquote>
-三姐|
+<p class="xj"><span class="xchar">三姐</span> </p>
 <blockquote>
 <p>母亲啊，快快随我们回家去，</p>
 <p>躲开这无情的地方乐享团圆！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>我看哪个敢走？</p>
 <p>哪个目无头人，来去随便？</p>
 <p>小蛙妖，你的皮肤在我手里，</p>
 <p>我将它扯碎，扯碎，碎成千万片！<span class="block">（狠狠地扯）</span></p>
 </blockquote>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>皮已没有用，</p>
 <p>扯碎也徒然！</p>
 </blockquote>
-头人|
+<p class="xj"><span class="xchar">头人</span> </p>
 <blockquote>
 <p>你的形体变，</p>
 <p>魔法必丢完，</p>
@@ -2224,7 +2224,7 @@
 <p>不许他生还！</p>
 </blockquote>
 <p class="l block">〔仆众不起劲地慢慢前进。</p>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>我的形体变，</p>
 <p>变成了人啊，力量无边！</p>
@@ -2232,17 +2232,17 @@
 <p>我的哭笑叫地转天旋！</p>
 </blockquote>
 <p class="l block">〔头人低首，仆众立定。</p>
-大姐|
+<p class="xj"><span class="xchar">大姐</span> </p>
 <blockquote>
 <p>请你不要哈哈与哇哇！我的美青年！</p>
 <p>你若丢下三姐，我愿带着珠宝随你上山！</p>
 </blockquote>
-二姐|
+<p class="xj"><span class="xchar">二姐</span> </p>
 <blockquote>
 <p>三姐呀，你在这里陪着大姐，</p>
 <p>我伴蛙郎香茶美酒，月下花前！</p>
 </blockquote>
-母亲|
+<p class="xj"><span class="xchar">母亲</span> </p>
 <blockquote>
 <p>呸！呸！你们不要脸！不要脸！</p>
 <p>我家媳妇才貌双全！</p>
@@ -2250,32 +2250,32 @@
 <p>不叫那两个疯丫头任意胡缠！</p>
 </blockquote>
 <p class="l block">〔三口儿走向群众。</p>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>父老们请听“地母”教给我的话，</p>
 <p>“地母”的话语叫人世永远是春天！</p>
 </blockquote>
-母亲 三姐|
+<p class="xj"><span class="xchar">母亲 三姐</span> </p>
 <blockquote>
 <p>春天，春天，永久的春天！</p>
 <p>人人饱暖，四季花鲜！</p>
 </blockquote>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>没有贫富，官不欺民，</p>
 <p>自由自在地织布耕田！</p>
 </blockquote>
-母亲 三姐|
+<p class="xj"><span class="xchar">母亲 三姐</span> </p>
 <blockquote>
 <p>只有恩爱，没有皮鞭，</p>
 <p>把怕冷的羊羔啊抱在怀里边！</p>
 </blockquote>
-蛙骑手|
+<p class="xj"><span class="xchar">蛙骑手</span> </p>
 <blockquote>
 <p>修一条平平坦坦的路，</p>
 <p>通到北京，车水马龙日夜往还！</p>
 </blockquote>
-群众|<span class="block">（合唱）</span>
+<p class="xj"><span class="xchar">群众</span> <span class="block">（合唱）</span></p>
 <blockquote>
 <p>“地母”的语言金声玉振，</p>
 <p>字字碰到我们心间！</p>

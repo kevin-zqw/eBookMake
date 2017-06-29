@@ -13,7 +13,7 @@
 
 
 
-第一场 商赠
+<h2 class="title2">第一场<br/> <span class="sptxt">商赠</span></h2>
 人物 熊友兰<span class="block">（生）</span> 舟子二 船主 旅客甲<span class="block">（工）</span> 旅客乙<span class="block">（农）</span> 旅客丙<span class="block">（妇）</span> 旅客丁<span class="block">（商）</span> 陶明山<span class="block">（末）</span>
 
 <p class="l block">〔幕启：在乐声中启幕。一只载货也搭客的船由苏州开船往杭州去，在河中缓缓而行。熊友兰掌舵，二舟子摇桨。船主与旅客五人坐船中，大家齐唱牌子：</p>
@@ -29,11 +29,11 @@
 <p>江山好，百姓良，</p>
 <p>千秋万代，山高水长！</p>
 </blockquote>
-旅客甲|列位，你我船中相会，一路同行，就都是朋友了。乘此闲暇，何不说些故事，增长见识？
-旅客乙|好哇！就请陶老客长先说如何？
-陶明山|老汉从命！我前日探望亲戚，经过淮安，听到一件奇案。
-旅客丁|什么奇案？老人家快说吧！
-陶明山|<span class="block">（念）</span>
+<p class="xj"><span class="xchar">旅客甲</span> 列位，你我船中相会，一路同行，就都是朋友了。乘此闲暇，何不说些故事，增长见识？</p>
+<p class="xj"><span class="xchar">旅客乙</span> 好哇！就请陶老客长先说如何？</p>
+<p class="xj"><span class="xchar">陶明山</span> 老汉从命！我前日探望亲戚，经过淮安，听到一件奇案。</p>
+<p class="xj"><span class="xchar">旅客丁</span> 什么奇案？老人家快说吧！</p>
+<p class="xj"><span class="xchar">陶明山</span> <span class="block">（念）</span></p>
 <blockquote>
 <p>一家米店人三口，</p>
 <p>隔壁住着一个穷书生。</p>
@@ -46,11 +46,11 @@
 <p>他怕家门出丑事，</p>
 <p>时时防备那书生。</p>
 </blockquote>
-旅客甲|远亲不如近邻，那老板疑心忒大了！
-陶明山|<span class="block">（念）</span>有一天书生来买米，拿出了一只金环黄澄澄。
-旅客丁|既是穷书生，哪里来的金环？
-旅客乙|不要打搅，你听着呀！
-陶明山|<span class="block">（念）</span>
+<p class="xj"><span class="xchar">旅客甲</span> 远亲不如近邻，那老板疑心忒大了！</p>
+<p class="xj"><span class="xchar">陶明山</span> <span class="block">（念）</span>有一天书生来买米，拿出了一只金环黄澄澄。</p>
+<p class="xj"><span class="xchar">旅客丁</span> 既是穷书生，哪里来的金环？</p>
+<p class="xj"><span class="xchar">旅客乙</span> 不要打搅，你听着呀！</p>
+<p class="xj"><span class="xchar">陶明山</span> <span class="block">（念）</span></p>
 <blockquote>
 <p>那老板一见金环心慌乱，</p>
 <p>忙把媳妇叫连声。</p>
@@ -84,73 +84,73 @@
 <p>他又说二人定计下毒药，</p>
 <p>害死他的儿子不留情！</p>
 </blockquote>
-旅客甲|<span class="block">（立起）</span>官儿怎么断的案呢？<span class="block">（船摇动）</span>
-众旅客|是呀，怎么断的案呢？
-船主|客人们请坐，不要乱动！<span class="block">（船渐稳）</span>
-陶明山|<span class="block">（念）</span>
+<p class="xj"><span class="xchar">旅客甲</span> <span class="block">（立起）</span>官儿怎么断的案呢？<span class="block">（船摇动）</span></p>
+<p class="xj"><span class="xchar">众旅客</span> 是呀，怎么断的案呢？</p>
+<p class="xj"><span class="xchar">船主</span> 客人们请坐，不要乱动！<span class="block">（船渐稳）</span></p>
+<p class="xj"><span class="xchar">陶明山</span> <span class="block">（念）</span></p>
 <blockquote>
 <p>哎！可恨哪，官儿不问前因后果，</p>
 <p>上得堂来就动刑！</p>
 <p>可怜哪，被告人有口难分辩，</p>
 <p>屈打成招就画了供！</p>
 </blockquote>
-旅客甲|那一对年轻男女都就这样判了死刑么？
-陶明山|<span class="block">（念）</span>
+<p class="xj"><span class="xchar">旅客甲</span> 那一对年轻男女都就这样判了死刑么？</p>
+<p class="xj"><span class="xchar">陶明山</span> <span class="block">（念）</span></p>
 <blockquote>
 <p>就是吓！那官儿还要追缴宝钞十五贯，</p>
 <p>三番五次毒打那书生。</p>
 <p>书生不知宝钞在何处，</p>
 <p>眼看要打死在监中！</p>
 </blockquote>
-旅客甲|总该有人把十五贯钱交与当官，免得那书生三天两日挨打受刑才好！
-陶明山|言之有理！怎奈那书生既无亲属，那里又无有仗义之人！
-熊友兰|<span class="block">（他始终留神听着，屡要开口）</span>老客长，请问这案出在哪里？
-陶明山|出在淮安。
-熊友兰|那米店老板可是姓冯？
-陶明山|老汉年迈，记性不佳，倒忘记了！
-熊友兰|那童养媳妇可是侯三姑啊？
-陶明山|这个，我也不记得！
-熊友兰|那书生呢？你可记得那书生的姓名？
-陶明山|待我想来……啊，想起来了。他姓熊。
-熊友兰|姓熊？他叫什么？
-陶明山|叫，叫熊友蕙。
-熊友兰|哎呀！<span class="block">（要昏倒）</span>
-众旅客|<span class="block">（扶住熊）</span>怎么啦？怎么啦？
-熊友兰|<span class="block">（拉住陶）</span>我且问你，那，那熊友蕙为人如何？
-陶明山|闻听人言，他是个忠厚老实的读书人。
-熊友兰|嗯！这就是了！船主人，停住船只，待我上岸！
-船主|为了何事？
-熊友兰|<span class="block">（哭）</span>兄弟啊！
-陶明山|啊？莫非他是你的兄弟？
-熊友兰|正是我的兄弟！想我友兰友蕙弟兄二人，自幼父母双亡，相依为命。只因家贫，二人不能都去读书上进。我作艄公，得些工钱，栽培兄弟读书。谁想到遭此奇冤，待我去搭救于他！
-船主|且慢！已经定案，你去也无益！
-熊友兰|我去见他一面，问个明白，破着我这条性命，也要去上告！
-陶明山|为追索那十五贯钱，打也打死他了！如今之计，只好先凑上此款，交到衙门，免得他再受苦刑。列位，熊友兰受尽辛苦，供给弟弟读书，真是难得。他有兄弟之情，难道你我就无朋友之义么？你我凑足十五贯钱，帮助于他，列位意下如何？
-旅客甲|好！我有大钱五百，愿意相助！<span class="block">（问乙）</span>你呢？
-旅客乙|我也帮助大钱二百！<span class="block">（问丁）</span>你呢？你是商人，货物甚多，理当多多相助。
-旅客丁|我有货，可是没有现钱啊！<span class="block">（问丙）</span>大嫂，你呢？
-旅客丙|呀呸！你有钱不出，却来问我！你若出钱，我也相助。
-陶明山|船主人，你呢？
-船主|这个，……我既不欠他的工钱，他走以后，我又须亲自掌舵，还能给他钱吗？
-陶明山|原来如此！<span class="block">（冷笑）</span>喝喝！凑来凑去，还不到一贯，有何用处？也罢，老汉现有十五贯钱，艄公，你拿去使用就是！
-熊友兰|老客长受我一拜，请问尊姓大名，日后答报！
-陶明山|老汉姓陶……哎，何必相问，上岸去吧！
-熊友兰|兄弟们，拢船靠岸！
-二舟子|我们俩也有点小意思，友兰哥你收下吧！<span class="block">（递钱）</span>已近河岸，祝你诸事顺心，早早回来！
-熊友兰|<span class="block">（一跃而下，跌倒，起来）</span>再会。
+<p class="xj"><span class="xchar">旅客甲</span> 总该有人把十五贯钱交与当官，免得那书生三天两日挨打受刑才好！</p>
+<p class="xj"><span class="xchar">陶明山</span> 言之有理！怎奈那书生既无亲属，那里又无有仗义之人！</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（他始终留神听着，屡要开口）</span>老客长，请问这案出在哪里？</p>
+<p class="xj"><span class="xchar">陶明山</span> 出在淮安。</p>
+<p class="xj"><span class="xchar">熊友兰</span> 那米店老板可是姓冯？</p>
+<p class="xj"><span class="xchar">陶明山</span> 老汉年迈，记性不佳，倒忘记了！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 那童养媳妇可是侯三姑啊？</p>
+<p class="xj"><span class="xchar">陶明山</span> 这个，我也不记得！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 那书生呢？你可记得那书生的姓名？</p>
+<p class="xj"><span class="xchar">陶明山</span> 待我想来……啊，想起来了。他姓熊。</p>
+<p class="xj"><span class="xchar">熊友兰</span> 姓熊？他叫什么？</p>
+<p class="xj"><span class="xchar">陶明山</span> 叫，叫熊友蕙。</p>
+<p class="xj"><span class="xchar">熊友兰</span> 哎呀！<span class="block">（要昏倒）</span></p>
+<p class="xj"><span class="xchar">众旅客</span> <span class="block">（扶住熊）</span>怎么啦？怎么啦？</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（拉住陶）</span>我且问你，那，那熊友蕙为人如何？</p>
+<p class="xj"><span class="xchar">陶明山</span> 闻听人言，他是个忠厚老实的读书人。</p>
+<p class="xj"><span class="xchar">熊友兰</span> 嗯！这就是了！船主人，停住船只，待我上岸！</p>
+<p class="xj"><span class="xchar">船主</span> 为了何事？</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（哭）</span>兄弟啊！</p>
+<p class="xj"><span class="xchar">陶明山</span> 啊？莫非他是你的兄弟？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 正是我的兄弟！想我友兰友蕙弟兄二人，自幼父母双亡，相依为命。只因家贫，二人不能都去读书上进。我作艄公，得些工钱，栽培兄弟读书。谁想到遭此奇冤，待我去搭救于他！</p>
+<p class="xj"><span class="xchar">船主</span> 且慢！已经定案，你去也无益！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 我去见他一面，问个明白，破着我这条性命，也要去上告！</p>
+<p class="xj"><span class="xchar">陶明山</span> 为追索那十五贯钱，打也打死他了！如今之计，只好先凑上此款，交到衙门，免得他再受苦刑。列位，熊友兰受尽辛苦，供给弟弟读书，真是难得。他有兄弟之情，难道你我就无朋友之义么？你我凑足十五贯钱，帮助于他，列位意下如何？</p>
+<p class="xj"><span class="xchar">旅客甲</span> 好！我有大钱五百，愿意相助！<span class="block">（问乙）</span>你呢？</p>
+<p class="xj"><span class="xchar">旅客乙</span> 我也帮助大钱二百！<span class="block">（问丁）</span>你呢？你是商人，货物甚多，理当多多相助。</p>
+<p class="xj"><span class="xchar">旅客丁</span> 我有货，可是没有现钱啊！<span class="block">（问丙）</span>大嫂，你呢？</p>
+<p class="xj"><span class="xchar">旅客丙</span> 呀呸！你有钱不出，却来问我！你若出钱，我也相助。</p>
+<p class="xj"><span class="xchar">陶明山</span> 船主人，你呢？</p>
+<p class="xj"><span class="xchar">船主</span> 这个，……我既不欠他的工钱，他走以后，我又须亲自掌舵，还能给他钱吗？</p>
+<p class="xj"><span class="xchar">陶明山</span> 原来如此！<span class="block">（冷笑）</span>喝喝！凑来凑去，还不到一贯，有何用处？也罢，老汉现有十五贯钱，艄公，你拿去使用就是！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 老客长受我一拜，请问尊姓大名，日后答报！</p>
+<p class="xj"><span class="xchar">陶明山</span> 老汉姓陶……哎，何必相问，上岸去吧！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 兄弟们，拢船靠岸！</p>
+<p class="xj"><span class="xchar">二舟子</span> 我们俩也有点小意思，友兰哥你收下吧！<span class="block">（递钱）</span>已近河岸，祝你诸事顺心，早早回来！</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（一跃而下，跌倒，起来）</span>再会。</p>
 【幕落】
 
 
 
 
 
-第二场 杀尤
+<h2 class="title2">第二场<br/> <span class="sptxt">杀尤</span></h2>
 
 人物 尤葫芦<span class="block">（净）</span> 秦伯伯<span class="block">（外）</span> 苏成娟<span class="block">（正旦）</span> 娄阿鼠<span class="block">（正丑）</span> 李大娘<span class="block">（旦）</span>
 
 <p class="l block">〔幕启：打初更。尤葫芦<span class="block">（屠户）</span>肩扛十五贯钱，摇摇摆摆地走来。他又喝醉了。一边走一边信口乱唱。</p>
 
-尤葫芦|<span class="block">（信口唱）</span>
+<p class="xj"><span class="xchar">尤葫芦</span> <span class="block">（信口唱）</span></p>
 <blockquote>
 <p>一醉解千愁，</p>
 <p>原来我姓尤，</p>
@@ -163,41 +163,41 @@
 <p>来到门外头。</p>
 </blockquote>
 <p><span class="block">（白）</span>到家啦，�，开门来呀——！</p>
-秦伯伯|<span class="block">（上，念）</span>
+<p class="xj"><span class="xchar">秦伯伯</span> <span class="block">（上，念）</span></p>
 <blockquote>
 <p>为人不作亏心事，</p>
 <p>不怕三更来叩门。</p>
 </blockquote>
 <p><span class="block">（白）</span>哪一位？<span class="block">（开门，白）</span>我道是谁，原来是尤二叔。</p>
-尤葫芦|<span class="block">（笑自己）</span>呀呸！原来是秦伯伯，你的街门换了地方啦？
-秦伯伯|这是哪里的话！是你打错了门！黑夜之间，上哪里去了？
-尤葫芦|生意作亏了，去找我姐姐，借来十五贯作本钱。半路上吃了两壶。
-秦伯伯|你好酒贪杯，将生意作亏；如今有了钱就该少吃酒，好好作生意才是！
-尤葫芦|就那么办啦！今天不再喝，明天再说。
-秦伯伯|哎！<span class="block">（下）</span>
-尤葫芦|<span class="block">（到自己家门）</span>这回我找对了！�，开门来！
-苏成娟|<span class="block">（内白）</span>来了。<span class="block">（持灯上，唱二黄摇板）</span>
+<p class="xj"><span class="xchar">尤葫芦</span> <span class="block">（笑自己）</span>呀呸！原来是秦伯伯，你的街门换了地方啦？</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 这是哪里的话！是你打错了门！黑夜之间，上哪里去了？</p>
+<p class="xj"><span class="xchar">尤葫芦</span> 生意作亏了，去找我姐姐，借来十五贯作本钱。半路上吃了两壶。</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 你好酒贪杯，将生意作亏；如今有了钱就该少吃酒，好好作生意才是！</p>
+<p class="xj"><span class="xchar">尤葫芦</span> 就那么办啦！今天不再喝，明天再说。</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 哎！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">尤葫芦</span> <span class="block">（到自己家门）</span>这回我找对了！�，开门来！</p>
+<p class="xj"><span class="xchar">苏成娟</span> <span class="block">（内白）</span>来了。<span class="block">（持灯上，唱二黄摇板）</span></p>
 <blockquote>
 <p>满心酸苦无人晓，</p>
 </blockquote>
-尤葫芦|开门来，快点！
-苏成娟|<span class="block">（唱）</span>
+<p class="xj"><span class="xchar">尤葫芦</span> 开门来，快点！</p>
+<p class="xj"><span class="xchar">苏成娟</span> <span class="block">（唱）</span></p>
 <blockquote>
 <p>何日拨云见阳光！<span class="block">（开门）</span></p>
 <p>爹爹回来了？</p>
 </blockquote>
-尤葫芦|不回来还死在外头？<span class="block">（放钱）</span>拿茶来！
-苏成娟|家中无钱，哪里来的茶叶呀？
-尤葫芦|没有钱？<span class="block">（指十五贯）</span>这是什么？
-苏成娟|爹爹哪里得来这么多钱哪？
-尤葫芦|<span class="block">（想）</span>成娟哪，你这个随娘改嫁的丫头！你妈妈死去，你就该跟了她去，可是还死吃我一口，外带着连茶都不给我喝！告诉你吧，我把你卖给了华学士家里作丫头，卖了十五贯钱！
-苏成娟|爹爹，此话当真？
-尤葫芦|钱都到手了，还能是假的吗？
-苏成娟|爹爹，想妈妈去世以后，我虽年幼，却懂得孝顺爹爹，帮助爹爹，你为何这等狠心，将我卖作奴婢？
-尤葫芦|先倒点水来我喝，待会儿再说，去吧！
-苏成娟|是！哎，我好命苦啊！<span class="block">（下）</span>
-尤葫芦|你的命苦，我的也不甜！这个丫头，跟她开了几句玩笑，说把她卖出去作丫头，她倒认真起来了！<span class="block">（打哈欠）</span>管她呢，我先睡个大觉！<span class="block">（双肘压着十五贯钱，睡去）</span>
-苏成娟|<span class="block">（持水碗上）</span>爹爹，水来了。<span class="block">（尤不语）</span>他倒睡着了！<span class="block">（坐）</span>想我苏成娟，幼年随娘改嫁，来到这醉汉家里，忍受饥寒打骂。妈妈去世，剩我一人，终日服侍这醉汉，哪有出头之日！哎，爹娘啊！<span class="block">（唱二黄原板）</span>
+<p class="xj"><span class="xchar">尤葫芦</span> 不回来还死在外头？<span class="block">（放钱）</span>拿茶来！</p>
+<p class="xj"><span class="xchar">苏成娟</span> 家中无钱，哪里来的茶叶呀？</p>
+<p class="xj"><span class="xchar">尤葫芦</span> 没有钱？<span class="block">（指十五贯）</span>这是什么？</p>
+<p class="xj"><span class="xchar">苏成娟</span> 爹爹哪里得来这么多钱哪？</p>
+<p class="xj"><span class="xchar">尤葫芦</span> <span class="block">（想）</span>成娟哪，你这个随娘改嫁的丫头！你妈妈死去，你就该跟了她去，可是还死吃我一口，外带着连茶都不给我喝！告诉你吧，我把你卖给了华学士家里作丫头，卖了十五贯钱！</p>
+<p class="xj"><span class="xchar">苏成娟</span> 爹爹，此话当真？</p>
+<p class="xj"><span class="xchar">尤葫芦</span> 钱都到手了，还能是假的吗？</p>
+<p class="xj"><span class="xchar">苏成娟</span> 爹爹，想妈妈去世以后，我虽年幼，却懂得孝顺爹爹，帮助爹爹，你为何这等狠心，将我卖作奴婢？</p>
+<p class="xj"><span class="xchar">尤葫芦</span> 先倒点水来我喝，待会儿再说，去吧！</p>
+<p class="xj"><span class="xchar">苏成娟</span> 是！哎，我好命苦啊！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">尤葫芦</span> 你的命苦，我的也不甜！这个丫头，跟她开了几句玩笑，说把她卖出去作丫头，她倒认真起来了！<span class="block">（打哈欠）</span>管她呢，我先睡个大觉！<span class="block">（双肘压着十五贯钱，睡去）</span></p>
+<p class="xj"><span class="xchar">苏成娟</span> <span class="block">（持水碗上）</span>爹爹，水来了。<span class="block">（尤不语）</span>他倒睡着了！<span class="block">（坐）</span>想我苏成娟，幼年随娘改嫁，来到这醉汉家里，忍受饥寒打骂。妈妈去世，剩我一人，终日服侍这醉汉，哪有出头之日！哎，爹娘啊！<span class="block">（唱二黄原板）</span></p>
 <blockquote>
 <p>哭一声，老爹爹，早年命丧，</p>
 <p>撇下了，母女们，无有主张！</p>
@@ -217,53 +217,53 @@
 <p>开了街门四下望，<span class="block">（打二更，出门，未带上门）</span></p>
 <p>逃出虎口走慌忙。<span class="block">（跑下）</span></p>
 </blockquote>
-娄阿鼠|<span class="block">（溜上，自言自语）</span>么二三鞭子，二三四蹭，鼓打二更，输了个一干二净！到了家门，且去作个好梦！<span class="block">（要推门，看见隔壁尤家的门开着，内有灯光）</span>哎哟，尤屠户还没睡哪，看他能借给我点钱不能，好回到赌场，捞他一把！<span class="block">（入门）</span>尤葫芦！他倒睡着了。苏成娟！怎么，她也不在！<span class="block">（看见案上屠刀）</span>这把刀也还值几百钱，<span class="block">（拿刀要往怀中放）</span>不好，我与他是紧邻，教他和四邻知道了，倒有些不妙！<span class="block">（又把刀放下，走近尤）</span>咦！他枕着这么多钱！有啦，我先借走两贯，去到赌场，赢了钱再还给他！<span class="block">（去轻轻拿钱，尤惊醒）</span>
-尤葫芦|谁？
-娄阿鼠|是我！是我！
-尤葫芦|你这个赌鬼，又来偷我？我管教管教你！<span class="block">（要打）</span>
-娄阿鼠|慢来，慢来！我看你这里开着门，点着灯，怕你丢了东西，才进来看看，你别疑心！
-尤葫芦|你偷我已不止一回！今天你跑不了！<span class="block">（抓起刀来）</span>
-娄阿鼠|放下刀！放下刀！你这个酒鬼又喝醉了！
-尤葫芦|看刀！<span class="block">（二人扭成一团，挣扎，娄用力扭尤臂，刀刃向尤，又用力一推，尤仰面摔在地上，刀割咽喉，死去）</span>
-娄阿鼠|<span class="block">（不知尤死）</span>起来！<span class="block">（见尤不动，过去看）</span>哟！死啦！<span class="block">（忙拿起十五贯，跑出去）</span>
-秦伯伯|<span class="block">（同李大娘上）</span>半夜三更闹的是什么呀！
-李大娘|你看，门也不关，灯还点着，成何体统！<span class="block">（一同进门）</span>你看，醉成什么样子，躺在了地上，尤二叔，起来！
-秦伯伯|<span class="block">（走近尤）</span>待我扶他起来。哎呀！李大娘呀！他如何满身鲜血！吓，他死了哇！
-李大娘|他死了？<span class="block">（忙跑到门口）</span>娄阿鼠！阿鼠！快来！
-娄阿鼠|<span class="block">（跑上）</span>什么事呀，李大娘？我刚刚进门要睡，又把我喊出来！
-秦伯伯|我来问你，你什么时候回来的？
-娄阿鼠|刚刚回来不久。看见这里门儿开着，我叫了一声，没人答应，便睡觉去了。
-秦伯伯|你来看！<span class="block">（指尤尸）</span>
-娄阿鼠|<span class="block">（故作惊异）</span>哎呀，他怎么自杀了呢？
-李大娘|怎见得是自杀呢？
-娄阿鼠|他自己持刀，还不是自杀？
-秦伯伯|苏成娟怎么也不见了呢？
-娄阿鼠|秦伯伯，李大娘，我明白了！
-秦伯伯|你明白何来？
-娄阿鼠|适才我看见门儿开着，喊了一声，无人答应，想必是苏成娟那个丫头，偷了金钱，和奸夫一同逃走了。
-李大娘|尤屠户好酒贪杯，把生意作亏，哪有钱呢？
-秦伯伯|适才他吃醉打错了门，我亲眼看他扛着大钱十五贯！不过，苏成娟是个好姑娘，怎能作出这等歹事？
-娄阿鼠|她要是好姑娘，我就成圣人了！你们老人家不留神，我可是常看见她，半夜三更，到村外与野汉子相会！
-秦伯伯|适才你说尤屠户是自杀，却是为何？
-娄阿鼠|啊……我又明白了！这不是自杀，是凶犯假作出来的！对！对！是这么一回事：平日尤屠户对那丫头打过来骂过去，她能不恨他吗？还有，她和奸夫一同偷钱，教尤屠户看见了，可不是一急就抓起刀来，把他杀了！然后，把刀放在他手里，装成自杀的样子；这点把戏可骗不了咱们有眼睛的人哪！
-秦伯伯|不管怎样，你我要赶紧报与当官，免吃罣误官司！
-娄阿鼠|我去报官，你们追赶那个丫头，大概她还没有跑远！
-李大娘|她往哪边跑，我们不知道呀！
-娄阿鼠|多找几家邻居，四下追赶！
-秦伯伯|如此，我们去告诉大家，分头追赶便了！<span class="block">（三人分跑下）</span>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（溜上，自言自语）</span>么二三鞭子，二三四蹭，鼓打二更，输了个一干二净！到了家门，且去作个好梦！<span class="block">（要推门，看见隔壁尤家的门开着，内有灯光）</span>哎哟，尤屠户还没睡哪，看他能借给我点钱不能，好回到赌场，捞他一把！<span class="block">（入门）</span>尤葫芦！他倒睡着了。苏成娟！怎么，她也不在！<span class="block">（看见案上屠刀）</span>这把刀也还值几百钱，<span class="block">（拿刀要往怀中放）</span>不好，我与他是紧邻，教他和四邻知道了，倒有些不妙！<span class="block">（又把刀放下，走近尤）</span>咦！他枕着这么多钱！有啦，我先借走两贯，去到赌场，赢了钱再还给他！<span class="block">（去轻轻拿钱，尤惊醒）</span></p>
+<p class="xj"><span class="xchar">尤葫芦</span> 谁？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 是我！是我！</p>
+<p class="xj"><span class="xchar">尤葫芦</span> 你这个赌鬼，又来偷我？我管教管教你！<span class="block">（要打）</span></p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 慢来，慢来！我看你这里开着门，点着灯，怕你丢了东西，才进来看看，你别疑心！</p>
+<p class="xj"><span class="xchar">尤葫芦</span> 你偷我已不止一回！今天你跑不了！<span class="block">（抓起刀来）</span></p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 放下刀！放下刀！你这个酒鬼又喝醉了！</p>
+<p class="xj"><span class="xchar">尤葫芦</span> 看刀！<span class="block">（二人扭成一团，挣扎，娄用力扭尤臂，刀刃向尤，又用力一推，尤仰面摔在地上，刀割咽喉，死去）</span></p>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（不知尤死）</span>起来！<span class="block">（见尤不动，过去看）</span>哟！死啦！<span class="block">（忙拿起十五贯，跑出去）</span></p>
+<p class="xj"><span class="xchar">秦伯伯</span> <span class="block">（同李大娘上）</span>半夜三更闹的是什么呀！</p>
+<p class="xj"><span class="xchar">李大娘</span> 你看，门也不关，灯还点着，成何体统！<span class="block">（一同进门）</span>你看，醉成什么样子，躺在了地上，尤二叔，起来！</p>
+<p class="xj"><span class="xchar">秦伯伯</span> <span class="block">（走近尤）</span>待我扶他起来。哎呀！李大娘呀！他如何满身鲜血！吓，他死了哇！</p>
+<p class="xj"><span class="xchar">李大娘</span> 他死了？<span class="block">（忙跑到门口）</span>娄阿鼠！阿鼠！快来！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（跑上）</span>什么事呀，李大娘？我刚刚进门要睡，又把我喊出来！</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 我来问你，你什么时候回来的？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 刚刚回来不久。看见这里门儿开着，我叫了一声，没人答应，便睡觉去了。</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 你来看！<span class="block">（指尤尸）</span></p>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（故作惊异）</span>哎呀，他怎么自杀了呢？</p>
+<p class="xj"><span class="xchar">李大娘</span> 怎见得是自杀呢？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 他自己持刀，还不是自杀？</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 苏成娟怎么也不见了呢？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 秦伯伯，李大娘，我明白了！</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 你明白何来？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 适才我看见门儿开着，喊了一声，无人答应，想必是苏成娟那个丫头，偷了金钱，和奸夫一同逃走了。</p>
+<p class="xj"><span class="xchar">李大娘</span> 尤屠户好酒贪杯，把生意作亏，哪有钱呢？</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 适才他吃醉打错了门，我亲眼看他扛着大钱十五贯！不过，苏成娟是个好姑娘，怎能作出这等歹事？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 她要是好姑娘，我就成圣人了！你们老人家不留神，我可是常看见她，半夜三更，到村外与野汉子相会！</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 适才你说尤屠户是自杀，却是为何？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 啊……我又明白了！这不是自杀，是凶犯假作出来的！对！对！是这么一回事：平日尤屠户对那丫头打过来骂过去，她能不恨他吗？还有，她和奸夫一同偷钱，教尤屠户看见了，可不是一急就抓起刀来，把他杀了！然后，把刀放在他手里，装成自杀的样子；这点把戏可骗不了咱们有眼睛的人哪！</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 不管怎样，你我要赶紧报与当官，免吃罣误官司！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 我去报官，你们追赶那个丫头，大概她还没有跑远！</p>
+<p class="xj"><span class="xchar">李大娘</span> 她往哪边跑，我们不知道呀！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 多找几家邻居，四下追赶！</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 如此，我们去告诉大家，分头追赶便了！<span class="block">（三人分跑下）</span></p>
 【幕落】
 
 
 
 
 
-第三场 桥会
+<h2 class="title2">第三场<br/> <span class="sptxt">桥会</span></h2>
 
 人物 苏成娟 熊友兰 秦伯伯 娄阿鼠 李大娘 二差人 尤姑母
 
 <p class="l block">〔幕启：打五更，在皋桥附近，苏成娟惊惶疾走。</p>
 
-苏成娟|<span class="block">（唱流水板）</span>
+<p class="xj"><span class="xchar">苏成娟</span> <span class="block">（唱流水板）</span></p>
 <blockquote>
 <p>一步低来一步高，</p>
 <p>逃出虎口到荒郊，</p>
@@ -283,86 +283,86 @@
 <p>切盼天明到皋桥！<span class="block">（又跌）</span></p>
 </blockquote>
 <p><span class="block">（白）</span>哎呀，原来是一片泥塘，如何是好！<span class="block">（喊）</span>救人哪！救人哪！</p>
-熊友兰|<span class="block">（帘内白）</span>走啊！<span class="block">（肩扛十五贯，手拄木杖疾上，唱流水板）</span>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（帘内白）</span>走啊！<span class="block">（肩扛十五贯，手拄木杖疾上，唱流水板）</span></p>
 <blockquote>
 <p>急急忙忙走荒郊，</p>
 <p>恨不能插翅赶到监牢，</p>
 <p>含悲忍泪朝前走，</p>
 <p>粉身碎骨救同胞！</p>
 </blockquote>
-苏成娟|救人哪！
-熊友兰|啊？那里有呼救之声，待我看来！且住，搭救兄弟要紧，切莫多管闲事。想我那兄弟，身体瘦弱，怎经得三番五次受刑！兄弟，友蕙！忍耐一时，哥哥来了！<span class="block">（唱散板）</span>
+<p class="xj"><span class="xchar">苏成娟</span> 救人哪！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 啊？那里有呼救之声，待我看来！且住，搭救兄弟要紧，切莫多管闲事。想我那兄弟，身体瘦弱，怎经得三番五次受刑！兄弟，友蕙！忍耐一时，哥哥来了！<span class="block">（唱散板）</span></p>
 <blockquote>
 <p>赶路要紧上大道，</p>
 </blockquote>
-苏成娟|救人哪！
-熊友兰|<span class="block">（接唱）</span>女子呼救为哪条！
+<p class="xj"><span class="xchar">苏成娟</span> 救人哪！</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（接唱）</span>女子呼救为哪条！</p>
 <p><span class="block">（白）</span>且住，焉有见死不救之理，待我上前看来。何人在此呼救？</p>
-苏成娟|我苏成娟，去到皋桥寻找姑母，大雾迷漫，误入泥塘，望祈搭救！
-熊友兰|待我搬些石头，垫上，你拉住我的木杖，万无一失。<span class="block">（搬石垫上）</span>来，来，来！
-苏成娟|<span class="block">（拉杖，上来白）</span>感谢救命之恩，受我一拜！
-熊友兰|何必如此！我有要事在身，恕不相送！
-苏成娟|请问，到皋桥应走哪条道路？
-熊友兰|皋桥离此不远，你我同路，随我来！
-苏成娟|是！<span class="block">（唱散板）</span>恩公义气真少有，
-熊友兰|<span class="block">（唱）</span>救人胜似把香烧。
-苏成娟|<span class="block">（唱）</span>尊姓大名愿领教，
-熊友兰|<span class="block">（唱）</span>好事不求受酬劳！<span class="block">（白）</span>看天已大亮，眼前即是皋桥。我有急事，必须赶路，就此告辞！
-娄阿鼠|<span class="block">（同二官差、秦伯伯、李大娘先后跑上）</span>看，这就是那一对狗男女！
-苏成娟|啊，秦伯伯，李大娘！
-秦伯伯 李大娘|成娟哪，你好不知廉耻！
-苏成娟|此话从何而来？
-熊友兰|<span class="block">（对苏）</span>你有熟人在此，我赶路去了。
-娄阿鼠|去赶路？你等等吧！<span class="block">（对差人）</span>看，十五贯钱还在他肩膀上呢！
-差人甲|你的钱是哪里来的？
-熊友兰|我弟弟吃了官司，现在监牢之中，多亏友人相助，赠我十五贯钱，前去搭救于他！
-娄阿鼠|你得了吧！你弟弟也在监牢里，你们弟兄全不是好东西！
-差人乙|你拐骗幼女，连夜逃走，捉奸要捉双，我们正好捉住了一对！
-熊友兰|我与她素不相识，半路相逢，哪有什么奸情？
-苏成娟|啊，秦伯伯，李大娘，适才我陷落泥塘，多亏他来搭救！
-秦伯伯|成娟哪，平日我看你十分端重，谁想到你竟自作出这等事来！
-李大娘|哎，孩子呀，事到如今，我有心帮助于你，也无法了！
-熊友兰|我兄弟现在监牢，列位所言，我全不知晓！
-娄阿鼠|你别假装糊涂！二位官差，锁上他！
-熊友兰|啊？想我熊某，安分守己，列位何必苦苦相逼！
-娄阿鼠|锁上他，别叫他跑了！
-尤姑母|<span class="block">（提菜篮上，唱散板）</span>勤俭持家起得早。<span class="block">（扫，白）</span>那旁敢是苏成娟么？为何来到此处？
-苏成娟|哎呀，姑母呀！<span class="block">（哭）</span>
-秦伯伯|啊，你是成娟的姑母么？<span class="block">（怀疑是否错怪了成娟）</span>
-苏成娟|我来寻找姑母，不曾作出丑事。
-娄阿鼠|<span class="block">（见二官差亦略迟疑）</span>二位上差，别听她瞎扯，放走了犯人，你二位可担当不起！<span class="block">（对尤）</span>老大娘，苏成娟和这个家伙通奸，谋财害命，把你的弟弟杀了！
-尤姑母|此事当真？
-娄阿鼠|谁还诬赖好人不成，奸夫身上现有贼赃。
-尤姑母|成娟，进前来！
-苏成娟|何事？<span class="block">（走向尤姑母）</span>
-尤姑母|好贱人！<span class="block">（打，苏倒）</span>
-熊友兰|老大娘，我与她确不相识！
-尤姑母|昨天我借给弟弟的十五贯钱，现在你手！
-二差人|真赃实犯，官司你打了吧！<span class="block">（欲上锁）</span>
-熊友兰|二位差官，我弟弟有不白之冤，必须前去营救，望祈行个方便！
-娄阿鼠|行个方便？你跑了谁给尤葫芦偿命呢！
-熊友兰|冤枉啊，冤枉！<span class="block">（欲逃）</span>
-差人甲|你跑不了！<span class="block">（差人甲拦阻，差人乙扫腿，熊倒地，翻起，甲用锁链套住熊项）</span>伙计，<span class="block">（指苏）</span>你锁她！<span class="block">（对熊）</span>走吧，小子！<span class="block">（牵熊走，熊走碎步下）</span>
-苏成娟|<span class="block">（仍跪地上，白）</span>冤枉！<span class="block">（差人乙给她上锁）</span>
-差人乙|走！<span class="block">（牵苏，苏跪步下）</span>
-秦伯伯|哎，正是：知人知面不知心，
-李大娘|杀人凶犯是近邻！
-娄阿鼠|奸夫淫妇都该死，
-尤姑母|官法无私不饶人！<span class="block">（哭）</span>兄弟……啊！
+<p class="xj"><span class="xchar">苏成娟</span> 我苏成娟，去到皋桥寻找姑母，大雾迷漫，误入泥塘，望祈搭救！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 待我搬些石头，垫上，你拉住我的木杖，万无一失。<span class="block">（搬石垫上）</span>来，来，来！</p>
+<p class="xj"><span class="xchar">苏成娟</span> <span class="block">（拉杖，上来白）</span>感谢救命之恩，受我一拜！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 何必如此！我有要事在身，恕不相送！</p>
+<p class="xj"><span class="xchar">苏成娟</span> 请问，到皋桥应走哪条道路？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 皋桥离此不远，你我同路，随我来！</p>
+<p class="xj"><span class="xchar">苏成娟</span> 是！<span class="block">（唱散板）</span>恩公义气真少有，</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（唱）</span>救人胜似把香烧。</p>
+<p class="xj"><span class="xchar">苏成娟</span> <span class="block">（唱）</span>尊姓大名愿领教，</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（唱）</span>好事不求受酬劳！<span class="block">（白）</span>看天已大亮，眼前即是皋桥。我有急事，必须赶路，就此告辞！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（同二官差、秦伯伯、李大娘先后跑上）</span>看，这就是那一对狗男女！</p>
+<p class="xj"><span class="xchar">苏成娟</span> 啊，秦伯伯，李大娘！</p>
+<p class="xj"><span class="xchar">秦伯伯 李大娘</span> 成娟哪，你好不知廉耻！</p>
+<p class="xj"><span class="xchar">苏成娟</span> 此话从何而来？</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（对苏）</span>你有熟人在此，我赶路去了。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 去赶路？你等等吧！<span class="block">（对差人）</span>看，十五贯钱还在他肩膀上呢！</p>
+<p class="xj"><span class="xchar">差人甲</span> 你的钱是哪里来的？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 我弟弟吃了官司，现在监牢之中，多亏友人相助，赠我十五贯钱，前去搭救于他！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 你得了吧！你弟弟也在监牢里，你们弟兄全不是好东西！</p>
+<p class="xj"><span class="xchar">差人乙</span> 你拐骗幼女，连夜逃走，捉奸要捉双，我们正好捉住了一对！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 我与她素不相识，半路相逢，哪有什么奸情？</p>
+<p class="xj"><span class="xchar">苏成娟</span> 啊，秦伯伯，李大娘，适才我陷落泥塘，多亏他来搭救！</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 成娟哪，平日我看你十分端重，谁想到你竟自作出这等事来！</p>
+<p class="xj"><span class="xchar">李大娘</span> 哎，孩子呀，事到如今，我有心帮助于你，也无法了！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 我兄弟现在监牢，列位所言，我全不知晓！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 你别假装糊涂！二位官差，锁上他！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 啊？想我熊某，安分守己，列位何必苦苦相逼！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 锁上他，别叫他跑了！</p>
+<p class="xj"><span class="xchar">尤姑母</span> <span class="block">（提菜篮上，唱散板）</span>勤俭持家起得早。<span class="block">（扫，白）</span>那旁敢是苏成娟么？为何来到此处？</p>
+<p class="xj"><span class="xchar">苏成娟</span> 哎呀，姑母呀！<span class="block">（哭）</span></p>
+<p class="xj"><span class="xchar">秦伯伯</span> 啊，你是成娟的姑母么？<span class="block">（怀疑是否错怪了成娟）</span></p>
+<p class="xj"><span class="xchar">苏成娟</span> 我来寻找姑母，不曾作出丑事。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（见二官差亦略迟疑）</span>二位上差，别听她瞎扯，放走了犯人，你二位可担当不起！<span class="block">（对尤）</span>老大娘，苏成娟和这个家伙通奸，谋财害命，把你的弟弟杀了！</p>
+<p class="xj"><span class="xchar">尤姑母</span> 此事当真？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 谁还诬赖好人不成，奸夫身上现有贼赃。</p>
+<p class="xj"><span class="xchar">尤姑母</span> 成娟，进前来！</p>
+<p class="xj"><span class="xchar">苏成娟</span> 何事？<span class="block">（走向尤姑母）</span></p>
+<p class="xj"><span class="xchar">尤姑母</span> 好贱人！<span class="block">（打，苏倒）</span></p>
+<p class="xj"><span class="xchar">熊友兰</span> 老大娘，我与她确不相识！</p>
+<p class="xj"><span class="xchar">尤姑母</span> 昨天我借给弟弟的十五贯钱，现在你手！</p>
+<p class="xj"><span class="xchar">二差人</span> 真赃实犯，官司你打了吧！<span class="block">（欲上锁）</span></p>
+<p class="xj"><span class="xchar">熊友兰</span> 二位差官，我弟弟有不白之冤，必须前去营救，望祈行个方便！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 行个方便？你跑了谁给尤葫芦偿命呢！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 冤枉啊，冤枉！<span class="block">（欲逃）</span></p>
+<p class="xj"><span class="xchar">差人甲</span> 你跑不了！<span class="block">（差人甲拦阻，差人乙扫腿，熊倒地，翻起，甲用锁链套住熊项）</span>伙计，<span class="block">（指苏）</span>你锁她！<span class="block">（对熊）</span>走吧，小子！<span class="block">（牵熊走，熊走碎步下）</span></p>
+<p class="xj"><span class="xchar">苏成娟</span> <span class="block">（仍跪地上，白）</span>冤枉！<span class="block">（差人乙给她上锁）</span></p>
+<p class="xj"><span class="xchar">差人乙</span> 走！<span class="block">（牵苏，苏跪步下）</span></p>
+<p class="xj"><span class="xchar">秦伯伯</span> 哎，正是：知人知面不知心，</p>
+<p class="xj"><span class="xchar">李大娘</span> 杀人凶犯是近邻！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 奸夫淫妇都该死，</p>
+<p class="xj"><span class="xchar">尤姑母</span> 官法无私不饶人！<span class="block">（哭）</span>兄弟……啊！</p>
 【幕落】
 
 
 
 
 
-第四场 男监
+<h2 class="title2">第四场<br/> <span class="sptxt">男监</span></h2>
 
 人物 熊友兰 熊友蕙 解差 禁卒
 
 <p class="l block">〔幕启：打三更。常州死牢。解差持公文上。</p>
 
-解差|熊友兰走动啊！
-熊友兰|<span class="block">（帘内白）</span>苦啊！<span class="block">（上，唱西皮散板）</span>
+<p class="xj"><span class="xchar">解差</span> 熊友兰走动啊！</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（帘内白）</span>苦啊！<span class="block">（上，唱西皮散板）</span></p>
 <blockquote>
 <p>未见着兄弟见了官，</p>
 </blockquote>
@@ -371,14 +371,14 @@
 <p>打得我皮开肉也翻！</p>
 <p>才明白什么叫官逼民反，</p>
 </blockquote>
-解差|你快着点！
-熊友兰|<span class="block">（唱）</span>不能够造反的，哼，永远含冤！
-禁卒|<span class="block">（溜上）</span>何人在此喧嚷？
-解差|都部发下来斩犯一名熊友兰，是无锡解来的。公文和犯人都交给你啦，好生收管。<span class="block">（下）</span>
-禁卒|进来，你叫熊友兰？
-熊友兰|正是！
-禁卒|里边去，待我禀报狱官，上了号簿。<span class="block">（下）</span>
-熊友兰|<span class="block">（坐，白）</span>天哪！<span class="block">（唱）</span>
+<p class="xj"><span class="xchar">解差</span> 你快着点！</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（唱）</span>不能够造反的，哼，永远含冤！</p>
+<p class="xj"><span class="xchar">禁卒</span> <span class="block">（溜上）</span>何人在此喧嚷？</p>
+<p class="xj"><span class="xchar">解差</span> 都部发下来斩犯一名熊友兰，是无锡解来的。公文和犯人都交给你啦，好生收管。<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">禁卒</span> 进来，你叫熊友兰？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 正是！</p>
+<p class="xj"><span class="xchar">禁卒</span> 里边去，待我禀报狱官，上了号簿。<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（坐，白）</span>天哪！<span class="block">（唱）</span></p>
 <blockquote>
 <p>陶老丈助我十五贯，</p>
 <p>这好心反把我送进牢监！</p>
@@ -391,14 +391,14 @@
 <p>我今一死难合眼，</p>
 <p>谁给我兄弟去伸冤！<span class="block">（哭）</span>兄弟呀！<span class="block">（昏昏睡去）</span></p>
 </blockquote>
-解差|<span class="block">（内白）</span>�，开门！
-禁卒|<span class="block">（溜上，白）</span>干什么的？
-解差|<span class="block">（内白）</span>山阳县解来的斩犯一名熊友蕙，好生收管！
-禁卒|<span class="block">（去接公文）</span>犯人在哪里？
-解差|<span class="block">（内白）</span>熊友蕙走动啊！<span class="block">（将熊推出来）</span>
-熊友蕙|苦啊！
-禁卒|苦不苦的，进去吧！有人跟你作伴，刚才还来了一个呢！<span class="block">（下）</span>
-熊友蕙|哎！适才禁子言道，这里还有一个囚犯，为何不见动静？想是甘心伏罪，已经睡着。我熊友蕙被屈含冤，哪里睡得着吓！想我自幼父母双亡，全仗兄长抚养成人。兄长啊，只求见你一面，死也甘心！<span class="block">（唱散板）</span>
+<p class="xj"><span class="xchar">解差</span> <span class="block">（内白）</span>�，开门！</p>
+<p class="xj"><span class="xchar">禁卒</span> <span class="block">（溜上，白）</span>干什么的？</p>
+<p class="xj"><span class="xchar">解差</span> <span class="block">（内白）</span>山阳县解来的斩犯一名熊友蕙，好生收管！</p>
+<p class="xj"><span class="xchar">禁卒</span> <span class="block">（去接公文）</span>犯人在哪里？</p>
+<p class="xj"><span class="xchar">解差</span> <span class="block">（内白）</span>熊友蕙走动啊！<span class="block">（将熊推出来）</span></p>
+<p class="xj"><span class="xchar">熊友蕙</span> 苦啊！</p>
+<p class="xj"><span class="xchar">禁卒</span> 苦不苦的，进去吧！有人跟你作伴，刚才还来了一个呢！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">熊友蕙</span> 哎！适才禁子言道，这里还有一个囚犯，为何不见动静？想是甘心伏罪，已经睡着。我熊友蕙被屈含冤，哪里睡得着吓！想我自幼父母双亡，全仗兄长抚养成人。兄长啊，只求见你一面，死也甘心！<span class="block">（唱散板）</span></p>
 <blockquote>
 <p>可怜我自幼儿死了双亲，</p>
 <p>全仗着好兄长抚养成人。</p>
@@ -410,67 +410,67 @@
 <p>不能够见兄长答谢大恩！</p>
 </blockquote>
 <p><span class="block">（白）</span>且勿多言，免得惊动了那囚犯，待我倚墙而坐，度过时光便了！<span class="block">（坐，昏昏欲睡）</span></p>
-熊友兰|<span class="block">（打四更，醒）</span>啊？适才昏昏睡去，好似听见呼唤哥哥之声，莫非……不能啊，他在山阳坐狱，焉能至此？真乃是：兄弟含冤难相见，到处都是狗赃官！<span class="block">（哭）</span>兄弟……啊！
-熊友蕙|啊？这声音像我兄长的，莫非他……。想他终日漂泊水上，怎能来到此处！兄长啊，但愿你身体康泰，将来成家立业，不要怀念于我！啊，兄长，我今已判死刑，永无相见之日，待我向空一拜，谢你培养之恩！<span class="block">（拜）</span>
-熊友兰|啊？那边是何人？
-熊友蕙|兄长——你是何人？
-熊友兰|弟弟！哥哥友兰在此！
-熊友蕙|这是梦么？啊，弟弟友蕙在此！
-熊友兰 熊友蕙|弟弟【兄长】呀！<span class="block">（相抱哭叫）</span>
-熊友兰|弟弟，你真是我的弟弟么？
-熊友蕙|兄长，你真是我的兄长么？
-熊友兰|那边有一小窗，有些月光，你我看来！
-熊友蕙|你我看来，<span class="block">（相扶往前，就月光相视）</span>兄长，你是兄长友兰！
-熊友兰|你是弟弟友蕙！
-熊友兰 熊友蕙|弟弟【兄长】呀！
-熊友蕙|兄长，你不在河上谋生，为何来到此地？
-熊友兰|且莫问长问短，待我再看看你！
-熊友蕙|我也要再看看兄长！
-熊友兰|我的好弟弟！
-熊友蕙|哪有这样的好弟弟？我若是好弟弟，哪能作待死之囚！
-熊友兰|我知道你冤枉！
-熊友蕙|兄长，你怎么知道的？
-熊友兰|你是不是斩犯？
-熊友蕙|是呀！
-熊友兰|却又来！既要斩首，问那些闲事作甚？问也死，不问也死，何必多此一问！
-熊友蕙|兄长，莫非你因救我而来，冒犯了官长，故尔下狱？
-熊友兰|问它作甚？我来救你是分所当然。救不了你，反连累于我，是赃官可恶！我来问你，审你的是哪个狗官？
-熊友蕙|孙布正，百姓都管他叫孙剥皮！百姓进到衙门，不死也剥下一层皮。你的审官呢？
-熊友兰|他叫霍重，外号活阎王！你我落在这两个狗官手里，又无金钱行贿，怎能不死？
-熊友蕙|兄长啊，难道你也是斩犯？
-熊友兰|不是斩犯，为何来到这死牢之中？
-熊友蕙|兄长呀！
-禁卒|<span class="block">（上，白）</span>熊友兰，熊友蕙呀，天明五鼓你们就押往苏州问斩啦！
-熊友蕙|哎呀！<span class="block">（欲昏倒）</span>
-熊友兰|弟弟，弟弟！
-禁卒|你们难道是兄弟吗？
-熊友兰|正是同胞兄弟！
-禁卒|怪不得都姓熊呢。既是弟兄，死在一块儿也好！<span class="block">（下）</span>
-熊友兰|弟弟，你可曾听见？
-熊友蕙|听见什么？
-熊友兰|他说，你我死在一处也好！<span class="block">（狂笑）</span>啊，哈哈……
-熊友蕙|命已难保，为何发笑？
-熊友兰|你看哪，活的时候你东我西，不能团圆一处。死么，倒死在一处，岂不可喜？
-熊友蕙|兄长，我们冤枉啊！你我一死，熊家绝了后代，我死不瞑目！
-熊友兰|绝了后代么？哎，爹娘啊！<span class="block">（打五更）</span>
-禁卒|<span class="block">（同解差上，白）</span>熊友兰，熊友蕙，别再哭，该走啦！<span class="block">（解差锁二人，牵下）</span>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（打四更，醒）</span>啊？适才昏昏睡去，好似听见呼唤哥哥之声，莫非……不能啊，他在山阳坐狱，焉能至此？真乃是：兄弟含冤难相见，到处都是狗赃官！<span class="block">（哭）</span>兄弟……啊！</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 啊？这声音像我兄长的，莫非他……。想他终日漂泊水上，怎能来到此处！兄长啊，但愿你身体康泰，将来成家立业，不要怀念于我！啊，兄长，我今已判死刑，永无相见之日，待我向空一拜，谢你培养之恩！<span class="block">（拜）</span></p>
+<p class="xj"><span class="xchar">熊友兰</span> 啊？那边是何人？</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 兄长——你是何人？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 弟弟！哥哥友兰在此！</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 这是梦么？啊，弟弟友蕙在此！</p>
+<p class="xj"><span class="xchar">熊友兰 熊友蕙</span> 弟弟【兄长】呀！<span class="block">（相抱哭叫）</span></p>
+<p class="xj"><span class="xchar">熊友兰</span> 弟弟，你真是我的弟弟么？</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 兄长，你真是我的兄长么？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 那边有一小窗，有些月光，你我看来！</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 你我看来，<span class="block">（相扶往前，就月光相视）</span>兄长，你是兄长友兰！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 你是弟弟友蕙！</p>
+<p class="xj"><span class="xchar">熊友兰 熊友蕙</span> 弟弟【兄长】呀！</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 兄长，你不在河上谋生，为何来到此地？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 且莫问长问短，待我再看看你！</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 我也要再看看兄长！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 我的好弟弟！</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 哪有这样的好弟弟？我若是好弟弟，哪能作待死之囚！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 我知道你冤枉！</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 兄长，你怎么知道的？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 你是不是斩犯？</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 是呀！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 却又来！既要斩首，问那些闲事作甚？问也死，不问也死，何必多此一问！</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 兄长，莫非你因救我而来，冒犯了官长，故尔下狱？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 问它作甚？我来救你是分所当然。救不了你，反连累于我，是赃官可恶！我来问你，审你的是哪个狗官？</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 孙布正，百姓都管他叫孙剥皮！百姓进到衙门，不死也剥下一层皮。你的审官呢？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 他叫霍重，外号活阎王！你我落在这两个狗官手里，又无金钱行贿，怎能不死？</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 兄长啊，难道你也是斩犯？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 不是斩犯，为何来到这死牢之中？</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 兄长呀！</p>
+<p class="xj"><span class="xchar">禁卒</span> <span class="block">（上，白）</span>熊友兰，熊友蕙呀，天明五鼓你们就押往苏州问斩啦！</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 哎呀！<span class="block">（欲昏倒）</span></p>
+<p class="xj"><span class="xchar">熊友兰</span> 弟弟，弟弟！</p>
+<p class="xj"><span class="xchar">禁卒</span> 你们难道是兄弟吗？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 正是同胞兄弟！</p>
+<p class="xj"><span class="xchar">禁卒</span> 怪不得都姓熊呢。既是弟兄，死在一块儿也好！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">熊友兰</span> 弟弟，你可曾听见？</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 听见什么？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 他说，你我死在一处也好！<span class="block">（狂笑）</span>啊，哈哈……</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 命已难保，为何发笑？</p>
+<p class="xj"><span class="xchar">熊友兰</span> 你看哪，活的时候你东我西，不能团圆一处。死么，倒死在一处，岂不可喜？</p>
+<p class="xj"><span class="xchar">熊友蕙</span> 兄长，我们冤枉啊！你我一死，熊家绝了后代，我死不瞑目！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 绝了后代么？哎，爹娘啊！<span class="block">（打五更）</span></p>
+<p class="xj"><span class="xchar">禁卒</span> <span class="block">（同解差上，白）</span>熊友兰，熊友蕙，别再哭，该走啦！<span class="block">（解差锁二人，牵下）</span></p>
 【幕落】
 
 
 
 
 
-第五场 见都
+<h2 class="title2">第五场<br/> <span class="sptxt">见都</span></h2>
 
 人物 熊友兰 熊友蕙 苏成娟 侯三姑 二差人 况锺<span class="block">（生）</span> 况喜 二衙役 门子 巡夜官<span class="block">（净）</span> 四校尉 中军 周洸<span class="block">（净）</span>
 
 <p class="l block">〔幕启：内喊：“大人退堂，犯人收监。”二差人带四犯回监。</p>
 
-苏成娟|啊，侯三姑，这苏州知府不曾拷打我们，想是个清官！
-侯三姑|<span class="block">（哭白）</span>苦啊……！
-熊友兰|官儿们都是一样的。明早开刀问斩，故尔刚才不曾拷打我们！
-二差人|快走吧！少说话！<span class="block">（同四犯下）</span>
-况锺|<span class="block">（上，退堂到书斋来。况喜拿着案卷置桌上。秉烛阅卷，况喜下。效果：隐隐有呼冤之声，甚惨。打三更。白）</span>啊，适才熊友兰等四犯，口口声声呼冤不已，俱都说出冤情，不像行凶作恶之辈。现在已是三更时候，天明就要监斩，这便如何是好？<span class="block">（唱二黄原板）</span>
+<p class="xj"><span class="xchar">苏成娟</span> 啊，侯三姑，这苏州知府不曾拷打我们，想是个清官！</p>
+<p class="xj"><span class="xchar">侯三姑</span> <span class="block">（哭白）</span>苦啊……！</p>
+<p class="xj"><span class="xchar">熊友兰</span> 官儿们都是一样的。明早开刀问斩，故尔刚才不曾拷打我们！</p>
+<p class="xj"><span class="xchar">二差人</span> 快走吧！少说话！<span class="block">（同四犯下）</span></p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（上，退堂到书斋来。况喜拿着案卷置桌上。秉烛阅卷，况喜下。效果：隐隐有呼冤之声，甚惨。打三更。白）</span>啊，适才熊友兰等四犯，口口声声呼冤不已，俱都说出冤情，不像行凶作恶之辈。现在已是三更时候，天明就要监斩，这便如何是好？<span class="block">（唱二黄原板）</span></p>
 <blockquote>
 <p>适才间，打罢了，更锣三遍，</p>
 <p>越思，越想，心里不安！</p>
@@ -490,104 +490,104 @@
 <p>朱笔，不落，四命保全。<span class="block">（况喜溜上）</span></p>
 <p>叫人来，<span class="block">（况喜应：有。）</span>掌红灯，</p>
 </blockquote>
-况喜|<span class="block">（夹白）</span>天到这般时候，老爷往哪里去？
-况锺|<span class="block">（接唱）</span>都察去见。<span class="block">（叫散）</span>
-况喜|都察大人想已安歇了。
-况锺|<span class="block">（唱摇板）</span>我必须，去见他，人命关天。
-况喜|是！掌灯，带马！
-二衙役|<span class="block">（持灯、鞭，上。况喜下）</span>
-况锺|<span class="block">（上马，唱摇板）</span>叫人来，快快把路赶。
-二衙役|是！
-况锺|<span class="block">（接唱）</span>去到那，都察院，切莫迟延！<span class="block">（走圆场）</span>
-门子|<span class="block">（上）</span>�！站住！都察大人辕门，岂可乱闯？
-二衙役|况大人求见。
-门子|原来是况大人，失敬了！待我通报！有请巡夜官！
-巡夜官|<span class="block">（上）</span>何事？
-门子|况大人求见都察大人。
-巡夜官|原来是况大人，这厢施礼！
-况锺|免礼！
-巡夜官|启禀大人，天到这般时候，不便惊动都察大人！
-况锺|有要事求教，务祈分心才是！
-巡夜官|我与大人通禀，请大人少待。
-况锺|有劳了！<span class="block">（巡夜官下）</span>
-门子|况大人，因为你是个清官，巡夜官才肯与你通报；若是别人哪，给他十两银子，他也不一定肯去。
-况锺|若不是我来，恐怕花十两银子，也未必见着巡夜官哪！
-门子|况大人，谁敢要你的银子！你在都察大人面前多替我们美言几句，我们就感恩不尽！
-况锺|取笑了！哈哈哈。
-巡夜官|<span class="block">（上）</span>都察大人吩咐下来，明日早堂与太守相见。
-况锺|烦劳再为通禀一声，明日早堂就太晚了！
-巡夜官|况大人，适才通报，都察大人十分着恼，恕我不能再去！
-况锺|我若无有要事，岂肯半夜惊动都察大人？看在四条人命的分上，再去与我通禀一声！
-巡夜官|小官的前程要紧！都察大人怪罪下来，我担待不起！
-况锺|你是一定不去？
-巡夜官|大人海涵！
-况锺|如此我就要……<span class="block">（拾起马鞭）</span>
-巡夜官|大人要作什么？
-况锺|我要击动堂鼓，请大人升堂！
-巡夜官|啊，大人，切莫击鼓！
-况锺|大人怪罪，我一人担待！<span class="block">（去用马鞭击鼓，巡夜官拦阻不及）</span>
-中军|<span class="block">（帘内白）</span>升堂！
-校尉|<span class="block">（急上，喊威）</span>唔……！<span class="block">（中军随上）</span>
-周洸|<span class="block">（急上，念）</span>巡抚江南地，日夜不辞劳！传见苏州府！
-中军|嗻！巡夜官！
-巡夜官|在！
-中军|传苏州府进见！
-巡夜官|是！苏州府进见！<span class="block">（领况入帐）</span>苏州府告进。<span class="block">（下）</span>
-况锺|卑府参见老大人！
-中军|请免打躬！
-周洸|况大人，我奉旨斩杀囚犯，已借重贵府，理应明早法场监斩，为何昏夜击鼓求见？
-况锺|卑职奉命，理应监斩回报。只是这四名罪犯，各负奇冤，因此昏夜求见，求老大人暂缓执刑！
-周洸|怎见得各负奇冤？
-况锺|大人听禀！我适才点验男女囚犯，他们哪，一个个，一声声，俱都叫苦呼冤！
-周洸|三推六问，不知经过多少问官，还有何冤枉？
-况锺|四犯所言与原来口供出入甚大，怕只怕，问官们粗心判断了。
-周洸|怎么粗心判断？
-况锺|严刑拷打，痛苦难堪，屈打成招！
-周洸|怎见得严刑拷打，屈打成招？
-况锺|他四人，俱都是，遍体鳞伤，皮开肉绽！
-周洸|罪犯刁顽，须用重刑。
-况锺|那四犯所言，入情入理，似非刁顽之辈！
-周洸|心慈面软，怎能够当得审官？
-况锺|审官若不细心审问，乱用刑罚，恐非爱民之道。
-周洸|怎奈朝审已过，甚难翻案。
-况锺|老大人，岂不闻人命关天？
-周洸|我怎不知人命关天？怎奈处决囚犯，是朝廷大典！
-况锺|啊，老大人，孟夫子云：民为贵，社稷次之，君为轻。民间有冤，便当尽力昭雪。难道事关朝廷大典，就该错杀人么？
-周洸|况大人，我来问你，那四犯何时问斩？
-况锺|天明五鼓，绑赴法场。
-周洸|却又来！现在已过三更时分，离天明不远，延误期限，干系甚重，本院不敢做主！
-况锺|老大人何出此言？不要说是老大人，就是卑府也蒙圣上亲赐特旨，得假便宜行事。四犯既都含冤，就该从新审问！那不称职的官员就该上本参奏！
-周洸|贵府既奉圣上特旨，就该自己上本参奏，何必来问本院？
-况锺|老大人请息怒，卑职不过是为民请命！
-周洸|这为民请命么？怎奈期限已到，太迟了哇。
-况锺|老大人，会典上原有一款：凡死囚临刑呼冤者，得再审回奏。
-周洸|如此说来，贵府要坚持再审？
-况锺|大人明鉴！
-周洸|前例甚少，本院不便轻举妄动。贵府请回，还是速斩囚犯来报。
-况锺|还请大人格外开恩，准予重审！
-周洸|况大人，你太罗嗦了哇！我派你监斩，未曾派你再审此案，不必多言，请回去吧！
-况锺|遵命！是呀，我奉命监斩，不该多问别事。告退！<span class="block">（欲行又止）</span>哎呀且住，那四犯口口声声呼冤，岂能这样草草了事！也罢，破着这顶乌纱不要，我也要断他个水落石出！<span class="block">（转向周）</span>老大人，大人虽只派我监斩，不宜过问案中情节，但那四条人命确是关系重大，我的朱笔一落，四命休矣！误杀良民，于理不合，于心不安！
-周洸|本院既已决定，不必多言！
-况锺|也罢，卑职愿将官印为质，交与大人，请大人宽限半月，容卑职去到淮常二府，查明两案回报。
-周洸|两处俱已定案，何必再去勘查？
-况锺|卑职愿尽力而为，但愿不错杀无辜的百姓。
-周洸|倘若调查不明呢？
-况锺|请大人上本参奏，一应罪名都由卑职独自承当，不敢连累大人！
-周洸|<span class="block">（笑）</span>哈哈哈！好一个刚强的知府！也罢，贵府如此力求，或者果有冤枉，也未可知。官印不必交上，限你半月，察明两案回报就是！
-况锺|多谢老大人，还求令箭二支！
-周洸|要它何用？
-况锺|淮常二府非卑府所属，有了大人的令箭，才能有呼必应！
-周洸|来！
-中军|有！
-周洸|取令箭两支交与况大人！
-中军|令箭到！
-况锺|<span class="block">（接令箭）</span>多谢大人！正是：令箭到手去淮安，
-周洸|切记期限十五天！
-况锺|但愿此去能翻案，
-周洸|误了期限必丢官！退堂！<span class="block">（下）</span>
-况锺|人来！什么时候了？
-衙役|四鼓已过。
-况锺|天色将明，快快回府，马来马来马来！<span class="block">（唱散板）</span>
+<p class="xj"><span class="xchar">况喜</span> <span class="block">（夹白）</span>天到这般时候，老爷往哪里去？</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（接唱）</span>都察去见。<span class="block">（叫散）</span></p>
+<p class="xj"><span class="xchar">况喜</span> 都察大人想已安歇了。</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（唱摇板）</span>我必须，去见他，人命关天。</p>
+<p class="xj"><span class="xchar">况喜</span> 是！掌灯，带马！</p>
+<p class="xj"><span class="xchar">二衙役</span> <span class="block">（持灯、鞭，上。况喜下）</span></p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（上马，唱摇板）</span>叫人来，快快把路赶。</p>
+<p class="xj"><span class="xchar">二衙役</span> 是！</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（接唱）</span>去到那，都察院，切莫迟延！<span class="block">（走圆场）</span></p>
+<p class="xj"><span class="xchar">门子</span> <span class="block">（上）</span>�！站住！都察大人辕门，岂可乱闯？</p>
+<p class="xj"><span class="xchar">二衙役</span> 况大人求见。</p>
+<p class="xj"><span class="xchar">门子</span> 原来是况大人，失敬了！待我通报！有请巡夜官！</p>
+<p class="xj"><span class="xchar">巡夜官</span> <span class="block">（上）</span>何事？</p>
+<p class="xj"><span class="xchar">门子</span> 况大人求见都察大人。</p>
+<p class="xj"><span class="xchar">巡夜官</span> 原来是况大人，这厢施礼！</p>
+<p class="xj"><span class="xchar">况锺</span> 免礼！</p>
+<p class="xj"><span class="xchar">巡夜官</span> 启禀大人，天到这般时候，不便惊动都察大人！</p>
+<p class="xj"><span class="xchar">况锺</span> 有要事求教，务祈分心才是！</p>
+<p class="xj"><span class="xchar">巡夜官</span> 我与大人通禀，请大人少待。</p>
+<p class="xj"><span class="xchar">况锺</span> 有劳了！<span class="block">（巡夜官下）</span></p>
+<p class="xj"><span class="xchar">门子</span> 况大人，因为你是个清官，巡夜官才肯与你通报；若是别人哪，给他十两银子，他也不一定肯去。</p>
+<p class="xj"><span class="xchar">况锺</span> 若不是我来，恐怕花十两银子，也未必见着巡夜官哪！</p>
+<p class="xj"><span class="xchar">门子</span> 况大人，谁敢要你的银子！你在都察大人面前多替我们美言几句，我们就感恩不尽！</p>
+<p class="xj"><span class="xchar">况锺</span> 取笑了！哈哈哈。</p>
+<p class="xj"><span class="xchar">巡夜官</span> <span class="block">（上）</span>都察大人吩咐下来，明日早堂与太守相见。</p>
+<p class="xj"><span class="xchar">况锺</span> 烦劳再为通禀一声，明日早堂就太晚了！</p>
+<p class="xj"><span class="xchar">巡夜官</span> 况大人，适才通报，都察大人十分着恼，恕我不能再去！</p>
+<p class="xj"><span class="xchar">况锺</span> 我若无有要事，岂肯半夜惊动都察大人？看在四条人命的分上，再去与我通禀一声！</p>
+<p class="xj"><span class="xchar">巡夜官</span> 小官的前程要紧！都察大人怪罪下来，我担待不起！</p>
+<p class="xj"><span class="xchar">况锺</span> 你是一定不去？</p>
+<p class="xj"><span class="xchar">巡夜官</span> 大人海涵！</p>
+<p class="xj"><span class="xchar">况锺</span> 如此我就要……<span class="block">（拾起马鞭）</span></p>
+<p class="xj"><span class="xchar">巡夜官</span> 大人要作什么？</p>
+<p class="xj"><span class="xchar">况锺</span> 我要击动堂鼓，请大人升堂！</p>
+<p class="xj"><span class="xchar">巡夜官</span> 啊，大人，切莫击鼓！</p>
+<p class="xj"><span class="xchar">况锺</span> 大人怪罪，我一人担待！<span class="block">（去用马鞭击鼓，巡夜官拦阻不及）</span></p>
+<p class="xj"><span class="xchar">中军</span> <span class="block">（帘内白）</span>升堂！</p>
+<p class="xj"><span class="xchar">校尉</span> <span class="block">（急上，喊威）</span>唔……！<span class="block">（中军随上）</span></p>
+<p class="xj"><span class="xchar">周洸</span> <span class="block">（急上，念）</span>巡抚江南地，日夜不辞劳！传见苏州府！</p>
+<p class="xj"><span class="xchar">中军</span> 嗻！巡夜官！</p>
+<p class="xj"><span class="xchar">巡夜官</span> 在！</p>
+<p class="xj"><span class="xchar">中军</span> 传苏州府进见！</p>
+<p class="xj"><span class="xchar">巡夜官</span> 是！苏州府进见！<span class="block">（领况入帐）</span>苏州府告进。<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">况锺</span> 卑府参见老大人！</p>
+<p class="xj"><span class="xchar">中军</span> 请免打躬！</p>
+<p class="xj"><span class="xchar">周洸</span> 况大人，我奉旨斩杀囚犯，已借重贵府，理应明早法场监斩，为何昏夜击鼓求见？</p>
+<p class="xj"><span class="xchar">况锺</span> 卑职奉命，理应监斩回报。只是这四名罪犯，各负奇冤，因此昏夜求见，求老大人暂缓执刑！</p>
+<p class="xj"><span class="xchar">周洸</span> 怎见得各负奇冤？</p>
+<p class="xj"><span class="xchar">况锺</span> 大人听禀！我适才点验男女囚犯，他们哪，一个个，一声声，俱都叫苦呼冤！</p>
+<p class="xj"><span class="xchar">周洸</span> 三推六问，不知经过多少问官，还有何冤枉？</p>
+<p class="xj"><span class="xchar">况锺</span> 四犯所言与原来口供出入甚大，怕只怕，问官们粗心判断了。</p>
+<p class="xj"><span class="xchar">周洸</span> 怎么粗心判断？</p>
+<p class="xj"><span class="xchar">况锺</span> 严刑拷打，痛苦难堪，屈打成招！</p>
+<p class="xj"><span class="xchar">周洸</span> 怎见得严刑拷打，屈打成招？</p>
+<p class="xj"><span class="xchar">况锺</span> 他四人，俱都是，遍体鳞伤，皮开肉绽！</p>
+<p class="xj"><span class="xchar">周洸</span> 罪犯刁顽，须用重刑。</p>
+<p class="xj"><span class="xchar">况锺</span> 那四犯所言，入情入理，似非刁顽之辈！</p>
+<p class="xj"><span class="xchar">周洸</span> 心慈面软，怎能够当得审官？</p>
+<p class="xj"><span class="xchar">况锺</span> 审官若不细心审问，乱用刑罚，恐非爱民之道。</p>
+<p class="xj"><span class="xchar">周洸</span> 怎奈朝审已过，甚难翻案。</p>
+<p class="xj"><span class="xchar">况锺</span> 老大人，岂不闻人命关天？</p>
+<p class="xj"><span class="xchar">周洸</span> 我怎不知人命关天？怎奈处决囚犯，是朝廷大典！</p>
+<p class="xj"><span class="xchar">况锺</span> 啊，老大人，孟夫子云：民为贵，社稷次之，君为轻。民间有冤，便当尽力昭雪。难道事关朝廷大典，就该错杀人么？</p>
+<p class="xj"><span class="xchar">周洸</span> 况大人，我来问你，那四犯何时问斩？</p>
+<p class="xj"><span class="xchar">况锺</span> 天明五鼓，绑赴法场。</p>
+<p class="xj"><span class="xchar">周洸</span> 却又来！现在已过三更时分，离天明不远，延误期限，干系甚重，本院不敢做主！</p>
+<p class="xj"><span class="xchar">况锺</span> 老大人何出此言？不要说是老大人，就是卑府也蒙圣上亲赐特旨，得假便宜行事。四犯既都含冤，就该从新审问！那不称职的官员就该上本参奏！</p>
+<p class="xj"><span class="xchar">周洸</span> 贵府既奉圣上特旨，就该自己上本参奏，何必来问本院？</p>
+<p class="xj"><span class="xchar">况锺</span> 老大人请息怒，卑职不过是为民请命！</p>
+<p class="xj"><span class="xchar">周洸</span> 这为民请命么？怎奈期限已到，太迟了哇。</p>
+<p class="xj"><span class="xchar">况锺</span> 老大人，会典上原有一款：凡死囚临刑呼冤者，得再审回奏。</p>
+<p class="xj"><span class="xchar">周洸</span> 如此说来，贵府要坚持再审？</p>
+<p class="xj"><span class="xchar">况锺</span> 大人明鉴！</p>
+<p class="xj"><span class="xchar">周洸</span> 前例甚少，本院不便轻举妄动。贵府请回，还是速斩囚犯来报。</p>
+<p class="xj"><span class="xchar">况锺</span> 还请大人格外开恩，准予重审！</p>
+<p class="xj"><span class="xchar">周洸</span> 况大人，你太罗嗦了哇！我派你监斩，未曾派你再审此案，不必多言，请回去吧！</p>
+<p class="xj"><span class="xchar">况锺</span> 遵命！是呀，我奉命监斩，不该多问别事。告退！<span class="block">（欲行又止）</span>哎呀且住，那四犯口口声声呼冤，岂能这样草草了事！也罢，破着这顶乌纱不要，我也要断他个水落石出！<span class="block">（转向周）</span>老大人，大人虽只派我监斩，不宜过问案中情节，但那四条人命确是关系重大，我的朱笔一落，四命休矣！误杀良民，于理不合，于心不安！</p>
+<p class="xj"><span class="xchar">周洸</span> 本院既已决定，不必多言！</p>
+<p class="xj"><span class="xchar">况锺</span> 也罢，卑职愿将官印为质，交与大人，请大人宽限半月，容卑职去到淮常二府，查明两案回报。</p>
+<p class="xj"><span class="xchar">周洸</span> 两处俱已定案，何必再去勘查？</p>
+<p class="xj"><span class="xchar">况锺</span> 卑职愿尽力而为，但愿不错杀无辜的百姓。</p>
+<p class="xj"><span class="xchar">周洸</span> 倘若调查不明呢？</p>
+<p class="xj"><span class="xchar">况锺</span> 请大人上本参奏，一应罪名都由卑职独自承当，不敢连累大人！</p>
+<p class="xj"><span class="xchar">周洸</span> <span class="block">（笑）</span>哈哈哈！好一个刚强的知府！也罢，贵府如此力求，或者果有冤枉，也未可知。官印不必交上，限你半月，察明两案回报就是！</p>
+<p class="xj"><span class="xchar">况锺</span> 多谢老大人，还求令箭二支！</p>
+<p class="xj"><span class="xchar">周洸</span> 要它何用？</p>
+<p class="xj"><span class="xchar">况锺</span> 淮常二府非卑府所属，有了大人的令箭，才能有呼必应！</p>
+<p class="xj"><span class="xchar">周洸</span> 来！</p>
+<p class="xj"><span class="xchar">中军</span> 有！</p>
+<p class="xj"><span class="xchar">周洸</span> 取令箭两支交与况大人！</p>
+<p class="xj"><span class="xchar">中军</span> 令箭到！</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（接令箭）</span>多谢大人！正是：令箭到手去淮安，</p>
+<p class="xj"><span class="xchar">周洸</span> 切记期限十五天！</p>
+<p class="xj"><span class="xchar">况锺</span> 但愿此去能翻案，</p>
+<p class="xj"><span class="xchar">周洸</span> 误了期限必丢官！退堂！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">况锺</span> 人来！什么时候了？</p>
+<p class="xj"><span class="xchar">衙役</span> 四鼓已过。</p>
+<p class="xj"><span class="xchar">况锺</span> 天色将明，快快回府，马来马来马来！<span class="block">（唱散板）</span></p>
 <blockquote>
 <p>他四人冤枉不冤枉，<span class="block">（上马）</span></p>
 <p>全仗我勘察到淮常！<span class="block">（下）</span></p>
@@ -599,75 +599,75 @@
 
 
 
-第六场 踏勘
+<h2 class="title2">第六场<br/> <span class="sptxt">踏勘</span></h2>
 人物 夏胡子 冯玉臣 况锺 况喜 李老丈 王大娘
 
 <p class="l block">〔幕启：况锺到淮安山阳来勘查，地方夏胡子在镇外迎候，夏胡子甚是不安，一会儿一看太阳。</p>
 
-夏胡子|<span class="block">（独白）</span>真来的邪！这场官司三推六问地审过了，定了案，罪人押解到苏州，冬至斩首。斩就斩了吧，多么干脆！偏偏况太守非要再审不可，还亲自上这里来勘查，真是多此一举！来就快来吧，哼，我在这里已经等了两个时辰，他还没影儿呢！有了，我先找找冯玉臣去，敲他俩钱，倒是个办法。去不得，我躲开这儿，太守要是来到，怎么办？哪能那么巧，还是先找冯玉臣去！说走就走，<span class="block">（走）</span>不走不到，一走就到。得，来到米店。嗨，冯玉臣！冯老板！
-冯玉臣|哪一位？
-夏胡子|怎么，连我夏胡子的声音都听不出来啦？
-冯玉臣|原来是夏大叔，到此何事？
-夏胡子|无事不来，来了就有要紧的事！苏州府太爷就要来到，你还不晓得吗？
-冯玉臣|他来与我何干？
-夏胡子|与你何干？他是为你的事来的！
-冯玉臣|为我何来？
-夏胡子|你怎么装傻啊？你的儿媳侯三姑和奸夫熊友蕙谋害了你的儿子……
-冯玉臣|他们已判死刑，冬至问斩了！
-夏胡子|没那个事！他们解到苏州，苏州知府要再审，今天他就来此勘查！
-冯玉臣|这个……啊，夏大叔，你是要借点粮，还是借点钱？有话明言，何必骗我！
-夏胡子|哪个骗你？
-冯玉臣|你看哪，他是苏州知府，怎管得这淮安的事呢？
-夏胡子|哟喝，你还懂得这一套！告诉你吧，他有都老爷的令箭，查访淮安。
-冯玉臣|那我也不怕。我儿被奸夫淫妇害死，我是原告，怕他什么？
-夏胡子|苏州况太守是有名的活包公，他要是没看出毛病，干什么远道而来？
-冯玉臣|我有何毛病？
-夏胡子|他会说你诬告好人！
-冯玉臣|我的儿子被害，我怎么诬告好人？
-夏胡子|就算你说的对，官司再打上二年，你还怎么作生意呢？
-冯玉臣|这倒是一句好话！
-夏胡子|咱们是谁跟谁，我能说坏话吗？你看，大人来到，我先给你说几句好话，也许就原案不动，省去许多麻烦，岂不甚好？
-冯玉臣|多谢大叔！
-夏胡子|你谢谢我没借粮借钱呢，还是谢谢我为你走破了鞋底子？你真是作买卖的好手！
-冯玉臣|<span class="block">（递钱）</span>会作买卖的怎比得了会当差的呀！
-夏胡子|取笑了！好好打点打点，大人来到，别说错了话！回头见！
-冯玉臣|平白无故又被他敲去大钱一贯。哎！<span class="block">（下）</span>
-夏胡子|<span class="block">（又去等候知府）</span>
-况锺|<span class="block">（带况喜上，唱二黄摇板）</span>熊侯二人有冤枉。
-夏胡子|与大人叩头！
-况锺|面前可是本处地方？
-夏胡子|正是本地地方，迎接大人。大人到冯家米店去，待小人领路。
-况锺|且慢！我且问你，自从冯家店里出了人命案，可有本地官员来过！
-夏胡子|除了验尸，没有来过！
-况锺|原来如此。告状之时可曾传问左邻右舍？
-夏胡子|未曾传过。
-况锺|地方，你去传冯家米店左右近邻，前来答话。
-夏胡子|是！<span class="block">（要走）</span>
-况锺|转来！对他们好好言明，我传询他们并非审案，切勿惊慌！你若勒索他们，留神你的狗腿！
-夏胡子|小人不敢！<span class="block">（下）</span>
-况锺|那边有一石礅，正好坐下。
-况喜|是！<span class="block">（拂拭石礅）</span>大人请坐！
-况锺|<span class="block">（坐下）</span>百姓到来，万勿威吓他们！
-况喜|晓得！
-夏胡子|<span class="block">（同冯家近邻二人上）</span>启禀大人，冯家左右邻居都不在家，只找到李老丈和王大娘二人。
-李老丈 王大娘|参见大人！
-况锺|免礼！李老丈，你看熊友惠平日为人如何？
-李老丈|那熊友蕙乃是一个老实忠厚的书生。
-况锺|啊，老大娘，那侯三姑呢？
-王大娘|她也十分老实。
-况锺|平日，熊侯二人之间可有什么不明不白之处？
-李老丈|我未曾见过！
-况锺|有无耳闻呢？
-王大娘|也无有！
-况锺|她可有错待小女婿之处？
-王大娘|待他甚是有礼。
-况锺|那小女婿是怎么死的？
-李老丈|确系中毒身亡！验尸的时候，我在一旁观看。
-况锺|熊友蕙和侯三姑既都是老实人，如何下此毒手？
-李老丈 王大娘|这就不知道了！
-况锺|这倒奇怪了！啊，二位老人家，我在外边访，你们在里边访，必须追究出个水落石出。你们可愿帮助于我？
-李老丈 王大娘|我们都愿效劳！
-况锺|地方，冯家米店去者。<span class="block">（唱四平调）</span>
+<p class="xj"><span class="xchar">夏胡子</span> <span class="block">（独白）</span>真来的邪！这场官司三推六问地审过了，定了案，罪人押解到苏州，冬至斩首。斩就斩了吧，多么干脆！偏偏况太守非要再审不可，还亲自上这里来勘查，真是多此一举！来就快来吧，哼，我在这里已经等了两个时辰，他还没影儿呢！有了，我先找找冯玉臣去，敲他俩钱，倒是个办法。去不得，我躲开这儿，太守要是来到，怎么办？哪能那么巧，还是先找冯玉臣去！说走就走，<span class="block">（走）</span>不走不到，一走就到。得，来到米店。嗨，冯玉臣！冯老板！</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 哪一位？</p>
+<p class="xj"><span class="xchar">夏胡子</span> 怎么，连我夏胡子的声音都听不出来啦？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 原来是夏大叔，到此何事？</p>
+<p class="xj"><span class="xchar">夏胡子</span> 无事不来，来了就有要紧的事！苏州府太爷就要来到，你还不晓得吗？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 他来与我何干？</p>
+<p class="xj"><span class="xchar">夏胡子</span> 与你何干？他是为你的事来的！</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 为我何来？</p>
+<p class="xj"><span class="xchar">夏胡子</span> 你怎么装傻啊？你的儿媳侯三姑和奸夫熊友蕙谋害了你的儿子……</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 他们已判死刑，冬至问斩了！</p>
+<p class="xj"><span class="xchar">夏胡子</span> 没那个事！他们解到苏州，苏州知府要再审，今天他就来此勘查！</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 这个……啊，夏大叔，你是要借点粮，还是借点钱？有话明言，何必骗我！</p>
+<p class="xj"><span class="xchar">夏胡子</span> 哪个骗你？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 你看哪，他是苏州知府，怎管得这淮安的事呢？</p>
+<p class="xj"><span class="xchar">夏胡子</span> 哟喝，你还懂得这一套！告诉你吧，他有都老爷的令箭，查访淮安。</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 那我也不怕。我儿被奸夫淫妇害死，我是原告，怕他什么？</p>
+<p class="xj"><span class="xchar">夏胡子</span> 苏州况太守是有名的活包公，他要是没看出毛病，干什么远道而来？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 我有何毛病？</p>
+<p class="xj"><span class="xchar">夏胡子</span> 他会说你诬告好人！</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 我的儿子被害，我怎么诬告好人？</p>
+<p class="xj"><span class="xchar">夏胡子</span> 就算你说的对，官司再打上二年，你还怎么作生意呢？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 这倒是一句好话！</p>
+<p class="xj"><span class="xchar">夏胡子</span> 咱们是谁跟谁，我能说坏话吗？你看，大人来到，我先给你说几句好话，也许就原案不动，省去许多麻烦，岂不甚好？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 多谢大叔！</p>
+<p class="xj"><span class="xchar">夏胡子</span> 你谢谢我没借粮借钱呢，还是谢谢我为你走破了鞋底子？你真是作买卖的好手！</p>
+<p class="xj"><span class="xchar">冯玉臣</span> <span class="block">（递钱）</span>会作买卖的怎比得了会当差的呀！</p>
+<p class="xj"><span class="xchar">夏胡子</span> 取笑了！好好打点打点，大人来到，别说错了话！回头见！</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 平白无故又被他敲去大钱一贯。哎！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">夏胡子</span> <span class="block">（又去等候知府）</span></p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（带况喜上，唱二黄摇板）</span>熊侯二人有冤枉。</p>
+<p class="xj"><span class="xchar">夏胡子</span> 与大人叩头！</p>
+<p class="xj"><span class="xchar">况锺</span> 面前可是本处地方？</p>
+<p class="xj"><span class="xchar">夏胡子</span> 正是本地地方，迎接大人。大人到冯家米店去，待小人领路。</p>
+<p class="xj"><span class="xchar">况锺</span> 且慢！我且问你，自从冯家店里出了人命案，可有本地官员来过！</p>
+<p class="xj"><span class="xchar">夏胡子</span> 除了验尸，没有来过！</p>
+<p class="xj"><span class="xchar">况锺</span> 原来如此。告状之时可曾传问左邻右舍？</p>
+<p class="xj"><span class="xchar">夏胡子</span> 未曾传过。</p>
+<p class="xj"><span class="xchar">况锺</span> 地方，你去传冯家米店左右近邻，前来答话。</p>
+<p class="xj"><span class="xchar">夏胡子</span> 是！<span class="block">（要走）</span></p>
+<p class="xj"><span class="xchar">况锺</span> 转来！对他们好好言明，我传询他们并非审案，切勿惊慌！你若勒索他们，留神你的狗腿！</p>
+<p class="xj"><span class="xchar">夏胡子</span> 小人不敢！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">况锺</span> 那边有一石礅，正好坐下。</p>
+<p class="xj"><span class="xchar">况喜</span> 是！<span class="block">（拂拭石礅）</span>大人请坐！</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（坐下）</span>百姓到来，万勿威吓他们！</p>
+<p class="xj"><span class="xchar">况喜</span> 晓得！</p>
+<p class="xj"><span class="xchar">夏胡子</span> <span class="block">（同冯家近邻二人上）</span>启禀大人，冯家左右邻居都不在家，只找到李老丈和王大娘二人。</p>
+<p class="xj"><span class="xchar">李老丈 王大娘</span> 参见大人！</p>
+<p class="xj"><span class="xchar">况锺</span> 免礼！李老丈，你看熊友惠平日为人如何？</p>
+<p class="xj"><span class="xchar">李老丈</span> 那熊友蕙乃是一个老实忠厚的书生。</p>
+<p class="xj"><span class="xchar">况锺</span> 啊，老大娘，那侯三姑呢？</p>
+<p class="xj"><span class="xchar">王大娘</span> 她也十分老实。</p>
+<p class="xj"><span class="xchar">况锺</span> 平日，熊侯二人之间可有什么不明不白之处？</p>
+<p class="xj"><span class="xchar">李老丈</span> 我未曾见过！</p>
+<p class="xj"><span class="xchar">况锺</span> 有无耳闻呢？</p>
+<p class="xj"><span class="xchar">王大娘</span> 也无有！</p>
+<p class="xj"><span class="xchar">况锺</span> 她可有错待小女婿之处？</p>
+<p class="xj"><span class="xchar">王大娘</span> 待他甚是有礼。</p>
+<p class="xj"><span class="xchar">况锺</span> 那小女婿是怎么死的？</p>
+<p class="xj"><span class="xchar">李老丈</span> 确系中毒身亡！验尸的时候，我在一旁观看。</p>
+<p class="xj"><span class="xchar">况锺</span> 熊友蕙和侯三姑既都是老实人，如何下此毒手？</p>
+<p class="xj"><span class="xchar">李老丈 王大娘</span> 这就不知道了！</p>
+<p class="xj"><span class="xchar">况锺</span> 这倒奇怪了！啊，二位老人家，我在外边访，你们在里边访，必须追究出个水落石出。你们可愿帮助于我？</p>
+<p class="xj"><span class="xchar">李老丈 王大娘</span> 我们都愿效劳！</p>
+<p class="xj"><span class="xchar">况锺</span> 地方，冯家米店去者。<span class="block">（唱四平调）</span></p>
 <blockquote>
 <p>这一案，实在真难破，</p>
 <p>其中有，不少的曲折：</p>
@@ -678,241 +678,241 @@
 <p>莫不是，这坏事别人所作，</p>
 <p>倒叫那，好人受尽折磨？</p>
 </blockquote>
-夏胡子|来此已是！
-况锺|二位老人家且请回，有事再来动问。
-李老丈 王大娘|是！<span class="block">（下）</span>
-冯玉臣|<span class="block">（上）</span>冯玉臣参见大人！
-况锺|免礼。地方，你在外面等候，待我进去查看。
-夏胡子|遵命！
-冯玉臣|大人随我来！<span class="block">（引况入门）</span>
-况锺|<span class="block">（看）</span>这是你的柜房？
-冯玉臣|正是。
-况锺|后面呢？
-冯玉臣|是儿媳的住处。
-况锺|<span class="block">（向屋内看）</span>你儿媳侯三姑出入，必须经过柜房？后面并无后门？
-冯玉臣|她出入必须经过前面，并无后门。
-况锺|她出入，你都能看见？
-冯玉臣|正是。
-况锺|这墙壁的那一边是谁家所住？
-冯玉臣|是熊友蕙的。
-况锺|<span class="block">（敲墙）</span>这墙壁甚厚，两家不能隔墙通话。墙又甚高，无法越过。我来问你，熊友蕙与侯三姑通奸，他们是怎么来往的呢？
-冯玉臣|这个……
-况锺|如此说来，他二人通奸，你并未亲眼看见。
-冯玉臣|我的孩子死得可怜啊！
-况锺|你的孩儿死得可怜是一件事，他被谁害死的是另一件事，何以见得必是熊友蕙与侯三姑杀害的呢？
-冯玉臣|有金环为证！
-况锺|嗯！金环若是侯三姑所赠，熊友蕙为何自投罗网，前来换粮？
-冯玉臣|这个……还有那宝钞十五贯也不见了。
-况锺|宝钞不见，怎知道是熊友蕙拿去的？
-冯玉臣|这个……金环既在他手，宝钞想必也在他手！
-况锺|况喜，随我到隔壁看来。冯玉臣，你在这里等候，唤你再来。
-冯玉臣|遵命！<span class="block">（下）</span>
-况锺|<span class="block">（同况喜到熊家）</span>哎呀，除了些书卷，四壁皆空。他这么劳苦，还顾得通奸么？怎奈那金环如何到他手里？这，这，这……。金环的来历若不查明，此案难以判断！<span class="block">（鼠叫声）</span>啊？这是什么声音？
-况喜|老鼠叫。靠近米店，老鼠必多！
-况锺|你待怎讲？
-况喜|靠近米店，老鼠必多！
-况锺|好！好！好！<span class="block">（看上边）</span>啊，况喜，你来看，对着这书案，上面有一小洞，你登到案上去看个明白！
-况喜|是！<span class="block">（登案以手探洞）</span>这是老鼠洞！
-况锺|四面摸索，看有无物件。
-况喜|<span class="block">（摸到一些东西，跳下来）</span>大人，破案有望了！
-况锺|怎见得？
-况喜|大人请看，宝钞十五贯一张，像包东西那样折为四折。
-况锺|况喜，我的好况喜啊！<span class="block">（嗅钞票）</span>这宝钞久经使用，上有油腻气味，所以叫老鼠盗来。想那金环也是老鼠盗来的，由鼠洞落下，落在书中！老鼠啊，只道你偷油盗米，却原来还会杀人害命！叫冯玉臣前来答话！
-况喜|是。<span class="block">（出去，唤）</span>冯玉臣，大人唤你！
-冯玉臣|<span class="block">（上）</span>伺候大人！
-况锺|<span class="block">（把宝钞藏于背后）</span>我来问你，你那宝钞十五贯共是几张？
-冯玉臣|只是大票一张。
-况锺|嗯！是新的呢，还是旧的？
-冯玉臣|是旧钞。
-况锺|嗯！你怎记得？
-冯玉臣|旧钞纸大，折为四折，故而记得。
-况锺|<span class="block">（示钞）</span>你来看，这是何物？
-冯玉臣|与我所藏一模一样。大人哪里得来的？
-况锺|<span class="block">（指屋上）</span>就是那里！你开的是米店，老鼠自然甚多。左右邻居，相隔极近，房屋年久失修，老鼠可以来来往往，通行无阻。连那金环也是这样来的。
-冯玉臣|怎么，连那金环么？
-况锺|那书生明明言道，在书中拾得金环。我来问你，那金环是大是小？
-冯玉臣|金环并不甚大。
-况锺|放在哪里？
-冯玉臣|包在宝钞之中。
-况锺|是呀，金环不大，又包在宝钞之中，故而俱被老鼠盗来。你来看，上有鼠洞，下有书案，金环下落，自然落在书中。你一时爱子心切，不加思索，就错告了儿媳与邻居有苟且之事。如今证据在此，你服也不服？
-冯玉臣|小人不服！
-况锺|为何不服？
-冯玉臣|大人，难道我那短命的孩子也是老鼠害的么？
-况锺|这个……。冯玉臣，你且退下！
-冯玉臣|是！<span class="block">（下）</span>
-况锺|那冯玉臣问的对呀！问的对呀！
-况喜|大人，宝钞金环既非侯三姑私赠与熊友蕙的，下毒害人的也就不是他二人了！
-况锺|那如何证明，到底凶首是哪一个呀！无有凶首，焉足以说服冯玉臣呢？况喜，你再上去摸索，看还有何物件。
-况喜|是。<span class="block">（上案探洞）</span>
-况锺|况喜，你要多摸一摸，细摸一摸。
-况喜|<span class="block">（下来）</span>只摸到这半个炊饼，并无别物。
-况锺|拿来我看。<span class="block">（看）</span>况喜你看，这炊饼已干，想必放在那里许久了。
-况喜|正是。
-况锺|老鼠如何不吃它呢？
-况喜|想必是不大好吃。
-况锺|为何不好吃呢？啊，我倒明白了！唤李老丈与王大娘前来。
-况喜|是。<span class="block">（唤）</span>李老丈，王大娘走上。
-李老丈 王大娘|<span class="block">（分从左右上）</span>参见大人，有何吩咐？
-况锺|适才在鼠洞之中，找到这半个炊饼，我且问你，你们可曾用鼠药杀鼠？
-李老丈|这左右四邻靠近米店，老鼠猖狂，往往在食物之中放些鼠药，毒死老鼠。
-况锺|可有无知幼童误食毒鼠的东西，丧掉性命？
-王大娘|有啊！
-况锺|出在何时？毒死的是哪家儿童？
-王大娘|就是那……
-况锺|大娘如何欲言又止？
-王大娘|这个……
-况锺|说出实情，恕你无罪！
-王大娘|就是那冯家的小儿！
-况锺|啊？老大娘，你怎么知道？
-王大娘|去年我同院的邻居姚二，恨老鼠咬了他的衣服，在熊友蕙拿金环换米的那一天，买了三个炊饼，下了许多鼠药，未及藏在暗处，就出去干事，被冯家小子看见，偷吃了两个，中毒身亡。
-况锺|那姚二现在哪里？
-李老丈|在熊友蕙定罪之后，他逃往他乡，不知下落。
-况锺|老大娘，你既知道，如何不去代熊友蕙鸣冤？
-王大娘|那县太爷狂暴无比，谁敢去仗义鸣冤！若不是大人到此，我至死也不敢道出真情实话。
-况锺|王大娘，你来看，姚二下的毒药可与这一样？<span class="block">（示饼）</span>
-王大娘|正是此物！
-况锺|好！好！好！我到县衙清查此案，若传你们到堂对证，有我在此，敢保那县官不敢滥用刑法，你等切莫惧怕！况喜，传地方！
-况喜|地方进见！
-夏胡子|<span class="block">（上）</span>来了！参见大人！
-况锺|好好看管冯玉臣，明日到县衙回话，如有勒索，必定重责！
-夏胡子|是！
-况锺|况喜，及速进城！<span class="block">（下）</span>
+<p class="xj"><span class="xchar">夏胡子</span> 来此已是！</p>
+<p class="xj"><span class="xchar">况锺</span> 二位老人家且请回，有事再来动问。</p>
+<p class="xj"><span class="xchar">李老丈 王大娘</span> 是！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">冯玉臣</span> <span class="block">（上）</span>冯玉臣参见大人！</p>
+<p class="xj"><span class="xchar">况锺</span> 免礼。地方，你在外面等候，待我进去查看。</p>
+<p class="xj"><span class="xchar">夏胡子</span> 遵命！</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 大人随我来！<span class="block">（引况入门）</span></p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（看）</span>这是你的柜房？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 正是。</p>
+<p class="xj"><span class="xchar">况锺</span> 后面呢？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 是儿媳的住处。</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（向屋内看）</span>你儿媳侯三姑出入，必须经过柜房？后面并无后门？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 她出入必须经过前面，并无后门。</p>
+<p class="xj"><span class="xchar">况锺</span> 她出入，你都能看见？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 正是。</p>
+<p class="xj"><span class="xchar">况锺</span> 这墙壁的那一边是谁家所住？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 是熊友蕙的。</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（敲墙）</span>这墙壁甚厚，两家不能隔墙通话。墙又甚高，无法越过。我来问你，熊友蕙与侯三姑通奸，他们是怎么来往的呢？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 这个……</p>
+<p class="xj"><span class="xchar">况锺</span> 如此说来，他二人通奸，你并未亲眼看见。</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 我的孩子死得可怜啊！</p>
+<p class="xj"><span class="xchar">况锺</span> 你的孩儿死得可怜是一件事，他被谁害死的是另一件事，何以见得必是熊友蕙与侯三姑杀害的呢？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 有金环为证！</p>
+<p class="xj"><span class="xchar">况锺</span> 嗯！金环若是侯三姑所赠，熊友蕙为何自投罗网，前来换粮？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 这个……还有那宝钞十五贯也不见了。</p>
+<p class="xj"><span class="xchar">况锺</span> 宝钞不见，怎知道是熊友蕙拿去的？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 这个……金环既在他手，宝钞想必也在他手！</p>
+<p class="xj"><span class="xchar">况锺</span> 况喜，随我到隔壁看来。冯玉臣，你在这里等候，唤你再来。</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 遵命！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（同况喜到熊家）</span>哎呀，除了些书卷，四壁皆空。他这么劳苦，还顾得通奸么？怎奈那金环如何到他手里？这，这，这……。金环的来历若不查明，此案难以判断！<span class="block">（鼠叫声）</span>啊？这是什么声音？</p>
+<p class="xj"><span class="xchar">况喜</span> 老鼠叫。靠近米店，老鼠必多！</p>
+<p class="xj"><span class="xchar">况锺</span> 你待怎讲？</p>
+<p class="xj"><span class="xchar">况喜</span> 靠近米店，老鼠必多！</p>
+<p class="xj"><span class="xchar">况锺</span> 好！好！好！<span class="block">（看上边）</span>啊，况喜，你来看，对着这书案，上面有一小洞，你登到案上去看个明白！</p>
+<p class="xj"><span class="xchar">况喜</span> 是！<span class="block">（登案以手探洞）</span>这是老鼠洞！</p>
+<p class="xj"><span class="xchar">况锺</span> 四面摸索，看有无物件。</p>
+<p class="xj"><span class="xchar">况喜</span> <span class="block">（摸到一些东西，跳下来）</span>大人，破案有望了！</p>
+<p class="xj"><span class="xchar">况锺</span> 怎见得？</p>
+<p class="xj"><span class="xchar">况喜</span> 大人请看，宝钞十五贯一张，像包东西那样折为四折。</p>
+<p class="xj"><span class="xchar">况锺</span> 况喜，我的好况喜啊！<span class="block">（嗅钞票）</span>这宝钞久经使用，上有油腻气味，所以叫老鼠盗来。想那金环也是老鼠盗来的，由鼠洞落下，落在书中！老鼠啊，只道你偷油盗米，却原来还会杀人害命！叫冯玉臣前来答话！</p>
+<p class="xj"><span class="xchar">况喜</span> 是。<span class="block">（出去，唤）</span>冯玉臣，大人唤你！</p>
+<p class="xj"><span class="xchar">冯玉臣</span> <span class="block">（上）</span>伺候大人！</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（把宝钞藏于背后）</span>我来问你，你那宝钞十五贯共是几张？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 只是大票一张。</p>
+<p class="xj"><span class="xchar">况锺</span> 嗯！是新的呢，还是旧的？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 是旧钞。</p>
+<p class="xj"><span class="xchar">况锺</span> 嗯！你怎记得？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 旧钞纸大，折为四折，故而记得。</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（示钞）</span>你来看，这是何物？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 与我所藏一模一样。大人哪里得来的？</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（指屋上）</span>就是那里！你开的是米店，老鼠自然甚多。左右邻居，相隔极近，房屋年久失修，老鼠可以来来往往，通行无阻。连那金环也是这样来的。</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 怎么，连那金环么？</p>
+<p class="xj"><span class="xchar">况锺</span> 那书生明明言道，在书中拾得金环。我来问你，那金环是大是小？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 金环并不甚大。</p>
+<p class="xj"><span class="xchar">况锺</span> 放在哪里？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 包在宝钞之中。</p>
+<p class="xj"><span class="xchar">况锺</span> 是呀，金环不大，又包在宝钞之中，故而俱被老鼠盗来。你来看，上有鼠洞，下有书案，金环下落，自然落在书中。你一时爱子心切，不加思索，就错告了儿媳与邻居有苟且之事。如今证据在此，你服也不服？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 小人不服！</p>
+<p class="xj"><span class="xchar">况锺</span> 为何不服？</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 大人，难道我那短命的孩子也是老鼠害的么？</p>
+<p class="xj"><span class="xchar">况锺</span> 这个……。冯玉臣，你且退下！</p>
+<p class="xj"><span class="xchar">冯玉臣</span> 是！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">况锺</span> 那冯玉臣问的对呀！问的对呀！</p>
+<p class="xj"><span class="xchar">况喜</span> 大人，宝钞金环既非侯三姑私赠与熊友蕙的，下毒害人的也就不是他二人了！</p>
+<p class="xj"><span class="xchar">况锺</span> 那如何证明，到底凶首是哪一个呀！无有凶首，焉足以说服冯玉臣呢？况喜，你再上去摸索，看还有何物件。</p>
+<p class="xj"><span class="xchar">况喜</span> 是。<span class="block">（上案探洞）</span></p>
+<p class="xj"><span class="xchar">况锺</span> 况喜，你要多摸一摸，细摸一摸。</p>
+<p class="xj"><span class="xchar">况喜</span> <span class="block">（下来）</span>只摸到这半个炊饼，并无别物。</p>
+<p class="xj"><span class="xchar">况锺</span> 拿来我看。<span class="block">（看）</span>况喜你看，这炊饼已干，想必放在那里许久了。</p>
+<p class="xj"><span class="xchar">况喜</span> 正是。</p>
+<p class="xj"><span class="xchar">况锺</span> 老鼠如何不吃它呢？</p>
+<p class="xj"><span class="xchar">况喜</span> 想必是不大好吃。</p>
+<p class="xj"><span class="xchar">况锺</span> 为何不好吃呢？啊，我倒明白了！唤李老丈与王大娘前来。</p>
+<p class="xj"><span class="xchar">况喜</span> 是。<span class="block">（唤）</span>李老丈，王大娘走上。</p>
+<p class="xj"><span class="xchar">李老丈 王大娘</span> <span class="block">（分从左右上）</span>参见大人，有何吩咐？</p>
+<p class="xj"><span class="xchar">况锺</span> 适才在鼠洞之中，找到这半个炊饼，我且问你，你们可曾用鼠药杀鼠？</p>
+<p class="xj"><span class="xchar">李老丈</span> 这左右四邻靠近米店，老鼠猖狂，往往在食物之中放些鼠药，毒死老鼠。</p>
+<p class="xj"><span class="xchar">况锺</span> 可有无知幼童误食毒鼠的东西，丧掉性命？</p>
+<p class="xj"><span class="xchar">王大娘</span> 有啊！</p>
+<p class="xj"><span class="xchar">况锺</span> 出在何时？毒死的是哪家儿童？</p>
+<p class="xj"><span class="xchar">王大娘</span> 就是那……</p>
+<p class="xj"><span class="xchar">况锺</span> 大娘如何欲言又止？</p>
+<p class="xj"><span class="xchar">王大娘</span> 这个……</p>
+<p class="xj"><span class="xchar">况锺</span> 说出实情，恕你无罪！</p>
+<p class="xj"><span class="xchar">王大娘</span> 就是那冯家的小儿！</p>
+<p class="xj"><span class="xchar">况锺</span> 啊？老大娘，你怎么知道？</p>
+<p class="xj"><span class="xchar">王大娘</span> 去年我同院的邻居姚二，恨老鼠咬了他的衣服，在熊友蕙拿金环换米的那一天，买了三个炊饼，下了许多鼠药，未及藏在暗处，就出去干事，被冯家小子看见，偷吃了两个，中毒身亡。</p>
+<p class="xj"><span class="xchar">况锺</span> 那姚二现在哪里？</p>
+<p class="xj"><span class="xchar">李老丈</span> 在熊友蕙定罪之后，他逃往他乡，不知下落。</p>
+<p class="xj"><span class="xchar">况锺</span> 老大娘，你既知道，如何不去代熊友蕙鸣冤？</p>
+<p class="xj"><span class="xchar">王大娘</span> 那县太爷狂暴无比，谁敢去仗义鸣冤！若不是大人到此，我至死也不敢道出真情实话。</p>
+<p class="xj"><span class="xchar">况锺</span> 王大娘，你来看，姚二下的毒药可与这一样？<span class="block">（示饼）</span></p>
+<p class="xj"><span class="xchar">王大娘</span> 正是此物！</p>
+<p class="xj"><span class="xchar">况锺</span> 好！好！好！我到县衙清查此案，若传你们到堂对证，有我在此，敢保那县官不敢滥用刑法，你等切莫惧怕！况喜，传地方！</p>
+<p class="xj"><span class="xchar">况喜</span> 地方进见！</p>
+<p class="xj"><span class="xchar">夏胡子</span> <span class="block">（上）</span>来了！参见大人！</p>
+<p class="xj"><span class="xchar">况锺</span> 好好看管冯玉臣，明日到县衙回话，如有勒索，必定重责！</p>
+<p class="xj"><span class="xchar">夏胡子</span> 是！</p>
+<p class="xj"><span class="xchar">况锺</span> 况喜，及速进城！<span class="block">（下）</span></p>
 【幕落】
 
 
 
 
 
-第七场 访鼠
+<h2 class="title2">第七场<br/> <span class="sptxt">访鼠</span></h2>
 
 人物 群众若干人 陶明山 秦伯伯 李大娘 况锺 况喜 娄阿鼠
 
 <p class="l block">〔幕启：在皋桥附近。正是城隍庙开庙之日，群众三三两两到庙中去，也有去烧香的，也有去作生意的，大家一路上说说笑笑。最后，陶、秦、李三老人同上。</p>
 
-秦伯伯|啊，陶伯伯，闻听人言，这几日你与娄阿鼠相亲相近，也到赌场走走，是何缘故？
-陶明山|我刚刚回到家乡，十分寂寞，故而与他玩耍玩耍。有道是：老要颠狂少要稳，我么是越老越淘气了，哈哈哈。
-李大娘|那娄阿鼠不是什么好人哪！何必与他来往？
-陶明山|来，来，来，这里有大石一块，坐下歇歇腰腿如何？<span class="block">（大家坐下）</span>李大娘，你道那娄阿鼠不是良善之辈，你们却为何相信他的话呢？
-秦伯伯|我们几时相信他的话来？
-陶明山|前日，我来奉访，你们都说那苏成娟是个安分的姑娘，可是你们却又相信娄阿鼠之言，说她与人通奸，杀死尤屠户！
-李大娘|尤屠户被害，我们一时心慌意乱，故而误信娄阿鼠之言。
-秦伯伯|至今想起此事，心中还感不安！
-陶明山|我来问你，尤屠户死后，娄阿鼠可曾忽然有了钱呢？
-秦伯伯|听说是，在苏成娟定了死刑之后，娄阿鼠忽然大赌特赌，日夜不离赌场。
-陶明山|嗯！这就是了！二位请先走一步，我有些小事，暂且告便，你我在庙中相会。
-秦伯伯 李大娘|请便！你我庙中相会。
-陶明山|啊，秦伯伯，李大娘，你们遇见娄阿鼠之时，切莫说出，我曾打听他的光景！
-秦伯伯 李大娘|我们晓得，放心就是！
-陶明山|请！<span class="block">（下）</span>
-秦伯伯|这老儿为人仗义，好打不平，莫非他要为苏成娟伸冤么？
-李大娘|但愿如此！闻听人言，苏州府况大人要来查访，故而陶伯伯关心此事。正是：昏官残暴真可恨！
-秦伯伯|幸有青天况大人！<span class="block">（同李下）</span>
-况锺|<span class="block">（同况喜上，他化装为测字先生，况喜扮作童儿，唱散板）</span>
+<p class="xj"><span class="xchar">秦伯伯</span> 啊，陶伯伯，闻听人言，这几日你与娄阿鼠相亲相近，也到赌场走走，是何缘故？</p>
+<p class="xj"><span class="xchar">陶明山</span> 我刚刚回到家乡，十分寂寞，故而与他玩耍玩耍。有道是：老要颠狂少要稳，我么是越老越淘气了，哈哈哈。</p>
+<p class="xj"><span class="xchar">李大娘</span> 那娄阿鼠不是什么好人哪！何必与他来往？</p>
+<p class="xj"><span class="xchar">陶明山</span> 来，来，来，这里有大石一块，坐下歇歇腰腿如何？<span class="block">（大家坐下）</span>李大娘，你道那娄阿鼠不是良善之辈，你们却为何相信他的话呢？</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 我们几时相信他的话来？</p>
+<p class="xj"><span class="xchar">陶明山</span> 前日，我来奉访，你们都说那苏成娟是个安分的姑娘，可是你们却又相信娄阿鼠之言，说她与人通奸，杀死尤屠户！</p>
+<p class="xj"><span class="xchar">李大娘</span> 尤屠户被害，我们一时心慌意乱，故而误信娄阿鼠之言。</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 至今想起此事，心中还感不安！</p>
+<p class="xj"><span class="xchar">陶明山</span> 我来问你，尤屠户死后，娄阿鼠可曾忽然有了钱呢？</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 听说是，在苏成娟定了死刑之后，娄阿鼠忽然大赌特赌，日夜不离赌场。</p>
+<p class="xj"><span class="xchar">陶明山</span> 嗯！这就是了！二位请先走一步，我有些小事，暂且告便，你我在庙中相会。</p>
+<p class="xj"><span class="xchar">秦伯伯 李大娘</span> 请便！你我庙中相会。</p>
+<p class="xj"><span class="xchar">陶明山</span> 啊，秦伯伯，李大娘，你们遇见娄阿鼠之时，切莫说出，我曾打听他的光景！</p>
+<p class="xj"><span class="xchar">秦伯伯 李大娘</span> 我们晓得，放心就是！</p>
+<p class="xj"><span class="xchar">陶明山</span> 请！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">秦伯伯</span> 这老儿为人仗义，好打不平，莫非他要为苏成娟伸冤么？</p>
+<p class="xj"><span class="xchar">李大娘</span> 但愿如此！闻听人言，苏州府况大人要来查访，故而陶伯伯关心此事。正是：昏官残暴真可恨！</p>
+<p class="xj"><span class="xchar">秦伯伯</span> 幸有青天况大人！<span class="block">（同李下）</span></p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（同况喜上，他化装为测字先生，况喜扮作童儿，唱散板）</span></p>
 <blockquote>
 <p>测字先生巧装扮，</p>
 <p>采访凶首心神不安！</p>
 </blockquote>
 <p><span class="block">（白）</span>哎呀！十五日期限将满，那杀人凶犯还未查明，这便如何是好！</p>
-况喜|大人不必着急！
-况锺|不要再叫大人！
-况喜|是！想你为官清正，延误期限也不至丢官！
-况锺|说什么丢官不丢官，丢官事小，人命事大，我若调查不明，那四人性命难保！
-况喜|我们已经看出娄阿鼠既是尤屠户的近邻，为人又贪财好赌，就先把他抓来拷问如何？
-况锺|他虽形迹可疑，却无证据，怎好抓来拷问？
-陶明山|<span class="block">（帘内）</span>走啊！
-况锺|那旁有人来了，你且闪躲一旁！
-况喜|是！<span class="block">（下）</span>
-陶明山|<span class="block">（上，唱散板）</span>
+<p class="xj"><span class="xchar">况喜</span> 大人不必着急！</p>
+<p class="xj"><span class="xchar">况锺</span> 不要再叫大人！</p>
+<p class="xj"><span class="xchar">况喜</span> 是！想你为官清正，延误期限也不至丢官！</p>
+<p class="xj"><span class="xchar">况锺</span> 说什么丢官不丢官，丢官事小，人命事大，我若调查不明，那四人性命难保！</p>
+<p class="xj"><span class="xchar">况喜</span> 我们已经看出娄阿鼠既是尤屠户的近邻，为人又贪财好赌，就先把他抓来拷问如何？</p>
+<p class="xj"><span class="xchar">况锺</span> 他虽形迹可疑，却无证据，怎好抓来拷问？</p>
+<p class="xj"><span class="xchar">陶明山</span> <span class="block">（帘内）</span>走啊！</p>
+<p class="xj"><span class="xchar">况锺</span> 那旁有人来了，你且闪躲一旁！</p>
+<p class="xj"><span class="xchar">况喜</span> 是！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">陶明山</span> <span class="block">（上，唱散板）</span></p>
 <blockquote>
 <p>好心没有好下场，</p>
 <p>倒叫友兰遭了殃！</p>
 </blockquote>
-况锺|相面测字，卦礼随意！
-陶明山|<span class="block">（看了看况，走过去，又回头看）</span>
-况锺|<span class="block">（走过去，也回头看）</span>
-陶明山|<span class="block">（回来）</span>况大人！
-况锺|我乃江湖测字之人，什么况大人哪！
-陶明山|我姓陶名叫明山，在苏州大街之上看见过大人。我原是这皋桥生人，自幼喜读诗书，可惜功名无分，到了晚年，只游山玩水，到处走走，却也逍遥自在。去年，我在苏州上船，遇到艄公熊友兰。
-况锺|<span class="block">（拉住陶的袖子）</span>哪一个？
-陶明山|我道你是况大人，果然是况大人，要不然如何听到熊友兰三字就这样关心呢！
-况锺|往下讲，那熊友兰怎样？
-陶明山|我曾帮助熊友兰十五贯钱，前去搭救他的兄弟。
-况锺|怎么？熊友兰的十五贯钱是你给他的么？
-陶明山|正是！
-况锺|你为何不来控告呢？
-陶明山|前几日，我回到此地，闻听人言，那熊友兰因这十五贯钱，判了死罪。哎呀大人哪，这才是好心救人反倒害了人呀！因此，我日夜不安，各处盘问，要找到那杀人正犯，代熊友兰伸冤！
-况锺|这几日你可找到什么线索？
-陶明山|我访了尤屠户左右邻居，俱是良善人民，只有一个著名的赌徒，名叫娄阿鼠，形迹可疑。
-况锺|嗯，娄阿鼠——他有何可疑之处？
-陶明山|邻居都说：他平日为人，品行不端。
-况锺|品行不端未必敢图财害命！
-陶明山|但是，这两日，大人亲自查访的消息传来，娄阿鼠惊惶失措，想要逃走。他若心中无病，为何想要逃走？
-况锺|你怎知道他要逃走？
-陶明山|这几日，为与阿鼠亲近，我也到赌场，观看动静，故意输与他三百五百大钱，与他结为朋友。今日城隍庙会，我约他同去求签。他言道：要祷告神明，指出明路：是在家里好，还是出外好，岂不是有逃走之意？
-况锺|他要逃走怎见得与这案件有关？
-陶明山|适才我问过他的近邻，他们言道：在苏成娟定了死刑之后，娄阿鼠忽然大赌特赌，日夜不离赌场！分明是他偷盗了尤屠户的十五贯钱。
-况锺|此话有理！虽然如此，必须他亲口说出，才好判断。你我一同到城隍庙去，与他相见，察颜观色，探问虚实，你道如何？
-陶明山|今乃开庙之日，地小人多，甚是不便。他若上庙，必经过此处。此处人不太多，正好讲话。大人，请先给我测上一字！
-况锺|不要再叫大人，我测字也不过是为遮掩耳目，并不灵验！
-陶明山|你我假装测字，那娄阿鼠来到，好引他入瓮！
-况锺|来来来，你我坐在这块大石之上，我将卦摊子摆好，也好装龙像龙，装虎像虎。<span class="block">（打开小包，摆摊）</span>
-陶明山|先生，请给我测个山字吧。
-况锺|<span class="block">（写在板上）</span>这山字么？
-娄阿鼠|<span class="block">（溜上，立在他们后边，看测字。他们也假装聚精会神，不搭理他）</span>
-况锺|山是山岭，巩固无比，正好作庄！
-陶明山|唔！作庄必定能赢？
-况锺|正是！山藏五金，是财源茂盛之象，必定赢钱。
-娄阿鼠|咦！
-陶明山|原来是阿鼠哥，你什么时候来的？
-娄阿鼠|我已看了一会儿歪脖儿胡！
-陶明山|这位先生测字灵得很，你为何不测上一字？
-娄阿鼠|我出不起卦钱啊。
-陶明山|来来来，我给你垫上，今晚我作庄必定赢钱，还在乎这几个么？
-娄阿鼠|我不识字呀！
-况锺|口说一字就行。
-娄阿鼠|我叫娄阿鼠，就出个鼠字吧！
-陶明山|<span class="block">（立起）</span>来，我把这个座位让给你，来来来，坐下！
-娄阿鼠|<span class="block">（坐下）</span>先生，看我押这鼠字行不行啊？
-况锺|<span class="block">（写）</span>行！行！行！你看，这就是鼠字。
-娄阿鼠|嗯，这个字乱七八糟的，一定有不少“胡”。
-况锺|正是，一共是十四画。遇数成双，乃是阴象，鼠又是阴中之阴，恐怕要有官司！
-娄阿鼠|有官司？十四点不是闭十，怎能那么倒霉？要紧不要紧呢？
-况锺|此卦是为自己占，还是代别人占呢？
-娄阿鼠|<span class="block">（支吾）</span>啊，本家出去了，我替他打两把，我替别人占卦。
-况锺|依数看来，只怕不是代占。
-娄阿鼠|怎见得？
-况锺|子鼠丑牛，鼠是十二属相之首，必是自占。这里么，还有偷窃之象？
-娄阿鼠|偷？我向来有赌品，公公道道，不玩腥活！
-况锺|老鼠喜欢偷啊！
-陶明山|是啊，先生说的是老鼠会偷，不是你呀！
-况锺|这卦里说，偷的是尤家的东西。
-娄阿鼠|<span class="block">（惊，急立起，又急坐下）</span>姓尤？
-况锺|难道你不知老鼠偷油喝么？
-陶明山|先生测的妙啊，哈哈哈！
-娄阿鼠|哈哈哈！先生，要是这一门不旺，我换换座位如何？
-况锺|你到底是自占，还是代占，我好测断！
-娄阿鼠|就算是我作庄吧！好，为我自己占！
-况锺|既是自占，就不落空。空的穴宝盖下加一鼠字，是个窜，你可以逃走。
-娄阿鼠|我没作坏事，干什么逃走？
-陶明山|先生说的是此处不利，光输钱，到别处才好。
-况锺|正是此意，只怕鼠性多疑，不能立时决定。
-娄阿鼠|必须快走么？
-况锺|越快越好。老鼠夜间出来，最好连夜走开。
-娄阿鼠|三对穿，四到底，我往哪一门去呢？
-况锺|鼠属巽，巽属东南，东南最好。
-娄阿鼠|走水路，还是起旱？
-况锺|鼠属子，子属水，水路去好。
-娄阿鼠|哪里去找船呢？
-况锺|我有便船在此，今晚开船，前往苏杭，赶新年生意，何不同去？
-陶明山|若上苏州，老汉也愿奉陪。
-况锺|我先回船，去等候二位。<span class="block">（收拾摊子，向陶使眼色）</span>
-陶明山|我们随后就到。
-况锺|船上相会！<span class="block">（下）</span>
-陶明山|阿鼠哥，你我同行，一路上可以畅快赌上一番。
-娄阿鼠|我又改了主意，不押这一宝啦！
-陶明山|为何不去了呢？
-娄阿鼠|到苏州去，那是死门呀！
-陶明山|有道是搜远不搜近哪！<span class="block">（掏出一副纸牌）</span>你看，现在上船，现在就可以耍起来，岂不痛快？<span class="block">（一张张地扔牌）</span>三万！五筒！四索！<span class="block">（他随扔牌，娄随拾牌，同下）</span>
+<p class="xj"><span class="xchar">况锺</span> 相面测字，卦礼随意！</p>
+<p class="xj"><span class="xchar">陶明山</span> <span class="block">（看了看况，走过去，又回头看）</span></p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（走过去，也回头看）</span></p>
+<p class="xj"><span class="xchar">陶明山</span> <span class="block">（回来）</span>况大人！</p>
+<p class="xj"><span class="xchar">况锺</span> 我乃江湖测字之人，什么况大人哪！</p>
+<p class="xj"><span class="xchar">陶明山</span> 我姓陶名叫明山，在苏州大街之上看见过大人。我原是这皋桥生人，自幼喜读诗书，可惜功名无分，到了晚年，只游山玩水，到处走走，却也逍遥自在。去年，我在苏州上船，遇到艄公熊友兰。</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（拉住陶的袖子）</span>哪一个？</p>
+<p class="xj"><span class="xchar">陶明山</span> 我道你是况大人，果然是况大人，要不然如何听到熊友兰三字就这样关心呢！</p>
+<p class="xj"><span class="xchar">况锺</span> 往下讲，那熊友兰怎样？</p>
+<p class="xj"><span class="xchar">陶明山</span> 我曾帮助熊友兰十五贯钱，前去搭救他的兄弟。</p>
+<p class="xj"><span class="xchar">况锺</span> 怎么？熊友兰的十五贯钱是你给他的么？</p>
+<p class="xj"><span class="xchar">陶明山</span> 正是！</p>
+<p class="xj"><span class="xchar">况锺</span> 你为何不来控告呢？</p>
+<p class="xj"><span class="xchar">陶明山</span> 前几日，我回到此地，闻听人言，那熊友兰因这十五贯钱，判了死罪。哎呀大人哪，这才是好心救人反倒害了人呀！因此，我日夜不安，各处盘问，要找到那杀人正犯，代熊友兰伸冤！</p>
+<p class="xj"><span class="xchar">况锺</span> 这几日你可找到什么线索？</p>
+<p class="xj"><span class="xchar">陶明山</span> 我访了尤屠户左右邻居，俱是良善人民，只有一个著名的赌徒，名叫娄阿鼠，形迹可疑。</p>
+<p class="xj"><span class="xchar">况锺</span> 嗯，娄阿鼠——他有何可疑之处？</p>
+<p class="xj"><span class="xchar">陶明山</span> 邻居都说：他平日为人，品行不端。</p>
+<p class="xj"><span class="xchar">况锺</span> 品行不端未必敢图财害命！</p>
+<p class="xj"><span class="xchar">陶明山</span> 但是，这两日，大人亲自查访的消息传来，娄阿鼠惊惶失措，想要逃走。他若心中无病，为何想要逃走？</p>
+<p class="xj"><span class="xchar">况锺</span> 你怎知道他要逃走？</p>
+<p class="xj"><span class="xchar">陶明山</span> 这几日，为与阿鼠亲近，我也到赌场，观看动静，故意输与他三百五百大钱，与他结为朋友。今日城隍庙会，我约他同去求签。他言道：要祷告神明，指出明路：是在家里好，还是出外好，岂不是有逃走之意？</p>
+<p class="xj"><span class="xchar">况锺</span> 他要逃走怎见得与这案件有关？</p>
+<p class="xj"><span class="xchar">陶明山</span> 适才我问过他的近邻，他们言道：在苏成娟定了死刑之后，娄阿鼠忽然大赌特赌，日夜不离赌场！分明是他偷盗了尤屠户的十五贯钱。</p>
+<p class="xj"><span class="xchar">况锺</span> 此话有理！虽然如此，必须他亲口说出，才好判断。你我一同到城隍庙去，与他相见，察颜观色，探问虚实，你道如何？</p>
+<p class="xj"><span class="xchar">陶明山</span> 今乃开庙之日，地小人多，甚是不便。他若上庙，必经过此处。此处人不太多，正好讲话。大人，请先给我测上一字！</p>
+<p class="xj"><span class="xchar">况锺</span> 不要再叫大人，我测字也不过是为遮掩耳目，并不灵验！</p>
+<p class="xj"><span class="xchar">陶明山</span> 你我假装测字，那娄阿鼠来到，好引他入瓮！</p>
+<p class="xj"><span class="xchar">况锺</span> 来来来，你我坐在这块大石之上，我将卦摊子摆好，也好装龙像龙，装虎像虎。<span class="block">（打开小包，摆摊）</span></p>
+<p class="xj"><span class="xchar">陶明山</span> 先生，请给我测个山字吧。</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（写在板上）</span>这山字么？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（溜上，立在他们后边，看测字。他们也假装聚精会神，不搭理他）</span></p>
+<p class="xj"><span class="xchar">况锺</span> 山是山岭，巩固无比，正好作庄！</p>
+<p class="xj"><span class="xchar">陶明山</span> 唔！作庄必定能赢？</p>
+<p class="xj"><span class="xchar">况锺</span> 正是！山藏五金，是财源茂盛之象，必定赢钱。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 咦！</p>
+<p class="xj"><span class="xchar">陶明山</span> 原来是阿鼠哥，你什么时候来的？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 我已看了一会儿歪脖儿胡！</p>
+<p class="xj"><span class="xchar">陶明山</span> 这位先生测字灵得很，你为何不测上一字？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 我出不起卦钱啊。</p>
+<p class="xj"><span class="xchar">陶明山</span> 来来来，我给你垫上，今晚我作庄必定赢钱，还在乎这几个么？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 我不识字呀！</p>
+<p class="xj"><span class="xchar">况锺</span> 口说一字就行。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 我叫娄阿鼠，就出个鼠字吧！</p>
+<p class="xj"><span class="xchar">陶明山</span> <span class="block">（立起）</span>来，我把这个座位让给你，来来来，坐下！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（坐下）</span>先生，看我押这鼠字行不行啊？</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（写）</span>行！行！行！你看，这就是鼠字。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 嗯，这个字乱七八糟的，一定有不少“胡”。</p>
+<p class="xj"><span class="xchar">况锺</span> 正是，一共是十四画。遇数成双，乃是阴象，鼠又是阴中之阴，恐怕要有官司！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 有官司？十四点不是闭十，怎能那么倒霉？要紧不要紧呢？</p>
+<p class="xj"><span class="xchar">况锺</span> 此卦是为自己占，还是代别人占呢？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（支吾）</span>啊，本家出去了，我替他打两把，我替别人占卦。</p>
+<p class="xj"><span class="xchar">况锺</span> 依数看来，只怕不是代占。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 怎见得？</p>
+<p class="xj"><span class="xchar">况锺</span> 子鼠丑牛，鼠是十二属相之首，必是自占。这里么，还有偷窃之象？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 偷？我向来有赌品，公公道道，不玩腥活！</p>
+<p class="xj"><span class="xchar">况锺</span> 老鼠喜欢偷啊！</p>
+<p class="xj"><span class="xchar">陶明山</span> 是啊，先生说的是老鼠会偷，不是你呀！</p>
+<p class="xj"><span class="xchar">况锺</span> 这卦里说，偷的是尤家的东西。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（惊，急立起，又急坐下）</span>姓尤？</p>
+<p class="xj"><span class="xchar">况锺</span> 难道你不知老鼠偷油喝么？</p>
+<p class="xj"><span class="xchar">陶明山</span> 先生测的妙啊，哈哈哈！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 哈哈哈！先生，要是这一门不旺，我换换座位如何？</p>
+<p class="xj"><span class="xchar">况锺</span> 你到底是自占，还是代占，我好测断！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 就算是我作庄吧！好，为我自己占！</p>
+<p class="xj"><span class="xchar">况锺</span> 既是自占，就不落空。空的穴宝盖下加一鼠字，是个窜，你可以逃走。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 我没作坏事，干什么逃走？</p>
+<p class="xj"><span class="xchar">陶明山</span> 先生说的是此处不利，光输钱，到别处才好。</p>
+<p class="xj"><span class="xchar">况锺</span> 正是此意，只怕鼠性多疑，不能立时决定。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 必须快走么？</p>
+<p class="xj"><span class="xchar">况锺</span> 越快越好。老鼠夜间出来，最好连夜走开。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 三对穿，四到底，我往哪一门去呢？</p>
+<p class="xj"><span class="xchar">况锺</span> 鼠属巽，巽属东南，东南最好。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 走水路，还是起旱？</p>
+<p class="xj"><span class="xchar">况锺</span> 鼠属子，子属水，水路去好。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 哪里去找船呢？</p>
+<p class="xj"><span class="xchar">况锺</span> 我有便船在此，今晚开船，前往苏杭，赶新年生意，何不同去？</p>
+<p class="xj"><span class="xchar">陶明山</span> 若上苏州，老汉也愿奉陪。</p>
+<p class="xj"><span class="xchar">况锺</span> 我先回船，去等候二位。<span class="block">（收拾摊子，向陶使眼色）</span></p>
+<p class="xj"><span class="xchar">陶明山</span> 我们随后就到。</p>
+<p class="xj"><span class="xchar">况锺</span> 船上相会！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">陶明山</span> 阿鼠哥，你我同行，一路上可以畅快赌上一番。</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 我又改了主意，不押这一宝啦！</p>
+<p class="xj"><span class="xchar">陶明山</span> 为何不去了呢？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 到苏州去，那是死门呀！</p>
+<p class="xj"><span class="xchar">陶明山</span> 有道是搜远不搜近哪！<span class="block">（掏出一副纸牌）</span>你看，现在上船，现在就可以耍起来，岂不痛快？<span class="block">（一张张地扔牌）</span>三万！五筒！四索！<span class="block">（他随扔牌，娄随拾牌，同下）</span></p>
 【幕落】
 
 
@@ -920,13 +920,13 @@
 
 
 
-第八场 会审
+<h2 class="title2">第八场<br/> <span class="sptxt">会审</span></h2>
 
 人物 周洸 家丁 况喜 况锺 中军 四校尉 差人 熊友兰 熊友蕙 苏成娟 侯三姑 娄阿鼠
 
 <p class="l block">〔幕启：周都察的书斋。家丁上。</p>
 
-周洸|<span class="block">（内唱西皮倒板）</span>
+<p class="xj"><span class="xchar">周洸</span> <span class="block">（内唱西皮倒板）</span></p>
 <blockquote>
 <p>况太守到淮常前去查看。<span class="block">（上，唱原板）</span></p>
 <p>十五日，期限满，不见回还。</p>
@@ -939,7 +939,7 @@
 <p>他若是今天不回转，</p>
 <p>我只得奏本把他参！</p>
 </blockquote>
-况锺|<span class="block">（内白）</span>走啊！<span class="block">（同况喜上，唱流水）</span>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（内白）</span>走啊！<span class="block">（同况喜上，唱流水）</span></p>
 <blockquote>
 <p>回到了苏州好喜欢，</p>
 <p>半月期限未迟延，</p>
@@ -947,11 +947,11 @@
 <p>见了大人把令箭还！</p>
 </blockquote>
 <p><span class="block">（下马，白）</span>前去求见。</p>
-况喜|门上哪位在，苏州府况大人求见。
-中军|<span class="block">（上）</span>待我通禀。<span class="block">（入）</span>禀大人，况大人求见。
-周洸|怎么，他倒回来了？有请！
-中军|有请况大人！
-况锺|<span class="block">（唱流水，入）</span>
+<p class="xj"><span class="xchar">况喜</span> 门上哪位在，苏州府况大人求见。</p>
+<p class="xj"><span class="xchar">中军</span> <span class="block">（上）</span>待我通禀。<span class="block">（入）</span>禀大人，况大人求见。</p>
+<p class="xj"><span class="xchar">周洸</span> 怎么，他倒回来了？有请！</p>
+<p class="xj"><span class="xchar">中军</span> 有请况大人！</p>
+<p class="xj"><span class="xchar">况锺</span> <span class="block">（唱流水，入）</span></p>
 <blockquote>
 <p>右手里拿着军令箭，</p>
 <p>左手里呈报文一篇，</p>
@@ -959,60 +959,60 @@
 <p>况锺交令未迟延。</p>
 </blockquote>
 <p><span class="block">（白）</span>况锺回来交令。<span class="block">（况喜下）</span></p>
-周洸|一路风霜之苦，贵府请坐。
-况锺|谢坐！
-周洸|贵府此行，诸事可都顺利？
-况锺|托庇诸事顺利，回报在此，大人请看！<span class="block">（递文）</span>
-周洸|<span class="block">（看文，牌子，白）</span>原来四犯俱都冤枉，多亏贵府不辞劳苦为他们伸冤，本院甚是惭愧！
-况锺|如何发落，尚祈大人明断！
-周洸|你我同堂会审便了，升堂！
-中军|升堂！
-四校尉|<span class="block">（吹打，上，喊威）</span>唔——。<span class="block">（周、况升堂）</span>
-周洸|况大人，只有这娄阿鼠，本院未曾见过，先带他上堂如何？
-况锺|大人高见！熊友兰等含冤已久，叫他们看看娄阿鼠受审，岂不大快人心？
-周洸|就依尊府！
-况锺|带熊友兰等四人！
-中军|熊友兰、熊友蕙、苏成娟、侯三姑上堂！
-熊友兰|<span class="block">（同三犯人由一差人押上，同白）</span>参见大人。
-周洸|见过况大人！他代你们伸冤，你们静候发落！
-熊友兰等|<span class="block">（同白）</span>多谢况大人！
-中军|站立一旁。
-周洸|带娄阿鼠！
-中军|带娄阿鼠！
-娄阿鼠|<span class="block">（由一差人押上）</span>喝，这儿比宝局还热闹！上边坐的好像老千儿，旁边的那个好像九万！
-中军|跪下！
-周洸|娄阿鼠，为何杀死尤屠户，陷害熊友兰与苏成娟，从实招来！
-娄阿鼠|我没跟什么熊友兰、苏成娟耍过钱呀！
-况锺|娄阿鼠，你看我是何人？
-娄阿鼠|哟！你不是测字的先生吗？
-况锺|你在船中告诉我的，都写在这里<span class="block">（示以供状）</span>，你可招认？
-娄阿鼠|这下子我算输到底了！
-中军|你且画供！
-娄阿鼠|我若不画呢？
-周洸|大刑伺候！
-娄阿鼠|慢来！慢来！我画供就是！
-周洸|押下去！
-差人|是！走！
-娄阿鼠|没杠上开花，倒来了个包庄！<span class="block">（下）</span>
-况锺|冯玉臣等都已带来，如何发落？
-周洸|全依贵府发落，呈报。
-况锺|两个县官，滥用刑法，草菅人命，理当参奏！
-周洸|理当参奏！
-况锺|熊友兰等四人，俱无过犯，屈打成招，应否当堂释放？
-周洸|也凭大人斟酌！
-侯三姑|<span class="block">（哭）</span>苦啊！
-周洸|侯三姑，况大人要将你释放，为何啼哭？
-侯三姑|我不愿回到冯家，又无别的依靠，故此伤心落泪，求大人做主！
-况锺|她虽是童养媳妇，并未合房，无有守节之义。
-苏成娟|<span class="block">（也哭）</span>苦啊！
-周洸|你也无家可归么？
-苏成娟|义父已死，姑母对我也不怜爱，这便如何是好？
-周洸|况大人，你有何高见？
-况锺|卑职倒有一计在此，他四人俱未婚配，又共过患难，何不结成夫妇？就请老大人为媒如何？
-周洸|有道是一客不烦二主，救命的是你，为媒的也该是你！
-况锺|你四人意下如何？
-熊友兰等|<span class="block">（相视无语）</span>
-周洸|他等婚事，全凭贵府办理！退堂！<span class="block">（同中军校尉等下）</span>
-熊友兰|<span class="block">（对况）</span>感谢大人救命之恩！
-况锺|是不是也该谢谢媒人呢？你们随我来呀！哈哈哈！<span class="block">（下）</span>
+<p class="xj"><span class="xchar">周洸</span> 一路风霜之苦，贵府请坐。</p>
+<p class="xj"><span class="xchar">况锺</span> 谢坐！</p>
+<p class="xj"><span class="xchar">周洸</span> 贵府此行，诸事可都顺利？</p>
+<p class="xj"><span class="xchar">况锺</span> 托庇诸事顺利，回报在此，大人请看！<span class="block">（递文）</span></p>
+<p class="xj"><span class="xchar">周洸</span> <span class="block">（看文，牌子，白）</span>原来四犯俱都冤枉，多亏贵府不辞劳苦为他们伸冤，本院甚是惭愧！</p>
+<p class="xj"><span class="xchar">况锺</span> 如何发落，尚祈大人明断！</p>
+<p class="xj"><span class="xchar">周洸</span> 你我同堂会审便了，升堂！</p>
+<p class="xj"><span class="xchar">中军</span> 升堂！</p>
+<p class="xj"><span class="xchar">四校尉</span> <span class="block">（吹打，上，喊威）</span>唔——。<span class="block">（周、况升堂）</span></p>
+<p class="xj"><span class="xchar">周洸</span> 况大人，只有这娄阿鼠，本院未曾见过，先带他上堂如何？</p>
+<p class="xj"><span class="xchar">况锺</span> 大人高见！熊友兰等含冤已久，叫他们看看娄阿鼠受审，岂不大快人心？</p>
+<p class="xj"><span class="xchar">周洸</span> 就依尊府！</p>
+<p class="xj"><span class="xchar">况锺</span> 带熊友兰等四人！</p>
+<p class="xj"><span class="xchar">中军</span> 熊友兰、熊友蕙、苏成娟、侯三姑上堂！</p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（同三犯人由一差人押上，同白）</span>参见大人。</p>
+<p class="xj"><span class="xchar">周洸</span> 见过况大人！他代你们伸冤，你们静候发落！</p>
+<p class="xj"><span class="xchar">熊友兰等</span> <span class="block">（同白）</span>多谢况大人！</p>
+<p class="xj"><span class="xchar">中军</span> 站立一旁。</p>
+<p class="xj"><span class="xchar">周洸</span> 带娄阿鼠！</p>
+<p class="xj"><span class="xchar">中军</span> 带娄阿鼠！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> <span class="block">（由一差人押上）</span>喝，这儿比宝局还热闹！上边坐的好像老千儿，旁边的那个好像九万！</p>
+<p class="xj"><span class="xchar">中军</span> 跪下！</p>
+<p class="xj"><span class="xchar">周洸</span> 娄阿鼠，为何杀死尤屠户，陷害熊友兰与苏成娟，从实招来！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 我没跟什么熊友兰、苏成娟耍过钱呀！</p>
+<p class="xj"><span class="xchar">况锺</span> 娄阿鼠，你看我是何人？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 哟！你不是测字的先生吗？</p>
+<p class="xj"><span class="xchar">况锺</span> 你在船中告诉我的，都写在这里<span class="block">（示以供状）</span>，你可招认？</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 这下子我算输到底了！</p>
+<p class="xj"><span class="xchar">中军</span> 你且画供！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 我若不画呢？</p>
+<p class="xj"><span class="xchar">周洸</span> 大刑伺候！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 慢来！慢来！我画供就是！</p>
+<p class="xj"><span class="xchar">周洸</span> 押下去！</p>
+<p class="xj"><span class="xchar">差人</span> 是！走！</p>
+<p class="xj"><span class="xchar">娄阿鼠</span> 没杠上开花，倒来了个包庄！<span class="block">（下）</span></p>
+<p class="xj"><span class="xchar">况锺</span> 冯玉臣等都已带来，如何发落？</p>
+<p class="xj"><span class="xchar">周洸</span> 全依贵府发落，呈报。</p>
+<p class="xj"><span class="xchar">况锺</span> 两个县官，滥用刑法，草菅人命，理当参奏！</p>
+<p class="xj"><span class="xchar">周洸</span> 理当参奏！</p>
+<p class="xj"><span class="xchar">况锺</span> 熊友兰等四人，俱无过犯，屈打成招，应否当堂释放？</p>
+<p class="xj"><span class="xchar">周洸</span> 也凭大人斟酌！</p>
+<p class="xj"><span class="xchar">侯三姑</span> <span class="block">（哭）</span>苦啊！</p>
+<p class="xj"><span class="xchar">周洸</span> 侯三姑，况大人要将你释放，为何啼哭？</p>
+<p class="xj"><span class="xchar">侯三姑</span> 我不愿回到冯家，又无别的依靠，故此伤心落泪，求大人做主！</p>
+<p class="xj"><span class="xchar">况锺</span> 她虽是童养媳妇，并未合房，无有守节之义。</p>
+<p class="xj"><span class="xchar">苏成娟</span> <span class="block">（也哭）</span>苦啊！</p>
+<p class="xj"><span class="xchar">周洸</span> 你也无家可归么？</p>
+<p class="xj"><span class="xchar">苏成娟</span> 义父已死，姑母对我也不怜爱，这便如何是好？</p>
+<p class="xj"><span class="xchar">周洸</span> 况大人，你有何高见？</p>
+<p class="xj"><span class="xchar">况锺</span> 卑职倒有一计在此，他四人俱未婚配，又共过患难，何不结成夫妇？就请老大人为媒如何？</p>
+<p class="xj"><span class="xchar">周洸</span> 有道是一客不烦二主，救命的是你，为媒的也该是你！</p>
+<p class="xj"><span class="xchar">况锺</span> 你四人意下如何？</p>
+<p class="xj"><span class="xchar">熊友兰等</span> <span class="block">（相视无语）</span></p>
+<p class="xj"><span class="xchar">周洸</span> 他等婚事，全凭贵府办理！退堂！<span class="block">（同中军校尉等下）</span></p>
+<p class="xj"><span class="xchar">熊友兰</span> <span class="block">（对况）</span>感谢大人救命之恩！</p>
+<p class="xj"><span class="xchar">况锺</span> 是不是也该谢谢媒人呢？你们随我来呀！哈哈哈！<span class="block">（下）</span></p>
 【幕落·全剧终】
