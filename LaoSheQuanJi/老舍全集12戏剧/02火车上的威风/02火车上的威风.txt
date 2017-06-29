@@ -1,6 +1,6 @@
 火车上的威风
-·改编旧作《马裤先生》·
-·独幕话剧·
+<p class="type">·改编旧作《马裤先生》·</p>
+<p class="type">·独幕话剧·</p>
 
 <p class="l block"><b>时 间</b></p>
 <p class="block">解放前的某年某月某日。</p>

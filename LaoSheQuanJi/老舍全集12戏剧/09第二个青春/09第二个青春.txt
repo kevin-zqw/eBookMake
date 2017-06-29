@@ -1,5 +1,5 @@
 第二个青春
-·歌剧·
+<p class="type">·歌剧·</p>
 
 <h2 class="title2">第一场</h2>
 <p class="l block"><b>时 间</b></p>

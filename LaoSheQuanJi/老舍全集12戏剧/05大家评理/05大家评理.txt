@@ -1,5 +1,5 @@
 大家评理
-·六场歌剧·
+<p class="type">·六场歌剧·</p>
 
 <h2 class="chapter">人物表</h2>
 

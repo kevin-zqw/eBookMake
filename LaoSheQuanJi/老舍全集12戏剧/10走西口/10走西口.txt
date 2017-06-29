@@ -1,5 +1,5 @@
 走西口
-·二人台·
+<p class="type">·二人台·</p>
 
 <p class="l block"><b>时 间</b></p>
 <p class="block">一九六〇年秋。</p>

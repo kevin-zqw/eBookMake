@@ -1,5 +1,5 @@
 青蛙骑手
-·儿童歌剧·
+<p class="type">·儿童歌剧·</p>
 
 
 <h2 class="title2">第一场</h2>

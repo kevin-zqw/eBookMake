@@ -1,5 +1,5 @@
 青霞丹雪
-·京剧·
+<p class="type">·京剧·</p>
 
 <h2 class="title2">第一场</h2>
 

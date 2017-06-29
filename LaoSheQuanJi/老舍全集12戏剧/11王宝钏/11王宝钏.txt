@@ -1,5 +1,5 @@
 <p class="xj"><span class="xchar">王宝钏</span> </p>
-·京剧·
+<p class="type">·京剧·</p>
 
 前言
 

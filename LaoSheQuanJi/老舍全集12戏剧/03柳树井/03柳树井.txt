@@ -1,5 +1,5 @@
 柳树井
-·曲剧·
+<p class="type">·曲剧·</p>
 
 
 <h2 class="chapter">人物表</h2>
