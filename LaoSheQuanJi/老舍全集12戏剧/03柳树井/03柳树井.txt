@@ -1,36 +1,42 @@
-柳树井
+<h1 class="bigtitle">柳树井</h1>
 <p class="type">·曲剧·</p>
+
+
+
 
 
 <h2 class="chapter">人物表</h2>
 
 
-  <p class="l block"><b>李招弟</b></p>
-  <p class="block">女，二十岁。十三岁时，因年荒，被父母卖给王家作媳妇，受婆婆与大姑子的虐待。</p>
+<p class="l block"><b>李招弟</b></p>
+<p class="block">女，二十岁。十三岁时，因年荒，被父母卖给王家作媳妇，受婆婆与大姑子的虐待。</p>
 
-  <p class="l block"><b>周强</b></p>
-  <p class="block">招弟的邻居，男，二十三岁，村中生产委员，热情、积极。</p>
+<p class="l block"><b>周强</b></p>
+<p class="block">招弟的邻居，男，二十三岁，村中生产委员，热情、积极。</p>
 
-  <p class="l block"><b>薛玉莲</b></p>
-  <p class="block">村妇联主任，二十七岁。</p>
+<p class="l block"><b>薛玉莲</b></p>
+<p class="block">村妇联主任，二十七岁。</p>
 
-  <p class="l block"><b>高德旺</b></p>
-  <p class="block">村长，快六十岁，人正派，对婚姻问题看法守旧。</p>
+<p class="l block"><b>高德旺</b></p>
+<p class="block">村长，快六十岁，人正派，对婚姻问题看法守旧。</p>
 
-  <p class="l block"><b>二艾子</b></p>
-  <p class="block">高的甥女，幼孤，被舅父养大。二十一岁。</p>
+<p class="l block"><b>二艾子</b></p>
+<p class="block">高的甥女，幼孤，被舅父养大。二十一岁。</p>
 
-  <p class="l block"><b>刘祥</b></p>
-  <p class="block">二艾子的男友，二十二岁，也是村中的积极分子。</p>
+<p class="l block"><b>刘祥</b></p>
+<p class="block">二艾子的男友，二十二岁，也是村中的积极分子。</p>
 
-  <p class="l block"><b>王大妈</b></p>
-  <p class="block">招弟的婆婆，五十多岁，糊涂无知。</p>
+<p class="l block"><b>王大妈</b></p>
+<p class="block">招弟的婆婆，五十多岁，糊涂无知。</p>
 
-  <p class="l block"><b>刺儿菜</b></p>
-  <p class="block">招弟的大姑子，三十岁，厉害出名。</p>
+<p class="l block"><b>刺儿菜</b></p>
+<p class="block">招弟的大姑子，三十岁，厉害出名。</p>
 
-  <p class="l block"><b>一位同志</b></p>
-  <p class="block">押送王家母女的一位同志。</p>
+<p class="l block"><b>一位同志</b></p>
+<p class="block">押送王家母女的一位同志。</p>
+
+
+
 
 
 
@@ -40,7 +46,10 @@
 
 <p class="l block"><b>地 点</b></p>
 <p class="block">北京西郊，小地名“柳树井”。</p>
-布景 内左方有井台，后一老柳。右远方露出王家院子的一角。王家院子距井台约半里路。
+
+<p class="l block"><b>布 景</b></p>
+<p class="block">内左方有井台，后一老柳。右远方露出王家院子的一角。王家院子距井台约半里路。</p>
+
 
 <p class="l block">〔幕启：王家院子还有灯光。灯灭，招弟自右方跑出，跑两步，回头望望，怕有人追来。看见井台，始缓步向前走。探身看井，要寻死，又无决心，坐在井台上发楞。</p>
 
@@ -434,7 +443,9 @@
 
 <p class="l block"><b>地 点</b></p>
 <p class="block">村政府。</p>
-布景 村长办公室，设备简单，而整齐严肃。
+
+<p class="l block"><b>布 景</b></p>
+<p class="block">村长办公室，设备简单，而整齐严肃。</p>
 
 <p class="l block">〔幕启：王大妈与刺儿菜并坐一长凳。高德旺坐公事桌后，薛玉莲坐桌旁。二艾子与刘祥坐一处。李招弟不敢坐，周强离她不远立着，像保护着她。</p>
 
@@ -881,7 +892,9 @@
 
 <p class="l block"><b>地 点</b></p>
 <p class="block">王家的场院。</p>
-布景 一道篱笆，后有枯柳、房子。左有草垛，右有磨盘。
+
+<p class="l block"><b>布 景</b></p>
+<p class="block">一道篱笆，后有枯柳、房子。左有草垛，右有磨盘。</p>
 
 <p class="l block">〔幕启：王家母女受过公审，已被拘管。薛玉莲与二艾子陪伴着李招弟。二艾子去挑水，薛玉莲正帮着李招弟作针线活。李招弟脸上已有光彩，头上脚下都整整齐齐。</p>
 
