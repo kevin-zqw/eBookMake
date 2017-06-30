@@ -7,7 +7,7 @@
  <meta http-equiv="Content-Language" content="zh-TW" />
  <meta name="Author" content="Donald Sturgeon" />
  <meta name="viewport" content="width=device-width, target-densitydpi=device-dpi, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
- <meta name="created" content="Sat, 24 Jun 2017 10:24:14 GMT" />
+ <meta name="created" content="Fri, 30 Jun 2017 17:23:54 GMT" />
  <link rel="pingback" href="http://ctext.org/xml-rpc.pl" />
  <meta name="robots" content="noarchive" />
  <meta name="keywords" content="魏仍, 夢二, 太平廣記, e-text, text, full-text, translation, English" />
@@ -474,4 +474,996 @@
 　　<a class="menuitem" id="m577760" href="taiping-guangji/255" >嘲誚二</a><br />
 　　<a class="menuitem" id="m577793" href="taiping-guangji/256" >嘲誚三</a><br />
 　　<a class="menuitem" id="m577842" href="taiping-guangji/257" >嘲誚四</a><br />
-　　<a class="menuitem" id="m577887" href="taiping-guangji/258" >�
+　　<a class="menuitem" id="m577887" href="taiping-guangji/258" >嘲誚五</a><br />
+　　<a class="menuitem" id="m577930" href="taiping-guangji/259" >嗤鄙一</a><br />
+　　<a class="menuitem" id="m577979" href="taiping-guangji/260" >嗤鄙二</a><br />
+　　<a class="menuitem" id="m578018" href="taiping-guangji/261" >嗤鄙三</a><br />
+　　<a class="menuitem" id="m578063" href="taiping-guangji/262" >嗤鄙四</a><br />
+　　<a class="menuitem" id="m578110" href="taiping-guangji/263" >嗤鄙五</a><br />
+　　<a class="menuitem" id="m578155" href="taiping-guangji/264" >無賴一</a><br />
+　　<a class="menuitem" id="m578188" href="taiping-guangji/265" >無賴二</a><br />
+　　<a class="menuitem" id="m578219" href="taiping-guangji/266" >輕薄一</a><br />
+　　<a class="menuitem" id="m578277" href="taiping-guangji/267" >輕薄二</a><br />
+　　<a class="menuitem" id="m578306" href="taiping-guangji/268" >酷暴一</a><br />
+　　<a class="menuitem" id="m578343" href="taiping-guangji/269" >酷暴二</a><br />
+　　<a class="menuitem" id="m578368" href="taiping-guangji/270" >酷暴三</a><br />
+　　<a class="menuitem" id="m578397" href="taiping-guangji/271" >婦人一</a><br />
+　　<a class="menuitem" id="m578437" href="taiping-guangji/272" >婦人三</a><br />
+　　<a class="menuitem" id="m578480" href="taiping-guangji/273" >婦人四</a><br />
+　　<a class="menuitem" id="m578507" href="taiping-guangji/274" >情感</a><br />
+　　<a class="menuitem" id="m578524" href="taiping-guangji/275" >童僕</a><br />
+　　<a class="menuitem" id="m578552" href="taiping-guangji/276" >夢一</a><br />
+　　<a class="menuitem" id="m578654" href="taiping-guangji/277" >夢二</a><br />
+　　<a class="menuitem" id="m578717" href="taiping-guangji/278" >夢三</a><br />
+　　<a class="menuitem" id="m578779" href="taiping-guangji/279" >夢四</a><br />
+　　<a class="menuitem" id="m578840" href="taiping-guangji/280" >夢五</a><br />
+　　<a class="menuitem" id="m578863" href="taiping-guangji/281" >夢六</a><br />
+　　<a class="menuitem" id="m578888" href="taiping-guangji/282" >夢七</a><br />
+　　<a class="menuitem" id="m578907" href="taiping-guangji/283" >巫</a><br />
+　　<a class="menuitem" id="m578947" href="taiping-guangji/284" >幻術一</a><br />
+　　<a class="menuitem" id="m578972" href="taiping-guangji/285" >幻術二</a><br />
+　　<a class="menuitem" id="m579009" href="taiping-guangji/286" >幻術三</a><br />
+　　<a class="menuitem" id="m579028" href="taiping-guangji/287" >幻術四</a><br />
+　　<a class="menuitem" id="m579039" href="taiping-guangji/288" >妖妄一</a><br />
+　　<a class="menuitem" id="m579076" href="taiping-guangji/289" >妖妄二</a><br />
+　　<a class="menuitem" id="m579111" href="taiping-guangji/290" >妖妄三</a><br />
+　　<a class="menuitem" id="m579120" href="taiping-guangji/291" >神一</a><br />
+　　<a class="menuitem" id="m579165" href="taiping-guangji/292" >神二</a><br />
+　　<a class="menuitem" id="m579198" href="taiping-guangji/293" >神三</a><br />
+　　<a class="menuitem" id="m579225" href="taiping-guangji/294" >神四</a><br />
+　　<a class="menuitem" id="m579272" href="taiping-guangji/295" >神五</a><br />
+　　<a class="menuitem" id="m579311" href="taiping-guangji/296" >神六</a><br />
+　　<a class="menuitem" id="m579338" href="taiping-guangji/297" >神七</a><br />
+　　<a class="menuitem" id="m579349" href="taiping-guangji/298" >神八</a><br />
+　　<a class="menuitem" id="m579362" href="taiping-guangji/299" >神九</a><br />
+　　<a class="menuitem" id="m579365" href="taiping-guangji/300" >神十</a><br />
+　　<a class="menuitem" id="m579382" href="taiping-guangji/301" >神十一</a><br />
+　　<a class="menuitem" id="m579395" href="taiping-guangji/302" >神十二</a><br />
+　　<a class="menuitem" id="m579406" href="taiping-guangji/303" >神十三</a><br />
+　　<a class="menuitem" id="m579425" href="taiping-guangji/304" >神十四</a><br />
+　　<a class="menuitem" id="m579444" href="taiping-guangji/305" >神十五</a><br />
+　　<a class="menuitem" id="m579463" href="taiping-guangji/306" >神十六</a><br />
+　　<a class="menuitem" id="m579472" href="taiping-guangji/307" >神十七</a><br />
+　　<a class="menuitem" id="m579499" href="taiping-guangji/308" >神十八</a><br />
+　　<a class="menuitem" id="m579515" href="taiping-guangji/309" >神十九</a><br />
+　　<a class="menuitem" id="m579520" href="taiping-guangji/310" >神二十</a><br />
+　　<a class="menuitem" id="m579537" href="taiping-guangji/311" >神二十一</a><br />
+　　<a class="menuitem" id="m579552" href="taiping-guangji/312" >神二十二</a><br />
+　　<a class="menuitem" id="m579581" href="taiping-guangji/313" >神二十三</a><br />
+　　<a class="menuitem" id="m579614" href="taiping-guangji/314" >神二十四</a><br />
+　　<a class="menuitem" id="m579653" href="taiping-guangji/315" >神二十五</a><br />
+　　<a class="menuitem" id="m579683" href="taiping-guangji/316" >鬼一</a><br />
+　　<a class="menuitem" id="m579708" href="taiping-guangji/317" >鬼二</a><br />
+　　<a class="menuitem" id="m579745" href="taiping-guangji/318" >鬼三</a><br />
+　　<a class="menuitem" id="m579790" href="taiping-guangji/319" >鬼四</a><br />
+　　<a class="menuitem" id="m579821" href="taiping-guangji/320" >鬼五</a><br />
+　　<a class="menuitem" id="m579858" href="taiping-guangji/321" >鬼六</a><br />
+　　<a class="menuitem" id="m579889" href="taiping-guangji/322" >鬼七</a><br />
+　　<a class="menuitem" id="m579934" href="taiping-guangji/323" >鬼八</a><br />
+　　<a class="menuitem" id="m579973" href="taiping-guangji/324" >鬼九</a><br />
+　　<a class="menuitem" id="m580006" href="taiping-guangji/325" >鬼十</a><br />
+　　<a class="menuitem" id="m580039" href="taiping-guangji/326" >鬼十一</a><br />
+　　<a class="menuitem" id="m580056" href="taiping-guangji/327" >鬼十二</a><br />
+　　<a class="menuitem" id="m580087" href="taiping-guangji/328" >鬼十三</a><br />
+　　<a class="menuitem" id="m580116" href="taiping-guangji/329" >鬼十四</a><br />
+　　<a class="menuitem" id="m580139" href="taiping-guangji/330" >鬼十五</a><br />
+　　<a class="menuitem" id="m580170" href="taiping-guangji/331" >鬼十六</a><br />
+　　<a class="menuitem" id="m580193" href="taiping-guangji/332" >鬼十七</a><br />
+　　<a class="menuitem" id="m580210" href="taiping-guangji/333" >鬼十八</a><br />
+　　<a class="menuitem" id="m580237" href="taiping-guangji/334" >鬼十九</a><br />
+　　<a class="menuitem" id="m580259" href="taiping-guangji/335" >鬼二十</a><br />
+　　<a class="menuitem" id="m580280" href="taiping-guangji/336" >鬼二十一</a><br />
+　　<a class="menuitem" id="m580295" href="taiping-guangji/337" >鬼二十二</a><br />
+　　<a class="menuitem" id="m580316" href="taiping-guangji/338" >鬼二十三</a><br />
+　　<a class="menuitem" id="m580338" href="taiping-guangji/339" >鬼二十四</a><br />
+　　<a class="menuitem" id="m580355" href="taiping-guangji/340" >鬼二十五</a><br />
+　　<a class="menuitem" id="m580362" href="taiping-guangji/341" >鬼二十六</a><br />
+　　<a class="menuitem" id="m580377" href="taiping-guangji/342" >鬼二十七</a><br />
+　　<a class="menuitem" id="m580387" href="taiping-guangji/343" >鬼二十八</a><br />
+　　<a class="menuitem" id="m580398" href="taiping-guangji/344" >鬼二十九</a><br />
+　　<a class="menuitem" id="m580415" href="taiping-guangji/345" >鬼三十</a><br />
+　　<a class="menuitem" id="m580434" href="taiping-guangji/346" >鬼三十一</a><br />
+　　<a class="menuitem" id="m580459" href="taiping-guangji/347" >鬼三十二</a><br />
+　　<a class="menuitem" id="m580474" href="taiping-guangji/348" >鬼三十三</a><br />
+　　<a class="menuitem" id="m580490" href="taiping-guangji/349" >鬼三十四</a><br />
+　　<a class="menuitem" id="m580505" href="taiping-guangji/350" >鬼三十五</a><br />
+　　<a class="menuitem" id="m580519" href="taiping-guangji/351" >鬼三十六</a><br />
+　　<a class="menuitem" id="m580540" href="taiping-guangji/352" >鬼三十七</a><br />
+　　<a class="menuitem" id="m580565" href="taiping-guangji/353" >鬼三十八</a><br />
+　　<a class="menuitem" id="m580602" href="taiping-guangji/354" >鬼三十九</a><br />
+　　<a class="menuitem" id="m580637" href="taiping-guangji/355" >鬼四十</a><br />
+　　<a class="menuitem" id="m580666" href="taiping-guangji/356" >夜叉一</a><br />
+　　<a class="menuitem" id="m580683" href="taiping-guangji/357" >夜叉二</a><br />
+　　<a class="menuitem" id="m580696" href="taiping-guangji/358" >神魂一</a><br />
+　　<a class="menuitem" id="m580723" href="taiping-guangji/359" >妖怪一</a><br />
+　　<a class="menuitem" id="m580776" href="taiping-guangji/360" >妖怪二</a><br />
+　　<a class="menuitem" id="m580847" href="taiping-guangji/361" >妖怪三</a><br />
+　　<a class="menuitem" id="m580892" href="taiping-guangji/362" >妖怪四</a><br />
+　　<a class="menuitem" id="m580939" href="taiping-guangji/363" >妖怪五</a><br />
+　　<a class="menuitem" id="m580958" href="taiping-guangji/364" >妖怪六</a><br />
+　　<a class="menuitem" id="m580979" href="taiping-guangji/365" >妖怪七</a><br />
+　　<a class="menuitem" id="m581002" href="taiping-guangji/366" >妖怪八</a><br />
+　　<a class="menuitem" id="m581045" href="taiping-guangji/367" >妖怪九</a><br />
+　　<a class="menuitem" id="m581111" href="taiping-guangji/368" >精怪一</a><br />
+　　<a class="menuitem" id="m581142" href="taiping-guangji/369" >精怪二</a><br />
+　　<a class="menuitem" id="m581161" href="taiping-guangji/370" >精怪三</a><br />
+　　<a class="menuitem" id="m581180" href="taiping-guangji/371" >精怪四</a><br />
+　　<a class="menuitem" id="m581197" href="taiping-guangji/372" >精怪五</a><br />
+　　<a class="menuitem" id="m581213" href="taiping-guangji/373" >精怪六</a><br />
+　　<a class="menuitem" id="m581232" href="taiping-guangji/374" >靈異</a><br />
+　　<a class="menuitem" id="m581291" href="taiping-guangji/375" >再生一</a><br />
+　　<a class="menuitem" id="m581332" href="taiping-guangji/376" >再生二</a><br />
+　　<a class="menuitem" id="m581355" href="taiping-guangji/377" >再生三</a><br />
+　　<a class="menuitem" id="m581370" href="taiping-guangji/378" >再生四</a><br />
+　　<a class="menuitem" id="m581389" href="taiping-guangji/379" >再生五</a><br />
+　　<a class="menuitem" id="m581408" href="taiping-guangji/380" >再生六</a><br />
+　　<a class="menuitem" id="m581425" href="taiping-guangji/381" >再生七</a><br />
+　　<a class="menuitem" id="m581446" href="taiping-guangji/382" >再生八</a><br />
+　　<a class="menuitem" id="m581471" href="taiping-guangji/383" >再生九</a><br />
+　　<a class="menuitem" id="m581500" href="taiping-guangji/384" >再生十</a><br />
+　　<a class="menuitem" id="m581523" href="taiping-guangji/385" >再生十一</a><br />
+　　<a class="menuitem" id="m581532" href="taiping-guangji/386" >再生十二</a><br />
+　　<a class="menuitem" id="m581559" href="taiping-guangji/387" >悟前生一</a><br />
+　　<a class="menuitem" id="m581580" href="taiping-guangji/388" >悟前生二</a><br />
+　　<a class="menuitem" id="m581603" href="taiping-guangji/389" >塚墓一</a><br />
+　　<a class="menuitem" id="m581668" href="taiping-guangji/390" >塚墓二</a><br />
+　　<a class="menuitem" id="m581719" href="taiping-guangji/391" >銘記一</a><br />
+　　<a class="menuitem" id="m581744" href="taiping-guangji/392" >銘記二</a><br />
+　　<a class="menuitem" id="m581763" href="taiping-guangji/393" >雷一</a><br />
+　　<a class="menuitem" id="m581808" href="taiping-guangji/394" >雷二</a><br />
+　　<a class="menuitem" id="m581843" href="taiping-guangji/395" >雷三</a><br />
+　　<a class="menuitem" id="m581882" href="taiping-guangji/396" >雨</a><br />
+　　<a class="menuitem" id="m581937" href="taiping-guangji/397" >山</a><br />
+　　<a class="menuitem" id="m581995" href="taiping-guangji/398" >石</a><br />
+　　<a class="menuitem" id="m582075" href="taiping-guangji/399" >水</a><br />
+　　<a class="menuitem" id="m582156" href="taiping-guangji/400" >寶一金上</a><br />
+　　<a class="menuitem" id="m582197" href="taiping-guangji/401" >寶二金下</a><br />
+　　<a class="menuitem" id="m582238" href="taiping-guangji/402" >寶三</a><br />
+　　<a class="menuitem" id="m582282" href="taiping-guangji/403" >寶四雜寳上</a><br />
+　　<a class="menuitem" id="m582315" href="taiping-guangji/404" >寶五雜寳下</a><br />
+　　<a class="menuitem" id="m582336" href="taiping-guangji/405" >寶六錢</a><br />
+　　<a class="menuitem" id="m582389" href="taiping-guangji/406" >草木一</a><br />
+　　<a class="menuitem" id="m582484" href="taiping-guangji/407" >草木二</a><br />
+　　<a class="menuitem" id="m582567" href="taiping-guangji/408" >草木三</a><br />
+　　<a class="menuitem" id="m582662" href="taiping-guangji/409" >草木四</a><br />
+　　<a class="menuitem" id="m582761" href="taiping-guangji/410" >草木五</a><br />
+　　<a class="menuitem" id="m582831" href="taiping-guangji/411" >草木六</a><br />
+　　<a class="menuitem" id="m582898" href="taiping-guangji/412" >草木七</a><br />
+　　<a class="menuitem" id="m582970" href="taiping-guangji/413" >草木八</a><br />
+　　<a class="menuitem" id="m583029" href="taiping-guangji/414" >草木九</a><br />
+　　<a class="menuitem" id="m583102" href="taiping-guangji/415" >草木十</a><br />
+　　<a class="menuitem" id="m583130" href="taiping-guangji/416" >草木十一</a><br />
+　　<a class="menuitem" id="m583153" href="taiping-guangji/417" >草木十二</a><br />
+　　<a class="menuitem" id="m583183" href="taiping-guangji/418" >龍一</a><br />
+　　<a class="menuitem" id="m583212" href="taiping-guangji/419" >龍二</a><br />
+　　<a class="menuitem" id="m583215" href="taiping-guangji/420" >龍三</a><br />
+　　<a class="menuitem" id="m583238" href="taiping-guangji/421" >龍四</a><br />
+　　<a class="menuitem" id="m583251" href="taiping-guangji/422" >龍五</a><br />
+　　<a class="menuitem" id="m583274" href="taiping-guangji/423" >龍六</a><br />
+　　<a class="menuitem" id="m583305" href="taiping-guangji/424" >龍七</a><br />
+　　<a class="menuitem" id="m583336" href="taiping-guangji/425" >龍八</a><br />
+　　<a class="menuitem" id="m583380" href="taiping-guangji/426" >虎一</a><br />
+　　<a class="menuitem" id="m583425" href="taiping-guangji/427" >虎二</a><br />
+　　<a class="menuitem" id="m583440" href="taiping-guangji/428" >虎三</a><br />
+　　<a class="menuitem" id="m583459" href="taiping-guangji/429" >虎四</a><br />
+　　<a class="menuitem" id="m583470" href="taiping-guangji/430" >虎五</a><br />
+　　<a class="menuitem" id="m583489" href="taiping-guangji/431" >虎六</a><br />
+　　<a class="menuitem" id="m583508" href="taiping-guangji/432" >虎七</a><br />
+　　<a class="menuitem" id="m583529" href="taiping-guangji/433" >虎八</a><br />
+　　<a class="menuitem" id="m583548" href="taiping-guangji/434" >畜獸一</a><br />
+　　<a class="menuitem" id="m583599" href="taiping-guangji/435" >畜獸二</a><br />
+　　<a class="menuitem" id="m583649" href="taiping-guangji/436" >畜獸三</a><br />
+　　<a class="menuitem" id="m583702" href="taiping-guangji/437" >畜獸四</a><br />
+　　<a class="menuitem" id="m583744" href="taiping-guangji/438" >畜獸五</a><br />
+　　<a class="menuitem" id="m583778" href="taiping-guangji/439" >畜獸六</a><br />
+　　<a class="menuitem" id="m583831" href="taiping-guangji/440" >畜獸七</a><br />
+　　<a class="menuitem" id="m583902" href="taiping-guangji/441" >畜獸八</a><br />
+　　<a class="menuitem" id="m583936" href="taiping-guangji/442" >畜獸九</a><br />
+　　<a class="menuitem" id="m583990" href="taiping-guangji/443" >畜獸十</a><br />
+　　<a class="menuitem" id="m584034" href="taiping-guangji/444" >畜獸十一</a><br />
+　　<a class="menuitem" id="m584051" href="taiping-guangji/445" >畜獸十二</a><br />
+　　<a class="menuitem" id="m584060" href="taiping-guangji/446" >畜獸十三</a><br />
+　　<a class="menuitem" id="m584089" href="taiping-guangji/447" >狐一</a><br />
+　　<a class="menuitem" id="m584128" href="taiping-guangji/448" >狐二</a><br />
+　　<a class="menuitem" id="m584145" href="taiping-guangji/449" >狐三</a><br />
+　　<a class="menuitem" id="m584162" href="taiping-guangji/450" >狐四</a><br />
+　　<a class="menuitem" id="m584189" href="taiping-guangji/451" >狐五</a><br />
+　　<a class="menuitem" id="m584220" href="taiping-guangji/452" >狐六</a><br />
+　　<a class="menuitem" id="m584226" href="taiping-guangji/453" >狐七</a><br />
+　　<a class="menuitem" id="m584235" href="taiping-guangji/454" >狐八</a><br />
+　　<a class="menuitem" id="m584252" href="taiping-guangji/455" >狐九</a><br />
+　　<a class="menuitem" id="m584265" href="taiping-guangji/456" >蛇一</a><br />
+　　<a class="menuitem" id="m584345" href="taiping-guangji/457" >蛇二</a><br />
+　　<a class="menuitem" id="m584398" href="taiping-guangji/458" >蛇三</a><br />
+　　<a class="menuitem" id="m584428" href="taiping-guangji/459" >蛇四</a><br />
+　　<a class="menuitem" id="m584479" href="taiping-guangji/460" >禽鳥一</a><br />
+　　<a class="menuitem" id="m584526" href="taiping-guangji/461" >禽鳥二</a><br />
+　　<a class="menuitem" id="m584604" href="taiping-guangji/462" >禽鳥三</a><br />
+　　<a class="menuitem" id="m584688" href="taiping-guangji/463" >禽鳥四</a><br />
+　　<a class="menuitem" id="m584780" href="taiping-guangji/464" >水族一</a><br />
+　　<a class="menuitem" id="m584837" href="taiping-guangji/465" >水族二</a><br />
+　　<a class="menuitem" id="m584912" href="taiping-guangji/466" >水族三</a><br />
+　　<a class="menuitem" id="m584947" href="taiping-guangji/467" >水族四水怪</a><br />
+　　<a class="menuitem" id="m584994" href="taiping-guangji/468" >水族五水族為人</a><br />
+　　<a class="menuitem" id="m585027" href="taiping-guangji/469" >水族六水族為人</a><br />
+　　<a class="menuitem" id="m585062" href="taiping-guangji/470" >水族七水族為人</a><br />
+　　<a class="menuitem" id="m585079" href="taiping-guangji/471" >水族八</a><br />
+　　<a class="menuitem" id="m585104" href="taiping-guangji/472" >水族九龜</a><br />
+　　<a class="menuitem" id="m585150" href="taiping-guangji/473" >昆蟲一</a><br />
+　　<a class="menuitem" id="m585203" href="taiping-guangji/474" >昆蟲二</a><br />
+　　<a class="menuitem" id="m585230" href="taiping-guangji/475" >昆蟲三</a><br />
+　　<a class="menuitem" id="m585234" href="taiping-guangji/476" >昆蟲四</a><br />
+　　<a class="menuitem" id="m585255" href="taiping-guangji/477" >昆蟲五</a><br />
+　　<a class="menuitem" id="m585330" href="taiping-guangji/478" >昆蟲六</a><br />
+　　<a class="menuitem" id="m585361" href="taiping-guangji/479" >昆蟲七</a><br />
+　　<a class="menuitem" id="m585402" href="taiping-guangji/480" >蠻夷一</a><br />
+　　<a class="menuitem" id="m585456" href="taiping-guangji/481" >蠻夷二</a><br />
+　　<a class="menuitem" id="m585483" href="taiping-guangji/482" >蠻夷三</a><br />
+　　<a class="menuitem" id="m585552" href="taiping-guangji/483" >蠻夷四</a><br />
+　　<a class="menuitem" id="m585586" href="taiping-guangji/484" >雜傳記一</a><br />
+　　<a class="menuitem" id="m585589" href="taiping-guangji/485" >雜傳記二</a><br />
+　　<a class="menuitem" id="m585594" href="taiping-guangji/486" >雜傳記三</a><br />
+　　<a class="menuitem" id="m585600" href="taiping-guangji/487" >雜傳記四</a><br />
+　　<a class="menuitem" id="m585603" href="taiping-guangji/488" >雜傳記五</a><br />
+　　<a class="menuitem" id="m585608" href="taiping-guangji/489" >雜傳記六</a><br />
+　　<a class="menuitem" id="m585613" href="taiping-guangji/490" >雜傳記七</a><br />
+　　<a class="menuitem" id="m585616" href="taiping-guangji/491" >雜傳記八</a><br />
+　　<a class="menuitem" id="m585623" href="taiping-guangji/492" >雜傳記九</a><br />
+　　<a class="menuitem" id="m585626" href="taiping-guangji/493" >雜錄一</a><br />
+　　<a class="menuitem" id="m585674" href="taiping-guangji/494" >雜錄二</a><br />
+　　<a class="menuitem" id="m585703" href="taiping-guangji/495" >雜錄三</a><br />
+　　<a class="menuitem" id="m585735" href="taiping-guangji/496" >雜錄四</a><br />
+　　<a class="menuitem" id="m585770" href="taiping-guangji/497" >雜錄五</a><br />
+　　<a class="menuitem" id="m585810" href="taiping-guangji/498" >雜錄六</a><br />
+　　<a class="menuitem" id="m585835" href="taiping-guangji/499" >雜錄七</a><br />
+　　<a class="menuitem" id="m585866" href="taiping-guangji/500" >雜錄八</a><br />
+</span></span>
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="zhuzi-yulei" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="zhuzi-yulei" >朱子語類</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yingwengong" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="yingwengong" >宋景文公筆記</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="qijing" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="qijing" >棋經</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yulizi" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="yulizi" >郁離子</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x90472" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m90472" href="qing" >Qing</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=11452&amp;if=en&amp;menu=none&amp;ref=show','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="mozi-jiangu" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="mozi-jiangu" >Mozi Jiangu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="hongloumeng" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="hongloumeng" >Hong Lou Meng</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="quantangshi" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="quantangshi" >Quan Tang Shi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="kangxi-zidian" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="kangxi-zidian" >Kangxi Zidian</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="rulin-waishi" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="rulin-waishi" >The Scholars</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x90473" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m90473" href="republican-era" >Republican era</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=52382&amp;if=en&amp;menu=none&amp;ref=show','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="mo-jing-jiao-shi" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="mo-jing-jiao-shi" >墨經校釋</a><br />
+</span></span>
+<div class="menuitem listhead opt"><a  style="font-weight: bold;" href="notes">Notes</a></div><div class="menuitem listhead"><a  style="font-weight: bold;" href="resource.pl?node=3925&amp;if=en">Resources</a></div><div class="menuitem listhead"><a  style="font-weight: bold;" href="dictionary.pl?if=en">Dictionary</a></div><div class="menuitem listhead"><a  style="font-weight: bold;" href="discuss.pl?if=en">Discussion</a></div><div class="menuitem listhead"><a  style="font-weight: bold;" href="library.pl?if=en">Library</a></div><div class="menuitem listhead"><a  style="font-weight: bold;" href="wiki.pl?if=en">Wiki</a></div></div>
+<div id="search">
+<form id="searchform" method="get" action="text.pl">
+Search <select name="node" class="booklistbox"><option value="3925" >Pre-Qin and Han</option>
+<option value="47084" >Confucianism</option>
+<option value="1081" >&nbsp;The Analects</option>
+<option value="1602" >&nbsp;Mengzi</option>
+<option value="9479" >&nbsp;Liji</option>
+<option value="12245" >&nbsp;Xunzi</option>
+<option value="20992" >&nbsp;Xiao Jing</option>
+<option value="21511" >&nbsp;Shuo Yuan</option>
+<option value="22853" >&nbsp;Chun Qiu Fan Lu</option>
+<option value="39642" >&nbsp;Han Shi Wai Zhuan</option>
+<option value="44430" >&nbsp;Da Dai Li Ji</option>
+<option value="52839" >&nbsp;Bai Hu Tong</option>
+<option value="53345" >&nbsp;Xin Shu</option>
+<option value="53728" >&nbsp;Xin Xu</option>
+<option value="60991" >&nbsp;Yangzi Fayan</option>
+<option value="83378" >&nbsp;Zhong Lun</option>
+<option value="84338" >&nbsp;Kongzi Jiayu</option>
+<option value="84867" >&nbsp;Qian Fu Lun</option>
+<option value="280221" >&nbsp;Lunheng</option>
+<option value="283871" >&nbsp;Tai Xuan Jing</option>
+<option value="284846" >&nbsp;Fengsu Tongyi</option>
+<option value="285366" >&nbsp;Kongcongzi</option>
+<option value="601774" >&nbsp;Shen Jian</option>
+<option value="646727" >&nbsp;Zhong Jing</option>
+<option value="646765" >&nbsp;Su Shu</option>
+<option value="646861" >&nbsp;Xin Yu</option>
+<option value="646956" >&nbsp;Du Duan</option>
+<option value="648405" >&nbsp;Cai Zhong Lang Ji</option>
+<option value="47085" >Mohism</option>
+<option value="101" >&nbsp;Mozi</option>
+<option value="37562" >&nbsp;Mo Bian Zhu Xu</option>
+<option value="47086" >Daoism</option>
+<option value="2712" >&nbsp;Zhuangzi</option>
+<option value="11591" >&nbsp;Dao De Jing</option>
+<option value="37397" >&nbsp;Liezi</option>
+<option value="50769" >&nbsp;He Guan Zi</option>
+<option value="58487" >&nbsp;Wenzi</option>
+<option value="279897" >&nbsp;Wen Shi Zhen Jing</option>
+<option value="285604" >&nbsp;Lie Xian Zhuan</option>
+<option value="647075" >&nbsp;Yuzi</option>
+<option value="648877" >&nbsp;Heshanggong Laozi</option>
+<option value="47087" >Legalism</option>
+<option value="1879" >&nbsp;Hanfeizi</option>
+<option value="47107" >&nbsp;Shang Jun Shu</option>
+<option value="47108" >&nbsp;Shen Bu Hai</option>
+<option value="47109" >&nbsp;Shenzi</option>
+<option value="47384" >&nbsp;Jian Zhu Ke Shu</option>
+<option value="48150" >&nbsp;Guanzi</option>
+<option value="47088" >School of Names</option>
+<option value="11553" >&nbsp;Gongsunlongzi</option>
+<option value="47089" >School of the Military</option>
+<option value="20908" >&nbsp;The Art of War</option>
+<option value="41678" >&nbsp;Wu Zi</option>
+<option value="41730" >&nbsp;Liu Tao</option>
+<option value="43273" >&nbsp;Si Ma Fa</option>
+<option value="43348" >&nbsp;Wei Liao Zi</option>
+<option value="50828" >&nbsp;Three Strategies</option>
+<option value="47090" >Mathematics</option>
+<option value="45173" >&nbsp;Hai Dao Suan Jing</option>
+<option value="51058" >&nbsp;The Nine Chapters</option>
+<option value="52053" >&nbsp;Sunzi Suan Jing</option>
+<option value="59424" >&nbsp;Zhou Bi Suan Jing</option>
+<option value="47091" >Miscellaneous Schools</option>
+<option value="3022" >&nbsp;Huainanzi</option>
+<option value="23107" >&nbsp;Lü Shi Chun Qiu</option>
+<option value="39963" >&nbsp;Gui Gu Zi</option>
+<option value="41543" >&nbsp;Yin Wen Zi</option>
+<option value="41632" >&nbsp;Deng Xi Zi</option>
+<option value="47092" >Histories</option>
+<option value="4474" >&nbsp;Shiji</option>
+<option value="16949" >&nbsp;Chun Qiu Zuo Zhuan</option>
+<option value="24161" >&nbsp;Lost Book of Zhou</option>
+<option value="24449" >&nbsp;Guo Yu</option>
+<option value="43540" >&nbsp;Yanzi Chun Qiu</option>
+<option value="47648" >&nbsp;Wu Yue Chun Qiu</option>
+<option value="49118" >&nbsp;Yue Jue Shu</option>
+<option value="49462" >&nbsp;Zhan Guo Ce</option>
+<option value="52405" >&nbsp;Yan Tie Lun</option>
+<option value="53989" >&nbsp;Lie Nü Zhuan</option>
+<option value="55039" >&nbsp;Guliang Zhuan</option>
+<option value="56444" >&nbsp;Gongyang Zhuan</option>
+<option value="61664" >&nbsp;Han Shu</option>
+<option value="68780" >&nbsp;Qian Han Ji</option>
+<option value="69121" >&nbsp;Dong Guan Han Ji</option>
+<option value="71480" >&nbsp;Hou Han Shu</option>
+<option value="282742" >&nbsp;Zhushu Jinian</option>
+<option value="283502" >&nbsp;Mutianzi Zhuan</option>
+<option value="646779" >&nbsp;Gu San Fen</option>
+<option value="647105" >&nbsp;Yandanzi</option>
+<option value="647120" >&nbsp;Xijing Zaji</option>
+<option value="47093" >Ancient Classics</option>
+<option value="13985" >&nbsp;Book of Poetry</option>
+<option value="21030" >&nbsp;Shang Shu</option>
+<option value="25002" >&nbsp;Book of Changes</option>
+<option value="36554" >&nbsp;The Rites of Zhou</option>
+<option value="51791" >&nbsp;Chu Ci</option>
+<option value="54566" >&nbsp;Yili</option>
+<option value="83479" >&nbsp;Shan Hai Jing</option>
+<option value="85326" >&nbsp;Jiaoshi Yilin</option>
+<option value="280082" >&nbsp;Jingshi Yizhuan</option>
+<option value="283542" >&nbsp;Shi Shuo</option>
+<option value="47104" >Etymology</option>
+<option value="26160" >&nbsp;Shuo Wen Jie Zi</option>
+<option value="37567" >&nbsp;Er Ya</option>
+<option value="40087" >&nbsp;Shi Ming</option>
+<option value="45207" >&nbsp;Fang Yan</option>
+<option value="279526" >&nbsp;Ji Jiu Pian</option>
+<option value="80226" >Chinese Medicine</option>
+<option value="80228" >&nbsp;Huangdi Neijing</option>
+<option value="81934" >&nbsp;Nan Jing</option>
+<option value="281911" >&nbsp;Shang Han Lun</option>
+<option value="647268" >&nbsp;Jinkui Yaolue</option>
+<option value="82944" >Excavated texts</option>
+<option value="82945" >&nbsp;Guodian</option>
+<option value="82987" >&nbsp;Mawangdui</option>
+<option value="89488" >Post-Han</option>
+<option value="90478" >Wei, Jin, and North-South</option>
+<option value="90479" >&nbsp;道德真經註</option>
+<option value="90746" >&nbsp;世說新語</option>
+<option value="91913" >&nbsp;顏氏家訓</option>
+<option value="108160" >&nbsp;文心雕龍</option>
+<option value="277835" >&nbsp;抱朴子</option>
+<option value="279273" >&nbsp;人物志</option>
+<option value="287513" >&nbsp;金樓子</option>
+<option value="568082" >&nbsp;水經注</option>
+<option value="585926" >&nbsp;神仙傳</option>
+<option value="601873" >&nbsp;三國志</option>
+<option value="604745" >&nbsp;高士傳</option>
+<option value="649377" >&nbsp;神異經</option>
+<option value="649426" >&nbsp;洞冥記</option>
+<option value="278826" >Sui-Tang</option>
+<option value="278827" >&nbsp;群書治要</option>
+<option value="539864" >&nbsp;藝文類聚</option>
+<option value="552245" >&nbsp;通典</option>
+<option value="566532" >&nbsp;意林</option>
+<option value="649043" >&nbsp;黃帝陰符經</option>
+<option value="90471" >Song-Ming</option>
+<option value="89489" >&nbsp;四書章句集注</option>
+<option value="90563" >&nbsp;Three Character Classic</option>
+<option value="92202" >&nbsp;論語注疏</option>
+<option value="93274" >&nbsp;西遊記</option>
+<option value="97135" >&nbsp;Romance of the Three Kingdoms</option>
+<option value="100830" >&nbsp;金瓶梅</option>
+<option value="285817" >&nbsp;封神演義</option>
+<option value="288029" >&nbsp;廣韻</option>
+<option value="361551" >&nbsp;孝經注疏</option>
+<option value="361857" >&nbsp;太平御覽</option>
+<option value="570777" >&nbsp;太平廣記</option>
+<option value="570778" >&nbsp;&nbsp;神仙一</option>
+<option value="570817" >&nbsp;&nbsp;神仙二</option>
+<option value="570833" >&nbsp;&nbsp;神仙三</option>
+<option value="570891" >&nbsp;&nbsp;神仙四</option>
+<option value="570931" >&nbsp;&nbsp;神仙五</option>
+<option value="570962" >&nbsp;&nbsp;神仙六</option>
+<option value="571001" >&nbsp;&nbsp;神仙七</option>
+<option value="571025" >&nbsp;&nbsp;神仙八</option>
+<option value="571065" >&nbsp;&nbsp;神仙九</option>
+<option value="571080" >&nbsp;&nbsp;神仙十</option>
+<option value="571095" >&nbsp;&nbsp;神仙十一</option>
+<option value="571114" >&nbsp;&nbsp;神仙十二</option>
+<option value="571123" >&nbsp;&nbsp;神仙十三</option>
+<option value="571141" >&nbsp;&nbsp;神仙十四</option>
+<option value="571156" >&nbsp;&nbsp;神仙十五</option>
+<option value="571167" >&nbsp;&nbsp;神仙十六</option>
+<option value="571193" >&nbsp;&nbsp;神仙十七</option>
+<option value="571209" >&nbsp;&nbsp;神仙十八</option>
+<option value="571220" >&nbsp;&nbsp;神仙十九</option>
+<option value="571229" >&nbsp;&nbsp;神仙二十</option>
+<option value="571238" >&nbsp;&nbsp;神仙二十一</option>
+<option value="571245" >&nbsp;&nbsp;神仙二十二</option>
+<option value="571252" >&nbsp;&nbsp;神仙二十三</option>
+<option value="571265" >&nbsp;&nbsp;神仙二十四</option>
+<option value="571276" >&nbsp;&nbsp;神仙二十五</option>
+<option value="571281" >&nbsp;&nbsp;神仙二十六</option>
+<option value="571286" >&nbsp;&nbsp;神仙二十七</option>
+<option value="571295" >&nbsp;&nbsp;神仙二十八</option>
+<option value="571300" >&nbsp;&nbsp;神仙二十九</option>
+<option value="571311" >&nbsp;&nbsp;神仙三十</option>
+<option value="571318" >&nbsp;&nbsp;神仙三十一</option>
+<option value="571328" >&nbsp;&nbsp;神仙三十二</option>
+<option value="571333" >&nbsp;&nbsp;神仙三十三</option>
+<option value="571342" >&nbsp;&nbsp;神仙三十四</option>
+<option value="571347" >&nbsp;&nbsp;神仙三十五</option>
+<option value="571360" >&nbsp;&nbsp;神仙三十六</option>
+<option value="571369" >&nbsp;&nbsp;神仙三十七</option>
+<option value="571380" >&nbsp;&nbsp;神仙三十八</option>
+<option value="571419" >&nbsp;&nbsp;神仙三十九</option>
+<option value="571430" >&nbsp;&nbsp;神仙四十</option>
+<option value="571449" >&nbsp;&nbsp;神仙四十一</option>
+<option value="571458" >&nbsp;&nbsp;神仙四十二</option>
+<option value="571477" >&nbsp;&nbsp;神仙四十三</option>
+<option value="571486" >&nbsp;&nbsp;神仙四十四</option>
+<option value="571495" >&nbsp;&nbsp;神仙四十五</option>
+<option value="571508" >&nbsp;&nbsp;神仙四十六</option>
+<option value="571517" >&nbsp;&nbsp;神仙四十七</option>
+<option value="571528" >&nbsp;&nbsp;神仙四十八</option>
+<option value="571541" >&nbsp;&nbsp;神仙四十九</option>
+<option value="571554" >&nbsp;&nbsp;神仙五十</option>
+<option value="571559" >&nbsp;&nbsp;神仙五十一</option>
+<option value="571568" >&nbsp;&nbsp;神仙五十二</option>
+<option value="571577" >&nbsp;&nbsp;神仙五十三</option>
+<option value="571588" >&nbsp;&nbsp;神仙五十四</option>
+<option value="571601" >&nbsp;&nbsp;神仙五十五</option>
+<option value="571612" >&nbsp;&nbsp;女仙一</option>
+<option value="571621" >&nbsp;&nbsp;女仙二</option>
+<option value="571626" >&nbsp;&nbsp;女仙三</option>
+<option value="571646" >&nbsp;&nbsp;女仙四</option>
+<option value="571679" >&nbsp;&nbsp;女仙五</option>
+<option value="571696" >&nbsp;&nbsp;女仙六</option>
+<option value="571711" >&nbsp;&nbsp;女仙七</option>
+<option value="571732" >&nbsp;&nbsp;女仙八</option>
+<option value="571743" >&nbsp;&nbsp;女仙九</option>
+<option value="571754" >&nbsp;&nbsp;女仙十</option>
+<option value="571763" >&nbsp;&nbsp;女仙十一</option>
+<option value="571768" >&nbsp;&nbsp;女仙十二</option>
+<option value="571775" >&nbsp;&nbsp;女仙十三</option>
+<option value="571782" >&nbsp;&nbsp;女仙十四</option>
+<option value="571793" >&nbsp;&nbsp;女仙十五</option>
+<option value="571816" >&nbsp;&nbsp;道術一</option>
+<option value="571825" >&nbsp;&nbsp;道術二</option>
+<option value="571846" >&nbsp;&nbsp;道術三</option>
+<option value="571865" >&nbsp;&nbsp;道術四</option>
+<option value="571878" >&nbsp;&nbsp;道術五</option>
+<option value="571898" >&nbsp;&nbsp;方士一</option>
+<option value="571933" >&nbsp;&nbsp;方士二</option>
+<option value="571948" >&nbsp;&nbsp;方士三</option>
+<option value="571969" >&nbsp;&nbsp;方士四</option>
+<option value="571990" >&nbsp;&nbsp;方士五</option>
+<option value="572025" >&nbsp;&nbsp;異人一</option>
+<option value="572036" >&nbsp;&nbsp;異人二</option>
+<option value="572053" >&nbsp;&nbsp;異人三</option>
+<option value="572072" >&nbsp;&nbsp;異人四</option>
+<option value="572101" >&nbsp;&nbsp;異人五</option>
+<option value="572132" >&nbsp;&nbsp;異人六</option>
+<option value="572161" >&nbsp;&nbsp;異僧一</option>
+<option value="572170" >&nbsp;&nbsp;異僧二</option>
+<option value="572174" >&nbsp;&nbsp;異僧三</option>
+<option value="572183" >&nbsp;&nbsp;異僧四</option>
+<option value="572188" >&nbsp;&nbsp;異僧五</option>
+<option value="572211" >&nbsp;&nbsp;異僧六</option>
+<option value="572224" >&nbsp;&nbsp;異僧七</option>
+<option value="572229" >&nbsp;&nbsp;異僧八</option>
+<option value="572240" >&nbsp;&nbsp;異僧九</option>
+<option value="572252" >&nbsp;&nbsp;異僧十</option>
+<option value="572271" >&nbsp;&nbsp;異僧十一</option>
+<option value="572292" >&nbsp;&nbsp;異僧十二</option>
+<option value="572319" >&nbsp;&nbsp;釋證一</option>
+<option value="572347" >&nbsp;&nbsp;釋證二</option>
+<option value="572366" >&nbsp;&nbsp;釋證三</option>
+<option value="572397" >&nbsp;&nbsp;報應一金剛經</option>
+<option value="572430" >&nbsp;&nbsp;報應二金剛經</option>
+<option value="572465" >&nbsp;&nbsp;報應三金剛經</option>
+<option value="572492" >&nbsp;&nbsp;報應四金剛經</option>
+<option value="572519" >&nbsp;&nbsp;報應五金剛經</option>
+<option value="572546" >&nbsp;&nbsp;報應六金剛經</option>
+<option value="572581" >&nbsp;&nbsp;報應七金剛經</option>
+<option value="572610" >&nbsp;&nbsp;報應八法華經</option>
+<option value="572653" >&nbsp;&nbsp;報應九觀音經</option>
+<option value="572706" >&nbsp;&nbsp;報應十觀音經</option>
+<option value="572755" >&nbsp;&nbsp;報應十一崇經像</option>
+<option value="572786" >&nbsp;&nbsp;報應十二崇經像</option>
+<option value="572807" >&nbsp;&nbsp;報應十三崇經像</option>
+<option value="572834" >&nbsp;&nbsp;報應十四崇經像</option>
+<option value="572857" >&nbsp;&nbsp;報應十五</option>
+<option value="572910" >&nbsp;&nbsp;報應十六陰德</option>
+<option value="572931" >&nbsp;&nbsp;報應十七異類</option>
+<option value="572964" >&nbsp;&nbsp;報應十八冤報</option>
+<option value="573011" >&nbsp;&nbsp;報應十九冤報</option>
+<option value="573050" >&nbsp;&nbsp;報應二十</option>
+<option value="573089" >&nbsp;&nbsp;報應二十一冤報</option>
+<option value="573108" >&nbsp;&nbsp;報應二十二冤報</option>
+<option value="573123" >&nbsp;&nbsp;報應二十三冤報</option>
+<option value="573162" >&nbsp;&nbsp;報應二十四冤報</option>
+<option value="573173" >&nbsp;&nbsp;報應二十五</option>
+<option value="573210" >&nbsp;&nbsp;報應二十六</option>
+<option value="573235" >&nbsp;&nbsp;報應二十七</option>
+<option value="573248" >&nbsp;&nbsp;報應二十八</option>
+<option value="573277" >&nbsp;&nbsp;報應二十九</option>
+<option value="573292" >&nbsp;&nbsp;報應三十殺生</option>
+<option value="573345" >&nbsp;&nbsp;報應三十一殺生</option>
+<option value="573378" >&nbsp;&nbsp;報應三十二殺生</option>
+<option value="573423" >&nbsp;&nbsp;報應三十三宿業畜生</option>
+<option value="573458" >&nbsp;&nbsp;徵應一帝王休徵</option>
+<option value="573523" >&nbsp;&nbsp;徵應二帝王休徵</option>
+<option value="573558" >&nbsp;&nbsp;徵應三人臣休徵</option>
+<option value="573605" >&nbsp;&nbsp;徵應四人臣休徵</option>
+<option value="573642" >&nbsp;&nbsp;徵應五邦國咎徵</option>
+<option value="573695" >&nbsp;&nbsp;徵應六</option>
+<option value="573716" >&nbsp;&nbsp;徵應七人臣咎徵</option>
+<option value="573749" >&nbsp;&nbsp;徵應八人臣咎徵</option>
+<option value="573781" >&nbsp;&nbsp;徵應九人臣咎徵</option>
+<option value="573838" >&nbsp;&nbsp;徵應十人臣咎徵</option>
+<option value="573875" >&nbsp;&nbsp;徵應十一人臣咎徵</option>
+<option value="573904" >&nbsp;&nbsp;定數一</option>
+<option value="573945" >&nbsp;&nbsp;定數二</option>
+<option value="573978" >&nbsp;&nbsp;定數三</option>
+<option value="573997" >&nbsp;&nbsp;定數四</option>
+<option value="574018" >&nbsp;&nbsp;定數五</option>
+<option value="574037" >&nbsp;&nbsp;定數六</option>
+<option value="574054" >&nbsp;&nbsp;定數七</option>
+<option value="574067" >&nbsp;&nbsp;定數八</option>
+<option value="574086" >&nbsp;&nbsp;定數九</option>
+<option value="574109" >&nbsp;&nbsp;定數十</option>
+<option value="574132" >&nbsp;&nbsp;定數十一</option>
+<option value="574158" >&nbsp;&nbsp;定數十二</option>
+<option value="574172" >&nbsp;&nbsp;定數十三</option>
+<option value="574201" >&nbsp;&nbsp;定數十四婚姻</option>
+<option value="574216" >&nbsp;&nbsp;定數十五婚姻</option>
+<option value="574227" >&nbsp;&nbsp;感應一</option>
+<option value="574292" >&nbsp;&nbsp;感應二</option>
+<option value="574337" >&nbsp;&nbsp;讖應</option>
+<option value="574416" >&nbsp;&nbsp;名賢</option>
+<option value="574483" >&nbsp;&nbsp;廉儉</option>
+<option value="574554" >&nbsp;&nbsp;氣義一</option>
+<option value="574567" >&nbsp;&nbsp;氣義二</option>
+<option value="574586" >&nbsp;&nbsp;氣義三</option>
+<option value="574607" >&nbsp;&nbsp;知人一</option>
+<option value="574669" >&nbsp;&nbsp;知人二</option>
+<option value="574718" >&nbsp;&nbsp;精察一</option>
+<option value="574755" >&nbsp;&nbsp;精察二</option>
+<option value="574782" >&nbsp;&nbsp;俊辯一</option>
+<option value="574834" >&nbsp;&nbsp;俊辯二</option>
+<option value="574888" >&nbsp;&nbsp;幼敏</option>
+<option value="574909" >&nbsp;&nbsp;幼敏</option>
+<option value="574942" >&nbsp;&nbsp;器量一</option>
+<option value="574963" >&nbsp;&nbsp;器量二</option>
+<option value="574991" >&nbsp;&nbsp;貢舉一</option>
+<option value="575024" >&nbsp;&nbsp;貢舉二</option>
+<option value="575050" >&nbsp;&nbsp;貢舉三</option>
+<option value="575090" >&nbsp;&nbsp;貢舉四</option>
+<option value="575131" >&nbsp;&nbsp;貢舉五</option>
+<option value="575172" >&nbsp;&nbsp;貢舉六</option>
+<option value="575226" >&nbsp;&nbsp;貢舉七</option>
+<option value="575278" >&nbsp;&nbsp;銓選一</option>
+<option value="575325" >&nbsp;&nbsp;銓選二</option>
+<option value="575368" >&nbsp;&nbsp;職官</option>
+<option value="575428" >&nbsp;&nbsp;權倖</option>
+<option value="575454" >&nbsp;&nbsp;將帥一</option>
+<option value="575477" >&nbsp;&nbsp;將帥二</option>
+<option value="575502" >&nbsp;&nbsp;驍勇一</option>
+<option value="575551" >&nbsp;&nbsp;驍勇二</option>
+<option value="575580" >&nbsp;&nbsp;豪俠一</option>
+<option value="575591" >&nbsp;&nbsp;豪俠二</option>
+<option value="575602" >&nbsp;&nbsp;豪俠三</option>
+<option value="575617" >&nbsp;&nbsp;豪俠四</option>
+<option value="575675" >&nbsp;&nbsp;文章一</option>
+<option value="575723" >&nbsp;&nbsp;文章二</option>
+<option value="575752" >&nbsp;&nbsp;文章三</option>
+<option value="575784" >&nbsp;&nbsp;才名</option>
+<option value="575824" >&nbsp;&nbsp;儒行</option>
+<option value="575881" >&nbsp;&nbsp;樂一</option>
+<option value="575956" >&nbsp;&nbsp;樂二</option>
+<option value="576015" >&nbsp;&nbsp;樂三</option>
+<option value="576064" >&nbsp;&nbsp;五絃</option>
+<option value="576070" >&nbsp;&nbsp;書一</option>
+<option value="576127" >&nbsp;&nbsp;書二</option>
+<option value="576172" >&nbsp;&nbsp;書三</option>
+<option value="576211" >&nbsp;&nbsp;書四</option>
+<option value="576244" >&nbsp;&nbsp;畫一</option>
+<option value="576283" >&nbsp;&nbsp;畫二</option>
+<option value="576323" >&nbsp;&nbsp;畫三</option>
+<option value="576352" >&nbsp;&nbsp;畫四</option>
+<option value="576389" >&nbsp;&nbsp;畫五</option>
+<option value="576407" >&nbsp;&nbsp;算術</option>
+<option value="576430" >&nbsp;&nbsp;卜筮一</option>
+<option value="576462" >&nbsp;&nbsp;卜筮二</option>
+<option value="576480" >&nbsp;&nbsp;醫一</option>
+<option value="576526" >&nbsp;&nbsp;醫二</option>
+<option value="576553" >&nbsp;&nbsp;醫三</option>
+<option value="576608" >&nbsp;&nbsp;相一</option>
+<option value="576621" >&nbsp;&nbsp;相二</option>
+<option value="576652" >&nbsp;&nbsp;相三</option>
+<option value="576681" >&nbsp;&nbsp;相四</option>
+<option value="576720" >&nbsp;&nbsp;伎巧一</option>
+<option value="576757" >&nbsp;&nbsp;伎巧二</option>
+<option value="576780" >&nbsp;&nbsp;伎巧三</option>
+<option value="576808" >&nbsp;&nbsp;博戲</option>
+<option value="576840" >&nbsp;&nbsp;器玩一</option>
+<option value="576872" >&nbsp;&nbsp;器玩二</option>
+<option value="576877" >&nbsp;&nbsp;器玩三</option>
+<option value="576905" >&nbsp;&nbsp;器玩四</option>
+<option value="576936" >&nbsp;&nbsp;酒</option>
+<option value="576983" >&nbsp;&nbsp;食</option>
+<option value="577023" >&nbsp;&nbsp;交友</option>
+<option value="577068" >&nbsp;&nbsp;奢侈一</option>
+<option value="577126" >&nbsp;&nbsp;奢侈二</option>
+<option value="577149" >&nbsp;&nbsp;詭詐</option>
+<option value="577192" >&nbsp;&nbsp;諂佞一</option>
+<option value="577221" >&nbsp;&nbsp;諂佞二</option>
+<option value="577264" >&nbsp;&nbsp;諂佞三</option>
+<option value="577267" >&nbsp;&nbsp;謬誤</option>
+<option value="577308" >&nbsp;&nbsp;治生</option>
+<option value="577358" >&nbsp;&nbsp;褊急</option>
+<option value="577391" >&nbsp;&nbsp;詼諧一</option>
+<option value="577426" >&nbsp;&nbsp;詼諧二</option>
+<option value="577479" >&nbsp;&nbsp;詼諧三</option>
+<option value="577512" >&nbsp;&nbsp;詼諧四</option>
+<option value="577537" >&nbsp;&nbsp;詼諧五</option>
+<option value="577578" >&nbsp;&nbsp;詼諧六</option>
+<option value="577635" >&nbsp;&nbsp;詼諧七</option>
+<option value="577680" >&nbsp;&nbsp;詼諧八</option>
+<option value="577719" >&nbsp;&nbsp;嘲誚一</option>
+<option value="577760" >&nbsp;&nbsp;嘲誚二</option>
+<option value="577793" >&nbsp;&nbsp;嘲誚三</option>
+<option value="577842" >&nbsp;&nbsp;嘲誚四</option>
+<option value="577887" >&nbsp;&nbsp;嘲誚五</option>
+<option value="577930" >&nbsp;&nbsp;嗤鄙一</option>
+<option value="577979" >&nbsp;&nbsp;嗤鄙二</option>
+<option value="578018" >&nbsp;&nbsp;嗤鄙三</option>
+<option value="578063" >&nbsp;&nbsp;嗤鄙四</option>
+<option value="578110" >&nbsp;&nbsp;嗤鄙五</option>
+<option value="578155" >&nbsp;&nbsp;無賴一</option>
+<option value="578188" >&nbsp;&nbsp;無賴二</option>
+<option value="578219" >&nbsp;&nbsp;輕薄一</option>
+<option value="578277" >&nbsp;&nbsp;輕薄二</option>
+<option value="578306" >&nbsp;&nbsp;酷暴一</option>
+<option value="578343" >&nbsp;&nbsp;酷暴二</option>
+<option value="578368" >&nbsp;&nbsp;酷暴三</option>
+<option value="578397" >&nbsp;&nbsp;婦人一</option>
+<option value="578437" >&nbsp;&nbsp;婦人三</option>
+<option value="578480" >&nbsp;&nbsp;婦人四</option>
+<option value="578507" >&nbsp;&nbsp;情感</option>
+<option value="578524" >&nbsp;&nbsp;童僕</option>
+<option value="578552" >&nbsp;&nbsp;夢一</option>
+<option value="578654" >&nbsp;&nbsp;夢二</option>
+<option value="578717" >&nbsp;&nbsp;夢三</option>
+<option value="578779" >&nbsp;&nbsp;夢四</option>
+<option value="578840" >&nbsp;&nbsp;夢五</option>
+<option value="578863" >&nbsp;&nbsp;夢六</option>
+<option value="578888" >&nbsp;&nbsp;夢七</option>
+<option value="578907" >&nbsp;&nbsp;巫</option>
+<option value="578947" >&nbsp;&nbsp;幻術一</option>
+<option value="578972" >&nbsp;&nbsp;幻術二</option>
+<option value="579009" >&nbsp;&nbsp;幻術三</option>
+<option value="579028" >&nbsp;&nbsp;幻術四</option>
+<option value="579039" >&nbsp;&nbsp;妖妄一</option>
+<option value="579076" >&nbsp;&nbsp;妖妄二</option>
+<option value="579111" >&nbsp;&nbsp;妖妄三</option>
+<option value="579120" >&nbsp;&nbsp;神一</option>
+<option value="579165" >&nbsp;&nbsp;神二</option>
+<option value="579198" >&nbsp;&nbsp;神三</option>
+<option value="579225" >&nbsp;&nbsp;神四</option>
+<option value="579272" >&nbsp;&nbsp;神五</option>
+<option value="579311" >&nbsp;&nbsp;神六</option>
+<option value="579338" >&nbsp;&nbsp;神七</option>
+<option value="579349" >&nbsp;&nbsp;神八</option>
+<option value="579362" >&nbsp;&nbsp;神九</option>
+<option value="579365" >&nbsp;&nbsp;神十</option>
+<option value="579382" >&nbsp;&nbsp;神十一</option>
+<option value="579395" >&nbsp;&nbsp;神十二</option>
+<option value="579406" >&nbsp;&nbsp;神十三</option>
+<option value="579425" >&nbsp;&nbsp;神十四</option>
+<option value="579444" >&nbsp;&nbsp;神十五</option>
+<option value="579463" >&nbsp;&nbsp;神十六</option>
+<option value="579472" >&nbsp;&nbsp;神十七</option>
+<option value="579499" >&nbsp;&nbsp;神十八</option>
+<option value="579515" >&nbsp;&nbsp;神十九</option>
+<option value="579520" >&nbsp;&nbsp;神二十</option>
+<option value="579537" >&nbsp;&nbsp;神二十一</option>
+<option value="579552" >&nbsp;&nbsp;神二十二</option>
+<option value="579581" >&nbsp;&nbsp;神二十三</option>
+<option value="579614" >&nbsp;&nbsp;神二十四</option>
+<option value="579653" >&nbsp;&nbsp;神二十五</option>
+<option value="579683" >&nbsp;&nbsp;鬼一</option>
+<option value="579708" >&nbsp;&nbsp;鬼二</option>
+<option value="579745" >&nbsp;&nbsp;鬼三</option>
+<option value="579790" >&nbsp;&nbsp;鬼四</option>
+<option value="579821" >&nbsp;&nbsp;鬼五</option>
+<option value="579858" >&nbsp;&nbsp;鬼六</option>
+<option value="579889" >&nbsp;&nbsp;鬼七</option>
+<option value="579934" >&nbsp;&nbsp;鬼八</option>
+<option value="579973" >&nbsp;&nbsp;鬼九</option>
+<option value="580006" >&nbsp;&nbsp;鬼十</option>
+<option value="580039" >&nbsp;&nbsp;鬼十一</option>
+<option value="580056" >&nbsp;&nbsp;鬼十二</option>
+<option value="580087" >&nbsp;&nbsp;鬼十三</option>
+<option value="580116" >&nbsp;&nbsp;鬼十四</option>
+<option value="580139" >&nbsp;&nbsp;鬼十五</option>
+<option value="580170" >&nbsp;&nbsp;鬼十六</option>
+<option value="580193" >&nbsp;&nbsp;鬼十七</option>
+<option value="580210" >&nbsp;&nbsp;鬼十八</option>
+<option value="580237" >&nbsp;&nbsp;鬼十九</option>
+<option value="580259" >&nbsp;&nbsp;鬼二十</option>
+<option value="580280" >&nbsp;&nbsp;鬼二十一</option>
+<option value="580295" >&nbsp;&nbsp;鬼二十二</option>
+<option value="580316" >&nbsp;&nbsp;鬼二十三</option>
+<option value="580338" >&nbsp;&nbsp;鬼二十四</option>
+<option value="580355" >&nbsp;&nbsp;鬼二十五</option>
+<option value="580362" >&nbsp;&nbsp;鬼二十六</option>
+<option value="580377" >&nbsp;&nbsp;鬼二十七</option>
+<option value="580387" >&nbsp;&nbsp;鬼二十八</option>
+<option value="580398" >&nbsp;&nbsp;鬼二十九</option>
+<option value="580415" >&nbsp;&nbsp;鬼三十</option>
+<option value="580434" >&nbsp;&nbsp;鬼三十一</option>
+<option value="580459" >&nbsp;&nbsp;鬼三十二</option>
+<option value="580474" >&nbsp;&nbsp;鬼三十三</option>
+<option value="580490" >&nbsp;&nbsp;鬼三十四</option>
+<option value="580505" >&nbsp;&nbsp;鬼三十五</option>
+<option value="580519" >&nbsp;&nbsp;鬼三十六</option>
+<option value="580540" >&nbsp;&nbsp;鬼三十七</option>
+<option value="580565" >&nbsp;&nbsp;鬼三十八</option>
+<option value="580602" >&nbsp;&nbsp;鬼三十九</option>
+<option value="580637" >&nbsp;&nbsp;鬼四十</option>
+<option value="580666" >&nbsp;&nbsp;夜叉一</option>
+<option value="580683" >&nbsp;&nbsp;夜叉二</option>
+<option value="580696" >&nbsp;&nbsp;神魂一</option>
+<option value="580723" >&nbsp;&nbsp;妖怪一</option>
+<option value="580776" >&nbsp;&nbsp;妖怪二</option>
+<option value="580847" >&nbsp;&nbsp;妖怪三</option>
+<option value="580892" >&nbsp;&nbsp;妖怪四</option>
+<option value="580939" >&nbsp;&nbsp;妖怪五</option>
+<option value="580958" >&nbsp;&nbsp;妖怪六</option>
+<option value="580979" >&nbsp;&nbsp;妖怪七</option>
+<option value="581002" >&nbsp;&nbsp;妖怪八</option>
+<option value="581045" >&nbsp;&nbsp;妖怪九</option>
+<option value="581111" >&nbsp;&nbsp;精怪一</option>
+<option value="581142" >&nbsp;&nbsp;精怪二</option>
+<option value="581161" >&nbsp;&nbsp;精怪三</option>
+<option value="581180" >&nbsp;&nbsp;精怪四</option>
+<option value="581197" >&nbsp;&nbsp;精怪五</option>
+<option value="581213" >&nbsp;&nbsp;精怪六</option>
+<option value="581232" >&nbsp;&nbsp;靈異</option>
+<option value="581291" >&nbsp;&nbsp;再生一</option>
+<option value="581332" >&nbsp;&nbsp;再生二</option>
+<option value="581355" >&nbsp;&nbsp;再生三</option>
+<option value="581370" >&nbsp;&nbsp;再生四</option>
+<option value="581389" >&nbsp;&nbsp;再生五</option>
+<option value="581408" >&nbsp;&nbsp;再生六</option>
+<option value="581425" >&nbsp;&nbsp;再生七</option>
+<option value="581446" >&nbsp;&nbsp;再生八</option>
+<option value="581471" >&nbsp;&nbsp;再生九</option>
+<option value="581500" >&nbsp;&nbsp;再生十</option>
+<option value="581523" >&nbsp;&nbsp;再生十一</option>
+<option value="581532" >&nbsp;&nbsp;再生十二</option>
+<option value="581559" >&nbsp;&nbsp;悟前生一</option>
+<option value="581580" >&nbsp;&nbsp;悟前生二</option>
+<option value="581603" >&nbsp;&nbsp;塚墓一</option>
+<option value="581668" >&nbsp;&nbsp;塚墓二</option>
+<option value="581719" >&nbsp;&nbsp;銘記一</option>
+<option value="581744" >&nbsp;&nbsp;銘記二</option>
+<option value="581763" >&nbsp;&nbsp;雷一</option>
+<option value="581808" >&nbsp;&nbsp;雷二</option>
+<option value="581843" >&nbsp;&nbsp;雷三</option>
+<option value="581882" >&nbsp;&nbsp;雨</option>
+<option value="581937" >&nbsp;&nbsp;山</option>
+<option value="581995" >&nbsp;&nbsp;石</option>
+<option value="582075" >&nbsp;&nbsp;水</option>
+<option value="582156" >&nbsp;&nbsp;寶一金上</option>
+<option value="582197" >&nbsp;&nbsp;寶二金下</option>
+<option value="582238" >&nbsp;&nbsp;寶三</option>
+<option value="582282" >&nbsp;&nbsp;寶四雜寳上</option>
+<option value="582315" >&nbsp;&nbsp;寶五雜寳下</option>
+<option value="582336" >&nbsp;&nbsp;寶六錢</option>
+<option value="582389" >&nbsp;&nbsp;草木一</option>
+<option value="582484" >&nbsp;&nbsp;草木二</option>
+<option value="582567" >&nbsp;&nbsp;草木三</option>
+<option value="582662" >&nbsp;&nbsp;草木四</option>
+<option value="582761" >&nbsp;&nbsp;草木五</option>
+<option value="582831" >&nbsp;&nbsp;草木六</option>
+<option value="582898" >&nbsp;&nbsp;草木七</option>
+<option value="582970" >&nbsp;&nbsp;草木八</option>
+<option value="583029" >&nbsp;&nbsp;草木九</option>
+<option value="583102" >&nbsp;&nbsp;草木十</option>
+<option value="583130" >&nbsp;&nbsp;草木十一</option>
+<option value="583153" >&nbsp;&nbsp;草木十二</option>
+<option value="583183" >&nbsp;&nbsp;龍一</option>
+<option value="583212" >&nbsp;&nbsp;龍二</option>
+<option value="583215" >&nbsp;&nbsp;龍三</option>
+<option value="583238" >&nbsp;&nbsp;龍四</option>
+<option value="583251" >&nbsp;&nbsp;龍五</option>
+<option value="583274" >&nbsp;&nbsp;龍六</option>
+<option value="583305" >&nbsp;&nbsp;龍七</option>
+<option value="583336" >&nbsp;&nbsp;龍八</option>
+<option value="583380" >&nbsp;&nbsp;虎一</option>
+<option value="583425" >&nbsp;&nbsp;虎二</option>
+<option value="583440" >&nbsp;&nbsp;虎三</option>
+<option value="583459" >&nbsp;&nbsp;虎四</option>
+<option value="583470" >&nbsp;&nbsp;虎五</option>
+<option value="583489" >&nbsp;&nbsp;虎六</option>
+<option value="583508" >&nbsp;&nbsp;虎七</option>
+<option value="583529" >&nbsp;&nbsp;虎八</option>
+<option value="583548" >&nbsp;&nbsp;畜獸一</option>
+<option value="583599" >&nbsp;&nbsp;畜獸二</option>
+<option value="583649" >&nbsp;&nbsp;畜獸三</option>
+<option value="583702" >&nbsp;&nbsp;畜獸四</option>
+<option value="583744" >&nbsp;&nbsp;畜獸五</option>
+<option value="583778" >&nbsp;&nbsp;畜獸六</option>
+<option value="583831" >&nbsp;&nbsp;畜獸七</option>
+<option value="583902" >&nbsp;&nbsp;畜獸八</option>
+<option value="583936" >&nbsp;&nbsp;畜獸九</option>
+<option value="583990" >&nbsp;&nbsp;畜獸十</option>
+<option value="584034" >&nbsp;&nbsp;畜獸十一</option>
+<option value="584051" >&nbsp;&nbsp;畜獸十二</option>
+<option value="584060" >&nbsp;&nbsp;畜獸十三</option>
+<option value="584089" >&nbsp;&nbsp;狐一</option>
+<option value="584128" >&nbsp;&nbsp;狐二</option>
+<option value="584145" >&nbsp;&nbsp;狐三</option>
+<option value="584162" >&nbsp;&nbsp;狐四</option>
+<option value="584189" >&nbsp;&nbsp;狐五</option>
+<option value="584220" >&nbsp;&nbsp;狐六</option>
+<option value="584226" >&nbsp;&nbsp;狐七</option>
+<option value="584235" >&nbsp;&nbsp;狐八</option>
+<option value="584252" >&nbsp;&nbsp;狐九</option>
+<option value="584265" >&nbsp;&nbsp;蛇一</option>
+<option value="584345" >&nbsp;&nbsp;蛇二</option>
+<option value="584398" >&nbsp;&nbsp;蛇三</option>
+<option value="584428" >&nbsp;&nbsp;蛇四</option>
+<option value="584479" >&nbsp;&nbsp;禽鳥一</option>
+<option value="584526" >&nbsp;&nbsp;禽鳥二</option>
+<option value="584604" >&nbsp;&nbsp;禽鳥三</option>
+<option value="584688" >&nbsp;&nbsp;禽鳥四</option>
+<option value="584780" >&nbsp;&nbsp;水族一</option>
+<option value="584837" >&nbsp;&nbsp;水族二</option>
+<option value="584912" >&nbsp;&nbsp;水族三</option>
+<option value="584947" >&nbsp;&nbsp;水族四水怪</option>
+<option value="584994" >&nbsp;&nbsp;水族五水族為人</option>
+<option value="585027" >&nbsp;&nbsp;水族六水族為人</option>
+<option value="585062" >&nbsp;&nbsp;水族七水族為人</option>
+<option value="585079" >&nbsp;&nbsp;水族八</option>
+<option value="585104" >&nbsp;&nbsp;水族九龜</option>
+<option value="585150" >&nbsp;&nbsp;昆蟲一</option>
+<option value="585203" >&nbsp;&nbsp;昆蟲二</option>
+<option value="585230" >&nbsp;&nbsp;昆蟲三</option>
+<option value="585234" >&nbsp;&nbsp;昆蟲四</option>
+<option value="585255" >&nbsp;&nbsp;昆蟲五</option>
+<option value="585330" >&nbsp;&nbsp;昆蟲六</option>
+<option value="585361" >&nbsp;&nbsp;昆蟲七</option>
+<option value="585402" >&nbsp;&nbsp;蠻夷一</option>
+<option value="585456" >&nbsp;&nbsp;蠻夷二</option>
+<option value="585483" >&nbsp;&nbsp;蠻夷三</option>
+<option value="585552" >&nbsp;&nbsp;蠻夷四</option>
+<option value="585586" >&nbsp;&nbsp;雜傳記一</option>
+<option value="585589" >&nbsp;&nbsp;雜傳記二</option>
+<option value="585594" >&nbsp;&nbsp;雜傳記三</option>
+<option value="585600" >&nbsp;&nbsp;雜傳記四</option>
+<option value="585603" >&nbsp;&nbsp;雜傳記五</option>
+<option value="585608" >&nbsp;&nbsp;雜傳記六</option>
+<option value="585613" >&nbsp;&nbsp;雜傳記七</option>
+<option value="585616" >&nbsp;&nbsp;雜傳記八</option>
+<option value="585623" >&nbsp;&nbsp;雜傳記九</option>
+<option value="585626" >&nbsp;&nbsp;雜錄一</option>
+<option value="585674" >&nbsp;&nbsp;雜錄二</option>
+<option value="585703" >&nbsp;&nbsp;雜錄三</option>
+<option value="585735" >&nbsp;&nbsp;雜錄四</option>
+<option value="585770" >&nbsp;&nbsp;雜錄五</option>
+<option value="585810" >&nbsp;&nbsp;雜錄六</option>
+<option value="585835" >&nbsp;&nbsp;雜錄七</option>
+<option value="585866" >&nbsp;&nbsp;雜錄八</option>
+<option value="586142" >&nbsp;朱子語類</option>
+<option value="649226" >&nbsp;宋景文公筆記</option>
+<option value="649494" >&nbsp;棋經</option>
+<option value="649521" >&nbsp;郁離子</option>
+<option value="90472" >Qing</option>
+<option value="10473" >&nbsp;Mozi Jiangu</option>
+<option value="103345" >&nbsp;Hong Lou Meng</option>
+<option value="108540" >&nbsp;Quan Tang Shi</option>
+<option value="317453" >&nbsp;Kangxi Zidian</option>
+<option value="565462" >&nbsp;The Scholars</option>
+<option value="90473" >Republican era</option>
+<option value="52326" >&nbsp;墨經校釋</option>
+</select> for:<br />
+<input type="hidden" name="if" id="if" value="en" />
+<input type="text" name="searchu" size="20" value="" class="searchbox" /><br />
+<input type="submit" value="Search" />
+<span class="etext"><a href="search.pl?if=en">Advanced</a></span></form>
+</div>
+<div id="searchbooks">
+Title search:<br />
+<form id="searchform" method="get" action="searchbooks.pl">
+<input type="hidden" name="if" value="en" />
+<input type="text" name="searchu" size="20"  value="" class="searchbox" /><br />
+<input type="submit" value="Search" />
+</form>
+</div>
+<script type="text/javascript">
+function applyfilter(topicid) {
+  var x=document.getElementById("categoriesform");
+  var y=document.getElementById("filtervalue");
+  y.value = topicid;
+  x.submit();
+}
+</script>
+<div id="logininfo">
+<a href="account.pl?if=en&amp;return=%2Ftaiping%2Dguangji%2F277%2Fweireng" rel="nofollow">Log in</a></div>
+</div>
+<div id="content"><div class="text">
+<div class="noprint opt" style="height: 47px; margin: 5px; float: right; text-align: right;"><a href="http://www.facebook.com/pages/Chinese-Text-Project/112118272147647" rel="nofollow"><img src="icons/facebook.gif" border="0" width="44" height="44" alt="Follow us on Facebook to receive important updates" title="Follow us on Facebook to receive important updates" /></a> <a href="http://www.twitter.com/chinesetextproj" rel="nofollow"><img src="icons/twitter.gif" width="45" height="44" border="0" alt="Follow us on Twitter to receive important updates" title="Follow us on Twitter to receive important updates" /></a> <a href="http://weibo.com/ctext" rel="nofollow"><img src="icons/xinlang.gif" border="0" width="44" height="44" alt="Follow us on sina.com's microblogging site to receive important updates" title="Follow us on sina.com's microblogging site to receive important updates" /></a> <a href="http://site.douban.com/137325/" rel="nofollow"><img src="icons/douban.png" border="0" width="44" height="44" alt="Follow us on Douban to receive important updates" title="Follow us on Douban to receive important updates" /></a></div>
+<table id="titleline" border="0">
+<tr><td valign="top"><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="http://ctext.org/" class="sprite-logo" title="Chinese Text Project" >Chinese Text Project<div style="display: inline;"></div></a></div></td>
+<td valign="middle"><font size="+3">Chinese Text Project</font></td>
+</tr>
+</table>
+<div id="ad2">
+<table border="0" width="100%"><tr><td></td><td align="right"></td></tr></table></div>
+<div class="etext noprint"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/post-han" itemprop="url"><span itemprop="title">Post-Han</span></a></span> -> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/song-ming" itemprop="url"><span itemprop="title">Song-Ming</span></a></span> -> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/taiping-guangji" itemprop="url"><span itemprop="title">太平廣記</span></a></span> -> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/taiping-guangji/277" itemprop="url"><span itemprop="title">夢二</span></a></span> -> 魏仍</div><script type="text/javascript">
+var tids=document.getElementById('m578697');
+if(tids) {
+tids.className = 'menuselected';
+}
+var tids2=document.getElementById('x578654');
+if(tids2) {
+tids2.setAttribute('class','sprite-unexpand');
+tids2.setAttribute('className','sprite-unexpand');
+tids2.parentNode.parentNode.getElementsByTagName('span')[0].style.display="inline";
+}
+var tids2=document.getElementById('x570777');
+if(tids2) {
+tids2.setAttribute('class','sprite-unexpand');
+tids2.setAttribute('className','sprite-unexpand');
+tids2.parentNode.parentNode.getElementsByTagName('span')[0].style.display="inline";
+}
+var tids2=document.getElementById('x90471');
+if(tids2) {
+tids2.setAttribute('class','sprite-unexpand');
+tids2.setAttribute('className','sprite-unexpand');
+tids2.parentNode.parentNode.getElementsByTagName('span')[0].style.display="inline";
+}
+</script>
+<div id="content3"><table width='100%'><tr><td><h2>《魏仍》</h2></td><td></td><td align='right'> <a href="#" class="etext" style="font-weight: bold;" onClick="if(document.getElementById('listscans578697').style.display!='block') {document.getElementById('listscans578697').style.display='block'; } else {document.getElementById('listscans578697').style.display='none';} return false;">Library Resources</a><div id="listscans578697" style="display: none; position: relative; width: 300px; margin: 5px; "><span class="etext" style="display: block; width: 300px; background: #DDDDDD; border: 2px solid; text-align: left; position: absolute; z-index: 50;"><a href="library.pl?if=en&amp;res=353">《欽定四庫全書》本《太平廣記》</a><br /><div style="width: 100%; text-align: right;">[<a href="library.pl?if=en&amp;node=570777">Show all</a>]</div></span><div style="clear: both; width: 300px;"></div></div></td></tr></table> <div id="comm578697"></div><table border="0">
+<tr id="n578698"><td align="right" valign="top" style="width: 50px; text-align: left;"><a href="taiping-guangji/277/weireng#n578698" class="popup" style="font-size: 12pt;">1</a>  <div style="display: inline-block; zoom: 1; *display: inline;'"><a href="dictionary.pl?if=en&amp;id=578698" class="sprite-more" title="Jump to dictionary" rel="nofollow">Jump to dictionary<div style="display: inline;"></div></a></div></td><td valign="top" style="white-space: nowrap; color: #777777;"  class="ctext opt">魏仍:</td><td class="ctext">
+<div id="comm578698"></div>魏仍與李龜年同選。相與夢。魏夢見侍郎李彭年，使人喚，仍於銓門中側耳聽之。龜年夢有人報，侍郎注與君一畿丞。明日共解此夢，以為門中側耳是聞字，應是聞喜。果唱聞喜尉，李龜年果唱蘄州蘄縣丞。仍後貶齊安郡黃崗尉，准敕量移。乞夢，夢拾得一毛蠅子。與李龜年占議，云。毛字千下有七，應去此一千七百里。如其言。出《定命錄》<p class="ctext"></p></td></tr>
+</table><div style="margin-right: 10px;"></div><div style="width: 100%; clear: both;"></div><style>.urnlabel {opacity: 0.2; float: right;} .urnlabel:hover { opacity: 0.8;}</style><div class="urnlabel etext"><a href="tools/api#urn" class="noul">URN</a>: <span title="This is the CTP URN that uniquely identifies this textual resource.">ctp:taiping-guangji/277/weireng</span></div><div style="clear: both"></div></div>
+</div>
+<div id="footer"><hr />
+<table width="100%">
+<tr>
+<td valign="top">
+<table border="0"><tr><td class="etext"><b>Enjoy<span class="opt"> this site</span>? <a href="help-us">Please help</a>.</b></td><td class="etext"><i>Site design and content <a href="faq#copyright">copyright 2006-2017</a>.<span class="opt"> When quoting or citing information from this site, please link to the corresponding page or to <a href="http://ctext.org">http://ctext.org</a>. Please note that the use of automatic download software on this site is <u>strictly prohibited</u>, and that users of such software are automatically banned without warning to save bandwidth. <a href="http://www.miibeian.gov.cn/" rel="nofollow">沪ICP备09015720号-3</a></span></i></td><td class="etext"><b>Comments? <span class="opt">Suggestions? </span>Please <a href="discuss.pl?if=en&amp;board=7">raise them here</a>.</b></td></tr></table></td><td align="right">
+</td></tr>
+</table>
+</div></div></body></html>
