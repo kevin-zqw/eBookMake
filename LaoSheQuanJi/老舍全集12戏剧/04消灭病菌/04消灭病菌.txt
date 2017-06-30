@@ -1,4 +1,4 @@
-消灭病菌
+<h1 class="bigtitle">消灭病菌</h1>
 <p class="type">·寓言小歌舞剧·</p>
 
 

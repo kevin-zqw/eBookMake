@@ -1,5 +1,7 @@
-青霞丹雪
+<h1 class="bigtitle">青霞丹雪</h1>
 <p class="type">·京剧·</p>
+
+
 
 <h2 class="title2">第一场</h2>
 

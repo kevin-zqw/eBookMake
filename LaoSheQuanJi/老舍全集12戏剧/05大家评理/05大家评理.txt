@@ -1,50 +1,50 @@
-大家评理
+<h1 class="bigtitle">大家评理</h1>
 <p class="type">·六场歌剧·</p>
 
 <h2 class="chapter">人物表</h2>
 
 
-  <p class="l block"><b>李绣珍</b></p>
-  <p class="block">女，三十岁。十九岁时由父母作主，嫁给了韩家受虐待。</p>
+<p class="l block"><b>李绣珍</b></p>
+<p class="block">女，三十岁。十九岁时由父母作主，嫁给了韩家受虐待。</p>
 
-  <p class="l block"><b>李福东</b></p>
-  <p class="block">男，五十多岁。瓦匠。绣珍的父亲。</p>
+<p class="l block"><b>李福东</b></p>
+<p class="block">男，五十多岁。瓦匠。绣珍的父亲。</p>
 
-  <p class="l block"><b>韩赵氏</b></p>
-  <p class="block">女，五十多岁。绣珍的婆婆。没有文化，很会虐待儿媳。</p>
+<p class="l block"><b>韩赵氏</b></p>
+<p class="block">女，五十多岁。绣珍的婆婆。没有文化，很会虐待儿媳。</p>
 
-  <p class="l block"><b>韩大金</b></p>
-  <p class="block">男，三十一岁。绣珍的丈夫。</p>
+<p class="l block"><b>韩大金</b></p>
+<p class="block">男，三十一岁。绣珍的丈夫。</p>
 
-  <p class="l block"><b>韩小勤</b></p>
-  <p class="block">女，九岁。绣珍的女儿。</p>
+<p class="l block"><b>韩小勤</b></p>
+<p class="block">女，九岁。绣珍的女儿。</p>
 
-  <p class="l block"><b>陈大妈</b></p>
-  <p class="block">女，五十多岁。李家的邻居。</p>
+<p class="l block"><b>陈大妈</b></p>
+<p class="block">女，五十多岁。李家的邻居。</p>
 
-  <p class="l block"><b>陈继芳</b></p>
-  <p class="block">女，二十六七岁。陈大妈的儿媳，妇女代表。</p>
+<p class="l block"><b>陈继芳</b></p>
+<p class="block">女，二十六七岁。陈大妈的儿媳，妇女代表。</p>
 
-  <p class="l block"><b>冯守易</b></p>
-  <p class="block">男，四十岁。区人民法院的审判员。韩李的离婚案由他处理。他在解放前作过法官，不了解人民司法的精神，往往出错误。</p>
+<p class="l block"><b>冯守易</b></p>
+<p class="block">男，四十岁。区人民法院的审判员。韩李的离婚案由他处理。他在解放前作过法官，不了解人民司法的精神，往往出错误。</p>
 
-  <p class="l block"><b>于新治</b></p>
-  <p class="block">男，三十多岁。法院的干部。</p>
+<p class="l block"><b>于新治</b></p>
+<p class="block">男，三十多岁。法院的干部。</p>
 
-  <p class="l block"><b>唐仁理</b></p>
-  <p class="block">男，二十多岁。法院记录员。</p>
+<p class="l block"><b>唐仁理</b></p>
+<p class="block">男，二十多岁。法院记录员。</p>
 
-  <p class="l block"><b>张大嫂</b></p>
-  <p class="block">女，三十多岁。李家的邻居。</p>
+<p class="l block"><b>张大嫂</b></p>
+<p class="block">女，三十多岁。李家的邻居。</p>
 
-  <p class="l block"><b>沈三</b></p>
-  <p class="block">男，三十多岁。农民。</p>
+<p class="l block"><b>沈三</b></p>
+<p class="block">男，三十多岁。农民。</p>
 
-  <p class="l block"><b>孟二嫂</b></p>
-  <p class="block">女，三十岁左右。李家的邻居。</p>
+<p class="l block"><b>孟二嫂</b></p>
+<p class="block">女，三十岁左右。李家的邻居。</p>
 
-  <p class="l block"><b>汤五</b></p>
-  <p class="block">男，四十多岁。农民。</p>
+<p class="l block"><b>汤五</b></p>
+<p class="block">男，四十多岁。农民。</p>
 
 
 
@@ -1238,6 +1238,7 @@
 <p class="xj"><span class="xchar">孟二嫂</span> 娶过来，你打算怎么虐待她呀？</p>
 <p class="xj"><span class="xchar">韩赵氏</span> 媳妇不好，就得管教！管教不了，就上法院打离婚！</p>
 <p class="xj"><span class="xchar">张大嫂</span> 呸！</p>
+【幕】
 
 
 
@@ -1387,6 +1388,7 @@
 <p class="xj"><span class="xchar">陈继芳</span> 绣珍不容易自己去谋生活；同时，韩家没有她，就会耽误了生产，你看看你判的案有多么好！</p>
 <p class="xj"><span class="xchar">于新治</span> 说话！老冯！</p>
 <p class="xj"><span class="xchar">冯守易</span> 我应当检讨自己！</p>
+【幕】
 
 
 
@@ -1720,4 +1722,4 @@
 <p class="xj"><span class="xchar">李绣珍</span> 那还不忙！我先去看看庄稼怎样了！</p>
 【幕落·剧终】
 
-注：此剧无曲谱，如以戏曲形式演出，可将歌词加以改动。
+<p class="pretxt">注：此剧无曲谱，如以戏曲形式演出，可将歌词加以改动。</p>
