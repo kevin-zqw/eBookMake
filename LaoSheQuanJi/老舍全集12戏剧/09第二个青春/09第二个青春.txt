@@ -1,4 +1,4 @@
-第二个青春
+<h1 class="bigtitle">第二个青春</h1>
 <p class="type">·歌剧·</p>
 
 <h2 class="title2">第一场</h2>
