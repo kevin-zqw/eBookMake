@@ -7,33 +7,33 @@
  <meta http-equiv="Content-Language" content="zh-TW" />
  <meta name="Author" content="Donald Sturgeon" />
  <meta name="viewport" content="width=device-width, target-densitydpi=device-dpi, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
- <meta name="created" content="Thu, 22 Jun 2017 02:48:57 GMT" />
+ <meta name="created" content="Fri, 30 Jun 2017 03:01:22 GMT" />
  <link rel="pingback" href="http://ctext.org/xml-rpc.pl" />
  <meta name="robots" content="noarchive" />
- <meta name="keywords" content="女仙十四, 太平廣記, e-text, text, full-text, translation, English" />
- <meta name="ctp-urn" content="ctp:taiping-guangji/69" />
- <meta name="description" content="女仙十四 - full text database, fully browsable and searchable on-line; discussion and list of publications related to 女仙十四. In English and simplified and traditional Chinese."/>
- <meta property="og:title" content="女仙十四"/>
+ <meta name="keywords" content="韋蒙妻, 女仙十四, 太平廣記, e-text, text, full-text, translation, English" />
+ <meta name="ctp-urn" content="ctp:taiping-guangji/69/weimengqi" />
+ <meta name="description" content="韋蒙妻 - full text database, fully browsable and searchable on-line; discussion and list of publications related to 韋蒙妻. In English and simplified and traditional Chinese."/>
+ <meta property="og:title" content="韋蒙妻"/>
  <meta property="og:site_name" content="Chinese Text Project"/>
  <meta property="og:type" content="book"/>
  <meta property="og:image" content="http://ctext.org/logo.gif"/>
  <meta property="fb:admins" content="598074208"/>
- <meta property="og:url" content="http://ctext.org/taiping-guangji/69"/>
- <title>太平廣記 : 女仙十四 - Chinese Text Project</title>
+ <meta property="og:url" content="http://ctext.org/taiping-guangji/69/weimengqi"/>
+ <title>太平廣記 : 女仙十四 : 韋蒙妻 - Chinese Text Project</title>
  <link href="http://ctext.org/static/text9.css" rel="stylesheet" title="" type="text/css" />
  <!--[if IE 7]><style type="text/css">#content { height: auto; left: 0; top: 0; bottom: 0; right: 0; margin-bottom: 0px; position: absolute; }</style><![endif]-->
  <link href="http://ctext.org/static/compact3.css" rel="alternate stylesheet" title="Compact" type="text/css" />
- <link href="http://ctext.org/taiping-guangji/69" rel="canonical" />
+ <link href="http://ctext.org/taiping-guangji/69/weimengqi" rel="canonical" />
  <link href="http://ctext.org/static/apple-touch-icon.png" rel="apple-touch-icon" />
  <link href="http://ctext.org/static/apple-touch-icon-72.png" rel="apple-touch-icon" sizes="72x72" />
  <link href="http://ctext.org/static/apple-touch-icon-114.png" rel="apple-touch-icon" sizes="114x114" />
  <link href="//api.ctext.org/" rel="dns-prefetch" />
  <link href="//library.ctext.org/" rel="dns-prefetch" />
  <link href="//dimage.ctext.org/" rel="dns-prefetch" />
- <link href="http://ctext.org/taiping-guangji/69/zhs" rel="alternate" hreflang="zh-Hans" />
- <link href="http://ctext.org/taiping-guangji/69/zh" rel="alternate" hreflang="zh-Hant" />
- <link href="http://ctext.org/taiping-guangji/69" rel="alternate" hreflang="en" />
- <link href="http://ctext.org/taiping-guangji/69/ens" rel="alternate" hreflang="en-Hans" />
+ <link href="http://ctext.org/taiping-guangji/69/weimengqi/zhs" rel="alternate" hreflang="zh-Hans" />
+ <link href="http://ctext.org/taiping-guangji/69/weimengqi/zh" rel="alternate" hreflang="zh-Hant" />
+ <link href="http://ctext.org/taiping-guangji/69/weimengqi" rel="alternate" hreflang="en" />
+ <link href="http://ctext.org/taiping-guangji/69/weimengqi/ens" rel="alternate" hreflang="en-Hans" />
  <script language="javascript" type="text/javascript" async src="http://ctext.org/static/text12.js" onload="setuppage"></script>
  <script type="text/javascript" >if (top.location != self.location) { top.location = self.location; }</script>
 <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//ctext.org/static/analytics.js','ga');ga('create', 'UA-15375954-1', 'auto');ga('send', 'pageview');</script>
@@ -43,7 +43,7 @@
 <body text="#000000" bgcolor="#FFFFFF" link="#0000EE" vlink="#551A8B" alink="#FF0000" >
 <div id="menubar">
 <div id="language" style="zoom: 1;">
-<a href="#" onclick="if(getActiveStyleSheet()=='Compact') setActiveStyleSheet(''); else  setActiveStyleSheet('Compact'); return false;"><img id="mobimg" src="static/mobile.png" border="0" style="vertical-align: bottom;" alt="Switch to compact display" title="Switch to compact display" /><img id="deskimg" src="static/mobile.png" border="0" style="vertical-align: bottom;" alt="Switch to full desktop display" title="Switch to full desktop display" /></a> <span style="float: right"><a href="taiping-guangji/69/ens" rel="nofollow">简体</a></span><a href="taiping-guangji/69/zh" rel="nofollow"><b>中文版</b></a></div><div id="home"><a href="http://ctext.org"><img id="homeimg" src="static/home.png" style="vertical-align: bottom;" border="0" alt="Home" title="Home" /></a></div><div id="menu">
+<a href="#" onclick="if(getActiveStyleSheet()=='Compact') setActiveStyleSheet(''); else  setActiveStyleSheet('Compact'); return false;"><img id="mobimg" src="static/mobile.png" border="0" style="vertical-align: bottom;" alt="Switch to compact display" title="Switch to compact display" /><img id="deskimg" src="static/mobile.png" border="0" style="vertical-align: bottom;" alt="Switch to full desktop display" title="Switch to full desktop display" /></a> <span style="float: right"><a href="taiping-guangji/69/weimengqi/ens" rel="nofollow">简体</a></span><a href="taiping-guangji/69/weimengqi/zh" rel="nofollow"><b>中文版</b></a></div><div id="home"><a href="http://ctext.org"><img id="homeimg" src="static/home.png" style="vertical-align: bottom;" border="0" alt="Home" title="Home" /></a></div><div id="menu">
 <span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x4463" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m4463" href="http://ctext.org" >About the site</a><br />
 <span class="subcontents">　<a class="etext" style="font-weight: bold;" id="m4464" href="introduction" >Introduction</a><br />
 　<a class="etext" style="font-weight: bold;" id="m58483" href="font-test-page" >Font test page</a><br />
@@ -952,7 +952,7 @@ Search <select name="node" class="booklistbox"><option value="3925" >Pre-Qin and
 <option value="571763" >&nbsp;&nbsp;女仙十一</option>
 <option value="571768" >&nbsp;&nbsp;女仙十二</option>
 <option value="571775" >&nbsp;&nbsp;女仙十三</option>
-<option value="571782" selected="selected">&nbsp;&nbsp;女仙十四</option>
+<option value="571782" >&nbsp;&nbsp;女仙十四</option>
 <option value="571793" >&nbsp;&nbsp;女仙十五</option>
 <option value="571816" >&nbsp;&nbsp;道術一</option>
 <option value="571825" >&nbsp;&nbsp;道術二</option>
@@ -1419,7 +1419,7 @@ function applyfilter(topicid) {
 }
 </script>
 <div id="logininfo">
-<a href="account.pl?if=en&amp;return=%2Ftaiping%2Dguangji%2F69" rel="nofollow">Log in</a></div>
+<a href="account.pl?if=en&amp;return=%2Ftaiping%2Dguangji%2F69%2Fweimengqi" rel="nofollow">Log in</a></div>
 </div>
 <div id="content"><div class="text">
 <div class="noprint opt" style="height: 47px; margin: 5px; float: right; text-align: right;"><a href="http://www.facebook.com/pages/Chinese-Text-Project/112118272147647" rel="nofollow"><img src="icons/facebook.gif" border="0" width="44" height="44" alt="Follow us on Facebook to receive important updates" title="Follow us on Facebook to receive important updates" /></a> <a href="http://www.twitter.com/chinesetextproj" rel="nofollow"><img src="icons/twitter.gif" width="45" height="44" border="0" alt="Follow us on Twitter to receive important updates" title="Follow us on Twitter to receive important updates" /></a> <a href="http://weibo.com/ctext" rel="nofollow"><img src="icons/xinlang.gif" border="0" width="44" height="44" alt="Follow us on sina.com's microblogging site to receive important updates" title="Follow us on sina.com's microblogging site to receive important updates" /></a> <a href="http://site.douban.com/137325/" rel="nofollow"><img src="icons/douban.png" border="0" width="44" height="44" alt="Follow us on Douban to receive important updates" title="Follow us on Douban to receive important updates" /></a></div>
@@ -1430,8 +1430,8 @@ function applyfilter(topicid) {
 </table>
 <div id="ad2">
 <table border="0" width="100%"><tr><td></td><td align="right"></td></tr></table></div>
-<div class="etext noprint"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/post-han" itemprop="url"><span itemprop="title">Post-Han</span></a></span> -> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/song-ming" itemprop="url"><span itemprop="title">Song-Ming</span></a></span> -> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/taiping-guangji" itemprop="url"><span itemprop="title">太平廣記</span></a></span> -> 女仙十四</div><script type="text/javascript">
-var tids=document.getElementById('m571782');
+<div class="etext noprint"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/post-han" itemprop="url"><span itemprop="title">Post-Han</span></a></span> -> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/song-ming" itemprop="url"><span itemprop="title">Song-Ming</span></a></span> -> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/taiping-guangji" itemprop="url"><span itemprop="title">太平廣記</span></a></span> -> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://ctext.org/taiping-guangji/69" itemprop="url"><span itemprop="title">女仙十四</span></a></span> -> 韋蒙妻</div><script type="text/javascript">
+var tids=document.getElementById('m571789');
 if(tids) {
 tids.className = 'menuselected';
 }
@@ -1454,7 +1454,10 @@ tids2.setAttribute('className','sprite-unexpand');
 tids2.parentNode.parentNode.getElementsByTagName('span')[0].style.display="inline";
 }
 </script>
-<div id="content3"><table width='100%'><tr><td><h2>《女仙十四》</h2></td><td></td><td align='right'> <a href="#" class="etext" style="font-weight: bold;" onClick="if(document.getElementById('listscans571782').style.display!='block') {document.getElementById('listscans571782').style.display='block'; } else {document.getElementById('listscans571782').style.display='none';} return false;">Library Resources</a><div id="listscans571782" style="display: none; position: relative; width: 300px; margin: 5px; "><span class="etext" style="display: block; width: 300px; background: #DDDDDD; border: 2px solid; text-align: left; position: absolute; z-index: 50;"><a href="library.pl?if=en&amp;res=353">《欽定四庫全書》本《太平廣記》</a><br /><div style="width: 100%; text-align: right;">[<a href="library.pl?if=en&amp;node=570777">Show all</a>]</div></span><div style="clear: both; width: 300px;"></div></div></td></tr></table> <div id="comm571782"></div><table width='100%'><tr><td><div><a href="taiping-guangji/69/yuruiyuannv" class="nourl">玉蘂院女仙</a></div></td><td></td><td align='right'> <a href="#" class="etext" style="font-weight: bold;" onClick="if(document.getElementById('listscans571783').style.display!='block') {document.getElementById('listscans571783').style.display='block'; } else {document.getElementById('listscans571783').style.display='none';} return false;">Library Resources</a><div id="listscans571783" style="display: none; position: relative; width: 300px; margin: 5px; "><span class="etext" style="display: block; width: 300px; background: #DDDDDD; border: 2px solid; text-align: left; position: absolute; z-index: 50;"><a href="library.pl?if=en&amp;res=353">《欽定四庫全書》本《太平廣記》</a><br /><div style="width: 100%; text-align: right;">[<a href="library.pl?if=en&amp;node=570777">Show all</a>]</div></span><div style="clear: both; width: 300px;"></div></div></td></tr></table> <div id="comm571783"></div><table width='100%'><tr><td><div><a href="taiping-guangji/69/mashiliang" class="nourl">馬士良</a></div></td><td></td><td align='right'> <a href="#" class="etext" style="font-weight: bold;" onClick="if(document.getElementById('listscans571785').style.display!='block') {document.getElementById('listscans571785').style.display='block'; } else {document.getElementById('listscans571785').style.display='none';} return false;">Library Resources</a><div id="listscans571785" style="display: none; position: relative; width: 300px; margin: 5px; "><span class="etext" style="display: block; width: 300px; background: #DDDDDD; border: 2px solid; text-align: left; position: absolute; z-index: 50;"><a href="library.pl?if=en&amp;res=353">《欽定四庫全書》本《太平廣記》</a><br /><div style="width: 100%; text-align: right;">[<a href="library.pl?if=en&amp;node=570777">Show all</a>]</div></span><div style="clear: both; width: 300px;"></div></div></td></tr></table> <div id="comm571785"></div><table width='100%'><tr><td><div><a href="taiping-guangji/69/zhangyunrong" class="nourl">張雲容</a></div></td><td></td><td align='right'> <a href="#" class="etext" style="font-weight: bold;" onClick="if(document.getElementById('listscans571787').style.display!='block') {document.getElementById('listscans571787').style.display='block'; } else {document.getElementById('listscans571787').style.display='none';} return false;">Library Resources</a><div id="listscans571787" style="display: none; position: relative; width: 300px; margin: 5px; "><span class="etext" style="display: block; width: 300px; background: #DDDDDD; border: 2px solid; text-align: left; position: absolute; z-index: 50;"><a href="library.pl?if=en&amp;res=353">《欽定四庫全書》本《太平廣記》</a><br /><div style="width: 100%; text-align: right;">[<a href="library.pl?if=en&amp;node=570777">Show all</a>]</div></span><div style="clear: both; width: 300px;"></div></div></td></tr></table> <div id="comm571787"></div><table width='100%'><tr><td><div><a href="taiping-guangji/69/weimengqi" class="nourl">韋蒙妻</a></div></td><td></td><td align='right'> <a href="#" class="etext" style="font-weight: bold;" onClick="if(document.getElementById('listscans571789').style.display!='block') {document.getElementById('listscans571789').style.display='block'; } else {document.getElementById('listscans571789').style.display='none';} return false;">Library Resources</a><div id="listscans571789" style="display: none; position: relative; width: 300px; margin: 5px; "><span class="etext" style="display: block; width: 300px; background: #DDDDDD; border: 2px solid; text-align: left; position: absolute; z-index: 50;"><a href="library.pl?if=en&amp;res=353">《欽定四庫全書》本《太平廣記》</a><br /><div style="width: 100%; text-align: right;">[<a href="library.pl?if=en&amp;node=570777">Show all</a>]</div></span><div style="clear: both; width: 300px;"></div></div></td></tr></table> <div id="comm571789"></div><table width='100%'><tr><td><div><a href="taiping-guangji/69/cientayuan" class="nourl">慈恩塔院女仙</a></div></td><td></td><td align='right'> <a href="#" class="etext" style="font-weight: bold;" onClick="if(document.getElementById('listscans571791').style.display!='block') {document.getElementById('listscans571791').style.display='block'; } else {document.getElementById('listscans571791').style.display='none';} return false;">Library Resources</a><div id="listscans571791" style="display: none; position: relative; width: 300px; margin: 5px; "><span class="etext" style="display: block; width: 300px; background: #DDDDDD; border: 2px solid; text-align: left; position: absolute; z-index: 50;"><a href="library.pl?if=en&amp;res=353">《欽定四庫全書》本《太平廣記》</a><br /><div style="width: 100%; text-align: right;">[<a href="library.pl?if=en&amp;node=570777">Show all</a>]</div></span><div style="clear: both; width: 300px;"></div></div></td></tr></table> <div id="comm571791"></div><div style="margin-right: 10px;"></div><div style="width: 100%; clear: both;"></div><style>.urnlabel {opacity: 0.2; float: right;} .urnlabel:hover { opacity: 0.8;}</style><div class="urnlabel etext"><a href="tools/api#urn" class="noul">URN</a>: <span title="This is the CTP URN that uniquely identifies this textual resource.">ctp:taiping-guangji/69</span></div><div style="clear: both"></div></div>
+<div id="content3"><table width='100%'><tr><td><h2>《韋蒙妻》</h2></td><td></td><td align='right'> <a href="#" class="etext" style="font-weight: bold;" onClick="if(document.getElementById('listscans571789').style.display!='block') {document.getElementById('listscans571789').style.display='block'; } else {document.getElementById('listscans571789').style.display='none';} return false;">Library Resources</a><div id="listscans571789" style="display: none; position: relative; width: 300px; margin: 5px; "><span class="etext" style="display: block; width: 300px; background: #DDDDDD; border: 2px solid; text-align: left; position: absolute; z-index: 50;"><a href="library.pl?if=en&amp;res=353">《欽定四庫全書》本《太平廣記》</a><br /><div style="width: 100%; text-align: right;">[<a href="library.pl?if=en&amp;node=570777">Show all</a>]</div></span><div style="clear: both; width: 300px;"></div></div></td></tr></table> <div id="comm571789"></div><table border="0">
+<tr id="n571790"><td align="right" valign="top" style="width: 50px; text-align: left;"><a href="taiping-guangji/69/weimengqi#n571790" class="popup" style="font-size: 12pt;">1</a>  <div style="display: inline-block; zoom: 1; *display: inline;'"><a href="dictionary.pl?if=en&amp;id=571790" class="sprite-more" title="Jump to dictionary" rel="nofollow">Jump to dictionary<div style="display: inline;"></div></a></div><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="text.pl?node=571790&amp;if=en&amp;show=parallel" class="sprite-parallel" title="Show parallel passages" >Show parallel passages<div style="display: inline;"></div></a></div></td><td valign="top" style="white-space: nowrap; color: #777777;"  class="ctext opt">韋蒙妻:</td><td class="ctext">
+<div id="comm571790"></div>韋蒙妻許氏，居東京翊善里。自云：「許氏世有神仙，皆上為高真，受天帝重任。」性潔淨。熟詩禮二經。事舅姑以孝聞。蒙為尚書郎，早夭。許舅姑亦亡，唯一女，年十二歲，甚聰慧，已能記《易》及《詩》。忽無疾而卒。許甚憐之，不忍遠葬，殯于堂側。居數月，聞女於殯宮中語。許與侍婢總笄，發棺視之，已生矣。言初卒之狀云：「忽見二青衣童子，可年十二三，持一紅幡來庭中，呼某名曰：『韋小真，天上召汝。」于是引之昇天。可半日到天上，見宮闕崇麗，天人皆錦繡毛羽五色之衣，金冠玉笏。亦多玉童玉女，皆珠玉五色之衣。花木如琉璃寶玉之形，風動，有聲如樂曲，鏗鏘和雅。既到宮中，見韓君司命曰：『汝九世祖有功於國，有惠及人。近已擢為地下主者，即遷地仙之品。汝母心於至道，合陟仙階，即令延汝于丹陵之闕。汝祖考三世，皆已生天矣。』遂使二童送歸。母便可齋沐，太乙使者即當至矣。許常持妙真經。往往感致異香。及殊常光色。衆共異之。已十餘年矣。及小真歸後三日，果有仙樂之聲下其庭中。許與小真、總笄。一時昇天。有龍虎兵騎三十餘人。導從而去。乃長慶元年辛丑歲也。出《仙傳拾遺》<p class="ctext"></p></td></tr>
+</table><div style="margin-right: 10px;"></div><div style="width: 100%; clear: both;"></div><style>.urnlabel {opacity: 0.2; float: right;} .urnlabel:hover { opacity: 0.8;}</style><div class="urnlabel etext"><a href="tools/api#urn" class="noul">URN</a>: <span title="This is the CTP URN that uniquely identifies this textual resource.">ctp:taiping-guangji/69/weimengqi</span></div><div style="clear: both"></div></div>
 </div>
 <div id="footer"><hr />
 <table width="100%">
