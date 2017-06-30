@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="zh-CN" lang="zh-CN">
+<head profile="http://a9.com/-/spec/opensearch/1.1/">
+ <base href="http://ctext.org/" />
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta http-equiv="Content-Language" content="zh-CN" />
+ <meta name="Author" content="Donald Sturgeon" />
+ <meta name="viewport" content="width=device-width, target-densitydpi=device-dpi, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+ <meta name="created" content="Tue, 27 Jun 2017 04:49:23 GMT" />
+ <link rel="pingback" href="http://ctext.org/xml-rpc.pl" />
+ <meta name="robots" content="noarchive" />
+ <meta name="keywords" content="铭记一, 太平广记, e-text, text, full-text, translation, English" />
+ <meta name="ctp-urn" content="ctp:taiping-guangji/391" />
+ <meta name="description" content="铭记一 - full text database, fully browsable and searchable on-line; discussion and list of publications related to 铭记一. In English and simplified and traditional Chinese."/>
+ <meta property="og:title" content="铭记一"/>
+ <meta property="og:site_name" content="Chinese Text Project"/>
+ <meta property="og:type" content="book"/>
+ <meta property="og:image" content="http://ctext.org/logo.gif"/>
+ <meta property="fb:admins" content="598074208"/>
+ <meta property="og:url" content="http://ctext.org/taiping-guangji/391/ens"/>
+ <title>太平广记 : 铭记一 - Chinese Text Project</title>
+ <link href="http://ctext.org/static/text9.css" rel="stylesheet" title="" type="text/css" />
+ <!--[if IE 7]><style type="text/css">#content { height: auto; left: 0; top: 0; bottom: 0; right: 0; margin-bottom: 0px; position: absolute; }</style><![endif]-->
+ <link href="http://ctext.org/static/compact3.css" rel="alternate stylesheet" title="Compact" type="text/css" />
+ <link href="http://ctext.org/taiping-guangji/391/ens" rel="canonical" />
+ <link href="http://ctext.org/static/apple-touch-icon.png" rel="apple-touch-icon" />
+ <link href="http://ctext.org/static/apple-touch-icon-72.png" rel="apple-touch-icon" sizes="72x72" />
+ <link href="http://ctext.org/static/apple-touch-icon-114.png" rel="apple-touch-icon" sizes="114x114" />
+ <link href="//api.ctext.org/" rel="dns-prefetch" />
+ <link href="//library.ctext.org/" rel="dns-prefetch" />
+ <link href="//dimage.ctext.org/" rel="dns-prefetch" />
+ <link href="http://ctext.org/taiping-guangji/391/zhs" rel="alternate" hreflang="zh-Hans" />
+ <link href="http://ctext.org/taiping-guangji/391/zh" rel="alternate" hreflang="zh-Hant" />
+ <link href="http://ctext.org/taiping-guangji/391" rel="alternate" hreflang="en" />
+ <link href="http://ctext.org/taiping-guangji/391/ens" rel="alternate" hreflang="en-Hans" />
+ <script language="javascript" type="text/javascript" async src="http://ctext.org/static/text12.js" onload="setuppage"></script>
+ <script type="text/javascript" >if (top.location != self.location) { top.location = self.location; }</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//ctext.org/static/analytics.js','ga');ga('create', 'UA-15375954-1', 'auto');ga('send', 'pageview');</script>
+ <link href="http://ctext.org/searchxml.pl?type=text&amp;if=en&amp;remap=gb" rel="search" type="application/opensearchdescription+xml" title="Chinese Text Project (texts)" />
+ <link href="http://ctext.org/searchxml.pl?type=dic&amp;if=en&amp;remap=gb" rel="search" type="application/opensearchdescription+xml" title="Chinese Text Project (dictionary)" />
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000EE" vlink="#551A8B" alink="#FF0000" >
+<div id="menubar">
+<div id="language" style="zoom: 1;">
+<a href="#" onclick="if(getActiveStyleSheet()=='Compact') setActiveStyleSheet(''); else  setActiveStyleSheet('Compact'); return false;"><img id="mobimg" src="static/mobile.png" border="0" style="vertical-align: bottom;" alt="Switch to compact display" title="Switch to compact display" /><img id="deskimg" src="static/mobile.png" border="0" style="vertical-align: bottom;" alt="Switch to full desktop display" title="Switch to full desktop display" /></a> <span style="float: right"><a href="taiping-guangji/391" rel="nofollow">繁体</a></span><a href="taiping-guangji/391/zhs" rel="nofollow"><b>中文版</b></a></div><div id="home"><a href="http://ctext.org/ens"><img id="homeimg" src="static/home.png" style="vertical-align: bottom;" border="0" alt="Home" title="Home" /></a></div><div id="menu">
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x4463" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m4463" href="http://ctext.org/ens" >About the site</a><br />
+<span class="subcontents">　<a class="etext" style="font-weight: bold;" id="m4464" href="introduction/ens" >Introduction</a><br />
+　<a class="etext" style="font-weight: bold;" id="m58483" href="font-test-page/ens" >Font test page</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="help-us/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="help-us/ens" >Help us</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="faq/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="faq/ens" >Frequently Asked Questions</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="instructions/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="instructions/ens" >Instructions</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="tools/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="tools/ens" >Tools</a><br />
+　<a class="etext" style="font-weight: bold;" id="m60987" href="system-statistics/ens" >System Statistics</a><br />
+</span></span>
+<div class="menuitem listhead"><a class="etext" style="font-weight: bold;" id="m3925" href="pre-qin-and-han/ens" >Pre-Qin and Han</a><br />
+</div><span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47084" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47084" href="confucianism/ens" >Confucianism</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=11448&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="analects/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="analects/ens" >The Analects</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=11449&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="mengzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="mengzi/ens" >Mengzi</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=11450&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="liji/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="liji/ens" >Liji</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="xunzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="xunzi/ens" >Xunzi</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=47364&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="xiao-jing/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="xiao-jing/ens" >Xiao Jing</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shuo-yuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shuo-yuan/ens" >Shuo Yuan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="chun-qiu-fan-lu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="chun-qiu-fan-lu/ens" >Chun Qiu Fan Lu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="han-shi-wai-zhuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="han-shi-wai-zhuan/ens" >Han Shi Wai Zhuan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="da-dai-li-ji/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="da-dai-li-ji/ens" >Da Dai Li Ji</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="bai-hu-tong/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="bai-hu-tong/ens" >Bai Hu Tong</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="xin-shu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="xin-shu/ens" >Xin Shu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="xin-xu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="xin-xu/ens" >Xin Xu</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=107989&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yangzi-fayan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="yangzi-fayan/ens" >Yangzi Fayan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="zhong-lun/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="zhong-lun/ens" >Zhong Lun</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="kongzi-jiayu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="kongzi-jiayu/ens" >Kongzi Jiayu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="qian-fu-lun/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="qian-fu-lun/ens" >Qian Fu Lun</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="lunheng/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="lunheng/ens" >Lunheng</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="taixuanjing/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="taixuanjing/ens" >Tai Xuan Jing</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="fengsutongyi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="fengsutongyi/ens" >Fengsu Tongyi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="kongcongzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="kongcongzi/ens" >Kongcongzi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shenjian/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shenjian/ens" >Shen Jian</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="zhong-jing/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="zhong-jing/ens" >Zhong Jing</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="su-shu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="su-shu/ens" >Su Shu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="xinyu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="xinyu/ens" >Xin Yu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="duduan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="duduan/ens" >Du Duan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="caizhong-langji/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="caizhong-langji/ens" >Cai Zhong Lang Ji</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47085" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47085" href="mohism/ens" >Mohism</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=11446&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="mozi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="mozi/ens" >Mozi</a><br />
+　<a class="etext" style="font-weight: bold;" id="m37562" href="mo-bian-zhu-xu/ens" >Mo Bian Zhu Xu</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47086" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47086" href="daoism/ens" >Daoism</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=11451&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="zhuangzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="zhuangzi/ens" >Zhuangzi</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=47367&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<a class="etext" style="font-weight: bold;" id="m11591" href="dao-de-jing/ens" >Dao De Jing</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=278824&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="liezi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="liezi/ens" >Liezi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="he-guan-zi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="he-guan-zi/ens" >He Guan Zi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="wenzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="wenzi/ens" >Wenzi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="wenshi-zhenjing/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="wenshi-zhenjing/ens" >Wen Shi Zhen Jing</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="lie-xian-zhuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="lie-xian-zhuan/ens" >Lie Xian Zhuan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yuzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="yuzi/ens" >Yuzi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="heshanggong/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="heshanggong/ens" >Heshanggong Laozi</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47087" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47087" href="legalism/ens" >Legalism</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=47382&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="hanfeizi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="hanfeizi/ens" >Hanfeizi</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=58972&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shang-jun-shu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shang-jun-shu/ens" >Shang Jun Shu</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=71140&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shen-bu-hai/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shen-bu-hai/ens" >Shen Bu Hai</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shenzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shenzi/ens" >Shenzi</a><br />
+　<a class="etext" style="font-weight: bold;" id="m47384" href="jian-zhu-ke-shu/ens" >Jian Zhu Ke Shu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="guanzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="guanzi/ens" >Guanzi</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47088" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47088" href="school-of-names/ens" >School of Names</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=81868&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="gongsunlongzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="gongsunlongzi/ens" >Gongsunlongzi</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47089" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47089" href="school-of-the-military/ens" >School of the Military</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=47376&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="art-of-war/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="art-of-war/ens" >The Art of War</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=41728&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="wu-zi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="wu-zi/ens" >Wu Zi</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=41901&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="liu-tao/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="liu-tao/ens" >Liu Tao</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="si-ma-fa/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="si-ma-fa/ens" >Si Ma Fa</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="wei-liao-zi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="wei-liao-zi/ens" >Wei Liao Zi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="three-strategies/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="three-strategies/ens" >Three Strategies</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47090" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47090" href="mathematics/ens" >Mathematics</a><br />
+<span class="subcontents">　<a class="etext" style="font-weight: bold;" id="m45173" href="hai-dao-suan-jing/ens" >Hai Dao Suan Jing</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="nine-chapters/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="nine-chapters/ens" >The Nine Chapters</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="sunzi-suan-jing/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="sunzi-suan-jing/ens" >Sunzi Suan Jing</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=59500&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="zhou-bi-suan-jing/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="zhou-bi-suan-jing/ens" >Zhou Bi Suan Jing</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47091" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47091" href="miscellaneous-schools/ens" >Miscellaneous Schools</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=58481&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="huainanzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="huainanzi/ens" >Huainanzi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="lv-shi-chun-qiu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="lv-shi-chun-qiu/ens" >Lü Shi Chun Qiu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="gui-gu-zi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="gui-gu-zi/ens" >Gui Gu Zi</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=41628&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yin-wen-zi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="yin-wen-zi/ens" >Yin Wen Zi</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=41676&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="deng-xi-zi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="deng-xi-zi/ens" >Deng Xi Zi</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47092" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47092" href="histories/ens" >Histories</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=285360&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shiji/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shiji/ens" >Shiji</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="chun-qiu-zuo-zhuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="chun-qiu-zuo-zhuan/ens" >Chun Qiu Zuo Zhuan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="lost-book-of-zhou/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="lost-book-of-zhou/ens" >Lost Book of Zhou</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="guo-yu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="guo-yu/ens" >Guo Yu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yanzi-chun-qiu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="yanzi-chun-qiu/ens" >Yanzi Chun Qiu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="wu-yue-chun-qiu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="wu-yue-chun-qiu/ens" >Wu Yue Chun Qiu</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=80223&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yue-jue-shu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="yue-jue-shu/ens" >Yue Jue Shu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="zhan-guo-ce/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="zhan-guo-ce/ens" >Zhan Guo Ce</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yan-tie-lun/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="yan-tie-lun/ens" >Yan Tie Lun</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="lie-nv-zhuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="lie-nv-zhuan/ens" >Lie Nü Zhuan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="guliang-zhuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="guliang-zhuan/ens" >Guliang Zhuan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="gongyang-zhuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="gongyang-zhuan/ens" >Gongyang Zhuan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="han-shu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="han-shu/ens" >Han Shu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="qian-han-ji/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="qian-han-ji/ens" >Qian Han Ji</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="dong-guan-han-ji/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="dong-guan-han-ji/ens" >Dong Guan Han Ji</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="hou-han-shu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="hou-han-shu/ens" >Hou Han Shu</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="zhushu-jinian/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="zhushu-jinian/ens" >Zhushu Jinian</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="mutianzi-zhuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="mutianzi-zhuan/ens" >Mutianzi Zhuan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="gu-san-fen/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="gu-san-fen/ens" >Gu San Fen</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yandanzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="yandanzi/ens" >Yandanzi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="xijing-zaji/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="xijing-zaji/ens" >Xijing Zaji</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47093" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47093" href="ancient-classics/ens" >Ancient Classics</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=47370&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="book-of-poetry/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="book-of-poetry/ens" >Book of Poetry</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=47372&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shang-shu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shang-shu/ens" >Shang Shu</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=47374&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="book-of-changes/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="book-of-changes/ens" >Book of Changes</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="rites-of-zhou/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="rites-of-zhou/ens" >The Rites of Zhou</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="chu-ci/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="chu-ci/ens" >Chu Ci</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yili/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="yili/ens" >Yili</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shan-hai-jing/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shan-hai-jing/ens" >Shan Hai Jing</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="jiaoshi-yilin/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="jiaoshi-yilin/ens" >Jiaoshi Yilin</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="jingshi-yizhuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="jingshi-yizhuan/ens" >Jingshi Yizhuan</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shishuo/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shishuo/ens" >Shi Shuo</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x47104" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m47104" href="etymology/ens" >Etymology</a><br />
+<span class="subcontents">　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shuo-wen-jie-zi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shuo-wen-jie-zi/ens" >Shuo Wen Jie Zi</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="er-ya/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="er-ya/ens" >Er Ya</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=41630&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shi-ming/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shi-ming/ens" >Shi Ming</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=108158&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="fang-yan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="fang-yan/ens" >Fang Yan</a><br />
+　<a class="etext" style="font-weight: bold;" id="m279526" href="jijiupian/ens" >Ji Jiu Pian</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x80226" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m80226" href="chinese-medicine/ens" >Chinese Medicine</a><br />
+<span class="subcontents">　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="huangdi-neijing/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="huangdi-neijing/ens" >Huangdi Neijing</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="nan-jing/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="nan-jing/ens" >Nan Jing</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shang-han-lun/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="shang-han-lun/ens" >Shang Han Lun</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="jinkui-yaolue/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="jinkui-yaolue/ens" >Jinkui Yaolue</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x82944" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m82944" href="excavated-texts/ens" >Excavated texts</a><br />
+<span class="subcontents">　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="guodian/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="guodian/ens" >Guodian</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="mawangdui/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="mawangdui/ens" >Mawangdui</a><br />
+</span></span>
+<br />
+<div class="menuitem listhead"><a class="etext" style="font-weight: bold;" id="m89488" href="post-han/ens" >Post-Han</a><br />
+</div><span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x90478" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m90478" href="wei-jin-and-north-south/ens" >Wei, Jin, and North-South</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=90561&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<a class="menuitem" id="m90479" href="dao-de-zhen-jing-zhu/ens" >道德真经注</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shi-shuo-xin-yu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="shi-shuo-xin-yu/ens" >世说新语</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yan-shi-jia-xun/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="yan-shi-jia-xun/ens" >颜氏家训</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="wenxin-diaolong/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="wenxin-diaolong/ens" >文心雕龙</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="baopuzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="baopuzi/ens" >抱朴子</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="renwuzhi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="renwuzhi/ens" >人物志</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="jinlouzi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="jinlouzi/ens" >金楼子</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shui-jing-zhu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="shui-jing-zhu/ens" >水经注</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="shen-xian-zhuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="shen-xian-zhuan/ens" >神仙传</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="sanguozhi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="sanguozhi/ens" >三国志</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="gaoshizhuan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="gaoshizhuan/ens" >高士传</a><br />
+　<a class="menuitem" id="m649377" href="shenyijing/ens" >神异经</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="dongmingji/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="dongmingji/ens" >洞冥记</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x278826" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m278826" href="sui-tang/ens" >Sui-Tang</a><br />
+<span class="subcontents">　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="qunshu-zhiyao/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="qunshu-zhiyao/ens" >群书治要</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yiwen-leiju/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="yiwen-leiju/ens" >艺文类聚</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="tongdian/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="tongdian/ens" >通典</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="yilin/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="yilin/ens" >意林</a><br />
+　<a class="menuitem" id="m649043" href="yinfujing/ens" >黄帝阴符经</a><br />
+</span></span>
+<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x90471" class="subtitle"><div></div></div></div><a class="etext" style="font-weight: bold;" id="m90471" href="song-ming/ens" >Song-Ming</a><br />
+<span class="subcontents"><span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=90476&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="si-shu-zhang-ju-ji-zhu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="si-shu-zhang-ju-ji-zhu/ens" >四书章句集注</a><br />
+<span style="float: right; display: block; "><div style="display: inline-block; zoom: 1; *display: inline;'"><a href="#" class="sprite-info" title="Show source information"  onclick="window.open('text.pl?node=90742&amp;if=en&amp;remap=gb&amp;menu=none&amp;ref=show&amp;remap=gb','','resizable=yes,scrollbars=yes,copyhistory=no,width=600,height=470'); return false;">Show source information<div style="display: inline;"></div></a></div></span>　<a class="etext" style="font-weight: bold;" id="m90563" href="three-character-classic/ens" >Three Character Classic</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="lunyu-zhushu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="lunyu-zhushu/ens" >论语注疏</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="xiyouji/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="xiyouji/ens" >西游记</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="sanguo-yanyi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="etext" style="font-weight: bold;" href="sanguo-yanyi/ens" >Romance of the Three Kingdoms</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="jinpingmei/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="jinpingmei/ens" >金瓶梅</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="fengshen-yanyi/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="fengshen-yanyi/ens" >封神演义</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="guangyun/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="guangyun/ens" >广韵</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="xiaojing-zhushu/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="xiaojing-zhushu/ens" >孝经注疏</a><br />
+　<div style="display: inline-block; zoom: 1; *display: inline;'"><a href="taiping-yulan/ens" class="sprite-expand" title="+" >+<div style="display: inline;"></div></a></div><a class="menuitem" href="taiping-yulan/ens" >太平御览</a><br />
+　<span class="menuitem container"><div style="display: inline-block; zoom: 1; *display: inline;'"><div class="sprite-expand" title="+" id="x570777" class="subtitle"><div></div></div></div><a class="menuitem" id="m570777" href="taiping-guangji/ens" >太平广记</a><br />
+<span class="subcontents">　　<a class="menuitem" id="m570778" href="taiping-guangji/1/ens" >神仙一</a><br />
+　　<a class="menuitem" id="m570817" href="taiping-guangji/2/ens" >神仙二</a><br />
+　　<a class="menuitem" id="m570833" href="taiping-guangji/3/ens" >神仙三</a><br />
+　　<a class="menuitem" id="m570891" href="taiping-guangji/4/ens" >神仙四</a><br />
+　　<a class="menuitem" id="m570931" href="taiping-guangji/5/ens" >神仙五</a><br />
+　　<a class="menuitem" id="m570962" href="taiping-guangji/6/ens" >神仙六</a><br />
+　　<a class="menuitem" id="m571001" href="taiping-guangji/7/ens" >神仙七</a><br />
+　　<a class="menuitem" id="m571025" href="taiping-guangji/8/ens" >神仙八</a><br />
+　　<a class="menuitem" id="m571065" href="taiping-guangji/9/ens" >神仙九</a><br />
+　　<a class="menuitem" id="m571080" href="taiping-guangji/10/ens" >神仙十</a><br />
+　　<a class="menuitem" id="m571095" href="taiping-guangji/11/ens" >神仙十一</a><br />
+　　<a class="menuitem" id="m571114" href="taiping-guangji/12/ens" >神仙十二</a><br />
+　　<a class="menuitem" id="m571123" href="taiping-guangji/13/ens" >神仙十三</a><br />
+　　<a class="menuitem" id="m571141" href="taiping-guangji/14/ens" >神仙十四</a><br />
+　　<a class="menuitem" id="m571156" href="taiping-guangji/15/ens" >神仙十五</a><br />
+　　<a class="menuitem" id="m571167" href="taiping-guangji/16/ens" >神仙十六</a><br />
+　　<a class="menuitem" id="m571193" href="taiping-guangji/17/ens" >神仙十七</a><br />
+　　<a class="menuitem" id="m571209" href="taiping-guangji/18/ens" >神仙十八</a><br />
+　　<a class="menuitem" id="m571220" href="taiping-guangji/19/ens" >神仙十九</a><br />
+　　<a class="menuitem" id="m571229" href="taiping-guangji/20/ens" >神仙二十</a><br />
+　　<a class="menuitem" id="m571238" href="taiping-guangji/21/ens" >神仙二十一</a><br />
+　　<a class="menuitem" id="m571245" href="taiping-guangji/22/ens" >神仙二十二</a><br />
+　　<a class="menuitem" id="m571252" href="taiping-guangji/23/ens" >神仙二十三</a><br />
+　　<a class="menuitem" id="m571265" href="taiping-guangji/24/ens" >神仙二十四</a><br />
+　　<a class="menuitem" id="m571276" href="taiping-guangji/25/ens" >神仙二十五</a><br />
+　　<a class="menuitem" id="m571281" href="taiping-guangji/26/ens" >神仙二十六</a><br />
+　　<a class="menuitem" id="m571286" href="taiping-guangji/27/ens" >神仙二十七</a><br />
+　　<a class="menuitem" id="m571295" href="taiping-guangji/28/ens" >神仙二十八</a><br />
+　　<a class="menuitem" id="m571300" href="taiping-guangji/29/ens" >神仙二十九</a><br />
+　　<a class="menuitem" id="m571311" href="taiping-guangji/30/ens" >神仙三十</a><br />
+　　<a class="menuitem" id="m571318" href="taiping-guangji/31/ens" >神仙三十一</a><br />
+　　<a class="menuitem" id="m571328" href="taiping-guangji/32/ens" >神仙三十二</a><br />
+　　<a class="menuitem" id="m571333" href="taiping-guangji/33/ens" >神仙三十三</a><br />
+　　<a class="menuitem" id="m571342" href="taiping-guangji/34/ens" >神仙三十四</a><br />
+　　<a class="menuitem" id="m571347" href="taiping-guangji/35/ens" >神仙三十五</a><br />
+　　<a class="menuitem" id="m571360" href="taiping-guangji/36/ens" >神仙三十六</a><br />
+　　<a class="menuitem" id="m571369" href="taiping-guangji/37/ens" >神仙三十七</a><br />
+　　<a class="menuitem" id="m571380" href="taiping-guangji/38/ens" >神仙三十八</a><br />
+　　<a class="menuitem" id="m571419" href="taiping-guangji/39/ens" >神仙三十九</a><br />
+　　<a class="menuitem" id="m571430" href="taiping-guangji/40/ens" >神仙四十</a><br />
+　　<a class="menuitem" id="m571449" href="taiping-guangji/41/ens" >神仙四十一</a><br />
+　　<a class="menuitem" id="m571458" href="taiping-guangji/42/ens" >神仙四十二</a><br />
+　　<a class="menuitem" id="m571477" href="taiping-guangji/43/ens" >神仙四十三</a><br />
+　　<a class="menuitem" id="m571486" href="taiping-guangji/44/ens" >神仙四十四</a><br />
+　　<a class="menuitem" id="m571495" href="taiping-guangji/45/ens" >神仙四十五</a><br />
+　　<a class="menuitem" id="m571508" href="taiping-guangji/46/ens" >神仙四十六</a><br />
+　　<a class="menuitem" id="m571517" href="taiping-guangji/47/ens" >神仙四十七</a><br />
+　　<a class="menuitem" id="m571528" href="taiping-guangji/48/ens" >神仙四十八</a><br />
+　　<a class="menuitem" id="m571541" href="taiping-guangji/49/ens" >神仙四十九</a><br />
+　　<a class="menuitem" id="m571554" href="taiping-guangji/50/ens" >神仙五十</a><br />
+　　<a class="menuitem" id="m571559" href="taiping-guangji/51/ens" >神仙五十一</a><br />
+　　<a class="menuitem" id="m571568" href="taiping-guangji/52/ens" >神仙五十二</a><br />
+　　<a class="menuitem" id="m571577" href="taiping-guangji/53/ens" >神仙五十三</a><br />
+　　<a class="menuitem" id="m571588" href="taiping-guangji/54/ens" >神仙五十四</a><br />
+　　<a class="menuitem" id="m571601" href="taiping-guangji/55/ens" >神仙五十五</a><br />
+　　<a class="menuitem" id="m571612" href="taiping-guangji/56/ens" >女仙一</a><br />
+　　<a class="menuitem" id="m571621" href="taiping-guangji/57/ens" >女仙二</a><br />
+　　<a class="menuitem" id="m571626" href="taiping-guangji/58/ens" >女仙三</a><br />
+　　<a class="menuitem" id="m571646" href="taiping-guangji/59/ens" >女仙四</a><br />
+　　<a class="menuitem" id="m571679" href="taiping-guangji/60/ens" >女仙五</a><br />
+　　<a class="menuitem" id="m571696" href="taiping-guangji/61/ens" >女仙六</a><br />
+　　<a class="menuitem" id="m571711" href="taiping-guangji/62/ens" >女仙七</a><br />
+　　<a class="menuitem" id="m571732" href="taiping-guangji/63/ens" >女仙八</a><br />
+　　<a class="menuitem" id="m571743" href="taiping-guangji/64/ens" >女仙九</a><br />
+　　<a class="menuitem" id="m571754" href="taiping-guangji/65/ens" >女仙十</a><br />
+　　<a class="menuitem" id="m571763" href="taiping-guangji/66/ens" >女仙十一</a><br />
+　　<a class="menuitem" id="m571768" href="taiping-guangji/67/ens" >女仙十二</a><br />
+　　<a class="menuitem" id="m571775" href="taiping-guangji/68/ens" >女仙十三</a><br />
+　　<a class="menuitem" id="m571782" href="taiping-guangji/69/ens" >女仙十四</a><br />
+　　<a class="menuitem" id="m571793" href="taiping-guangji/70/ens" >女仙十五</a><br />
+　　<a class="menuitem" id="m571816" href="taiping-guangji/71/ens" >道术一</a><br />
+　　<a class="menuitem" id="m571825" href="taiping-guangji/72/ens" >道术二</a><br />
+　　<a class="menuitem" id="m571846" href="taiping-guangji/73/ens" >道术三</a><br />
+　　<a class="menuitem" id="m571865" href="taiping-guangji/74/ens" >道术四</a><br />
+　　<a class="menuitem" id="m571878" href="taiping-guangji/75/ens" >道术五</a><br />
+　　<a class="menuitem" id="m571898" href="taiping-guangji/76/ens" >方士一</a><br />
+　　<a class="menuitem" id="m571933" href="taiping-guangji/77/ens" >方士二</a><br />
+　　<a class="menuitem" id="m571948" href="taiping-guangji/78/ens" >方士三</a><br />
+　　<a class="menuitem" id="m571969" href="taiping-guangji/79/ens" >方士四</a><br />
+　　<a class="menuitem" id="m571990" href="taiping-guangji/80/ens" >方士五</a><br />
+　　<a class="menuitem" id="m572025" href="taiping-guangji/81/ens" >异人一</a><br />
+　　<a class="menuitem" id="m572036" href="taiping-guangji/82/ens" >异人二</a><br />
+　　<a class="menuitem" id="m572053" href="taiping-guangji/83/ens" >异人三</a><br />
+　　<a class="menuitem" id="m572072" href="taiping-guangji/84/ens" >异人四</a><br />
+　　<a class="menuitem" id="m572101" href="taiping-guangji/85/ens" >异人五</a><br />
+　　<a class="menuitem" id="m572132" href="taiping-guangji/86/ens" >异人六</a><br />
+　　<a class="menuitem" id="m572161" href="taiping-guangji/87/ens" >异僧一</a><br />
+　　<a class="menuitem" id="m572170" href="taiping-guangji/88/ens" >异僧二</a><br />
+　　<a class="menuitem" id="m572174" href="taiping-guangji/89/ens" >异僧三</a><br />
+　　<a class="menuitem" id="m572183" href="taiping-guangji/90/ens" >异僧四</a><br />
+　　<a class="menuitem" id="m572188" href="taiping-guangji/91/ens" >异僧五</a><br />
+　　<a class="menuitem" id="m572211" href="taiping-guangji/92/ens" >异僧六</a><br />
+　　<a class="menuitem" id="m572224" href="taiping-guangji/93/ens" >异僧七</a><br />
+　　<a class="menuitem" id="m572229" href="taiping-guangji/94/ens" >异僧八</a><br />
+　　<a class="menuitem" id="m572240" href="taiping-guangji/95/ens" >异僧九</a><br />
+　　<a class="menuitem" id="m572252" href="taiping-guangji/96/ens" >异僧十</a><br />
+　　<a class="menuitem" id="m572271" href="taiping-guangji/97/ens" >异僧十一</a><br />
+　　<a class="menuitem" id="m572292" href="taiping-guangji/98/ens" >异僧十二</a><br />
+　　<a class="menuitem" id="m572319" href="taiping-guangji/99/ens" >释证一</a><br />
+　　<a class="menuitem" id="m572347" href="taiping-guangji/100/ens" >释证二</a><br />
+　　<a class="menuitem" id="m572366" href="taiping-guangji/101/ens" >释证三</a><br />
+　　<a class="menuitem" id="m572397" href="taiping-guangji/102/ens" >报应一金刚经</a><br />
+　　<a class="menuitem" id="m572430" href="taiping-guangji/103/ens" >报应二金刚经</a><br />
+　　<a class="menuitem" id="m572465" href="taiping-guangji/104/ens" >报应三金刚经</a><br />
+　　<a class="menuitem" id="m572492" href="taiping-guangji/105/ens" >报应四金刚经</a><br />
+　　<a class="menuitem" id="m572519" href="taiping-guangji/106/ens" >报应五金刚经</a><br />
+　　<a class="menuitem" id="m572546" href="taiping-guangji/107/ens" >报应六金刚经</a><br />
+　　<a class="menuitem" id="m572581" href="taiping-guangji/108/ens" >报应七金刚经</a><br />
+　　<a class="menuitem" id="m572610" href="taiping-guangji/109/ens" >报应八法华经</a><br />
+　　<a class="menuitem" id="m572653" href="taiping-guangji/110/ens" >报应九观音经</a><br />
+　　<a class="menuitem" id="m572706" href="taiping-guangji/111/ens" >报应十观音经</a><br />
+　　<a class="menuitem" id="m572755" href="taiping-guangji/112/ens" >报应十一崇经像</a><br />
+　　<a class="menuitem" id="m572786" href="taiping-guangji/113/ens" >报应十二崇经像</a><br />
+　　<a class="menuitem" id="m572807" href="taiping-guangji/114/ens" >报应十三崇经像</a><br />
+　　<a class="menuitem" id="m572834" href="taiping-guangji/115/ens" >报应十四崇经像</a><br />
+　　<a class="menuitem" id="m572857" href="taiping-guangji/116/ens" >报应十五</a><br />
+　　<a class="menuitem" id="m572910" href="taiping-guangji/117/ens" >报应十六阴德</a><br />
+　　<a class="menuitem" id="m572931" href="taiping-guangji/118/ens" >报应十七异类</a><br />
+　　<a class="menuitem" id="m572964" href="taiping-guangji/119/ens" >报应十八冤报</a><br />
+　　<a class="menuitem" id="m573011" href="taiping-guangji/120/ens" >报应十九冤报</a><br />
+　　<a class="menuitem" id="m573050" href="taiping-guangji/121/ens" >报应二十</a><br />
+　　<a class="menuitem" id="m573089" href="taiping-guangji/122/ens" >报应二十一冤报</a><br />
+　　<a class="menuitem" id="m573108" href="taiping-guangji/123/ens" >报应二十二冤报</a><br />
+　　<a class="menuitem" id="m573123" href="taiping-guangji/124/ens" >报应二十三冤报</a><br />
+　　<a class="menuitem" id="m573162" href="taiping-guangji/125/ens" >报应二十四冤报</a><br />
+　　<a class="menuitem" id="m573173" href="taiping-guangji/126/ens" >报应二十五</a><br />
+　　<a class="menuitem" id="m573210" href="taiping-guangji/127/ens" >报应二十六</a><br />
+　　<a class="menuitem" id="m573235" href="taiping-guangji/128/ens" >报应二十七</a><br />
+　　<a class="menuitem" id="m573248" href="taiping-guangji/129/ens" >报应二十八</a><br />
+　　<a class="menuitem" id="m573277" href="taiping-guangji/130/ens" >报应二十九</a><br />
+　　<a class="menuitem" id="m573292" href="taiping-guangji/131/ens" >报应三十杀生</a><br />
+　　<a class="menuitem" id="m573345" href="taiping-guangji/132/ens" >报应三十一杀生</a><br />
+　　<a class="menuitem" id="m573378" href="taiping-guangji/133/ens" >报应三十二杀生</a><br />
+　　<a class="menuitem" id="m573423" href="taiping-guangji/134/ens" >报应三十三宿业畜生</a><br />
+　　<a class="menuitem" id="m573458" href="taiping-guangji/135/ens" >徵应一帝王休徵</a><br />
+　　<a class="menuitem" id="m573523" href="taiping-guangji/136/ens" >徵应二帝王休徵</a><br />
+　　<a class="menuitem" id="m573558" href="taiping-guangji/137/ens" >徵应三人臣休徵</a><br />
+　　<a class="menuitem" id="m573605" href="taiping-guangji/138/ens" >徵应四人臣休徵</a><br />
+　　<a class="menuitem" id="m573642" href="taiping-guangji/139/ens" >徵应五邦国咎徵</a><br />
+　　<a class="menuitem" id="m573695" href="taiping-guangji/140/ens" >徵应六</a><br />
+　　<a class="menuitem" id="m573716" href="taiping-guangji/141/ens" >徵应七人臣咎徵</a><br />
+　　<a class="menuitem" id="m573749" href="taiping-guangji/142/ens" >徵应八人臣咎徵</a><br />
+　　<a class="menuitem" id="m573781" href="taiping-guangji/143/ens" >徵应九人臣咎徵</a><br />
+　　<a class="menuitem" id="m573838" href="taiping-guangji/144/ens" >徵应十人臣咎徵</a><br />
+　　<a class="menuitem" id="m573875" href="taiping-guangji/145/ens" >徵应十一人臣咎徵</a><br />
+　　<a class="menuitem" id="m573904" href="taiping-guangji/146/ens" >定数一</a><br />
+　　<a class="menuitem" id="m573945" href="taiping-guangji/147/ens" >定数二</a><br />
+　　<a class="menuitem" id="m573978" href="taiping-guangji/148/ens" >定数三</a><br />
+　　<a class="menuitem" id="m573997" href="taiping-guangji/149/ens" >定数四</a><br />
+　　<a class="menuitem" id="m574018" href="taiping-guangji/150/ens" >定数五</a><br />
+　　<a class="menuitem" id="m574037" href="taiping-guangji/151/ens" >定数六</a><br />
+　　<a class="menuitem" id="m574054" href="taiping-guangji/152/ens" >定数七</a><br />
+　　<a class="menuitem" id="m574067" href="taiping-guangji/153/ens" >定数八</a><br />
+　　<a class="menuitem" id="m574086" href="taiping-guangji/154/ens" >定数九</a><br />
+　　<a class="menuitem" id="m574109" href="taiping-guangji/155/ens" >定数十</a><br />
+　　<a class="menuitem" id="m574132" href="taiping-guangji/156/ens" >定数十一</a><br />
+　　<a class="menuitem" id="m574158" href="taiping-guangji/157/ens" >定数十二</a><br />
+　　<a class="menuitem" id="m574172" href="taiping-guangji/158/ens" >定数十三</a><br />
+　　<a class="menuitem" id="m574201" href="taiping-guangji/159/ens" >定数十四婚姻</a><br />
+　　<a class="menuitem" id="m574216" href="taiping-guangji/160/ens" >定数十五婚姻</a><br />
+　　<a class="menuitem" id="m574227" href="taiping-guangji/161/ens" >感应一</a><br />
+　　<a class="menuitem" id="m574292" href="taiping-guangji/162/ens" >感应二</a><br />
+　　<a class="menuitem" id="m574337" href="taiping-guangji/163/ens" >谶应</a><br />
+　　<a class="menuitem" id="m574416" href="taiping-guangji/164/ens" >名贤</a><br />
+　　<a class="menuitem" id="m574483" href="taiping-guangji/165/ens" >廉俭</a><br />
+　　<a class="menuitem" id="m574554" href="taiping-guangji/166/ens" >气义一</a><br />
+　　<a class="menuitem" id="m574567" href="taiping-guangji/167/ens" >气义二</a><br />
+　　<a class="menuitem" id="m574586" href="taiping-guangji/168/ens" >气义三</a><br />
+　　<a class="menuitem" id="m574607" href="taiping-guangji/169/ens" >知人一</a><br />
+　　<a class="menuitem" id="m574669" href="taiping-guangji/170/ens" >知人二</a><br />
+　　<a class="menuitem" id="m574718" href="taiping-guangji/171/ens" >精察一</a><br />
+　　<a class="menuitem" id="m574755" href="taiping-guangji/172/ens" >精察二</a><br />
+　　<a class="menuitem" id="m574782" href="taiping-guangji/173/ens" >俊辩一</a><br />
+　　<a class="menuitem" id="m574834" href="taiping-guangji/174/ens" >俊辩二</a><br />
+　　<a class="menuitem" id="m574888" href="taiping-guangji/175/ens" >幼敏</a><br />
+　　<a class="menuitem" id="m574909" href="taiping-guangji/176/ens" >幼敏</a><br />
+　　<a class="menuitem" id="m574942" href="taiping-guangji/177/ens" >器量一</a><br />
+　　<a class="menuitem" id="m574963" href="taiping-guangji/178/ens" >器量二</a><br />
+　　<a class="menuitem" id="m574991" href="taiping-guangji/179/ens" >贡举一</a><br />
+　　<a class="menuitem" id="m575024" href="taiping-guangji/180/ens" >贡举二</a><br />
+　　<a class="menuitem" id="m575050" href="taiping-guangji/181/ens" >贡举三</a><br />
+　　<a class="menuitem" id="m575090" href="taiping-guangji/182/ens" >贡举四</a><br />
+　　<a class="menuitem" id="m575131" href="taiping-guangji/183/ens" >贡举五</a><br />
+　　<a class="menuitem" id="m575172" href="taiping-guangji/184/ens" >贡举六</a><br />
+　　<a class="menuitem" id="m575226" href="taiping-guangji/185/ens" >贡举七</a><br />
+　　<a class="menuitem" id="m575278" href="taiping-guangji/186/ens" >铨选一</a><br />
+　　<a class="menuitem" id="m575325" href="taiping-guangji/187/ens" >铨选二</a><br />
+　　<a class="menuitem" id="m575368" href="taiping-guangji/188/ens" >职官</a><br />
+　　<a class="menuitem" id="m575428" href="taiping-guangji/189/ens" >权幸</a><br />
+　　<a class="menuitem" id="m575454" href="taiping-guangji/190/ens" >将帅一</a><br />
+　　<a class="menuitem" id="m575477" href="taiping-guangji/191/ens" >将帅二</a><br />
+　　<a class="menuitem" id="m575502" href="taiping-guangji/192/ens" >骁勇一</a><br />
+　　<a class="menuitem" id="m575551" href="taiping-guangji/193/ens" >骁勇二</a><br />
+　　<a class="menuitem" id="m575580" href="taiping-guangji/194/ens" >豪侠一</a><br />
+　　<a class="menuitem" id="m575591" href="taiping-guangji/195/ens" >豪侠二</a><br />
+　　<a class="menuitem" id="m575602" href="taiping-guangji/196/ens" >豪侠三</a><br />
+　　<a class="menuitem" id="m575617" href="taiping-guangji/197/ens" >豪侠四</a><br />
+　　<a class="menuitem" id="m575675" href="taiping-guangji/198/ens" >文章一</a><br />
+　　<a class="menuitem" id="m575723" href="taiping-guangji/199/ens" >文章二</a><br />
+　　<a class="menuitem" id="m575752" href="taiping-guangji/200/ens" >文章三</a><br />
+　　<a class="menuitem" id="m575784" href="taiping-guangji/201/ens" >才名</a><br />
+　　<a class="menuitem" id="m575824" href="taiping-guangji/202/ens" >儒行</a><br />
+　　<a class="menuitem" id="m575881" href="taiping-guangji/203/ens" >乐一</a><br />
+　　<a class="menuitem" id="m575956" href="taiping-guangji/204/ens" >乐二</a><br />
+　　<a class="menuitem" id="m576015" href="taiping-guangji/205/ens" >乐三</a><br />
+　　<a class="menuitem" id="m576064" href="taiping-guangji/206/ens" >五弦</a><br />
+　　<a class="menuitem" id="m576070" href="taiping-guangji/207/ens" >书一</a><br />
+　　<a class="menuitem" id="m576127" href="taiping-guangji/208/ens" >书二</a><br />
+　　<a class="menuitem" id="m576172" href="taiping-guangji/209/ens" >书三</a><br />
+　　<a class="menuitem" id="m576211" href="taiping-guangji/210/ens" >书四</a><br />
+　　<a class="menuitem" id="m576244" href="taiping-guangji/211/ens" >画一</a><br />
+　　<a class="menuitem" id="m576283" href="taiping-guangji/212/ens" >画二</a><br />
+　　<a class="menuitem" id="m576323" href="taiping-guangji/213/ens" >画三</a><br />
+　　<a class="menuitem" id="m576352" href="taiping-guangji/214/ens" >画四</a><br />
+　　<a class="menuitem" id="m576389" href="taiping-guangji/215/ens" >画五</a><br />
+　　<a class="menuitem" id="m576407" href="taiping-guangji/216/ens" >算术</a><br />
+　　<a class="menuitem" id="m576430" href="taiping-guangji/217/ens" >卜筮一</a><br />
+　　<a class="menuitem" id="m576462" href="taiping-guangji/218/ens" >卜筮二</a><br />
+　　<a class="menuitem" id="m576480" href="taiping-guangji/219/ens" >医一</a><br />
+　　<a class="menuitem" id="m576526" href="taiping-guangji/220/ens" >医二</a><br />
+　　<a class="menuitem" id="m576553" href="taiping-guangji/221/ens" >医三</a><br />
+　　<a class="menuitem" id="m576608" href="taiping-guangji/222/ens" >相一</a><br />
+　　<a class="menuitem" id="m576621" href="taiping-guangji/223/ens" >相二</a><br />
+　　<a class="menuitem" id="m576652" href="taiping-guangji/224/ens" >相三</a><br />
+　　<a class="menuitem" id="m576681" href="taiping-guangji/225/ens" >相四</a><br />
+　　<a class="menuitem" id="m576720" href="taiping-guangji/226/ens" >伎巧一</a><br />
+　　<a class="menuitem" id="m576757" href="taiping-guangji/227/ens" >伎巧二</a><br />
+　　<a class="menuitem" id="m576780" href="taiping-guangji/228/ens" >伎巧三</a><br />
+　　<a class="menuitem" id="m576808" href="taiping-guangji/229/ens" >博戏</a><br />
+　　<a class="menuitem" id="m576840" href="taiping-guangji/230/ens" >器玩一</a><br />
+　　<a class="menuitem" id="m576872" href="taiping-guangji/231/ens" >器玩二</a><br />
+　　<a class="menuitem" id="m576877" href="taiping-guangji/232/ens" >器玩三</a><br />
+　　<a class="menuitem" id="m576905" href="taiping-guangji/233/ens" >器玩四</a><br />
+　　<a class="menuitem" id="m576936" href="taiping-guangji/234/ens" >酒</a><br />
+　　<a class="menuitem" id="m576983" href="taiping-guangji/235/ens" >食</a><br />
+　　<a class="menuitem" id="m577023" href="taiping-guangji/236/ens" >交友</a><br />
+　　<a class="menuitem" id="m577068" href="taiping-guangji/237/ens" >奢侈一</a><br />
+　　<a class="menuitem" id="m577126" href="taiping-guangji/238/ens" >奢侈二</a><br />
+　　<a class="menuitem" id="m577149" href="taiping-guangji/239/ens" >诡诈</a><br />
+　　<a class="menuitem" id="m577192" href="taiping-guangji/240/ens" >谄佞一</a><br />
+　　<a class="menuitem" id="m577221" href="taiping-guangji/241/ens" >谄佞二</a><br />
+　　<a class="menuitem" id="m577264" href="taiping-guangji/242/ens" >谄佞三</a><br />
+　　<a class="menuitem" id="m577267" href="taiping-guangji/243/ens" >谬误</a><br />
+　　<a class="menuitem" id="m577308" href="taiping-guangji/244/ens" >治生</a><br />
+　　<a class="menuitem" id="m577358" href="taiping-guangji/245/ens" >褊急</a><br />
+　　<a class="menuitem" id="m577391" href="taiping-guangji/246/ens" >诙谐一</a><br />
+　　<a class="menuitem" id="m577426" href="taiping-guangji/247/ens" >诙谐二</a><br />
+　　<a class="menuitem" id="m577479" href="taiping-guangji/248/ens" >诙谐三</a><br />
+　　<a class="menuitem" id="m577512" href="taiping-guangji/249/ens" >诙谐四</a><br />
+　　<a class="menuitem" id="m577537" href="taiping-guangji/250/ens" >诙谐五</a><br />
+　　<a class="menuitem" id="m577578" href="taiping-guangji/251/ens" >诙谐六</a><br />
+　　<a class="menuitem" id="m577635" href="taiping-guangji/252/ens" >诙谐七</a><br />
+　　<a class="menuitem" id="m577680" href="taiping-guangji/253/ens" >诙谐八</a><br />
+　　<a class="menuitem" id="m577719" href="taiping-guangji/254/ens" >嘲诮一</a><br />
+　　<a class="menuitem" id="m577760" href="taiping-guangji/255/ens" >嘲诮二</a><br />
+　　<a class="menuitem" id="m577793" href="taiping-guangji/256/ens" >嘲诮三</a><br />
+　　<a class="menuitem" id="m577842" href="taiping-guangji/257/ens" >嘲诮四</a><br />
+　　<a class="menuitem" id="m577887" href="taiping-guangji/258/ens" >嘲诮五</a><br />
+　　<a class="menuitem" id="m577930" href="taiping-guangji/259/ens" >嗤鄙一</a><br />
+　　<a class="menuitem" id="m577979" href="taiping-guangji/260/ens" >嗤鄙二</a><br />
+　　<a class="menuitem" id="m578018" href="taiping-guangji/261/ens" >嗤鄙三</a><br />
+　　<a class="menuitem" id="m578063" href="taiping-guangji/262/ens" >嗤鄙四</a><br />
+　　<a class="menuitem" id="m578110" href="taiping-guangji/263/ens" >嗤鄙五</a><br />
+　　<a class="menuitem" id="m578155" href="taiping-guangji/264/ens" >无赖一</a><br />
+　　<a class="menuitem" id="m578188" href="taiping-guangji/265/ens" >无赖二</a><br />
+　　<a class="menuitem" id="m578219" href="taiping-guangji/266/ens" >轻薄一</a><br />
+　　<a class="menuitem" id="m578277" href="taiping-guangji/267/ens" >轻薄二</a><br />
+　　<a class="menuitem" id="m578306" href="taiping-guangji/268/ens" >酷暴一</a><br />
+　　<a class="menuitem" id="m578343" href="taiping-guangji/269/ens" >酷暴二</a><br />
+　　<a class="menuitem" id="m578368" href="taiping-guangji/270/ens" >酷暴三</a><br />
+　　<a class="menuitem" id="m578397" href="taiping-guangji/271/ens" >妇人一</a><br />
+　　<a class="menuitem" id="m578437" href="taiping-guangji/272/ens" >妇人三</a><br />
+　　<a class="menuitem" id="m578480" href="taiping-guangji/273/ens" >妇人四</a><br />
+　　<a class="menuitem" id="m578507" href="taiping-guangji/274/ens" >情感</a><br />
+　　<a class="menuitem" id="m578524" href="taiping-guangji/275/ens" >童仆</a><br />
+　　<a class="menuitem" id="m578552" href="taiping-guangji/276/ens" >梦一</a><br />
+　　<a class="menuitem" id="m578654" href="taiping-guangji/277/ens" >梦二</a><br />
+　　<a class="menuitem" id="m578717" href="taiping-guangji/278/ens" >梦三</a><br />
+　　<a class="menuitem" id="m578779" href="taiping-guangji/279/ens" >梦四</a><br />
+　　<a class="menuitem" id="m578840" href="taiping-guangji/280/ens" >梦五</a><br />
+　　<a class="menuitem" id="m578863" href="taiping-guangji/281/ens" >梦六</a><br />
+　　<a class="menuitem" id="m578888" href="taiping-guangji/282/ens" >梦七</a><br />
+　　<a class="menuitem" id="m578907" href="taiping-guangji/283/ens" >巫</a><br />
+　　<a class="menuitem" id="m578947" href="taiping-guangji/284/ens" >幻术一</a><br />
+　　<a class="menuitem" id="m578972" href="taiping-guangji/285/ens" >幻术二</a><br />
+　　<a class="menuitem" id="m579009" href="taiping-guangji/286/ens" >幻术三</a><br />
+　　<a class="menuitem" id="m579028" href="taiping-guangji/287/ens" >幻术四</a><br />
+　　<a class="menuitem" id="m579039" href="taiping-guangji/288/ens" >妖妄一</a><br />
+　　<a class="menuitem" id="m579076" href="taiping-guangji/289/ens" >妖妄二</a><br />
+　　<a class="menuitem" id="m579111" href="taiping-guangji/290/ens" >妖妄三</a><br />
+　　<a class="menuitem" id="m579120" href="taiping-guangji/291/ens" >神一</a><br />
+　　<a class="menuitem" id="m579165" href="taiping-guangji/292/ens" >神二</a><br />
+　　<a class="menuitem" id="m579198" href="taiping-guangji/293/ens" >神三</a><br />
+　　<a class="menuitem" id="m579225" href="taiping-guangji/294/ens" >神四</a><br />
+　　<a class="menuitem" id="m579272" href="taiping-guangji/295/ens" >神五</a><br />
+　　<a class="menuitem" id="m579311" href="taiping-guangji/296/ens" >神六</a><br />
+　　<a class="menuitem" id="m579338" href="taiping-guangji/297/ens" >神七</a><br />
+　　<a class="menuitem" id="m579349" href="taiping-guangji/298/ens" >神八</a><br />
+　　<a class="menuitem" id="m579362" href="taiping-guangji/299/ens" >神九</a><br />
+　　<a class="menuitem" id="m579365" href="taiping-guangji/300/ens" >神十</a><br />
+　　<a class="menuitem" id="m579382" href="taiping-guangji/301/ens" >神十一</a><br />
+　　<a class="menuitem" id="m579395" href="taiping-guangji/302/ens" >神十二</a><br />
+　　<a class="menuitem" id="m579406" href="taiping-guangji/303/ens" >神十三</a><br />
+　　<a class="menuitem" id="m579425" href="taiping-guangji/304/ens" >神十四</a><br />
+　　<a class="menuitem" id="m579444" href="taiping-guangji/305/ens" >神十五</a><br />
+　　<a class="menuitem" id="m579463" href="taiping-guangji/306/ens" >神十六</a><br />
+　　<a class="menuitem" id="m579472" href="taiping-guangji/307/ens" >神十七</a><br />
+　　<a class="menuitem" id="m579499" href="taiping-guangji/308/ens" >神十八</a><br />
+　　<a class="menuitem" id="m579515" href="taiping-guangji/309/ens" >神十九</a><br />
+　　<a class="menuitem" id="m579520" href="taiping-guangji/310/ens" >神二十</a><br />
+　　<a class="menuitem" id="m579537" href="taiping-guangji/311/ens" >神二十一</a><br />
+　　<a class="menuitem" id="m579552" href="taiping-guangji/312/ens" >神二十二</a><br />
+　　<a class="menuitem" id="m579581" href="taiping-guangji/313/ens" >神二十三</a><br />
+　　<a class="menuitem" id="m579614" href="taiping-guangji/314/ens" >神二十四</a><br />
+　　<a class="menuitem" id="m579653" href="taiping-guangji/315/ens" >神二十五</a><br />
+　　<a class="menuitem" id="m579683" href="taiping-guangji/316/ens" >鬼一</a><br />
+　　<a class="menuitem" id="m579708" href="taiping-guangji/317/ens" >鬼二</a><br />
+　　<a class="menuitem" id="m579745" href="taiping-guangji/318/ens" >鬼三</a><br />
+　　<a class="menuitem" id="m579790" href="taiping-guangji/319/ens" >鬼四</a><br />
+　　<a class="menuitem" id="m579821" href="taiping-guangji/320/ens" >鬼五</a><br />
+　　<a class="menuitem" id="m579858" href="taiping-guangji/321/ens" >鬼六</a><br />
+　　<a class="menuitem" id="m579889" href="taiping-guangji/322/ens" >鬼七</a><br />
+　　<a class="menuitem" id="m579934" href="taiping-guangji/323/ens" >鬼八</a><br />
+　　<a class="menuitem" id="m579973" href="taiping-guangji/324/ens" >鬼九</a><br />
+　　<a class="menuitem" id="m580006" href="taiping-guangji/325/ens" >鬼十</a><br />
+　　<a class="menuitem" id="m580039" href="taiping-guangji/326/ens" >鬼十一</a><br />
+　　<a class="menuitem" id="m580056" href="taiping-guangji/327/ens" >鬼十二</a><br />
+　　<a class="menuitem" id="m580087" href="taiping-guangji/328/ens" >鬼十三</a><br />
+　　<a class="menuitem" id="m580116" href="taiping-guangji/329/ens" >鬼十四</a><br />
+　　<a class="menuitem" id="m580139" href="taiping-guangji/330/ens" >鬼十五</a><br />
+　　<a class="menuitem" id="m580170" href="taiping-guangji/331/ens" >鬼十六</a><br />
+　　<a class="menuitem" id="m580193" href="taiping-guangji/332/ens" >鬼十七</a><br />
+　　<a class="menuitem" id="m580210" href="taiping-guangji/333/ens" >鬼十八</a><br />
+　　<a class="menuitem" id="m580237" href="taiping-guangji/334/ens" >鬼十九</a><br />
+　　<a class="menuitem" id="m580259" href="taiping-guangji/335/ens" >鬼二十</a><br />
+　　<a class="menuitem" id="m580280" href="taiping-guangji/336/ens" >鬼二十一</a><br />
+　　<a class="menuitem" id="m580295" href="taiping-guangji/337/ens" >鬼二十二</a><br />
+　　<a class="menuitem" id="m580316" href="taiping-guangji/338/ens" >鬼二十三</a><br />
+　　<a class="menuitem" id="m580338" href="taiping-guangji/339/ens" >鬼二十四</a><br />
+　　<a class="menuitem" id="m580355" href="taiping-guangji/340/ens" >鬼二十五</a><br />
+　　<a class="menuitem" id="m580362" href="taiping-guangji/341/ens" >鬼二十六</a><br />
+　　<a class="menuitem" id="m580377" href="taiping-guangji/342/ens" >鬼二十七</a><br />
+　　<a class="menuitem" id="m580387" href="taiping-guangji/343/ens" >鬼二十八</a><br />
+　　<a class="menuitem" id="m580398" href="taiping-guangji/344/ens" >鬼二十九</a><br />
+　　<a class="menuitem" id="m580415" href="taiping-guangji/345/ens" >鬼三十</a><br />
+　　<a class="menuitem" id="m580434" href="taiping-guangji/346/ens" >鬼三十一</a><br />
+　　<a class="menuitem" id="m580459" href="taiping-guangji/347/ens" >鬼三十二</a><br />
+　　<a class="menuitem" id="m580474" href="taiping-guangji/348/ens" >鬼三十三</a><br />
+　　<a class="menuitem" id="m580490" href="taiping-guangji/349/ens" >鬼三十四</a><br />
+　　<a class="menuitem" id="m580505" href="taiping-guangji/350/ens" >鬼三十五</a><br />
+　　<a class="menuitem" id="m580519" href="taiping-guangji/351/ens" >鬼三十六</a><br />
+　　<a class="menuitem" id="m580540" href="taiping-guangji/352/ens" >鬼三十七</a><br />
+　　<a class="menuitem" id="m580565" href="taiping-guangji/353/ens" >鬼三十八</a><br />
+　　<a class="menuitem" id="m580602" href="taiping-guangji/354/ens" >鬼三十九</a><br />
+　　<a class="menuitem" id="m580637" href="taiping-guangji/355/ens" >鬼四十</a><br />
+　　<a class="menuitem" id="m580666" href="taiping-guangji/356/ens" >夜叉一</a><br />
+　　<a class="menuitem" id="m580683" href="taiping-guangji/357/ens" >夜叉二</a><br />
+　　<a class="menuitem" id="m580696" href="taiping-guangji/358/ens" >神魂一</a><br />
+　　<a class="menuitem" id="m580723" href="taiping-guangji/359/ens" >妖怪一</a><br />
+　　<a class="menuitem" id="m580776" href="taiping-guangji/360/ens" >妖怪二</a><br />
+　　<a class="menuitem" id="m580847" href="taiping-guangji/361/ens" >妖怪三</a><br />
+　　<a class="menuitem" id="m580892" href="taiping-guangji/362/ens" >妖怪四</a><br />
+　　<a class="menuitem" id="m580939" href="taiping-guangji/363/ens" >妖怪五</a><br />
+　　<a class="menuitem" id="m580958" href="taiping-guangji/364/ens" >妖怪六</a><br />
+　　<a class="menuitem" id="m580979" href="taiping-guangji/365/ens" >妖怪七</a><br />
+　　<a class="menuitem" id="m581002" href="taiping-guangji/366/ens" >妖怪八</a><br />
+　　<a class="menuitem" id="m581045" href="taiping-guangji/367/ens" >妖怪九</a><br />
+　　<a class="menuitem" id="m581111" href="taiping-guangji/368/ens" >精怪一</a><br />
+　　<a class="menuitem" id="m581142" href="taiping-guangji/369/ens" >精怪二</a><br />
+　　<a class="menuitem" id="m581161" href="taiping-guangji/370/ens" >精怪三</a><br />
+　　<a class="menuitem" id="m581180" href="taiping-guangji/371/ens" >精怪四</a><br />
+　　<a class="menuitem" id="m581197" href="taiping-guangji/372/ens" >精怪五</a><br />
+　　<a class="menuitem" id="m581213" href="taiping-guangji/373/ens" >精怪六</a><br />
+　　<a class="menuitem" id="m581232" href="taiping-guangji/374/ens" >灵异</a><br />
+　　<a class="menuitem" id="m581291" href="taiping-guangji/375/ens" >再生一</a><br />
+　　<a class="menuitem" id="m581332" href="taiping-guangji/376/ens" >再生二</a><br />
+　　<a class="menuitem" id="m581355" href="taiping-guangji/377/ens" >再生三</a><br />
+　　<a class="menuitem" id="m581370" href="taiping-guangji/378/ens" >再生四</a><br />
+　　<a class="menuitem" id="m581389" href="taiping-guangji/379/ens" >再生五<
