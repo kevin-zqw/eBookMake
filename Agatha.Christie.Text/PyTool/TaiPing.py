@@ -17,34 +17,60 @@ new_line = '\n'
 triple_new_line = '\n\n\n'
 
 
+def append_header(all_text, header):
+    all_text.append(h1_tag + header)
+    all_text.append(new_line)
+
+
+def append_section_header(all_text, header):
+    h2 = h2_tag + '《' + header + '》'
+    if h2 not in all_text:
+        all_text.append(h2)
+
+
 def process_sub_dir(dir_path):
     all_text = []
 
     zh_file = os.path.join(dir_path, 'zh')
-    print(zh_file)
+    if not os.path.exists(zh_file):
+        print('zh file not found!!!')
+        return
 
     with open(zh_file, 'r', encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
 
+        header = soup.find('h2').text.strip()
+        append_header(all_text, header)
+
         for tag in soup.find_all('a', class_='nourl'):
             href = tag['href']
-            href = re.sub(r'taiping-guangji/\d+/', '', href)
-            href = re.sub(r'/zh', '', href)
-            all_text.append(tag.text + ' ' + href)
+            sec_name = re.sub(r'taiping-guangji/\d+/', '', href)
+            sec_name = re.sub(r'/zh', '', sec_name)
+
+            sec_path = os.path.join(dir_path, sec_name)
+            textArray = process_html(sec_path, False)
+            all_text.extend(textArray)
+
+    save_file(all_text)
 
 
-def process_single_html(html_path):
+def process_html(html_path, need_header):
+    if not os.path.exists(html_path):
+        print(html_path, 'not found!!!')
+        return []
+
+    print(html_path)
+
     all_text = []
     with open(html_path, 'r', encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
 
-        header = soup.find('h2').text.strip()
-        all_text.append(h1_tag + header)
-        all_text.append(new_line)
+        if need_header:
+            header = soup.find('h2').text.strip()
+            append_header(all_text, header)
 
         is_start = True
         left = ''
-        right = ''
         for tag in soup.find_all('td', class_='ctext'):
             for span in tag.findChildren('span', class_='inlinecomment1'):
                 span.replace_with(comment_start + span.text + comment_end)
@@ -53,17 +79,12 @@ def process_single_html(html_path):
                 left = tag.text.strip().replace(':', '')
                 left = left.replace('：', '')
             else:
-                right = tag.text.strip()
-
-                h2 = h2_tag + '《' + left + '》'
-                if h2 not in all_text:
-                    all_text.append(h2)
-
-                all_text.append(right)
+                append_section_header(all_text, left)
+                all_text.append(tag.text.strip())
                 all_text.append(new_line)
 
             is_start = not is_start
-    save_file(all_text)
+    return all_text
 
 
 def save_file(all_text):
@@ -81,9 +102,9 @@ if __name__ == '__main__':
             continue
 
         file_path = os.path.join(base_dir, filename)
-        print(file_path)
 
         if os.path.isfile(file_path):
-            process_single_html(file_path)
+            textArray = process_html(file_path, True)
+            save_file(textArray)
         else:
             process_sub_dir(file_path)
