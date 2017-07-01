@@ -6,13 +6,24 @@ import os
 import re
 
 
-dest_dir = r'/Users/kevin/Desktop/TaiPingGuangJi'
+base_dir = r'/Users/kevin/GitHub/eBookMake/taipinguangji/ctext.org/taiping-guangji'
+output_file = r'/Users/kevin/Desktop/TaiPingGuangJi.txt'
+
+h1_tag = r'#####'
+h2_tag = r'&&&&&'
+comment_start = r'【【'
+comment_end = r'】】'
+new_line = '\n'
+triple_new_line = '\n\n\n'
 
 
-def process_tof(path, name):
+def process_sub_dir(dir_path):
     all_text = []
 
-    with open(os.path.join(path, name), 'r', encoding="utf-8") as file:
+    zh_file = os.path.join(dir_path, 'zh')
+    print(zh_file)
+
+    with open(zh_file, 'r', encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
 
         for tag in soup.find_all('a', class_='nourl'):
@@ -21,66 +32,58 @@ def process_tof(path, name):
             href = re.sub(r'/zh', '', href)
             all_text.append(tag.text + ' ' + href)
 
-    save_file(all_text, path, name)
 
-
-def process_html(path, name):
+def process_single_html(html_path):
     all_text = []
-
-    with open(os.path.join(path, name), 'r', encoding="utf-8") as file:
+    with open(html_path, 'r', encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
 
-        for tag in soup.find_all('h2'):
-            all_text.append(tag.text.strip())
+        header = soup.find('h2').text.strip()
+        all_text.append(h1_tag + header)
+        all_text.append(new_line)
 
         is_start = True
-        line = ''
+        left = ''
+        right = ''
         for tag in soup.find_all('td', class_='ctext'):
             for span in tag.findChildren('span', class_='inlinecomment1'):
-                span.replace_with('【【' + span.text + '】】')
+                span.replace_with(comment_start + span.text + comment_end)
 
             if is_start:
-                line = tag.text.strip()
+                left = tag.text.strip().replace(':', '')
+                left = left.replace('：', '')
             else:
-                line += tag.text.strip()
-                all_text.append(line)
+                right = tag.text.strip()
+
+                h2 = h2_tag + '《' + left + '》'
+                if h2 not in all_text:
+                    all_text.append(h2)
+
+                all_text.append(right)
+                all_text.append(new_line)
 
             is_start = not is_start
+    save_file(all_text)
 
-    save_file(all_text, path, name)
 
-
-def save_file(all_text, path, name):
-    if not os.path.exists(dest_dir):
-        os.mkdir(dest_dir)
-
-    dir_name = os.path.basename(path)
-
-    file_path = ''
-    if dir_name == 'taiping-guangji':
-        filename = name.zfill(3) + '.txt'
-        file_path = os.path.join(dest_dir, filename)
-    else:
-        dir_path = os.path.join(dest_dir, dir_name.zfill(3))
-        if not os.path.exists(dir_path):
-            os.mkdir(dir_path)
-        filename = name + '.txt'
-        file_path = os.path.join(dir_path, filename)
-
-    with open(file_path, 'w', encoding="utf-8") as file:
-        file.write('\n'.join(all_text))
+def save_file(all_text):
+    with open(output_file, 'a', encoding="utf-8") as file:
+        file.write(new_line.join(all_text))
+        file.write(triple_new_line)
 
 
 if __name__ == '__main__':
-    base_dir = r'/Users/kevin/GitHub/eBookMake/taipinguangji/ctext.org/taiping-guangji'
-    
-    for path, subdirs, files in os.walk(base_dir):
-        for name in files:
-            if name == '.DS_Store':
-                continue
+    if os.path.exists(output_file):
+        os.remove(output_file)
 
-            print(path, name)
-            if name == 'zh':
-                process_tof(path, name)
-            else:
-                process_html(path, name)
+    for filename in os.listdir(base_dir):
+        if filename == '.DS_Store':
+            continue
+
+        file_path = os.path.join(base_dir, filename)
+        print(file_path)
+
+        if os.path.isfile(file_path):
+            process_single_html(file_path)
+        else:
+            process_sub_dir(file_path)
