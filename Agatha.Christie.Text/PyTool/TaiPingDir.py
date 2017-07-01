@@ -16,4 +16,3 @@ if __name__ == '__main__':
             dest_path = os.path.join(base_dir, new_name)
 
             os.rename(src_path, dest_path)
-        
