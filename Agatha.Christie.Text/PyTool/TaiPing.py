@@ -36,6 +36,9 @@ def process_html(path, name):
         is_start = True
         line = ''
         for tag in soup.find_all('td', class_='ctext'):
+            for span in tag.findChildren('span', class_='inlinecomment1'):
+                span.replace_with('【【' + span.text + '】】')
+
             if is_start:
                 line = tag.text.strip()
             else:
@@ -58,10 +61,10 @@ def save_file(all_text, path, name):
         filename = name.zfill(3) + '.txt'
         file_path = os.path.join(dest_dir, filename)
     else:
-        dir_path = os.path.join(dest_dir, dir_name)
+        dir_path = os.path.join(dest_dir, dir_name.zfill(3))
         if not os.path.exists(dir_path):
             os.mkdir(dir_path)
-        filename = 's' + dir_name.zfill(3) + '_' + name + '.txt'
+        filename = name + '.txt'
         file_path = os.path.join(dir_path, filename)
 
     with open(file_path, 'w', encoding="utf-8") as file:
@@ -70,7 +73,7 @@ def save_file(all_text, path, name):
 
 if __name__ == '__main__':
     base_dir = r'/Users/kevin/GitHub/eBookMake/taipinguangji/ctext.org/taiping-guangji'
-
+    
     for path, subdirs, files in os.walk(base_dir):
         for name in files:
             if name == '.DS_Store':
@@ -81,4 +84,3 @@ if __name__ == '__main__':
                 process_tof(path, name)
             else:
                 process_html(path, name)
-
