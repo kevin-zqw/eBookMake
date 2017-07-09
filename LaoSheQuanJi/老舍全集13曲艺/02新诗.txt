@@ -1,7 +1,7 @@
 h2剑北篇
 <p class="type">·长诗集·</p>
 
-<p class="title2">序</p>
+<p class="chapter">序</p>
 
 <p class="pretxt">《剑北篇》的设计与写法，略见于致友人函中，附录于后，即不另赘。</p>
 
@@ -15,7 +15,7 @@ h2剑北篇
 
 
 
-intitle小引
+<p class="intitle">小引</p>
 <blockquote>
 <p>在中华复兴的大路上，</p>
 <p>我四过西安，三宿平凉，</p>
@@ -127,7 +127,7 @@ intitle小引
 </blockquote>
 
 
-intitle蓉城——剑阁
+<p class="intitle">蓉城——剑阁</p>
 <blockquote>
 <p>辞别了抗战心房的重庆，</p>
 <p>走入青山绿水间的初夏初晴；</p>
@@ -258,7 +258,7 @@ intitle蓉城——剑阁
 </blockquote>
 
 
-intitle剑门——广元
+<p class="intitle">剑门——广元</p>
 <blockquote>
 <p>冲破长江的巨浪滚滚，</p>
 <p>会见过四川天然的水门；</p>
@@ -380,7 +380,7 @@ intitle剑门——广元
 </blockquote>
 
 
-intitle汉中——留侯祠
+<p class="intitle">汉中——留侯祠</p>
 <blockquote>
 <p>在万山里出了四川，</p>
 <p>在万山里入了西秦第一关；</p>
@@ -571,7 +571,7 @@ intitle汉中——留侯祠
 </blockquote>
 
 
-intitle“七七”在留侯祠
+<p class="intitle">“七七”在留侯祠</p>
 <blockquote>
 <p>借着留侯【1：留侯，汉朝开国功臣张良。】——那永远年轻的志士，英才——的殿宇，香烟霭霭，</p>
 <p>法乐凄哀，</p>
@@ -683,7 +683,7 @@ intitle“七七”在留侯祠
 </blockquote>
 
 
-intitle双石铺——宝鸡
+<p class="intitle">双石铺——宝鸡</p>
 <blockquote>
 <p>为了地土，</p>
 <p>为了粮谷，</p>
@@ -836,7 +836,7 @@ intitle双石铺——宝鸡
 </blockquote>
 
 
-intitle宝鸡车站
+<p class="intitle">宝鸡车站</p>
 <blockquote>
 <p>平津，青岛，和大明湖上的济南，</p>
 <p>四大都市，与它们的山水林泉，</p>
@@ -958,7 +958,7 @@ intitle宝鸡车站
 </blockquote>
 
 
-intitle西安
+<p class="intitle">西安</p>
 <blockquote>
 <p>西安，西安！</p>
 <p>黄的土，蓝的天。</p>
@@ -1092,7 +1092,7 @@ intitle西安
 </blockquote>
 
 
-intitle潼关
+<p class="intitle">潼关</p>
 <blockquote>
 <p>当终南云雾往来如梦，</p>
 <p>当华清泉水温慰着夜的临潼，</p>
@@ -1278,7 +1278,7 @@ intitle潼关
 </blockquote>
 
 
-intitle豫西
+<p class="intitle">豫西</p>
 <blockquote>
 <p>当理智的权威退让给武力，</p>
 <p>炮火是愚人的最好的游戏。</p>
@@ -1397,7 +1397,7 @@ intitle豫西
 </blockquote>
 
 
-intitle洛阳（上）
+<p class="intitle">洛阳（上）</p>
 <blockquote>
 <p>不晓得为什么是这样，</p>
 <p>在我心灵深处那有音乐的地方，</p>
@@ -1511,7 +1511,7 @@ intitle洛阳（上）
 </blockquote>
 
 
-intitle洛阳（中）
+<p class="intitle">洛阳（中）</p>
 <blockquote>
 <p>与我有缘的洛阳施了留客的计巧，</p>
 <p>教丰年的大雨冲断了洛阳桥！</p>
@@ -1666,7 +1666,7 @@ intitle洛阳（中）
 </blockquote>
 
 
-intitle洛阳（下）
+<p class="intitle">洛阳（下）</p>
 <blockquote>
 <p>多么惊心，啊，历史的兴废！</p>
 <p>看，洛水在南，邙山在北，</p>
@@ -1783,7 +1783,7 @@ intitle洛阳（下）
 </blockquote>
 
 
-intitle洛阳——叶县
+<p class="intitle">洛阳——叶县</p>
 <blockquote>
 <p>冒着空袭，我们渡河；</p>
 <p>在龙门，对着那无语的石佛，</p>
@@ -1911,7 +1911,7 @@ intitle洛阳——叶县
 </blockquote>
 
 
-intitle南阳
+<p class="intitle">南阳</p>
 <blockquote>
 <p>南阳城外，白水漱着黄沙，</p>
 <p>南阳城内，人静街狭；</p>
@@ -2026,7 +2026,7 @@ intitle南阳
 </blockquote>
 
 
-intitle老河口
+<p class="intitle">老河口</p>
 <blockquote>
 <p>城里是田，城外是田，</p>
 <p>一片儿玉米，一片儿蓝靛，</p>
@@ -2135,7 +2135,7 @@ intitle老河口
 </blockquote>
 
 
-intitle襄樊
+<p class="intitle">襄樊</p>
 <blockquote>
 <p>在这古邦，真的，连天时也会作战：</p>
 <p>绥远的黄风使倭奴胆寒，</p>
@@ -2264,7 +2264,7 @@ intitle襄樊
 </blockquote>
 
 
-intitle西峡口
+<p class="intitle">西峡口</p>
 <blockquote>
 <p>在沔县与南阳，都曾向武侯致敬，</p>
 <p>到了襄阳，却无缘去瞻拜隆中！</p>
@@ -2381,7 +2381,7 @@ intitle西峡口
 </blockquote>
 
 
-intitle龙驹寨——西安
+<p class="intitle">龙驹寨——西安</p>
 <blockquote>
 <p>离开内乡，</p>
 <p>步步紧张：</p>
@@ -2504,7 +2504,7 @@ intitle龙驹寨——西安
 </blockquote>
 
 
-intitle长安观剧
+<p class="intitle">长安观剧</p>
 <blockquote>
 <p>抗战，抗战，全民族的热血急潮！</p>
 <p>是地震，是山崩，是海啸，</p>
@@ -2623,7 +2623,7 @@ intitle长安观剧
 </blockquote>
 
 
-intitle临潼——终南山
+<p class="intitle">临潼——终南山</p>
 <blockquote>
 <p>感谢西北论衡社友人们的相邀，</p>
 <p>大家提着石榴，瓜枣，与蜜桃，</p>
@@ -2773,7 +2773,7 @@ intitle临潼——终南山
 </blockquote>
 
 
-intitle西安——中部
+<p class="intitle">西安——中部</p>
 <blockquote>
 <p>初秋的西北，也许胜过春里的江南！</p>
 <p>风轻露重，噢，金瓜赤枣的秋原！</p>
@@ -2906,7 +2906,7 @@ intitle西安——中部
 </blockquote>
 
 
-intitle中部——秋林
+<p class="intitle">中部——秋林</p>
 <blockquote>
 <p>祭罢了皇陵，</p>
 <p>向北进行；</p>
@@ -3089,7 +3089,7 @@ intitle中部——秋林
 </blockquote>
 
 
-intitle宜川——清涧
+<p class="intitle">宜川——清涧</p>
 <blockquote>
 <p>由秋林回转宜川，</p>
 <p>自然还要涉水爬山。</p>
@@ -3288,7 +3288,7 @@ intitle宜川——清涧
 </blockquote>
 
 
-intitle清涧——榆林
+<p class="intitle">清涧——榆林</p>
 <blockquote>
 <p>荒沙在北，荒丘在南。</p>
 <p>千里的荒凉，中有清涧。</p>
@@ -3451,7 +3451,7 @@ intitle清涧——榆林
 </blockquote>
 
 
-intitle榆林——西安
+<p class="intitle">榆林——西安</p>
 <blockquote>
 <p>我们打算，由榆林穿过伊盟，</p>
 <p>骑着骆驼，携着帐棚，</p>
@@ -3587,7 +3587,7 @@ intitle榆林——西安
 </blockquote>
 
 
-intitle华山
+<p class="intitle">华山</p>
 <blockquote>
 <p>像崂山孤峭的立在东海边，</p>
 <p>看见了华山便到了华山：</p>
@@ -3785,7 +3785,7 @@ intitle华山
 <p><b>附录</b></p>
 
 
-intitle致友人函
+<p class="intitle">致友人函</p>
 
 <p class="rm">xx兄</p>
 <p class="pretxt">我没有任何天才，但对文艺的各样形式都愿试一试。小说，试过了，没有什么好成绩。话剧，在抗战中才敢一试，全无是处。通俗的鼓词戏本，写过一点，感到十分难写——只得到“俗更难”的一点真经验与教训，别无可述。现在，我又搬起分量最重的东西来了——诗。作过旧诗，不怎么高明，可是觉得十分有趣，而且有格式管着，是并不很难凑起那么一首两首的。志在多多学习，现在我要作的是新诗。真难：没有格式管着，写着写着就失去自信——是诗吗，伙计？这是一。二，我要写得俗，而没地方去找那么多有诗意的俗字，于是一来二去就变成旧诗新写或中菜西吃了。一方面找不到有诗意的俗字，另一方面在描写风景事物的时候又不能把自幼儿种下的审美观念一扫而光，我不能强迫自己变成洋人，不但眼珠是绿的，而且把红花也看成绿花。没办法！三，新诗要韵不要，本不成问题；我自己这回可是要韵，（事实上是“辙”）而且仿照较为严整鼓词的办法，每行都用韵，以求读诵时响亮好听一些。这简直是跟自己过不去！韵不难押，贵在自然，也不是怎么越要自然，便越费力气！（这又是我自己的经验，不强迫别人相信。）</p>
@@ -4251,21 +4251,21 @@ h2成渝路上
 
 h2海外新声【4：本篇发表时署名“舍予”。】
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>不是炮弹的炸裂，</p>
 <p>不是锣鼓的乱碰，</p>
 <p>太平洋的潮声，</p>
 <p>惊醒了多少酣梦。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>我时时看见你们，</p>
 <p>虽然没有你们的像片。</p>
 <p>坚忍不拔的精神，</p>
 <p>含在新声的里面。</p>
 </blockquote>
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>你们挨饿受冻伴着荒岛，</p>
 <p>为什么不在这里听杜威、罗素？</p>
@@ -5245,7 +5245,7 @@ h2保我河山
 
 h2抗战民歌（二首）【10：本篇中第一首《大家忙歌》，已作为歌词，由火克谱曲。】
 
-intitle一、大家忙歌
+<p class="intitle">一、大家忙歌</p>
 
 <blockquote>
 <p><b>（一）</b></p>
@@ -5278,7 +5278,7 @@ intitle一、大家忙歌
 <p>做商的好心肠。</p>
 </blockquote>
 
-intitle二、出钱出力歌
+<p class="intitle">二、出钱出力歌</p>
 <blockquote>
 <p>有钱多出钱，</p>
 <p>国亡钱不存；</p>
@@ -5737,7 +5737,7 @@ h2壁报诗
 
 h2童谣二则
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>扯，扯，扯毂轳圆㖠，</p>
 <p>家家儿的男儿上前线㖠；</p>
@@ -5759,7 +5759,7 @@ intitle一
 <p class="pretxt">说明：北平，儿童携手成圈，随转随唱：“扯，扯，扯毂轳圆㖠，（平语，车轮为毂轳，像群儿携手作圈；圆读如怨，与线字成韵。）家家儿门上挂红线㖠；红线头（读如透），马家的姑娘二十六（读如溜），穿红袄，甩大袖，一甩甩到门后头（读如透），门后头（读如透），挂腰刀；腰刀枪，顶大天；天打雷，狗咬贼（读如胚，阳平，与雷字成韵），霹雳拍啦一大回。”唱至末句，即齐蹲下。</p>
 
 
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>小小子，</p>
 <p>坐门桩，</p>
@@ -6119,7 +6119,7 @@ h2蒙古青年进行曲
 
 h2新恋歌
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>中华壮士，</p>
 <p>我喜爱你的钢盔，</p>
@@ -6131,7 +6131,7 @@ intitle一
 <p>向胜利之路轻飞！</p>
 </blockquote>
 
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>中华壮士，</p>
 <p>我喜爱你的军装，</p>
@@ -6143,7 +6143,7 @@ intitle二
 <p>给你呀吻去尘霜！</p>
 </blockquote>
 
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>中华壮士，</p>
 <p>我喜爱你的歌声，</p>
@@ -6155,7 +6155,7 @@ intitle三
 <p>合唱出卫国深情！</p>
 </blockquote>
 
-intitle四
+<p class="intitle">四</p>
 <blockquote>
 <p>中华壮士，</p>
 <p>我更爱，我最爱，猜？……</p>
@@ -6216,7 +6216,7 @@ h2元旦铭
 
 h2胜利之年（歌二首）
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>三十而立</p>
 <p>三十而立</p>
@@ -6240,7 +6240,7 @@ intitle一
 <p>刚刚三十而立</p>
 </blockquote>
 
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>三十而立</p>
 <p>三十而立</p>
@@ -7266,7 +7266,7 @@ h2扎兰屯的夏天
 
 h2歌唱伟大的党【20：本篇是一首歌词，由贺绿汀谱曲。】
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>六亿五千万人民高举红旗，</p>
 <p>六亿五千万人民齐声歌唱：</p>
@@ -7282,7 +7282,7 @@ intitle一
 <p>跟着党走，永远不会迷失方向！</p>
 </blockquote>
 
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>六亿五千万人民团结一致，</p>
 <p>六亿五千万人民同声颂扬：</p>
@@ -7298,7 +7298,7 @@ intitle二
 <p>跟着党走，党给我们无穷力量！</p>
 </blockquote>
 
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>六亿五千万人民意气风发，</p>
 <p>六亿五千万人民尽情高唱：</p>
@@ -7320,7 +7320,7 @@ intitle三
 
 h2向第二届全运会献歌
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>旗红人也红，</p>
 <p>体育大检阅，</p>
@@ -7333,7 +7333,7 @@ intitle一
 <p>心怀全世界！</p>
 </blockquote>
 
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>功夫过得硬，</p>
 <p>思想红得透，</p>
@@ -7346,7 +7346,7 @@ intitle二
 <p>大显好身手！</p>
 </blockquote>
 
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>创造新纪录，</p>
 <p>戴上大红花，</p>
@@ -7365,7 +7365,7 @@ intitle三
 
 h2向毛主席唱出我们的决心
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>六亿五千万人民齐声歌唱，</p>
 <p>三面红旗高举，歌声响入青云，</p>
@@ -7380,7 +7380,7 @@ intitle一
 <p>都作一辈子不断革命的人！</p>
 </blockquote>
 
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>各民族男女青年齐声歌唱，</p>
 <p>三面红旗高举，歌声响入青云，</p>
@@ -7395,7 +7395,7 @@ intitle二
 <p>无愧革命事业的接班人！</p>
 </blockquote>
 
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>中华的老少男女齐声歌唱，</p>
 <p>三面红旗高举，歌声响入青云，</p>

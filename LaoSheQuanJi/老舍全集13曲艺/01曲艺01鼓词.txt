@@ -3,7 +3,7 @@ h2鼓词
 
 h2游击战
 
-intitle一 我们的军队好，大家若能帮忙就更好。
+<p class="intitle">一<br/><span class="c pretxt">我们的军队好，大家若能帮忙就更好。</span></p>
 
 <blockquote>
 <p>虎斗龙争不太平 东洋鬼子动刀兵</p>
@@ -17,7 +17,7 @@ intitle一 我们的军队好，大家若能帮忙就更好。
 <p>游击战术来得巧 爱国同胞听分明</p>
 </blockquote>
 
-intitle二 军队能打，我们百姓也得能打。
+<p class="intitle">二<br/><span class="c pretxt">军队能打，我们百姓也得能打。</span></p>
 
 <blockquote>
 <p>什么叫作游击战 就是人人处处动奇兵</p>
@@ -45,7 +45,7 @@ intitle二 军队能打，我们百姓也得能打。
 <p>当兵才是男儿汉 打退敌人才会乐安宁</p>
 </blockquote>
 
-intitle三 军队正面，我们四路游击。
+<p class="intitle">三<br/><span class="c pretxt">军队正面，我们四路游击。</span></p>
 
 <blockquote>
 <p>上边一段交待过 再把当前事说明</p>
@@ -66,7 +66,7 @@ intitle三 军队正面，我们四路游击。
 <p>游击战的好处在这里 人人豪杰大功成</p>
 </blockquote>
 
-intitle四 日本并非专打我们的军队，也杀我们百姓。
+<p class="intitle">四<br/><span class="c pretxt">日本并非专打我们的军队，也杀我们百姓。</span></p>
 
 <blockquote>
 <p>在下还有一片话 也请诸公听一听</p>
@@ -100,7 +100,7 @@ intitle四 日本并非专打我们的军队，也杀我们百姓。
 <p>这个道理须点破 下文还要细说明</p>
 </blockquote>
 
-intitle五 怎样帮助军队。
+<p class="intitle">五<br/><span class="c pretxt">怎样帮助军队。</span></p>
 
 <blockquote>
 <p>诸公听我说此话 也许点头赞连声</p>
@@ -124,7 +124,7 @@ intitle五 怎样帮助军队。
 <p>这段说完且不表 再把战法说分明</p>
 </blockquote>
 
-intitle六 怎样打仗。
+<p class="intitle">六<br/><span class="c pretxt">怎样打仗。</span></p>
 
 <blockquote>
 <p>若是没有我军在 敌人来到怎样行</p>

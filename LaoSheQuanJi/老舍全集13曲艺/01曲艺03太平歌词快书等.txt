@@ -1361,7 +1361,7 @@ h2单弦牌子曲
 
 h2金喜翻身【1：本篇是作者与侯一尘合著。】
 
-intitle上
+<p class="intitle">上</p>
 
 <blockquote>
 <p><b>曲头：</b></p>
@@ -1623,7 +1623,7 @@ h2忠孝全
 h2二期抗战得胜图
 <p class="type">·诗配画·</p>
 
-intitle一 “皇军”做梦
+<p class="intitle">一<br/><span class="c pretxt">“皇军”做梦</span></p>
 
 <blockquote>
 <p>看“皇军”，猛如虎：</p>
@@ -1633,7 +1633,7 @@ intitle一 “皇军”做梦
 <p>全世盟主。</p>
 </blockquote>
 
-intitle二 “皇军”作孽
+<p class="intitle">二<br/><span class="c pretxt">“皇军”作孽</span></p>
 <blockquote>
 <p>看“皇军”，真混账：</p>
 <p>杀人不皱眉，</p>
@@ -1642,7 +1642,7 @@ intitle二 “皇军”作孽
 <p>禽兽一样。</p>
 </blockquote>
 
-intitle三 “皇军”遭难
+<p class="intitle">三<br/><span class="c pretxt">“皇军”遭难</span></p>
 <blockquote>
 <p>看“皇军”，乱溃退，</p>
 <p>败阵在中华，</p>
@@ -1651,7 +1651,7 @@ intitle三 “皇军”遭难
 <p>白白流血。</p>
 </blockquote>
 
-intitle四 中华努力
+<p class="intitle">四<br/><span class="c pretxt">中华努力</span></p>
 <blockquote>
 <p>我军民，俱好汉，</p>
 <p>战胜不骄狂，</p>
@@ -1701,7 +1701,7 @@ h2西洋景词画
 
 h2新画片唱词
 
-intitle一 全国动员
+<p class="intitle">一<br/><span class="c pretxt">全国动员</span></p>
 
 <blockquote>
 <p>抬头一看头一篇，蒋委员长在上边。</p>
@@ -1712,7 +1712,7 @@ intitle一 全国动员
 <p>我们良善老百姓，也都爱国各争先。</p>
 </blockquote>
 
-intitle二 民众动员
+<p class="intitle">二<br/><span class="c pretxt">民众动员</span></p>
 <blockquote>
 <p>往里看来又一篇，柳绿桃红三月天。</p>
 <p>日本强盗来造反，杀人放火又强奸。</p>
@@ -1722,7 +1722,7 @@ intitle二 民众动员
 <p>定把日兵赶出境，保卫咱们好江山！</p>
 </blockquote>
 
-intitle三 军民合作
+<p class="intitle">三<br/><span class="c pretxt">军民合作</span></p>
 <blockquote>
 <p>那篇过去看这篇，军民合作好心欢！</p>
 <p>军民都是老百姓，亲爱和气兄弟般。</p>
@@ -1733,7 +1733,7 @@ intitle三 军民合作
 <p>相亲相爱都出力，中华民国万万年！</p>
 </blockquote>
 
-intitle四 大雪山中的游击队
+<p class="intitle">四<br/><span class="c pretxt">大雪山中的游击队</span></p>
 <blockquote>
 <p>仔细看来又一篇，寒冬腊月大冷天。</p>
 <p>鹅毛大雪纷纷下，日本鬼子进了山。</p>
@@ -1744,7 +1744,7 @@ intitle四 大雪山中的游击队
 <p>雪里行军游击队，保住咱们好江山。</p>
 </blockquote>
 
-intitle五 飞机大炮
+<p class="intitle">五<br/><span class="c pretxt">飞机大炮</span></p>
 <blockquote>
 <p>瞧了一篇又一篇，飞机大炮在上边。</p>
 <p>日本鬼子心太狠，一群飞机遮满天。</p>
@@ -1754,7 +1754,7 @@ intitle五 飞机大炮
 <p>一连打下好几架，我军大胜奏凯旋！</p>
 </blockquote>
 
-intitle六 烧杀抢掠的日本鬼子
+<p class="intitle">六<br/><span class="c pretxt">烧杀抢掠的日本鬼子</span></p>
 <blockquote>
 <p>往里瞧来往里观，日本鬼子太欺咱！</p>
 <p>妇女掳去受侮辱，男人绑在电线杆；</p>
@@ -1764,7 +1764,7 @@ intitle六 烧杀抢掠的日本鬼子
 <p>我们都是好国民，谁不报仇是汉奸！</p>
 </blockquote>
 
-intitle七 复仇杀敌
+<p class="intitle">七<br/><span class="c pretxt">复仇杀敌</span></p>
 <blockquote>
 <p>日本鬼子真野蛮，竟如牛马畜类般；</p>
 <p>到了村中找妇女，不分老少一齐奸；</p>
@@ -1774,7 +1774,7 @@ intitle七 复仇杀敌
 <p>砍死畜生消此恨，再去投军杀上前！</p>
 </blockquote>
 
-intitle八 日本强盗奸杀惨状
+<p class="intitle">八<br/><span class="c pretxt">日本强盗奸杀惨状</span></p>
 <blockquote>
 <p>举目留神这一篇，妇女死得更可怜！</p>
 <p>先被轮奸后杀死，肠子流出在肚前。</p>

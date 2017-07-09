@@ -26,7 +26,7 @@ h2过居庸关【1：本篇作于1917年。发表时署名“舒庆春”。】
 
 h2十月念一日，赴西山观察野战地势。是日大雾，抵午方晴。四年两登此山矣，为二律以志之。【2：本篇作于1917年。作者就读于北京师范学校四年级时，准备进行野外军事训练，10月21日赴西山观察野战地势。发表时署名“舒庆春”。】
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>绝顶西风放眼奇，蓟门烟柳冷侵眉。</p>
 <p>白驴绕水寻行迹，红叶如花打卧碑。</p>
@@ -34,7 +34,7 @@ intitle一
 <p>他年荷锸归山去，石骨嶙峋是故知。</p>
 </blockquote>
 
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>今年又立此峰头，依旧浑河向北流。</p>
 <p>一带黄沙埋落日，几行红柳踏深秋。</p>
@@ -121,7 +121,7 @@ h2野战归来，勇气百倍。路人目为军队移驻者。吾国积习，文
 
 h2年光不再，逝者如斯；五载春风，瞬将毕业矣。驽钝依然，前途惘惘，乃感赋四律。【5：本篇作于1918年在北京师范学校毕业之前。发表时署名“舒庆春”。】
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>几行热泪抵千言，检点青毡别小园。</p>
 <p>花解听诗愁对月，人能作赋黯销魂。</p>
@@ -129,7 +129,7 @@ intitle一
 <p>东去康成还自誓，生平不许谒金门。</p>
 </blockquote>
 
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>狂搜行箧有诗留，五载音尘一卷收。</p>
 <p>梁燕分巢云路渺，塞鸿举翮雪霜遒。</p>
@@ -137,7 +137,7 @@ intitle二
 <p>踏尽山河倾尽酒，他年再作故园游。</p>
 </blockquote>
 
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>迢递年光逝若斯，此身堪笑欲何之。</p>
 <p>充饥惟啖朱詹纸，千禄羞吟白傅诗。</p>
@@ -145,7 +145,7 @@ intitle三
 <p>愁看临别窗前草，青似当年入学时。</p>
 </blockquote>
 
-intitle四
+<p class="intitle">四</p>
 <blockquote>
 <p>惭愧庭花五度红，诗书依旧马牛风。</p>
 <p>江山离乱惟余恨，肝胆轮困本耐穷。</p>
@@ -202,14 +202,14 @@ h2题扇面赠马子元拳师【7：本篇据手迹收入，曾发表在1997年�
 
 h2《论语》两岁
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>共谁挥泪倾甘苦？惨笑唯君堪语愁！</p>
 <p>半月鸡虫明冷暖，两年蛇鼠悟春秋；</p>
 <p>衣冠到处尊禽兽，利禄无方输马牛。</p>
 <p>万物静观咸自得，苍天默默鬼啾啾。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>国事难言家事累，鸡年争似狗年何？！</p>
 <p>相逢笑脸无余泪，细数伤心剩短歌！</p>
@@ -239,21 +239,21 @@ h2诗三律
 
 <p class="pretxt">今夏居青岛，得会友论文，乐胜海浴。秋来，送别诸贤，怅然者久之！久不为诗，匆匆成三律，贵纪实耳，工拙非所计。《避暑录话》待稿，出此塞责。新诗过难，未敢轻试，剑三克家亚平孟超诸诗家幸勿指为开倒车也！</p>
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>远近渔帆无限情，与君携手踏沙行；</p>
 <p>于今君去余秋暑，昨夜香残梦故城。</p>
 <p>漠漠云波移往事，斑斑蛤觳照新晴。</p>
 <p>何年再举兰陵酒，共听潮声兼话声。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>晚风吹雾湿胶州，群岛微茫孤客愁！</p>
 <p>一夏繁华成海市，几重消息隔渔舟；</p>
 <p>不关宠辱诗心苦，每忆清高文骨遒。</p>
 <p>灯影摇摇潮上急，归来无计遣三秋！</p>
 </blockquote>
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>故人南北东西去，独领江山一片哀！</p>
 <p>从此桃源萦客梦，共谁桑海赏天才？</p>
@@ -351,14 +351,14 @@ h2抛锚之后
 
 h2诗四首
 
-intitle一 沔县谒武侯祠
+<p class="intitle">一<br/><span class="c pretxt">沔县谒武侯祠</span></p>
 <blockquote>
 <p>淡泊于今尚若斯，清流疏柏武侯祠。</p>
 <p>三分未竟贤臣志，一表应怜庸主师！</p>
 <p>大汉衣冠余百劫，中原烽火似当时；</p>
 <p>死而后已同肝胆，海内飞传荡寇旗！</p>
 </blockquote>
-intitle二 潼关炮声
+<p class="intitle">二<br/><span class="c pretxt">潼关炮声</span></p>
 <blockquote>
 <p>瓦砾纵横十万家，潼关依旧障京华。</p>
 <p>荒丘雨后萌青草，恶浪风前翻血花；</p>
@@ -370,14 +370,14 @@ intitle二 潼关炮声
 <p>峪口新营嘶战马，山腰古道隐耕牛；</p>
 <p>连宵炮火声声急，静待军情斩贼头！</p>
 </blockquote>
-intitle三 过天津桥
+<p class="intitle">三<br/><span class="c pretxt">过天津桥</span></p>
 <blockquote>
 <p>天津桥外古亭林，几代风流余鸟音！</p>
 <p>白鹤云间山色远，黄牛车缓柳阴深；</p>
 <p>桑麻未异丰年景，刀火偏多报国心；</p>
 <p>肯向鹃声卜末劫，金戈铁马动长吟！</p>
 </blockquote>
-intitle四 白马寺
+<p class="intitle">四<br/><span class="c pretxt">白马寺</span></p>
 <blockquote>
 <p>中州原善土，白马驮经来。</p>
 <p>野鹤闻初磬，明霞照古台。</p>
@@ -393,14 +393,14 @@ intitle四 白马寺
 
 h2诗二章
 
-intitle一 过乌纱岭
+<p class="intitle">一<br/><span class="c pretxt">过乌纱岭</span></p>
 <blockquote>
 <p>古浪重阳雪作花，千年积冻玉乌纱。</p>
 <p>白羊赭壁荒山艳，红叶青烟孤树斜。</p>
 <p>村童无衣骑牛掩，霜田覆石草微遮；</p>
 <p>周秦文物今何在？牧马悲鸣劫后沙！</p>
 </blockquote>
-intitle二 别凉州
+<p class="intitle">二<br/><span class="c pretxt">别凉州</span></p>
 <blockquote>
 <p>塞上秋云开晓日，天梯玉色雪如霞。</p>
 <p>乱山无树飞寒鸟，野水随烟入远沙。</p>
@@ -416,14 +416,14 @@ intitle二 别凉州
 
 h2北行小诗
 
-intitle其一
+<p class="intitle">其一</p>
 <blockquote>
 <p>二载流离苦，飘飘梦落花！</p>
 <p>停车频买酒，问路倍思家；</p>
 <p>尘重知城大，天长盼日斜；</p>
 <p>何时平寇乱，茅屋品清茶。</p>
 </blockquote>
-intitle其二
+<p class="intitle">其二</p>
 <blockquote>
 <p>劳军来万里，愧我未能兵！</p>
 <p>空作长沙哭，羞看细柳营；</p>
@@ -439,21 +439,21 @@ intitle其二
 
 h2留侯祠
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>寂寂祠堂夏似秋，</p>
 <p>清泉赤松伴留侯，</p>
 <p>千峰环翠青天小，</p>
 <p>遮断斜阳无限愁。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>林密蜂肥绿接天，</p>
 <p>翩翩蝶鸟亦登仙，</p>
 <p>半生辛苦凭谁说？</p>
 <p>默数松花落暮烟。</p>
 </blockquote>
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>却病留侯曾辟谷，</p>
 <p>丈夫原不事神仙，</p>
@@ -552,28 +552,28 @@ h2为在华日本人民反战革命同盟会成立周年纪念题诗【16：本�
 
 h2诗四章
 
-intitle一 “七七”纪念
+<p class="intitle">一<br/><span class="c pretxt">“七七”纪念</span></p>
 <blockquote>
 <p>抗战今开第五年，男儿志在复幽燕！</p>
 <p>几生能答人间福？一死应为天下先！</p>
 <p>斜汉双星秋欲晓，西风万马血飞烟；</p>
 <p>多情最是卢沟月，犹照英雄肝胆鲜！</p>
 </blockquote>
-intitle二 沫若先生【17：郭沫若（1892-1978），四川乐山人。现代诗人、戏剧家、历史学家。】邀饮赖家桥
+<p class="intitle">二<br/><span class="c pretxt">沫若先生【17：郭沫若（1892-1978），四川乐山人。现代诗人、戏剧家、历史学家。】邀饮赖家桥</span></p>
 <blockquote>
 <p>家山北望隔中原，相对能无酒一樽？</p>
 <p>薄醉欲倾前日泪，红颜未是少年痕！</p>
 <p>平桥翠竹清如水，晓月白莲香到根；</p>
 <p>篱外桑麻诗境里，柴扉不掩傲朱门。</p>
 </blockquote>
-intitle三 述怀
+<p class="intitle">三<br/><span class="c pretxt">述怀</span></p>
 <blockquote>
 <p>辛酸步步向西来，不到河清眉不开！</p>
 <p>身后声名留气节，眼前风物愧诗才；</p>
 <p>论人莫逊春秋笔，人世方知圣哲哀；</p>
 <p>四海飘零余一死，青天尚在敢心灰！</p>
 </blockquote>
-intitle四 贺冰心先生【18：冰心（1900-1999），福建长乐县人。现代女作家。】移寓歌乐山
+<p class="intitle">四<br/><span class="c pretxt">贺冰心先生【18：冰心（1900-1999），福建长乐县人。现代女作家。】移寓歌乐山</span></p>
 <blockquote>
 <p>敢为流离厌战争，乾坤终古一浮萍；</p>
 <p>茅庐况足遮风雨，诗境何妨壮甲兵。</p>
@@ -601,14 +601,14 @@ h2赠涤非词人【19：本篇据手迹收入。萧涤非（1906-1991），江�
 
 h2集文艺界人名联句【20：吴组缃《序》云：“在重庆最无聊的是空袭中躲防空洞的时候。常常进了洞就出不来，久久闷坐着，无以自遣。后来我们就拿文艺界的人名拼凑诗句。”“这种人名诗，老舍不认为只是无聊消遣，说这也体现着文艺界大团结，彼此不存畛域的意思。”】
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>也频徐仲年，火雪明田间。</p>
 <p>大雨冼星海，长虹穆木天，</p>
 <p>佩弦卢霁野，振铎欧阳山。</p>
 <p>王语今空了，绀弩黄药眠。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>望道郭源新，卢焚苏雪林。</p>
 <p>烽白朗霁野，山草明霞村。</p>
@@ -649,14 +649,14 @@ h2题静庐写秃松小品
 
 h2蜀村小景【22：本篇据手迹收入。】
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>蕉叶清新卷月明，</p>
 <p>田边苔井晚波生。</p>
 <p>村姑汲水自来去，</p>
 <p>坐听青蛙断续鸣。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>杜鹃峰下杜鹃啼，</p>
 <p>碧水东流月向西。</p>
@@ -724,14 +724,14 @@ h2喜联
 
 h2赠潘孑农【25：本篇写于1944年。潘孑农（1909-1993），浙江湖州市人。现代戏剧家、电影艺术家。】
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>天翼高长虹，田间潘孑农。</p>
 <p>佩絃卢冀野，望道吴云峰。</p>
 <p>万籁鸣秋苇，独清徐转蓬。</p>
 <p>霞光王统照，常任侠何容！</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>潘郎英美女似霞，</p>
 <p>近郭临江好作家。</p>
@@ -807,14 +807,14 @@ h2赠郭镜秋【29：本篇约作于1948至1949年，据手迹收入。郭镜�
 
 h2元旦试笔
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>举酒庆元旦，同期大有年。</p>
 <p>高潮开水利，丰产达山田。</p>
 <p>众志能填海，人工定胜天。</p>
 <p>昂头迎晓日，风物美无边。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>世界新形势，东风居上风。</p>
 <p>和平盟幸福，劳动造英雄。</p>
@@ -828,112 +828,112 @@ intitle二
 
 h2《茶馆》群像【30：本篇发表时，原刊有叶浅予的说明：“老舍先生在话剧《茶馆》里所创造的人物，不仅具有典型性，而且揭示了这些典型人物的时代特征。由于刘麻子、唐铁嘴、二德子、宋恩子、吴祥子等人的第二代出现，使人信服地并且深刻地认识了旧社会是万恶之源，因而对于王利发、常四爷、康顺子，以及其他被压迫者的命运，寄予了更深的同情。我被北京人艺的演出感动了，我要表现它，所以画了这些速写。<br/>“速写画成，《戏剧报》的编辑同志拿给老舍先生看，他在每幅速写的左侧题了四行诗，作为对这个人物的批语。”】
 
-intitle一 王利发（于是之饰）
+<p class="intitle">一<br/><span class="c pretxt">王利发（于是之饰）</span></p>
 <blockquote>
 <p>真真假假，</p>
 <p>千变万化，</p>
 <p>只求温饱，</p>
 <p>太平天下。</p>
 </blockquote>
-intitle二 王利发的中年时代
+<p class="intitle">二<br/><span class="c pretxt">王利发的中年时代</span></p>
 <blockquote>
 <p>随着时代，</p>
 <p>大改其良。</p>
 <p>任他开炮，</p>
 <p>我须开张。</p>
 </blockquote>
-intitle三 王利发的老年时代
+<p class="intitle">三<br/><span class="c pretxt">王利发的老年时代</span></p>
 <blockquote>
 <p>为作顺民，</p>
 <p>心机用尽。</p>
 <p>顺民不行，</p>
 <p>悬梁自尽。</p>
 </blockquote>
-intitle四 常四爷（郑榕饰）
+<p class="intitle">四<br/><span class="c pretxt">常四爷（郑榕饰）</span></p>
 <blockquote>
 <p>说打就打，</p>
 <p>有些骨气，</p>
 <p>直言无隐，</p>
 <p>哪怕入狱。</p>
 </blockquote>
-intitle五 常四爷的中年
+<p class="intitle">五<br/><span class="c pretxt">常四爷的中年</span></p>
 <blockquote>
 <p>生活困难，</p>
 <p>自食其力，</p>
 <p>遇见仇敌，</p>
 <p>还不服气。</p>
 </blockquote>
-intitle六 常四爷的晚年
+<p class="intitle">六<br/><span class="c pretxt">常四爷的晚年</span></p>
 <blockquote>
 <p>年老力衰，</p>
 <p>卖花生米。</p>
 <p>拾些纸钱，</p>
 <p>自奠自祭。</p>
 </blockquote>
-intitle七 康六（牛星丽饰）和他的女儿康顺子（梁菁饰）
+<p class="intitle">七<br/><span class="c pretxt">康六（牛星丽饰）和他的女儿康顺子（梁菁饰）</span></p>
 <blockquote>
 <p>国乱民贫，</p>
 <p>农村破产。</p>
 <p>卖女卖儿，</p>
 <p>苟延残喘。</p>
 </blockquote>
-intitle八 秦仲义（蓝天野饰）
+<p class="intitle">八<br/><span class="c pretxt">秦仲义（蓝天野饰）</span></p>
 <blockquote>
 <p>富国裕民，</p>
 <p>振兴实业。</p>
 <p>自己发财，</p>
 <p>目空一切。</p>
 </blockquote>
-intitle九 秦仲义的晚年
+<p class="intitle">九<br/><span class="c pretxt">秦仲义的晚年</span></p>
 <blockquote>
 <p>资本主义，</p>
 <p>死路一条。</p>
 <p>山穷水尽，</p>
 <p>只剩悲号。</p>
 </blockquote>
-intitle十 宋恩子（林连琨饰）和吴祥子（李大千饰）
+<p class="intitle">十<br/><span class="c pretxt">宋恩子（林连琨饰）和吴祥子（李大千饰）</span></p>
 <blockquote>
 <p>贵族爪牙，</p>
 <p>就是他俩。</p>
 <p>狗仗人势，</p>
 <p>一点不假。</p>
 </blockquote>
-intitle十一 宋恩子和吴祥子（军阀割据时代）
+<p class="intitle">十一<br/><span class="c pretxt">宋恩子和吴祥子（军阀割据时代）</span></p>
 <blockquote>
 <p>军阀爪牙，</p>
 <p>还是他俩。</p>
 <p>有奶是娘，</p>
 <p>半点不假。</p>
 </blockquote>
-intitle十二 小宋恩子（林连琨饰）和小吴祥子（李大千饰）
+<p class="intitle">十二<br/><span class="c pretxt">小宋恩子（林连琨饰）和小吴祥子（李大千饰）</span></p>
 <blockquote>
 <p>世袭灰衫，</p>
 <p>又是他俩。</p>
 <p>无恶不作，</p>
 <p>钉点不假。</p>
 </blockquote>
-intitle十三 唐铁嘴（张瞳饰）
+<p class="intitle">十三<br/><span class="c pretxt">唐铁嘴（张瞳饰）</span></p>
 <blockquote>
 <p>嘴是资本，</p>
 <p>奉承为先，</p>
 <p>低三下四，</p>
 <p>为吸大烟。</p>
 </blockquote>
-intitle十四 小二德子（马群饰）
+<p class="intitle">十四<br/><span class="c pretxt">小二德子（马群饰）</span></p>
 <blockquote>
 <p>狐假虎威，</p>
 <p>小小恶霸。</p>
 <p>本领传家，</p>
 <p>软欺硬怕。</p>
 </blockquote>
-intitle十五 刘麻子（英若诚饰）
+<p class="intitle">十五<br/><span class="c pretxt">刘麻子（英若诚饰）</span></p>
 <blockquote>
 <p>贩卖人口，</p>
 <p>一世缺德。</p>
 <p>别人落泪，</p>
 <p>他吃他喝。</p>
 </blockquote>
-intitle十六 小刘麻子（英若诚饰）
+<p class="intitle">十六<br/><span class="c pretxt">小刘麻子（英若诚饰）</span></p>
 <blockquote>
 <p>继承父业，</p>
 <p>青出于蓝，</p>
@@ -992,14 +992,14 @@ h2访东风人民公社而作【33：作者于1958年9月随中国文联参观�
 
 h2元旦高兴
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>元旦承除夕，欢声日夜连。</p>
 <p>丰收夸旧岁，跃进奋新年。</p>
 <p>苦战钢为师，勤农人胜天。</p>
 <p>乐园何处是？公社涌春泉。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>元旦齐狂喜，新年乐事多：</p>
 <p>儿童排话剧，父老赛诗歌；</p>
@@ -1037,21 +1037,21 @@ h2火箭奔月
 
 h2即事
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>尖端科学首苏联，</p>
 <p>火箭昂扬探九天。</p>
 <p>美国卫星何处去？</p>
 <p>倒栽葱式最堪怜。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>宇宙于今难保密，</p>
 <p>人民智慧广无边。</p>
 <p>东风浩浩西风落，</p>
 <p>威望苏联冲破天。</p>
 </blockquote>
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>狂欢胜似过新年，</p>
 <p>彻地通天喜气连。</p>
@@ -1078,14 +1078,14 @@ h2赠陈叔通【34：本篇据手迹收入。五十年代胡絜青画赤梅，�
 
 h2为内蒙古百万民歌展览会献诗【35：内蒙古自治区百万民歌歌唱展览会于1958年12月在北海公园琼岛悦心殿开幕，作者参观后献诗祝贺。】
 
-intitle一 心热冬天花也开【36：本首曾以《百万民歌内蒙来》为题载1958年12月24日《北京晚报》。】
+<p class="intitle">一<br/><span class="c pretxt">心热冬天花也开【36：本首曾以《百万民歌内蒙来》为题载1958年12月24日《北京晚报》。】</span></p>
 <blockquote>
 <p>心热冬天花也开，</p>
 <p>百万民歌内蒙来。</p>
 <p>来到北京人人爱，</p>
 <p>都说群众是天才。</p>
 </blockquote>
-intitle二 巨笔“二人台”
+<p class="intitle">二<br/><span class="c pretxt">巨笔“二人台”</span></p>
 <blockquote>
 <p>北海变诗海，</p>
 <p>巨笔“二人台”，</p>
@@ -1099,14 +1099,14 @@ intitle二 巨笔“二人台”
 
 h2建国十周年大庆
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>建国十年万象新，</p>
 <p>衣冠尽洗旧烟尘。</p>
 <p>同沾雨露春长在，</p>
 <p>放眼河山处处亲。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>公社欢腾四海春，</p>
 <p>全民跃进寸阴新，</p>
@@ -1120,14 +1120,14 @@ intitle二
 
 h2贺北京市美术展览会开幕
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>万里大江流，</p>
 <p>人人争上游。</p>
 <p>百花齐怒放，</p>
 <p>风格各千秋。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>浩荡首都春，</p>
 <p>江山入画新。</p>
@@ -1137,7 +1137,7 @@ intitle二
 <p><br/></p>
 <p class="pretxt">国画展览品中有《首都之春》，长及十余丈。</p>
 
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>泥面赢奇趣，</p>
 <p>民间艺术家。</p>
@@ -1147,7 +1147,7 @@ intitle三
 <p><br/></p>
 <p class="pretxt">展览品中有泥人、面人，推陈出新，为群众所喜。</p>
 
-intitle四
+<p class="intitle">四</p>
 <blockquote>
 <p>工农兵献礼，</p>
 <p>美术壮新军。</p>
@@ -1244,21 +1244,21 @@ h2再集马派名剧——赠马连良【41：本篇作于1961年5月6日（夏�
 
 h2诗四首【42：本篇中第四首《游红山公园》已收入《内蒙即景》，故从略。】
 
-intitle一 哲盟展览馆
+<p class="intitle">一<br/><span class="c pretxt">哲盟展览馆</span></p>
 <blockquote>
 <p>欣来展览馆，珠玉不胜收。</p>
 <p>十载除三害，全盟争上游。</p>
 <p>逢山开宝库，因地引渠流。</p>
 <p>草木无遗利，辉煌百代猷。</p>
 </blockquote>
-intitle二 莫力庙水库
+<p class="intitle">二<br/><span class="c pretxt">莫力庙水库</span></p>
 <blockquote>
 <p>荒漠无林石，狂流莫奈河。</p>
 <p>移沙营渠坝，擂鼓战辽河。</p>
 <p>水库荣渔收，池塘戏鸭鹅。</p>
 <p>清波溉四野，从此稻粱多。</p>
 </blockquote>
-intitle三 水库赏莲
+<p class="intitle">三<br/><span class="c pretxt">水库赏莲</span></p>
 <blockquote>
 <p>江南鲢鲤乐新家，</p>
 <p>蒲草青青唱绿蛙。</p>
@@ -1270,11 +1270,11 @@ intitle三 水库赏莲
 
 
 
-intitle诗二首
+<p class="intitle">诗二首</p>
 
 <p class="pretxt">一九六一年九月，瞻访汉明妃墓。墓之真伪，向多论辩，而青山黑水，秋柳依依，似觉昭君正宜长眠于此。以往文人，吟咏青冢，每多悲怨，或未尽解和亲真义。墓前数碑，则一致歌颂昭君，较为得体。友人曹禺拟草王昭君剧本。亦以明和亲睦邻，导致和平之义，因成小诗韵寄赠，希剧作早日脱稿也。</p>
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>诗人新谱“汉宫秋”，</p>
 <p>马上琵琶泪不流。</p>
@@ -1295,14 +1295,14 @@ intitle一
 
 h2参观内蒙古博物馆
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>北出居庸天地明，</p>
 <p>山川奇景胜长城。</p>
 <p>江南塞上今何别，</p>
 <p>四海东风乐太平。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>多族人民共一家，</p>
 <p>工农林牧吐奇葩。</p>
@@ -1316,35 +1316,35 @@ intitle二
 
 h2包头颂
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>山河环带气堂堂，</p>
 <p>百丈洪炉百炼钢。</p>
 <p>莫讶春风归燕早，</p>
 <p>新栽杨柳万千行。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>北枕青山南带河，</p>
 <p>昔年唯有雁声多。</p>
 <p>红旗今日遮星斗，</p>
 <p>气撼河山增产歌。</p>
 </blockquote>
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>锣鼓声声笑语哗，</p>
 <p>红旗今又到谁家。</p>
 <p>千秋事业长城北，</p>
 <p>新旧包头并蒂花。</p>
 </blockquote>
-intitle四
+<p class="intitle">四</p>
 <blockquote>
 <p>跃进边城起壮图，</p>
 <p>从无到有建钢都。</p>
 <p>光芒天外三千丈，</p>
 <p>霞蔚云蒸七宝炉。</p>
 </blockquote>
-intitle五
+<p class="intitle">五</p>
 <blockquote>
 <p>朗日新城古渡头，</p>
 <p>黄河滚滚向东流。</p>
@@ -1358,14 +1358,14 @@ intitle五
 
 h2内蒙风光【43：本篇中的《看二人台》、《哲盟安代舞》两首已收入《内蒙即景》，此处从略。】
 
-intitle一 访问呼和浩特新城（昔之满城）
+<p class="intitle">一<br/><span class="c pretxt">访问呼和浩特新城（昔之满城）</span></p>
 <blockquote>
 <p>民族情谊日日深，</p>
 <p>新城喜见百花新，</p>
 <p>大青山色青如许，</p>
 <p>团结相要一片心。</p>
 </blockquote>
-intitle二 昭旗苹果
+<p class="intitle">二<br/><span class="c pretxt">昭旗苹果</span></p>
 <blockquote>
 <p>辟壤开荒意气雄，</p>
 <p>十年种树孕春风，</p>
@@ -1375,7 +1375,7 @@ intitle二 昭旗苹果
 <p><br/></p>
 <p class="pretxt">五三公社农业中学开荒造园，苹果已结实。园地昔日为沙丘，今名青年花果山。</p>
 
-intitle三 大兴安岭原始森林
+<p class="intitle">三<br/><span class="c pretxt">大兴安岭原始森林</span></p>
 <blockquote>
 <p>原始森林客始来，</p>
 <p>松针已落几千回，</p>
@@ -1399,11 +1399,11 @@ intitle三 大兴安岭原始森林
 
 h2内蒙即景（小诗九首）【44：这一组诗中第六、七两首曾以《诗二首》为题先发表在1961年9月17日《内蒙古日报》上，收入本卷第621页，此处从略。这次发表时，作者又在这两首诗后加有文字说明：“以上两首是访昭君墓时写给曹禺同志的，因为他正拟写王昭君剧本，以变前人的看法，化凄楚为欢快。”】
 
-<p class="title2">小引</p>
+<p class="intitle">小引</p>
 
 <p class="pretxt">我不大会写诗。可是，今年夏天，到内蒙去参观访问了数十日，路上不容易写散文，于是就随时作些小诗，记下所见所闻。严格地说，它们不能算作诗，不过是些文字较比整齐的笔记而已。</p>
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>街排巷比宛如裁，</p>
 <p>户户窗前花盛开。</p>
@@ -1413,14 +1413,14 @@ intitle一
 <p><br/></p>
 <p class="pretxt">哲里木盟的大林公社是一面卫生红旗，街道干净，人家干净，常常有人从各处来参观学习。儿童们总愿意客人到自己家来访问，否则有些失望。人家里真干净，最突出的是堂屋里往往有一眼小井，为是用水方便。井上护以小木栏。打这么一眼小井只用四十多圆钱。正是：</p>
 
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>街明树媚午风凉，</p>
 <p>小院无尘路两旁，</p>
 <p>方便大娘勤洒扫，</p>
 <p>玲珑小井室中央。</p>
 </blockquote>
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>歌声呼应帕低昂，</p>
 <p>老少翩翩舞兴长，</p>
@@ -1430,14 +1430,14 @@ intitle三
 <p><br/></p>
 <p class="pretxt">内蒙东部哲盟有一种民间集体舞蹈，名“安代”，载歌载舞，引人入胜。从前，这种舞蹈是为驱疫赶鬼的，作用如跳大神。媳妇或姑娘若闹病，邻居们便群至门前，唱着问她有什么委屈，唱着安慰她，并劝她加入集体舞。她舞了会儿，心中痛快些，也许病就好起来。现在，大家不再迷信，可是还非常喜爱这种舞蹈，把驱鬼跳神改成鼓舞生产，互相以歌挑战应战。每到节日，大家越跳越高兴，便跳到深夜。每人手执绸帕一条，扬帕顿步，十分好看，往往祖孙三代同舞。请看下面：</p>
 
-intitle四
+<p class="intitle">四</p>
 <blockquote>
 <p>驱鬼当年跳大神，</p>
 <p>出新“安代”喜推陈，</p>
 <p>声声老少歌生产，</p>
 <p>五色丝巾三代人！</p>
 </blockquote>
-intitle五
+<p class="intitle">五</p>
 <blockquote>
 <p>舞帕飞旋锦扇开，</p>
 <p>万人争看二人台：</p>
@@ -1447,7 +1447,7 @@ intitle五
 <p><br/></p>
 <p class="pretxt">“二人台”是内蒙人民最喜爱的一个剧种。演员舞扇，舞巾，且舞霸王鞭，都很好看。舞帕飞旋，疾似春燕。</p>
 
-intitle八
+<p class="intitle">八</p>
 <blockquote>
 <p>风卷荒沙暗九天，</p>
 <p>摇摇土屋浪中船，</p>
@@ -1457,7 +1457,7 @@ intitle八
 <p><br/></p>
 <p class="pretxt">这是当年赤峰郊外的光景，风沙肆虐，年年歉收，农民无衣无食，只好逃荒。现在呢？请看：</p>
 
-intitle九
+<p class="intitle">九</p>
 <blockquote>
 <p>塞上红山映碧池，</p>
 <p>茅亭望断柳丝丝；</p>
@@ -1474,7 +1474,7 @@ intitle九
 
 h2内蒙东部纪游
 
-intitle一 大兴安岭二首
+<p class="intitle">一<br/><span class="c pretxt">大兴安岭二首</span></p>
 
 <p><b>（一）</b></p>
 <blockquote>
@@ -1490,7 +1490,7 @@ intitle一 大兴安岭二首
 <p>伐木红旗明翠谷，运材铁轨接青天。</p>
 <p>山中父老神枪手，系马白桦射雉还。【47：山中鄂伦春族人最擅狩猎。——作者】</p>
 </blockquote>
-intitle二 陈旗草原
+<p class="intitle">二<br/><span class="c pretxt">陈旗草原</span></p>
 <blockquote>
 <p>陈旗一碧到云边，【48：陈旗乃陈巴尔虎旗之简称，属呼伦贝尔盟。车行一百五十里，至牧业公社，一碧无际，江南无此丽景。——作者】莫谓江南景独妍；</p>
 <p>六月人归花满地，【49：牧民以六月初南下牧放，入秋即北返，牛肥马壮矣。——作者】随时雨过翠连天。</p>
@@ -1504,14 +1504,14 @@ intitle二 陈旗草原
 <p>老翁犹唱当年曲，少女新添时代装。</p>
 <p>蒙汉情深何忍别，天涯碧草话斜阳。</p>
 </blockquote>
-intitle三 达赉湖
+<p class="intitle">三<br/><span class="c pretxt">达赉湖</span></p>
 <blockquote>
 <p>丘原青未了，又到绿波前。</p>
 <p>湖阔三江水，鱼肥百草泉。</p>
 <p>白鸥翔紫塞，碧浪映霞天。</p>
 <p>回望满洲里南，边疆最北边。【51：湖在满洲里南，水汇三河，鱼多且美。水来自草原，一碧千顷。——作者】</p>
 </blockquote>
-intitle四 扎兰屯
+<p class="intitle">四<br/><span class="c pretxt">扎兰屯</span></p>
 <blockquote>
 <p>诗情未尽在苏杭，幽绝扎兰天一方；【52：扎兰屯为风景区，不假装饰，景色绝幽。——作者】</p>
 <p>深浅翠屏山四面，回环碧水柳千行。</p>
@@ -1537,14 +1537,14 @@ h2为四位京剧演员拜周信芳【53：周信芳（1895-1975），浙江慈�
 
 h2春节饯友
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>逢君去远行，</p>
 <p>歌舞动春城；</p>
 <p>更进一杯酒，</p>
 <p>文雄万里程。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>南海任遨游，</p>
 <p>春潮天际流；</p>
@@ -1572,14 +1572,14 @@ h2赠徐兰沅【54：本篇据手迹收入。徐兰沅（1891-1967），江苏�
 
 h2游海门、莲花峰【55：本篇据手迹收入。】
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>遥怜信国此峰头，</p>
 <p>水黑云寒望帝舟，</p>
 <p>今日红旗明碧海，</p>
 <p>神州儿女竞风流。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>饮露餐明霞，</p>
 <p>青莲十丈花，</p>
@@ -1608,28 +1608,28 @@ h2流沙观潮剧
 
 h2汕头行
 
-intitle一 流沙水库
+<p class="intitle">一<br/><span class="c pretxt">流沙水库</span></p>
 <blockquote>
 <p>山抱西南北，东迎晓日开。</p>
 <p>梯田荣桔柚，水电耀楼台。</p>
 <p>宝血青峰在，流沙雪浪来。</p>
 <p>英雄真不朽，世代奋风雷。</p>
 </blockquote>
-intitle二 过澄海三大桥
+<p class="intitle">二<br/><span class="c pretxt">过澄海三大桥</span></p>
 <blockquote>
 <p>昔从澄海到汕头，野水荒沙旅客愁。</p>
 <p>众志成城争跃进，万家移石断中流。</p>
 <p>人民智慧虹为路，堤岸光辉月入沟。</p>
 <p>寒食秧田千顷碧，飞花满县冠山游。</p>
 </blockquote>
-intitle三 赠澄海艺香潮剧团
+<p class="intitle">三<br/><span class="c pretxt">赠澄海艺香潮剧团</span></p>
 <blockquote>
 <p>鲜花翠柏喜同堂，</p>
 <p>澄海春风百卉香。</p>
 <p>一曲宋元遗韵在，</p>
 <p>冠山韩水此情长。</p>
 </blockquote>
-intitle四 赠广东潮剧院
+<p class="intitle">四<br/><span class="c pretxt">赠广东潮剧院</span></p>
 <blockquote>
 <p>莫夸骑鹤下扬州，</p>
 <p>渴慕潮汕几十秋。</p>
@@ -1689,21 +1689,21 @@ h2赠梅阡【58：本篇据手迹收入。梅阡（1916-2002），天津市人�
 
 h2诗三首
 
-intitle一 观《连升三级》
+<p class="intitle">一<br/><span class="c pretxt">观《连升三级》</span></p>
 <blockquote>
 <p>泉州高甲戏，三级喜连升，</p>
 <p>独辟新风格，时翻古乐声；</p>
 <p>状元无点墨，皇帝似多情，</p>
 <p>入骨肆嘲讽，人民眼更明。</p>
 </blockquote>
-intitle二 赠鲤声剧团
+<p class="intitle">二<br/><span class="c pretxt">赠鲤声剧团</span></p>
 <blockquote>
 <p>可爱莆仙剧，风流世代传；</p>
 <p>弦歌八百曲，珠玉五千篇；</p>
 <p>魂断团圆后，神移笑语前；</p>
 <p>春光芳草碧，莺啭艳阳天。</p>
 </blockquote>
-intitle三 观林务夏同志演贻顺哥
+<p class="intitle">三<br/><span class="c pretxt">观林务夏同志演贻顺哥</span></p>
 <blockquote>
 <p>八年尚忆钗头凤，【59：八年前观郭西珠同志此剧。——作者】</p>
 <p>今夕欣看烛蒂哥，</p>
@@ -1719,7 +1719,7 @@ intitle三 观林务夏同志演贻顺哥
 
 h2春游小诗
 
-intitle一 参观闵行新城
+<p class="intitle">一<br/><span class="c pretxt">参观闵行新城</span></p>
 <blockquote>
 <p>闵行平地起新城，</p>
 <p>广厦千间一夜成。</p>
@@ -1733,14 +1733,14 @@ intitle一 参观闵行新城
 <p>劳动人民干净土，</p>
 <p>桃花今日识风流。</p>
 </blockquote>
-intitle二 游豫园
+<p class="intitle">二<br/><span class="c pretxt">游豫园</span></p>
 <blockquote>
 <p>点春堂上拜英雄，</p>
 <p>堂外夭桃血似红。</p>
 <p>昨日小刀今日舞，<span class="block">（今有《小刀会》舞剧）</span></p>
 <p>东风真个压西风。</p>
 </blockquote>
-intitle三 雨夜在大世界听扬剧名演员顾玉君唱《阳告阴告》
+<p class="intitle">三<br/><span class="c pretxt">雨夜在大世界听扬剧名演员顾玉君唱《阳告阴告》</span></p>
 <blockquote>
 <p>轻寒乍暖未分明，柳盼春阴花盼晴。</p>
 <p>听罢扬州绝命曲，江南三月雨无声。</p>
@@ -1750,7 +1750,7 @@ intitle三 雨夜在大世界听扬剧名演员顾玉君唱《阳告阴告》
 <p>悲歌春夜雨纷纷，四座惊夸顾玉君。</p>
 <p>笑尽啼残唯有恨，青天碧海儿女坟。</p>
 </blockquote>
-intitle四 赠赵家璧同志【60：赵家璧（1908-1997），上海松江人。编辑家、出版家。】
+<p class="intitle">四<br/><span class="c pretxt">赠赵家璧同志【60：赵家璧（1908-1997），上海松江人。编辑家、出版家。】</span></p>
 <blockquote>
 <p>桃花红映锦江边，</p>
 <p>江上相逢又五年。</p>
@@ -1764,14 +1764,14 @@ intitle四 赠赵家璧同志【60：赵家璧（1908-1997），上海松江人�
 
 h2辉煌十五春<br/><span class="c pretxt">——内蒙古自治区成立十五周年献诗</span>
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>万里长城北，辉煌十五春。</p>
 <p>旗盟同跃进，民族倍相亲。</p>
 <p>农牧风光阔，园林山水新。</p>
 <p>马头琴上曲，古韵颂今人。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>东傲兴安岭，西跨河套雄。</p>
 <p>东风吹日夜，喜气贯西东。</p>
@@ -1787,42 +1787,42 @@ h2大好春光
 
 <p class="pretxt">一九六二年五月一日，欣逢内蒙古自治区成立十五周年纪念，献诗祝贺。</p>
 
-intitle一 参观内蒙古自治区十五年建设成就展览
+<p class="intitle">一<br/><span class="c pretxt">参观内蒙古自治区十五年建设成就展览</span></p>
 <blockquote>
 <p>斗志昂扬十五年，</p>
 <p>英雄事业史无前！</p>
 <p>青山黑水红旗遍，</p>
 <p>跃进歌声动九天！</p>
 </blockquote>
-intitle二 参观旅行内蒙古画家画展
+<p class="intitle">二<br/><span class="c pretxt">参观旅行内蒙古画家画展</span></p>
 <blockquote>
 <p>地阔天圆日落迟，</p>
 <p>草原无际马长嘶，</p>
 <p>春风万里歌声远，</p>
 <p>画笔得来光景奇！</p>
 </blockquote>
-intitle三 参观全国人像摄影展览
+<p class="intitle">三<br/><span class="c pretxt">参观全国人像摄影展览</span></p>
 <blockquote>
 <p>五月风光好，欣游艺术宫：</p>
 <p>精神留面貌，形象塑农工。</p>
 <p>人比春花艳，眉开晓日红。</p>
 <p>风流数此代，顾盼识英雄！</p>
 </blockquote>
-intitle四 参观郑景康、梁思成内蒙摄影展览
+<p class="intitle">四<br/><span class="c pretxt">参观郑景康、梁思成内蒙摄影展览</span></p>
 <blockquote>
 <p>梁郑二专家，</p>
 <p>诗情画意赊，</p>
 <p>何劳七色笔，</p>
 <p>俯仰拾春花！</p>
 </blockquote>
-intitle五 观躀跤冠军僧格表演
+<p class="intitle">五<br/><span class="c pretxt">观躀跤冠军僧格表演</span></p>
 <blockquote>
 <p>静如虎伏矫如龙，</p>
 <p>全力全心斗志浓！</p>
 <p>胜负随时争一秒，</p>
 <p>惊风急雨立青松！</p>
 </blockquote>
-intitle六 歌舞晚会
+<p class="intitle">六<br/><span class="c pretxt">歌舞晚会</span></p>
 <blockquote>
 <p>堂堂十五载，</p>
 <p>艺术发奇葩；</p>
@@ -1833,21 +1833,21 @@ intitle六 歌舞晚会
 <p>民族亲兄弟，</p>
 <p>欢声腾彩霞。</p>
 </blockquote>
-intitle七 观舞剧《乌兰保》
+<p class="intitle">七<br/><span class="c pretxt">观舞剧《乌兰保》</span></p>
 <blockquote>
 <p>良缘因革命，患难发真情！</p>
 <p>蒙汉联秦晋，河山共死生！</p>
 <p>红符千载艳，白发寸心明！</p>
 <p>慈母悲中喜，东风燕语轻！</p>
 </blockquote>
-intitle八 “五一”联欢大会
+<p class="intitle">八<br/><span class="c pretxt">“五一”联欢大会</span></p>
 <blockquote>
 <p>一曲《东方红》，军民联彩虹。</p>
 <p>衣冠各族异，雨露万家同。</p>
 <p>五月花光里，倾城歌舞中。</p>
 <p>大青山色暖，桃李艳春风！</p>
 </blockquote>
-intitle九 那达慕大会
+<p class="intitle">九<br/><span class="c pretxt">那达慕大会</span></p>
 <blockquote>
 <p>大青山下万旗红，</p>
 <p>友自八方风自东。</p>
@@ -1861,7 +1861,7 @@ intitle九 那达慕大会
 <p>锦标夺得欢呼里，</p>
 <p>含笑安然理翠衣。</p>
 </blockquote>
-intitle十 赠呼市民间歌舞团
+<p class="intitle">十<br/><span class="c pretxt">赠呼市民间歌舞团</span></p>
 <blockquote>
 <p>亲切二人台，</p>
 <p>民间歌舞来，</p>
@@ -1877,28 +1877,28 @@ intitle十 赠呼市民间歌舞团
 
 h2“八一”建军节三十五周年纪念，献诗祝贺
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>传统光荣卅五春，</p>
 <p>英雄勋业与时新！</p>
 <p>柳营雨露花争秀，</p>
 <p>不让风流前辈人！</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>最爱人民解放军，</p>
 <p>官兵能武更能文！</p>
 <p>奔腾万马东风阔，</p>
 <p>志在干城气似云！</p>
 </blockquote>
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>海南终岁百花荣，</p>
 <p>五月天山雪乍晴，</p>
 <p>不辱神州一寸土，</p>
 <p>胸中敌我最分明！</p>
 </blockquote>
-intitle四
+<p class="intitle">四</p>
 <blockquote>
 <p>列阵堂堂海陆空，</p>
 <p>海天风卷大旗红！</p>
@@ -1938,21 +1938,21 @@ h2《大众电影》改刊纪念
 
 h2迎春
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>六亿五千万，风流一代人：</p>
 <p>更生凭自力，同志以相亲。</p>
 <p>酒热诗歌壮，梅红天地新，</p>
 <p>冲寒花倍好，奋发共迎春。</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>村村生产忙，稼穑大文章！</p>
 <p>引水防迟雨，流烟拒早霜；</p>
 <p>春多集体汗，秋富万家粮！</p>
 <p>解冻闻初雁，东风云海香！</p>
 </blockquote>
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>海南秧已绿，漠北雪封沙，</p>
 <p>气象虽千态，人民是一家；</p>
@@ -2079,7 +2079,7 @@ h2诗五首
 
 <p class="pretxt">一九六三年夏天，河北省文化局召集了本省二十多位剧作家，到秦皇岛来开创作会议。文化局申伸同志也把我约来——我血压稍高，时患眩晕，来此可略事休养，并可与剧作家们交换些创作意见。在会议期间，我还游览了天下第一关、孟姜女庙，及北戴河等胜迹。这些好地方，我以前都没有到过，开开眼界，十分高兴！更可喜的是我还遇到了河北省梆子剧院青年跃进剧团、河北省歌舞剧院、东风豫剧团和小海燕评剧团等团体的朋友们。遇到他们，就写一首小诗相赠，作为见面礼。因头昏，诗写得不很好，可是多少有些感情，舍不得扔掉，即在此发表出来，请大家指正。</p>
 
-intitle一 赠申伸同志
+<p class="intitle">一<br/><span class="c pretxt">赠申伸同志</span></p>
 <blockquote>
 <p>七月秦皇岛，云轻蝉韵幽。</p>
 <p>港深冬不冻，天爽暑如秋。</p>
@@ -2089,14 +2089,14 @@ intitle一 赠申伸同志
 <p><br/></p>
 <p class="pretxt">一九六三年伏日，河北廿余剧作家同来秦皇岛进行创作时，海员大楼建成，碧海门前，潮声入枕，诸贤寓此，奇文丽景，诚乐事也。申伸同志约予与文友会谈，获益受教匪浅。至为感激吟此留念呈致谢意。</p>
 
-intitle二 赠河北省歌舞剧院
+<p class="intitle">二<br/><span class="c pretxt">赠河北省歌舞剧院</span></p>
 <blockquote>
 <p>悲歌燕赵史堂堂，斗志于今百倍强。</p>
 <p>革命风云新乐府，翻身日月大文章。</p>
 <p>休哀日笛梅花落，善舞红旗丝竹昂。</p>
 <p>北去长城东至海，轻装小队入农庄。</p>
 </blockquote>
-intitle三 赠河北梆子剧院跃进剧团
+<p class="intitle">三<br/><span class="c pretxt">赠河北梆子剧院跃进剧团</span></p>
 <blockquote>
 <p>全民齐跃进，戏曲奋争先。</p>
 <p>壮士劈山去，【66：当时该团曾公演《宝莲灯》。——作者】英雄拦马前。【67：当时该团曾公演《拦马》。——作者】</p>
@@ -2105,7 +2105,7 @@ intitle三 赠河北梆子剧院跃进剧团
 </blockquote>
 <p class="lk">一九六三年八月于北戴河</p>
 
-intitle四 赠东风豫剧团
+<p class="intitle">四<br/><span class="c pretxt">赠东风豫剧团</span></p>
 <blockquote>
 <p>玉润珠圆花满枝，</p>
 <p>东风歌舞月移迟。</p>
@@ -2114,7 +2114,7 @@ intitle四 赠东风豫剧团
 </blockquote>
 <p class="lk">一九六三年八月于秦皇岛之海员大楼</p>
 
-intitle五 赠小海燕评剧团
+<p class="intitle">五<br/><span class="c pretxt">赠小海燕评剧团</span></p>
 <blockquote>
 <p>风光如此最多情，山海关头山海明。</p>
 <p>西去长城一万里，南来大地几千程。</p>
@@ -2158,28 +2158,28 @@ h2游秦皇岛【69：本篇据手迹收入。】
 
 h2北戴河赠四友诗
 
-intitle一 赠李焕之【70：李焕之（1919-2000），原籍福建晋江，生于香港。作曲家、音乐家。】
+<p class="intitle">一<br/><span class="c pretxt">赠李焕之【70：李焕之（1919-2000），原籍福建晋江，生于香港。作曲家、音乐家。】</span></p>
 <blockquote>
 <p>碧海为琴浪作弦，</p>
 <p>水仙吹笛老龙眠；</p>
 <p>滩头自有知音客，</p>
 <p>谱出风云交响篇！</p>
 </blockquote>
-intitle二 赠李可染【71：李可染（1907-1989），江苏徐州人。国画家、美术教育家。】
+<p class="intitle">二<br/><span class="c pretxt">赠李可染【71：李可染（1907-1989），江苏徐州人。国画家、美术教育家。】</span></p>
 <blockquote>
 <p>牧童牛背柳风斜，</p>
 <p>短笛吹红几树花。</p>
 <p>白石山翁好弟子，</p>
 <p>善从诗境画农家。</p>
 </blockquote>
-intitle三 赠曹禺【72：曹禺（1910-1996）．湖北潜江人。剧作家。】
+<p class="intitle">三<br/><span class="c pretxt">赠曹禺【72：曹禺（1910-1996）．湖北潜江人。剧作家。】</span></p>
 <blockquote>
 <p>推窗默对秦皇岛，</p>
 <p>碧海青天白浪花。</p>
 <p>潮去潮来人不老，</p>
 <p>昂头阔步作诗家。</p>
 </blockquote>
-intitle四 赠阳翰笙【73：阳翰笙（1902-1993），祖籍湖南安仁，生于四川高县。作家、戏剧家。】
+<p class="intitle">四<br/><span class="c pretxt">赠阳翰笙【73：阳翰笙（1902-1993），祖籍湖南安仁，生于四川高县。作家、戏剧家。】</span></p>
 <blockquote>
 <p>革命风雷神鬼惊，</p>
 <p>旗红如火大刀横。</p>
@@ -2195,28 +2195,28 @@ intitle四 赠阳翰笙【73：阳翰笙（1902-1993），祖籍湖南安仁，�
 
 h2津门咏【74：本篇作于1963年9月。】
 
-intitle一 新港
+<p class="intitle">一<br/><span class="c pretxt">新港</span></p>
 <blockquote>
 <p>新港云水阔，</p>
 <p>帆还海洋亲。</p>
 <p>破浪乘风去，</p>
 <p>天涯多友人。</p>
 </blockquote>
-intitle二 艺术博物馆
+<p class="intitle">二<br/><span class="c pretxt">艺术博物馆</span></p>
 <blockquote>
 <p>幽燕文史远，</p>
 <p>慷慨几千年，</p>
 <p>博古为今用，</p>
 <p>风流胜昔贤。</p>
 </blockquote>
-intitle三 外轮供应公司
+<p class="intitle">三<br/><span class="c pretxt">外轮供应公司</span></p>
 <blockquote>
 <p>朋友遍天下，</p>
 <p>轮船东海来，</p>
 <p>有无欣互惠，</p>
 <p>宾主笑颜开。</p>
 </blockquote>
-intitle四 梆子剧院
+<p class="intitle">四<br/><span class="c pretxt">梆子剧院</span></p>
 <blockquote>
 <p>气壮幽燕歌慨慷，</p>
 <p>一声云水几低昂，</p>
@@ -2258,21 +2258,21 @@ h2国庆逢秋节
 
 h2诗三首
 
-intitle一 长沙国庆日
+<p class="intitle">一<br/><span class="c pretxt">长沙国庆日</span></p>
 <blockquote>
 <p>长沙国庆日，万众大游行：</p>
 <p>旗展风轻舞，云开花倍明。</p>
 <p>相邀争跃进，团结是长城。</p>
 <p>歌唱新中国，声声到北京。</p>
 </blockquote>
-intitle二 参加长沙国庆节庆祝大会
+<p class="intitle">二<br/><span class="c pretxt">参加长沙国庆节庆祝大会</span></p>
 <blockquote>
 <p>革命人民集广场，红旗十万彩千行：</p>
 <p>龙飞狮舞歌声起，马壮人强斗志昂。</p>
 <p>齐树雄心争跃进，每凭胜利作新装；</p>
 <p>狂欢滚滚湘江浪，恰是中秋飘桂香。</p>
 </blockquote>
-intitle三 登岳阳楼
+<p class="intitle">三<br/><span class="c pretxt">登岳阳楼</span></p>
 <blockquote>
 <p>昨别秦皇岛，今上岳阳楼；</p>
 <p>湖光八百里，风色近中秋。</p>
@@ -2286,14 +2286,14 @@ intitle三 登岳阳楼
 
 h2祝捷
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>革命风雷士气豪，</p>
 <p>偷飞“忧二”岂能逃！</p>
 <p>英雄自有凌云志，</p>
 <p>祖国天空试战袍！</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>“忧二”高天碎若毛，</p>
 <p>野心美帝信徒劳！</p>
@@ -2371,14 +2371,14 @@ h2致章老【79：本篇据手迹收入。章老，即章士钊（1881-1973）�
 
 h2凯歌<br/><span class="c pretxt">（庆贺我空军再次击落美制蒋匪U-2飞机一架）</span>
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>天上长城卫领空，</p>
 <p>定教飞贼葬泥中！</p>
 <p>再来依旧头朝下，</p>
 <p>莫怪英雄打靶凶！</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>空军胜利在云霄，</p>
 <p>无愧英雄志气高！</p>
@@ -2392,21 +2392,21 @@ intitle二
 
 h2献诗祝贺<br/><span class="c pretxt">（为中国人民解放军第三届美术作品展览会而作）</span>
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>笔墨刀枪样样勤，</p>
 <p>风流能武更能文！</p>
 <p>丹青今拓新天地，</p>
 <p>险浪奇峰画练军！</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>一片丹心万事红，</p>
 <p>英雄慷慨画英雄！</p>
 <p>雷锋形象光千丈，</p>
 <p>笔墨纵横肝胆中！</p>
 </blockquote>
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>种豆栽瓜爱力耕，</p>
 <p>既知生产又知兵。</p>
@@ -2497,39 +2497,39 @@ h2黄山之游——致郭老【83：此信写于1964年10月12日，现据手�
 <p class="lk">老舍上</p>
 <p class="lk">十二</p>
 
-intitle黄山云
+<p class="intitle">黄山云</p>
 <blockquote>
 <p>奇景惊心语自奇</p>
 <p>登游何必苦寻诗</p>
 <p>眼前云海波澜阔</p>
 <p>七十二峰游泳之</p>
 </blockquote>
-intitle黄山奇
+<p class="intitle">黄山奇</p>
 <blockquote>
 <p>人间多少佳山水 独许黄山胜太华</p>
 <p>云海横空移彩浪 天峰绝顶落幽花</p>
 <p>千重烟树蝉声翠 薄暮晴松鸟语霞</p>
 <p>怪石飞泉诗境里 溪头吟罢饮丹砂</p>
 </blockquote>
-intitle黄山松
+<p class="intitle">黄山松</p>
 <blockquote>
 <p>险处悠然见老松 黄山奇矣复从容</p>
 <p>枝横绝壁根穿石 上舞飞莺下卧龙</p>
 <p>云海去来含翠影 霜天今古立青峰</p>
 <p>三冬雪后寒风急 奋战丛针寸寸锋</p>
 </blockquote>
-intitle自光明顶至始信峰
+<p class="intitle">自光明顶至始信峰</p>
 <blockquote>
 <p>玉柱擎天云海开 登峰始信胜蓬莱</p>
 <p>石猿无语歌声起 人自光明顶上来</p>
 </blockquote>
-intitle文殊院
+<p class="intitle">文殊院</p>
 <blockquote>
 <p>天都奇伟海云幽 莲蕊莲花高入秋</p>
 <p>欲识黄山真面目 风光半在玉屏楼</p>
 </blockquote>
 
-intitle赠摄影专家“黄山老人”卢老施福【84：卢施福（1898-1983），广东中山人。摄影家。】
+<p class="intitle">赠摄影专家“黄山老人”卢老施福【84：卢施福（1898-1983），广东中山人。摄影家。】</p>
 <blockquote>
 <p>黄山奇绝处 世上几人知</p>
 <p>欲识云中路 须随卢大师</p>
@@ -2537,21 +2537,21 @@ intitle赠摄影专家“黄山老人”卢老施福【84：卢施福（1898-198
 <p>北海孤灯夜 辛勤读画时</p>
 <p class="pretxt">（灯下冲洗影片至深夜）</p>
 </blockquote>
-intitle赴徽州途中
+<p class="intitle">赴徽州途中</p>
 <blockquote>
 <p>两袖白云花满头</p>
 <p>黄山游罢又徽州</p>
 <p>皖南一路佳山水</p>
 <p>竹翠茶香烟树幽</p>
 </blockquote>
-intitle屯溪
+<p class="intitle">屯溪</p>
 <blockquote>
 <p>最爱江南鱼米乡</p>
 <p>屯溪古镇更情长</p>
 <p>小华山下桃花水</p>
 <p>况有茶香与墨香</p>
 </blockquote>
-intitle轮箍厂留赠工人同志
+<p class="intitle">轮箍厂留赠工人同志</p>
 <blockquote>
 <p>壮怀决不乞人怜</p>
 <p>自力更生头顶天</p>
@@ -2589,14 +2589,14 @@ h2诗谢郭老秋雨中来访【88：本篇据手迹收入。】
 
 h2诗二首【89：本篇作于1965年。】
 
-intitle一 昔年
+<p class="intitle">一<br/><span class="c pretxt">昔年</span></p>
 <blockquote>
 <p>我昔生忧患，愁长记忆新；</p>
 <p>童年习冻饿，壮岁饱酸辛。</p>
 <p>滚滚横流水，茫茫末世人。</p>
 <p>倘无共产党，荒野鬼为邻！</p>
 </blockquote>
-intitle二 今日
+<p class="intitle">二<br/><span class="c pretxt">今日</span></p>
 <blockquote>
 <p>晚年逢盛世，日夕百无忧；</p>
 <p>儿女竞劳动，工农共戚休。</p>
@@ -2671,63 +2671,63 @@ h2游日十七首【94：本篇据手迹收入。】
 
 <p><b>附诗十七首</b></p>
 
-intitle奈良三笠山
+<p class="intitle">奈良三笠山</p>
 <blockquote>
 <p>阿倍<span class="block">（阿倍仲磨或作阿郎）</span>当年思奈良，</p>
 <p>至今三笠草微黄。</p>
 <p>乡情莫问天边月，</p>
 <p>自有樱花胜洛阳。</p>
 </blockquote>
-intitle赠今井——奈良书法家曾访华
+<p class="intitle">赠今井——奈良书法家曾访华</p>
 <blockquote>
 <p>文化交流古已然，</p>
 <p>友情如海海连天。</p>
 <p>奈良香火唐年寺，</p>
 <p>未许乌云遮月圆。</p>
 </blockquote>
-intitle奈良东大寺
+<p class="intitle">奈良东大寺</p>
 <blockquote>
 <p>佛光塔影净无尘，</p>
 <p>几点樱花迎早春。</p>
 <p>踏遍松阴何忍去，</p>
 <p>依依小鹿送游人。</p>
 </blockquote>
-intitle京都见初月
+<p class="intitle">京都见初月</p>
 <blockquote>
 <p>仰首青山俯首城，</p>
 <p>参差灯火万珠明。</p>
 <p>东风不吝春消息，</p>
 <p>小月偷看桥外樱。</p>
 </blockquote>
-intitle琵琶湖远望
+<p class="intitle">琵琶湖远望</p>
 <blockquote>
 <p>琵琶湖映比良山，</p>
 <p>银色峰头碧玉湾。</p>
 <p>莫怨樱迟红未绽，</p>
 <p>双鸠软语破春寒。</p>
 </blockquote>
-intitle清水寺访大西上人【95：大西上人（1875-1983），原名大西良庆。日本佛教界长老，中日友好佛教协会名誉会长。】
+<p class="intitle">清水寺访大西上人【95：大西上人（1875-1983），原名大西良庆。日本佛教界长老，中日友好佛教协会名誉会长。】</p>
 <blockquote>
 <p>春艳樱花秋艳枫，</p>
 <p>夏初嫩绿间深红。</p>
 <p>高僧九十声如罄，</p>
 <p>日饮清泉伴古松。</p>
 </blockquote>
-intitle西芳寺（亦号苔寺）
+<p class="intitle">西芳寺（亦号苔寺）</p>
 <blockquote>
 <p>老僧禅罢播青苔，</p>
 <p>引水分沙着意栽。</p>
 <p>山色轻添苔色碧，</p>
 <p>一灯幽处拜如来。</p>
 </blockquote>
-intitle芦湖
+<p class="intitle">芦湖</p>
 <blockquote>
 <p>一山微雨半湖烟，</p>
 <p>同上芦湖游客船。</p>
 <p>富士银峰云隐隐，</p>
 <p>风来暗气艳阳天。</p>
 </blockquote>
-intitle镰仓大佛
+<p class="intitle">镰仓大佛</p>
 <blockquote>
 <p>履响春城玉笛催，</p>
 <p>花旗商贾为何来？</p>
@@ -2748,7 +2748,7 @@ intitle镰仓大佛
 <p>东方今日东风起，</p>
 <p>谁道樱花无主人。</p>
 </blockquote>
-intitle聂耳墓献花【96：聂耳（1912-1935），原籍云南玉溪，生于昆明。作曲家。】
+<p class="intitle">聂耳墓献花【96：聂耳（1912-1935），原籍云南玉溪，生于昆明。作曲家。】</p>
 <blockquote>
 <p>墓对茫茫东海波，</p>
 <p>英雄岂问命如何？</p>
@@ -2762,14 +2762,14 @@ intitle聂耳墓献花【96：聂耳（1912-1935），原籍云南玉溪，生�
 <p>精神不死天难夺，</p>
 <p>千古潮声东海滨。</p>
 </blockquote>
-intitle赠木村菊男
+<p class="intitle">赠木村菊男</p>
 <blockquote>
 <p>木高十丈寿千秋，</p>
 <p>村雨山风铁干遒。</p>
 <p>菊傲寒霜梅傲雪，</p>
 <p>男儿宝剑傲王侯！</p>
 </blockquote>
-intitle赠有吉佐和子【97：有吉佐和子（1931-1984），日本女作家。】
+<p class="intitle">赠有吉佐和子【97：有吉佐和子（1931-1984），日本女作家。】</p>
 <blockquote>
 <p>有吉女文豪，</p>
 <p>神清笔墨骄；</p>
@@ -2780,14 +2780,14 @@ intitle赠有吉佐和子【97：有吉佐和子（1931-1984），日本女作�
 <p>悲昂千代史<span class="block">（剧中女英雄名千代）</span>，</p>
 <p>白发战狂潮<span class="block">（台风来桔园受害千代已老仍奋战不懈）</span>。</p>
 </blockquote>
-intitle松岛湾（诗人芭蕉游此未敢题诗）
+<p class="intitle">松岛湾（诗人芭蕉游此未敢题诗）</p>
 <blockquote>
 <p>一湾三百岛，岛岛锁春烟。</p>
 <p>碧浪连沧海，横云遮远帆。</p>
 <p>松涛香雨后，鸥影乱风前。</p>
 <p>未敢题只字，芭蕉尊自然。</p>
 </blockquote>
-intitle仙台鲁迅碑献花【98：鲁迅（1881-1936），浙江绍兴人。作家。】
+<p class="intitle">仙台鲁迅碑献花【98：鲁迅（1881-1936），浙江绍兴人。作家。】</p>
 <blockquote>
 <p>青叶山前鲁迅碑，</p>
 <p>永铭俯首与横眉。</p>
@@ -2804,21 +2804,21 @@ intitle仙台鲁迅碑献花【98：鲁迅（1881-1936），浙江绍兴人。�
 
 h2诗三首<br/><span class="c pretxt">——中国人民坚决站在多米尼加人民一边</span>
 
-intitle一
+<p class="intitle">一</p>
 <blockquote>
 <p>不诛美帝乱无休，</p>
 <p>狼子贪心吞地球。</p>
 <p>多米尼加操必胜，</p>
 <p>一分干涉万分仇！</p>
 </blockquote>
-intitle二
+<p class="intitle">二</p>
 <blockquote>
 <p>正正堂堂举义旗，</p>
 <p>中华儿女誓支持；</p>
 <p>英雄创造新时代，</p>
 <p>热血豪情写史诗。</p>
 </blockquote>
-intitle三
+<p class="intitle">三</p>
 <blockquote>
 <p>暴政推翻争自由，</p>
 <p>壮怀生死不低头。</p>
