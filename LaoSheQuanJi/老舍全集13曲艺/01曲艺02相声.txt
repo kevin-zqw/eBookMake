@@ -76,12 +76,12 @@ h2中秋月饼【1：本篇作于1938年。1939年春，在重庆电影制片厂
 <p class="xj"><span class="xchar">甲</span> 月饼，又圆又甜，象征着全国同胞，团结一致，圆圆满满，甜蜜地走向新的生活道路！</p>
 <p class="xj"><span class="xchar">乙</span> 好！</p>
 
-lk原载1982年10月《天津演唱》
+<p class="lk">原载1982年10月《天津演唱》</p>
 
 
 
 h2维生素
-·改编《菜单子》·
+<p class="type">·改编《菜单子》·</p>
 
 <p class="xj"><span class="xchar">甲</span> 我昨天碰见你的二哥了。</p>
 <p class="xj"><span class="xchar">乙</span> 真的？</p>
@@ -128,7 +128,7 @@ h2维生素
 <p class="xj"><span class="xchar">甲</span> 我们？什么也没要，偷偷地把桌上的咸菜都给吃了！</p>
 <p class="xj"><span class="xchar">乙</span> 好德行！</p>
 
-lk原载1950年3月22日《光明日报》
+<p class="lk">原载1950年3月22日《光明日报》</p>
 
 
 
@@ -319,8 +319,8 @@ h2两条路线
 <p class="xj"><span class="xchar">乙</span> 怎么留神？</p>
 <p class="xj"><span class="xchar">甲</span> 别教蒋介石把你活埋了。</p>
 
-lk原载《对口相声》——“工农兵文艺丛书”，
-lk三联书店1950年7月初版
+<p class="lk">原载《对口相声》——“工农兵文艺丛书”，</p>
+<p class="lk">三联书店1950年7月初版</p>
 
 
 
@@ -356,13 +356,13 @@ h2小相声
 <p class="xj"><span class="xchar">乙</span> 别太悲观，老朋友！我给您出个主意：您去劝告劝告张别古，叫他作个检讨，自放自收，不就证明您没有错误吗？</p>
 <p class="xj"><span class="xchar">甲</span> 对，这倒是个好办法！</p>
 
-lk原载1957年4月24日《人民日报》
+<p class="lk">原载1957年4月24日《人民日报》</p>
 
 
 
 
 h2访问杜勒斯
-·小相声·
+<p class="type">·小相声·</p>
 
 <p class="block">访问者——甲</p>
 <p class="block">杜勒斯——乙</p>
@@ -409,7 +409,7 @@ h2访问杜勒斯
 <p class="xj"><span class="xchar">乙</span> 怎么见不着我了呢？</p>
 <p class="xj"><span class="xchar">甲</span> 你越问，我越不说！</p>
 
-lk原载1958年4月11日《人民日报》
+<p class="lk">原载1958年4月11日《人民日报》</p>
 
 
 
@@ -516,13 +516,13 @@ h2扫荡五气
 <p class="xj"><span class="xchar">甲</span> 也说出来吧！</p>
 <p class="xj"><span class="xchar">乙</span> 你呀是不折不扣的二百五！</p>
 
-lk原载1958年《北京文艺》四月号
+<p class="lk">原载1958年《北京文艺》四月号</p>
 
 
 
 
 h2厚古薄今
-·小相声·
+<p class="type">·小相声·</p>
 
 <p class="xj"><span class="xchar">甲</span> 您就说我爸爸吧……</p>
 <p class="xj"><span class="xchar">乙</span> 说说您自己不更好吗？</p>
@@ -559,7 +559,7 @@ h2厚古薄今
 <p class="xj"><span class="xchar">甲</span> 那不是古色古香吗？</p>
 <p class="xj"><span class="xchar">乙</span> 您爱进山洞去，您去！我爱我们新色新香的社会主义！</p>
 
-lk原载1958年5月16日《人民日报》
+<p class="lk">原载1958年5月16日《人民日报》</p>
 
 
 
@@ -773,7 +773,7 @@ h2试验田
 </blockquote>
 <p class="xj"><span class="xchar">乙</span> 得，干上没完！</p>
 
-lk原载1958年《曲艺》五月号
+<p class="lk">原载1958年《曲艺》五月号</p>
 
 
 
@@ -852,7 +852,7 @@ h2双反
 <p class="xj"><span class="xchar">乙</span> 您不是下半月没有钱吗？</p>
 <p class="xj"><span class="xchar">甲</span> 你怎么这么保守呀，我没钱，你不会请我吗？</p>
 
-lk原载1958年《曲艺》五月号
+<p class="lk">原载1958年《曲艺》五月号</p>
 
 
 
@@ -894,7 +894,7 @@ h2说明白话
 <p class="xj"><span class="xchar">甲</span> 你们呀，太笨，太糊涂！</p>
 <p class="xj"><span class="xchar">乙</span> 是呀，我承认我们糊涂！可是自从念了您的诗呀，我们就更糊涂啦！</p>
 
-lk原载1958年《蜜蜂》六月号
+<p class="lk">原载1958年《蜜蜂》六月号</p>
 
 
 
@@ -1009,14 +1009,14 @@ h2神仙辞职
 <p class="xj"><span class="xchar">甲</span> 找他的爱人去！</p>
 <p class="xj"><span class="xchar">乙</span> 对！地上比天上好的多！</p>
 
-lk原载1958年《北京文艺》七月号
+<p class="lk">原载1958年《北京文艺》七月号</p>
 
 
 
 
 
 h2士气不振
-·小相声·
+<p class="type">·小相声·</p>
 
 <p class="block">甲——美帝侵略黎巴嫩的一个水兵，名约翰。</p>
 <p class="block">乙——另一水兵，名保罗。</p>
@@ -1075,13 +1075,13 @@ h2士气不振
 <p class="xj"><span class="xchar">甲</span> 我看哪，咱们这就开小差吧，你说怎么样？</p>
 <p class="xj"><span class="xchar">乙</span> 行，约翰，你不是胡涂虫了！</p>
 
-lk原载1958年7月26日《北京日报》
+<p class="lk">原载1958年7月26日《北京日报》</p>
 
 
 
 
 h2美英要挨揍
-·小相声·
+<p class="type">·小相声·</p>
 
 <p class="xj"><span class="xchar">甲</span> 您也会说相声？</p>
 <p class="xj"><span class="xchar">乙</span> 会那么一点。</p>
@@ -1131,13 +1131,13 @@ h2美英要挨揍
 <p class="xj"><span class="xchar">乙</span> 我呀，说不上来！反正我知道，他们只要一动手就准一齐挨揍！</p>
 <p class="xj"><span class="xchar">甲</span> 您的相声技巧不怎么样，可是结论倒作的很正确！</p>
 
-lk原载1958年8月12日《中国工人》第十五期
+<p class="lk">原载1958年8月12日《中国工人》第十五期</p>
 
 
 
 
 h2访问记
-·小相声·
+<p class="type">·小相声·</p>
 
 <p class="block">甲——访问者</p>
 <p class="block">乙——杜勒斯</p>
@@ -1180,7 +1180,7 @@ h2访问记
 
 
 h2杜勒斯发高烧
-·小相声·
+<p class="type">·小相声·</p>
 
 <p class="xj"><span class="xchar">甲</span> 你说杜勒斯有什么特点？</p>
 <p class="xj"><span class="xchar">乙</span> 他呀，爱发高烧。</p>
@@ -1219,13 +1219,13 @@ h2杜勒斯发高烧
 <p class="xj"><span class="xchar">甲</span> 哪四个字？</p>
 <p class="xj"><span class="xchar">乙</span> 自取灭亡！</p>
 
-lk原载1958年9月25日《中国青年报》
+<p class="lk">原载1958年9月25日《中国青年报》</p>
 
 
 
 
 h2钢帅报捷
-·小相声·
+<p class="type">·小相声·</p>
 
 <p class="xj"><span class="xchar">甲</span> 啊，哈哈哈……（又笑又跳）</p>
 <p class="xj"><span class="xchar">乙</span> 我说，你怎么啦？</p>
@@ -1265,7 +1265,7 @@ h2钢帅报捷
 <p class="xj"><span class="xchar">乙</span> 杜勒斯想了半天，才说：这豆腐么？是西瓜作的！</p>
 <p class="xj"><span class="xchar">甲</span> 一点不错！杜勒斯要不胡说八道，还怎算是杜勒斯呢！</p>
 
-lk原载1958年12月22日《中国青年报》
+<p class="lk">原载1958年12月22日《中国青年报》</p>
 
 
 
@@ -1543,7 +1543,7 @@ h2小相声一则
 <p class="xj"><span class="xchar">甲</span> 喊什么来着？</p>
 <p class="xj"><span class="xchar">乙</span> 退票！</p>
 
-lk原载1959年7月15日《光明日报》
+<p class="lk">原载1959年7月15日《光明日报》</p>
 
 
 
@@ -1686,14 +1686,14 @@ h2过新年
 <p class="xj"><span class="xchar">甲</span> 有的是被子，我先钻被窝儿！</p>
 <p class="xj"><span class="xchar">乙</span> 真有出息！</p>
 
-lk原载1960年1月24日《曲艺》一月号
+<p class="lk">原载1960年1月24日《曲艺》一月号</p>
 
 
 
 
 
 h2李承晚滚开了
-·小相声·
+<p class="type">·小相声·</p>
 
 <p class="block">甲——美帝驻南朝鲜代表</p>
 <p class="block">乙——李承晚</p>
@@ -1741,7 +1741,7 @@ h2李承晚滚开了
 <p class="xj"><span class="xchar">乙</span> 不滚？</p>
 <p class="xj"><span class="xchar">甲</span> 我有直升飞机！</p>
 
-lk原载1960年4月29日《人民日报》
+<p class="lk">原载1960年4月29日《人民日报》</p>
 
 
 
@@ -1893,7 +1893,7 @@ h2鸿兴饭馆红旗飘
 <p class="xj"><span class="xchar">乙</span> 你没穿着吗？</p>
 <p class="xj"><span class="xchar">甲</span> 你的刚洗过，上面没有活的呀！</p>
 
-lk原载1960年《科学大众》七月号
+<p class="lk">原载1960年《科学大众》七月号</p>
 
 
 
@@ -1931,13 +1931,13 @@ h2乱形容
 <p class="xj"><span class="xchar">甲</span> 怎么正确？</p>
 <p class="xj"><span class="xchar">乙</span> 证明爸爸千真万确是男性的，揍的真疼！</p>
 
-lk原载1961年3月18日《羊城晚报》
+<p class="lk">原载1961年3月18日《羊城晚报》</p>
 
 
 
 
 h2读书
-·小相声·
+<p class="type">·小相声·</p>
 
 <p class="xj"><span class="xchar">甲</span> 你有什么嗜好？</p>
 <p class="xj"><span class="xchar">乙</span> 我？最爱读书。</p>
@@ -1983,7 +1983,7 @@ h2读书
 <p class="xj"><span class="xchar">乙</span> 我自己刚才就告诉了你：越念书越糊涂！</p>
 <p class="xj"><span class="xchar">甲</span> 那能怪书吗？</p>
 
-lk原载1961年11月2日《人民日报》
+<p class="lk">原载1961年11月2日《人民日报》</p>
 
 
 
@@ -2099,7 +2099,7 @@ h2八九十枝花
 <p class="xj"><span class="xchar">乙</span> 我二叔就叫何必！</p>
 <p class="xj"><span class="xchar">甲</span> 嘿！怎这么巧哪！</p>
 
-lk原载1961年《曲艺》第六期
+<p class="lk">原载1961年《曲艺》第六期</p>
 
 
 
@@ -2302,7 +2302,7 @@ h2柿子丰收
 <p class="xj"><span class="xchar">乙</span> 是呀！好专摔别人，不摔自己！</p>
 <p class="xj"><span class="xchar">甲</span> 你可真有出息！</p>
 
-lk原载1962年《曲艺》第六期
+<p class="lk">原载1962年《曲艺》第六期</p>
 
 
 
@@ -2352,4 +2352,4 @@ h2新年愉快
 <p class="xj"><span class="xchar">乙</span> 我不是说过吗？我是要继承传统吗？</p>
 <p class="xj"><span class="xchar">甲</span> 这样的传统啊，千万继承不得！</p>
 
-lk原载1963年《北京文艺》二月号
+<p class="lk">原载1963年《北京文艺》二月号</p>
