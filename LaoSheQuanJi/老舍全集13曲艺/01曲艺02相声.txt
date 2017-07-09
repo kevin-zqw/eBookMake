@@ -1173,7 +1173,7 @@
 <p class="xj"><span class="xchar">乙</span> 没关系！反正天天挨骂！</p>
 <p class="xj"><span class="xchar">甲</span> 好，再见吧！祝你多挨骂，挨揍！</p>
 
-原载1958年9月8日《人民日报》
+<p class="lk">原载1958年9月8日《人民日报》</p>
 
 
 
