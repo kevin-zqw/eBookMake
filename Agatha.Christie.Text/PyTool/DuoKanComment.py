@@ -40,7 +40,7 @@ def process_comment(file_path):
         f.write('\n')
         f.write('</body>'+'\n')
         f.write('</html>'+'\n')
-        
+
         f.truncate()
 
 
