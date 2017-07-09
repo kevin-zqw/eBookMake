@@ -1,7 +1,7 @@
-h2相声
+<h2 class="chapter">相声</h2>
 
 
-h2中秋月饼【1：本篇作于1938年。1939年春，在重庆电影制片厂的联欢晚会上，作者亲自登台与相声艺人欧少久表演了这段相声。现据欧少久回忆讲述，殷文硕记录收入。】
+<h2 class="chapter">中秋月饼【1：本篇作于1938年。1939年春，在重庆电影制片厂的联欢晚会上，作者亲自登台与相声艺人欧少久表演了这段相声。现据欧少久回忆讲述，殷文硕记录收入。】</h2>
 
 <p class="xj"><span class="xchar">甲</span> 月亮出来照九州，几家欢乐几家愁，几家高楼饮美酒，几家飘流在街头。</p>
 <p class="xj"><span class="xchar">乙</span> 噢，您这是朗诵？</p>
@@ -80,7 +80,7 @@ h2中秋月饼【1：本篇作于1938年。1939年春，在重庆电影制片厂
 
 
 
-h2维生素
+<h2 class="chapter">维生素</h2>
 <p class="type">·改编《菜单子》·</p>
 
 <p class="xj"><span class="xchar">甲</span> 我昨天碰见你的二哥了。</p>
@@ -133,7 +133,7 @@ h2维生素
 
 
 
-h2改编《绕口令》【2：本篇刊载时署：侯一尘口述、老舍改编。】
+<h2 class="chapter">改编《绕口令》【2：本篇刊载时署：侯一尘口述、老舍改编。】</h2>
 <p class="block">甲——逗</p>
 <p class="block">乙——捧</p>
 <p><br/></p>
@@ -203,7 +203,7 @@ h2改编《绕口令》【2：本篇刊载时署：侯一尘口述、老舍改�
 
 
 
-h2两条路线
+<h2 class="chapter">两条路线</h2>
 
 <p class="xj"><span class="xchar">甲</span> 看您这两天愁眉不展的，大概情绪不很好。</p>
 <p class="xj"><span class="xchar">乙</span> 您真猜对啦。</p>
@@ -324,7 +324,7 @@ h2两条路线
 
 
 
-h2小相声
+<h2 class="chapter">小相声</h2>
 
 <p class="xj"><span class="xchar">甲</span> 您那里也要搞百花齐放吧？</p>
 <p class="xj"><span class="xchar">乙</span> 嗯！看样子，大概不搞不行了！您那里怎样呢？</p>
@@ -361,7 +361,7 @@ h2小相声
 
 
 
-h2访问杜勒斯
+<h2 class="chapter">访问杜勒斯</h2>
 <p class="type">·小相声·</p>
 
 <p class="block">访问者——甲</p>
@@ -414,7 +414,7 @@ h2访问杜勒斯
 
 
 
-h2扫荡五气
+<h2 class="chapter">扫荡五气</h2>
 
 <p class="xj"><span class="xchar">乙</span> 批评和自我批评极可贵！</p>
 <p class="xj"><span class="xchar">甲</span> <span class="block">（没有好气地）</span>啊！<span class="block">（突然而来）</span>你弟弟呢？</p>
@@ -521,7 +521,7 @@ h2扫荡五气
 
 
 
-h2厚古薄今
+<h2 class="chapter">厚古薄今</h2>
 <p class="type">·小相声·</p>
 
 <p class="xj"><span class="xchar">甲</span> 您就说我爸爸吧……</p>
@@ -564,7 +564,7 @@ h2厚古薄今
 
 
 
-h2试验田
+<h2 class="chapter">试验田</h2>
 
 <p class="xj"><span class="xchar">乙</span> 喝，我的老哥哥！老没见，您倒好哇？</p>
 <p class="xj"><span class="xchar">甲</span> 嗯——好！</p>
@@ -778,7 +778,7 @@ h2试验田
 
 
 
-h2双反
+<h2 class="chapter">双反</h2>
 
 <p class="xj"><span class="xchar">甲</span> 您好！二哥！听说您有点保守？</p>
 <p class="xj"><span class="xchar">乙</span> 您好！听说您有点浪费？</p>
@@ -857,7 +857,7 @@ h2双反
 
 
 
-h2说明白话
+<h2 class="chapter">说明白话</h2>
 
 <p class="xj"><span class="xchar">甲</span> 你念过我的诗了没有？</p>
 <p class="xj"><span class="xchar">乙</span> 念过了。</p>
@@ -898,7 +898,7 @@ h2说明白话
 
 
 
-h2神仙辞职
+<h2 class="chapter">神仙辞职</h2>
 
 <p class="xj"><span class="xchar">甲</span> 你知道最近天上的新闻吗？</p>
 <p class="xj"><span class="xchar">乙</span> 天上的？不知道！你晓得吗？</p>
@@ -1015,7 +1015,7 @@ h2神仙辞职
 
 
 
-h2士气不振
+<h2 class="chapter">士气不振</h2>
 <p class="type">·小相声·</p>
 
 <p class="block">甲——美帝侵略黎巴嫩的一个水兵，名约翰。</p>
@@ -1080,7 +1080,7 @@ h2士气不振
 
 
 
-h2美英要挨揍
+<h2 class="chapter">美英要挨揍</h2>
 <p class="type">·小相声·</p>
 
 <p class="xj"><span class="xchar">甲</span> 您也会说相声？</p>
@@ -1136,7 +1136,7 @@ h2美英要挨揍
 
 
 
-h2访问记
+<h2 class="chapter">访问记</h2>
 <p class="type">·小相声·</p>
 
 <p class="block">甲——访问者</p>
@@ -1179,7 +1179,7 @@ h2访问记
 
 
 
-h2杜勒斯发高烧
+<h2 class="chapter">杜勒斯发高烧</h2>
 <p class="type">·小相声·</p>
 
 <p class="xj"><span class="xchar">甲</span> 你说杜勒斯有什么特点？</p>
@@ -1224,7 +1224,7 @@ h2杜勒斯发高烧
 
 
 
-h2钢帅报捷
+<h2 class="chapter">钢帅报捷</h2>
 <p class="type">·小相声·</p>
 
 <p class="xj"><span class="xchar">甲</span> 啊，哈哈哈……（又笑又跳）</p>
@@ -1270,7 +1270,7 @@ h2钢帅报捷
 
 
 
-h2作诗【4：本篇据赵振铎、赵世中合说的相声录音整理。】
+<h2 class="chapter">作诗【4：本篇据赵振铎、赵世中合说的相声录音整理。】</h2>
 
 <p class="xj"><span class="xchar">甲</span> 不管做什么事情啊，都必须要有个谦虚谨慎的态度。</p>
 <p class="xj"><span class="xchar">乙</span> 对。</p>
@@ -1500,7 +1500,7 @@ h2作诗【4：本篇据赵振铎、赵世中合说的相声录音整理。】
 
 
 
-h2小相声一则
+<h2 class="chapter">小相声一则</h2>
 <p class="pretxt">前几天华君武同志画了一张漫画，戏问侯宝林同志，为什么有些相声听了不可笑。我也当面问过侯宝林同志，可惜都没有时间作详细的讨论。据闻，有人以为相声是可以不招笑的。因撰小相声一则。</p>
 <p><br/></p>
 
@@ -1549,7 +1549,7 @@ h2小相声一则
 
 
 
-h2过新年
+<h2 class="chapter">过新年</h2>
 
 <p class="xj"><span class="xchar">甲</span> <span class="block">（独白）</span>大年初一头一天，家家户户过新年！<span class="block">（对乙）</span>给您拜年，恭贺新喜！</p>
 <p class="xj"><span class="xchar">乙</span> 同喜同喜！</p>
@@ -1692,7 +1692,7 @@ h2过新年
 
 
 
-h2李承晚滚开了
+<h2 class="chapter">李承晚滚开了</h2>
 <p class="type">·小相声·</p>
 
 <p class="block">甲——美帝驻南朝鲜代表</p>
@@ -1747,7 +1747,7 @@ h2李承晚滚开了
 
 
 
-h2鸿兴饭馆红旗飘
+<h2 class="chapter">鸿兴饭馆红旗飘</h2>
 
 <p class="xj"><span class="xchar">甲</span> 上哪儿去了？老二！</p>
 <p class="xj"><span class="xchar">乙</span> 天桥。</p>
@@ -1898,7 +1898,7 @@ h2鸿兴饭馆红旗飘
 
 
 
-h2乱形容
+<h2 class="chapter">乱形容</h2>
 
 <p class="xj"><span class="xchar">甲</span> 说相声不容易！相声演员须是语言运用的艺术家！</p>
 <p class="xj"><span class="xchar">乙</span> 是呀！你看我，我就是尖端的，灵感的，响亮的，不仅天才的，而且是天地人三才的艺术家！</p>
@@ -1936,7 +1936,7 @@ h2乱形容
 
 
 
-h2读书
+<h2 class="chapter">读书</h2>
 <p class="type">·小相声·</p>
 
 <p class="xj"><span class="xchar">甲</span> 你有什么嗜好？</p>
@@ -1989,7 +1989,7 @@ h2读书
 
 
 
-h2八九十枝花
+<h2 class="chapter">八九十枝花</h2>
 
 <p class="xj"><span class="xchar">甲</span> 相声不容易说，也不容易写！</p>
 <p class="xj"><span class="xchar">乙</span> 更不容易听！</p>
@@ -2104,7 +2104,7 @@ h2八九十枝花
 
 
 
-h2柿子丰收
+<h2 class="chapter">柿子丰收</h2>
 
 <p class="xj"><span class="xchar">甲</span> 感谢党的正确领导，感谢各人民公社社员们的努力增产，北京今年的青菜、水果都得到丰收！</p>
 <p class="xj"><span class="xchar">乙</span> 对！连冰棍儿也丰收！</p>
@@ -2308,7 +2308,7 @@ h2柿子丰收
 
 
 
-h2新年愉快
+<h2 class="chapter">新年愉快</h2>
 
 <p class="xj"><span class="xchar">甲</span> 您好？祝您新年愉快！</p>
 <p class="xj"><span class="xchar">乙</span> 祝您新年愉快，多多发……啊，发……</p>
