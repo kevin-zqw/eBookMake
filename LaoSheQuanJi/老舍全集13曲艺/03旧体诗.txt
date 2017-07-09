@@ -1,4 +1,4 @@
-<h2 class="chapter">过居庸关【1：本篇作于1917年。发表时署名“舒庆春”。】</h2>
+<h2 class="chapter" style="page-break-before: always;">过居庸关【1：本篇作于1917年。发表时署名“舒庆春”。】</h2>
 <blockquote>
 <p>遨游此乾坤，任人呼山贼。</p>
 <p>飞步纵苍茫，举目天无色。</p>
@@ -24,7 +24,7 @@
 
 
 
-<h2 class="chapter">十月念一日，赴西山观察野战地势。是日大雾，抵午方晴。四年两登此山矣，为二律以志之。【2：本篇作于1917年。作者就读于北京师范学校四年级时，准备进行野外军事训练，10月21日赴西山观察野战地势。发表时署名“舒庆春”。】</h2>
+<h2 class="chapter" style="page-break-before: always;">十月念一日，赴西山观察野战地势。是日大雾，抵午方晴。四年两登此山矣，为二律以志之。【2：本篇作于1917年。作者就读于北京师范学校四年级时，准备进行野外军事训练，10月21日赴西山观察野战地势。发表时署名“舒庆春”。】</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -45,7 +45,7 @@
 
 
 
-<h2 class="chapter">定战地于石景、金顶二山。我军驻石景作战两次，我先胜而后败。同学各有记，乃为诗以志胜概。【3：本篇作于1917年。学校于11月11日至15日组织第二次野外演战，归来后写此诗。发表时署名“舒庆春”。】</h2>
+<h2 class="chapter" style="page-break-before: always;">定战地于石景、金顶二山。我军驻石景作战两次，我先胜而后败。同学各有记，乃为诗以志胜概。【3：本篇作于1917年。学校于11月11日至15日组织第二次野外演战，归来后写此诗。发表时署名“舒庆春”。】</h2>
 <blockquote>
 <p>短衣匹马矫如龙，鼻头生火耳生风。</p>
 <p>旌旗五色铁象噤，金镫半夜火牛攻。</p>
@@ -107,7 +107,7 @@
 
 
 
-<h2 class="chapter">野战归来，勇气百倍。路人目为军队移驻者。吾国积习，文武殊途，改正之责在吾辈也，乃成一律。【4：本篇作于1917年11月15日第二次野外演战结束归校后。发表时署名“舒庆春”。】</h2>
+<h2 class="chapter" style="page-break-before: always;">野战归来，勇气百倍。路人目为军队移驻者。吾国积习，文武殊途，改正之责在吾辈也，乃成一律。【4：本篇作于1917年11月15日第二次野外演战结束归校后。发表时署名“舒庆春”。】</h2>
 <blockquote>
 <p>丹枫白石秋风路，携得西山爽气回。</p>
 <p>大纛乱翻鸦背影，少年总是凤雏才。</p>
@@ -119,7 +119,7 @@
 
 
 
-<h2 class="chapter">年光不再，逝者如斯；五载春风，瞬将毕业矣。驽钝依然，前途惘惘，乃感赋四律。【5：本篇作于1918年在北京师范学校毕业之前。发表时署名“舒庆春”。】</h2>
+<h2 class="chapter" style="page-break-before: always;">年光不再，逝者如斯；五载春风，瞬将毕业矣。驽钝依然，前途惘惘，乃感赋四律。【5：本篇作于1918年在北京师范学校毕业之前。发表时署名“舒庆春”。】</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -157,7 +157,7 @@
 
 
 
-<h2 class="chapter">病中</h2>
+<h2 class="chapter" style="page-break-before: always;">病中</h2>
 <p class="type">·韵：国韵廿五稀·</p>
 <blockquote>
 <p>五月害背痛，六月患拉稀，</p>
@@ -180,7 +180,7 @@
 
 
 
-<h2 class="chapter">赠关友声【6：本篇1933年作于济南。关友声（1906-1970），济南人。中国现代画家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠关友声【6：本篇1933年作于济南。关友声（1906-1970），济南人。中国现代画家。】</h2>
 <blockquote>
 <p>覃思画境秀如秋，敛尽锋芒绘浅愁。</p>
 <p>墨未到时神远瞩，笔留余意树微羞。</p>
@@ -193,14 +193,14 @@
 
 
 
-<h2 class="chapter">题扇面赠马子元拳师【7：本篇据手迹收入，曾发表在1997年北京燕山出版社《老舍》画传。】</h2>
+<h2 class="chapter" style="page-break-before: always;">题扇面赠马子元拳师【7：本篇据手迹收入，曾发表在1997年北京燕山出版社《老舍》画传。】</h2>
 
 <p>夏患背痛，动转甚艰。勤于为文，竟日伏案，实为病根。十年前曾习太极与剑术，以就食四方，遂复弃忘。及病发，谋之至友陶君子谦，谓：“健身之术莫若勤于运动，而个人运动莫善于拳术。”遂荐马子元先生，鲁之名家也。初习太极，以活腰脚，继以练步，重义谭腿、查拳、洪拳、六路短拳等，藉广趣味；兼及枪剑与对击，多外间鲜见之技。一岁终，已得二十余套。每日晨起，自习半时许，体热汗下，食欲渐增，精神亦旺。子元先生教授有方，由浅入深，不求急效，亦弗吝所长，良可感也。端午又近矣，书扇以赠。书法向非所长，久乏练习，全无是处，藉示激感耳。二十三年端午节前三日书奉，子元先生正教，舒舍予。</p>
 
 
 
 
-<h2 class="chapter">《论语》两岁</h2>
+<h2 class="chapter" style="page-break-before: always;">《论语》两岁</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -221,7 +221,7 @@
 
 
 
-<h2 class="chapter">题“全家福”【8：“全家福”为作者与夫人胡絜青和长女舒济合照的像片。】</h2>
+<h2 class="chapter" style="page-break-before: always;">题“全家福”【8：“全家福”为作者与夫人胡絜青和长女舒济合照的像片。】</h2>
 <blockquote>
 <p>爸笑妈随女扯书，</p>
 <p>一家三口乐安居。</p>
@@ -235,7 +235,7 @@
 
 
 
-<h2 class="chapter">诗三律</h2>
+<h2 class="chapter" style="page-break-before: always;">诗三律</h2>
 
 <p class="pretxt">今夏居青岛，得会友论文，乐胜海浴。秋来，送别诸贤，怅然者久之！久不为诗，匆匆成三律，贵纪实耳，工拙非所计。《避暑录话》待稿，出此塞责。新诗过难，未敢轻试，剑三克家亚平孟超诸诗家幸勿指为开倒车也！</p>
 
@@ -265,7 +265,7 @@
 
 
 
-<h2 class="chapter">和魏建功【10：本篇约作于1937年底或1938年。1937年底，作者别妻离子，只身从济南逃亡到武汉。这时，魏建功也从北平逃亡到长沙，并将他在北平危困中所写的一首旧体诗随信寄给了作者，不久，即得到用原韵唱和的这首诗。魏建功（1901-1980），江苏如皋人。现代作家，语言学家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">和魏建功【10：本篇约作于1937年底或1938年。1937年底，作者别妻离子，只身从济南逃亡到武汉。这时，魏建功也从北平逃亡到长沙，并将他在北平危困中所写的一首旧体诗随信寄给了作者，不久，即得到用原韵唱和的这首诗。魏建功（1901-1980），江苏如皋人。现代作家，语言学家。】</h2>
 <blockquote>
 <p>北望家山归不得，忍看衣袖满征尘！</p>
 <p>将军诱敌频抛甲，仕贵称降俱爱民；</p>
@@ -290,7 +290,7 @@
 
 
 
-<h2 class="chapter">贺全国文艺界抗敌协会成立</h2>
+<h2 class="chapter" style="page-break-before: always;">贺全国文艺界抗敌协会成立</h2>
 <blockquote>
 <p>三月莺花黄鹤楼，骚人无复旧风流。</p>
 <p>忍听杨柳大堤曲，誓雪江山半壁仇。</p>
@@ -303,7 +303,7 @@
 
 
 
-<h2 class="chapter">题赠于志恭【11：本篇据手迹收入，曾发表于1997年北京燕山出版社《老舍》画传。于志恭（1913-？），山东广饶人。1935至1941年在冯玉祥处任司书、上尉电务员、随从书记。】</h2>
+<h2 class="chapter" style="page-break-before: always;">题赠于志恭【11：本篇据手迹收入，曾发表于1997年北京燕山出版社《老舍》画传。于志恭（1913-？），山东广饶人。1935至1941年在冯玉祥处任司书、上尉电务员、随从书记。】</h2>
 
 <p>中国字难认，更难写，不设法改掉它，教育便永不易发展。</p>
 
@@ -318,7 +318,7 @@
 
 
 
-<h2 class="chapter">哭王礼锡先生【12：王礼锡（1901-1939），江西安福县人。现代作家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">哭王礼锡先生【12：王礼锡（1901-1939），江西安福县人。现代作家。】</h2>
 <blockquote>
 <p>洛阳风雨夕，把酒论新诗，</p>
 <p>笔动群魔寂，情来万马驰。</p>
@@ -334,7 +334,7 @@
 
 
 
-<h2 class="chapter">抛锚之后</h2>
+<h2 class="chapter" style="page-break-before: always;">抛锚之后</h2>
 <blockquote>
 <p>一去二三里</p>
 <p>抛锚四五回</p>
@@ -349,7 +349,7 @@
 
 
 
-<h2 class="chapter">诗四首</h2>
+<h2 class="chapter" style="page-break-before: always;">诗四首</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">沔县谒武侯祠</span></p>
 <blockquote>
@@ -391,7 +391,7 @@
 
 
 
-<h2 class="chapter">诗二章</h2>
+<h2 class="chapter" style="page-break-before: always;">诗二章</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">过乌纱岭</span></p>
 <blockquote>
@@ -414,7 +414,7 @@
 
 
 
-<h2 class="chapter">北行小诗</h2>
+<h2 class="chapter" style="page-break-before: always;">北行小诗</h2>
 
 <p class="intitle">其一</p>
 <blockquote>
@@ -437,7 +437,7 @@
 
 
 
-<h2 class="chapter">留侯祠</h2>
+<h2 class="chapter" style="page-break-before: always;">留侯祠</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -465,7 +465,7 @@
 
 
 
-<h2 class="chapter">赠台静农【13：台静农（1902-1990），安徽省霍邱县人。现代作家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠台静农【13：台静农（1902-1990），安徽省霍邱县人。现代作家。】</h2>
 
 <p class="pretxt">看小女儿写字，最为有趣，倒画逆推，信意创作，兴之所至，加减笔画，前无古人，自成一家，至指黑眉重，墨点满身，亦具淋漓之致。</p>
 <p><br/></p>
@@ -488,7 +488,7 @@
 
 
 
-<h2 class="chapter">题高龙生涂鸭图赠卜少夫【14：本篇据手迹收入。卜少夫（1909-2000），江苏镇江人。新闻界人士、政论家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">题高龙生涂鸭图赠卜少夫【14：本篇据手迹收入。卜少夫（1909-2000），江苏镇江人。新闻界人士、政论家。】</h2>
 <blockquote>
 <p>堪怜小儿女</p>
 <p>衣冠似老人</p>
@@ -503,7 +503,7 @@
 
 
 
-<h2 class="chapter">赠太虚法师【15：太虚（1889-1947），浙江崇德人。现代佛学大师。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠太虚法师【15：太虚（1889-1947），浙江崇德人。现代佛学大师。】</h2>
 <blockquote>
 <p>大雨冼星海，</p>
 <p>长虹万籁天，</p>
@@ -519,7 +519,7 @@
 
 
 
-<h2 class="chapter">赠冯纪法</h2>
+<h2 class="chapter" style="page-break-before: always;">赠冯纪法</h2>
 <blockquote>
 <p>抗战今开第五年，男儿志在复幽燕，</p>
 <p>金陵纵有降臣表，铁甲终辉国士天。</p>
@@ -538,7 +538,7 @@
 
 
 
-<h2 class="chapter">为在华日本人民反战革命同盟会成立周年纪念题诗【16：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">为在华日本人民反战革命同盟会成立周年纪念题诗【16：本篇据手迹收入。】</h2>
 <blockquote>
 <p>一代和平风扫沙，海天雷雨斗龙蛇。</p>
 <p>旧潮垂死碧成血，大地重生春是家。</p>
@@ -550,7 +550,7 @@
 
 
 
-<h2 class="chapter">诗四章</h2>
+<h2 class="chapter" style="page-break-before: always;">诗四章</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">“七七”纪念</span></p>
 <blockquote>
@@ -587,7 +587,7 @@
 
 
 
-<h2 class="chapter">赠涤非词人【19：本篇据手迹收入。萧涤非（1906-1991），江西临川人。古典文学研究家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠涤非词人【19：本篇据手迹收入。萧涤非（1906-1991），江西临川人。古典文学研究家。】</h2>
 <blockquote>
 <p>词客天南去，碧鸡金马间；</p>
 <p>山光十日酒，渔唱一溪烟。</p>
@@ -599,7 +599,7 @@
 
 
 
-<h2 class="chapter">集文艺界人名联句【20：吴组缃《序》云：“在重庆最无聊的是空袭中躲防空洞的时候。常常进了洞就出不来，久久闷坐着，无以自遣。后来我们就拿文艺界的人名拼凑诗句。”“这种人名诗，老舍不认为只是无聊消遣，说这也体现着文艺界大团结，彼此不存畛域的意思。”】</h2>
+<h2 class="chapter" style="page-break-before: always;">集文艺界人名联句【20：吴组缃《序》云：“在重庆最无聊的是空袭中躲防空洞的时候。常常进了洞就出不来，久久闷坐着，无以自遣。后来我们就拿文艺界的人名拼凑诗句。”“这种人名诗，老舍不认为只是无聊消遣，说这也体现着文艺界大团结，彼此不存畛域的意思。”】</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -621,7 +621,7 @@
 
 
 
-<h2 class="chapter">题静庐【21：静庐，即陈半丁（1876-1970），浙江绍兴人。美术家。】归雁图</h2>
+<h2 class="chapter" style="page-break-before: always;">题静庐【21：静庐，即陈半丁（1876-1970），浙江绍兴人。美术家。】归雁图</h2>
 <blockquote>
 <p>夜半霜霾秋入微，</p>
 <p>月明松寂雁低飞，</p>
@@ -633,7 +633,7 @@
 
 
 
-<h2 class="chapter">题静庐写秃松小品</h2>
+<h2 class="chapter" style="page-break-before: always;">题静庐写秃松小品</h2>
 <blockquote>
 <p>作图如作字，笔笔走龙蛇。</p>
 <p>霜苔墨数点，老干鳞皆花。</p>
@@ -647,7 +647,7 @@
 
 
 
-<h2 class="chapter">蜀村小景【22：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">蜀村小景【22：本篇据手迹收入。】</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -668,7 +668,7 @@
 
 
 
-<h2 class="chapter">为关良《凤姐图》题诗【23：本篇据手迹收入。关良（1900-1986），广东番禺人。现代画家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">为关良《凤姐图》题诗【23：本篇据手迹收入。关良（1900-1986），广东番禺人。现代画家。】</h2>
 <blockquote>
 <p>自古有恋爱，唯难尽自由。</p>
 <p>最好做皇帝，四海齐叩头。</p>
@@ -690,7 +690,7 @@
 
 
 
-<h2 class="chapter">孝宾先生千古【24：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">孝宾先生千古【24：本篇据手迹收入。】</h2>
 <blockquote>
 <p>有真情感，</p>
 <p>诗存浩气，</p>
@@ -702,7 +702,7 @@
 
 
 
-<h2 class="chapter">喜联</h2>
+<h2 class="chapter" style="page-break-before: always;">喜联</h2>
 <blockquote>
 <p>洛浦汀滢，</p>
 <p>人盟白首；</p>
@@ -722,7 +722,7 @@
 
 
 
-<h2 class="chapter">赠潘孑农【25：本篇写于1944年。潘孑农（1909-1993），浙江湖州市人。现代戏剧家、电影艺术家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠潘孑农【25：本篇写于1944年。潘孑农（1909-1993），浙江湖州市人。现代戏剧家、电影艺术家。】</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -745,7 +745,7 @@
 
 
 
-<h2 class="chapter">赠田仲济【26：本篇作于1945年秋初，据手迹收入。田仲济（1907-2002）．山东潍坊市人。作家、现代文学研究家】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠田仲济【26：本篇作于1945年秋初，据手迹收入。田仲济（1907-2002）．山东潍坊市人。作家、现代文学研究家】</h2>
 <blockquote>
 <p>乱年渐气短，有米胜无诗，</p>
 <p>卖剑沽邨酒，听蝉望柳枝。</p>
@@ -758,7 +758,7 @@
 
 
 
-<h2 class="chapter">在傅抱石赠赵清阁《红梅扁舟图》册页上题诗【27：本篇作于1945年10月23日。傅抱石（1904-1965），江西新余人。现代画家、美术教育家。赵清阁（1914-1999），河南信阳人。现代女作家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">在傅抱石赠赵清阁《红梅扁舟图》册页上题诗【27：本篇作于1945年10月23日。傅抱石（1904-1965），江西新余人。现代画家、美术教育家。赵清阁（1914-1999），河南信阳人。现代女作家。】</h2>
 <blockquote>
 <p>风雨八年晦，</p>
 <p>霜江万叶明，</p>
@@ -771,7 +771,7 @@
 
 
 
-<h2 class="chapter">白云寺</h2>
+<h2 class="chapter" style="page-break-before: always;">白云寺</h2>
 <blockquote>
 <p>万里愁思草不芳，青山碧血两茫茫。</p>
 <p>离家已感游僧似，报国何容野鹤翔？</p>
@@ -785,7 +785,7 @@
 
 
 
-<h2 class="chapter">赠吴组缃【28：本篇据手迹收入。1947年10月，老舍在纽约与随同冯玉祥到美国访问的老友吴组缃见面，并题诗相赠。吴组缃（1908-1994），安徽泾县人。现代作家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠吴组缃【28：本篇据手迹收入。1947年10月，老舍在纽约与随同冯玉祥到美国访问的老友吴组缃见面，并题诗相赠。吴组缃（1908-1994），安徽泾县人。现代作家。】</h2>
 <blockquote>
 <p>自南自北自西东，大地山河火狱中，</p>
 <p>各祷神明屠手足，齐抛肝脑决雌雄。</p>
@@ -795,7 +795,7 @@
 
 
 
-<h2 class="chapter">赠郭镜秋【29：本篇约作于1948至1949年，据手迹收入。郭镜秋（生卒年不详），女，美籍华人，作家、翻译家，曾为老舍翻译《离婚》、《鼓书艺人》等。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠郭镜秋【29：本篇约作于1948至1949年，据手迹收入。郭镜秋（生卒年不详），女，美籍华人，作家、翻译家，曾为老舍翻译《离婚》、《鼓书艺人》等。】</h2>
 <blockquote>
 <p>南国骚人郭镜秋，青山碧海共悠悠。</p>
 <p>纵横笔阵千军扫，跌宕文澜万里流。</p>
@@ -805,7 +805,7 @@
 
 
 
-<h2 class="chapter">元旦试笔</h2>
+<h2 class="chapter" style="page-break-before: always;">元旦试笔</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -826,7 +826,7 @@
 
 
 
-<h2 class="chapter">《茶馆》群像【30：本篇发表时，原刊有叶浅予的说明：“老舍先生在话剧《茶馆》里所创造的人物，不仅具有典型性，而且揭示了这些典型人物的时代特征。由于刘麻子、唐铁嘴、二德子、宋恩子、吴祥子等人的第二代出现，使人信服地并且深刻地认识了旧社会是万恶之源，因而对于王利发、常四爷、康顺子，以及其他被压迫者的命运，寄予了更深的同情。我被北京人艺的演出感动了，我要表现它，所以画了这些速写。<br/>“速写画成，《戏剧报》的编辑同志拿给老舍先生看，他在每幅速写的左侧题了四行诗，作为对这个人物的批语。”】</h2>
+<h2 class="chapter" style="page-break-before: always;">《茶馆》群像【30：本篇发表时，原刊有叶浅予的说明：“老舍先生在话剧《茶馆》里所创造的人物，不仅具有典型性，而且揭示了这些典型人物的时代特征。由于刘麻子、唐铁嘴、二德子、宋恩子、吴祥子等人的第二代出现，使人信服地并且深刻地认识了旧社会是万恶之源，因而对于王利发、常四爷、康顺子，以及其他被压迫者的命运，寄予了更深的同情。我被北京人艺的演出感动了，我要表现它，所以画了这些速写。<br/>“速写画成，《戏剧报》的编辑同志拿给老舍先生看，他在每幅速写的左侧题了四行诗，作为对这个人物的批语。”】</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">王利发（于是之饰）</span></p>
 <blockquote>
@@ -945,7 +945,7 @@
 
 
 
-<h2 class="chapter">赠荀慧生【31：本篇据手迹收入。荀慧生（1900-1968），河北东光人。京剧表演艺术家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠荀慧生【31：本篇据手迹收入。荀慧生（1900-1968），河北东光人。京剧表演艺术家。】</h2>
 <blockquote>
 <p>荀生胸有好山川，</p>
 <p>笔下风流胜自然。</p>
@@ -964,7 +964,7 @@
 
 
 
-<h2 class="chapter">赠斯特朗【32：本篇据手迹收入。安娜·路易丝·斯特朗（1885-1970），美国进步女作家、记者。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠斯特朗【32：本篇据手迹收入。安娜·路易丝·斯特朗（1885-1970），美国进步女作家、记者。】</h2>
 <blockquote>
 <p>国际精神致太平，</p>
 <p>寿星今在北京城。</p>
@@ -978,7 +978,7 @@
 
 
 
-<h2 class="chapter">访东风人民公社而作【33：作者于1958年9月随中国文联参观团到河北省安国县参观访问了当时的东风和先锋两个人民公社，有感而作。】</h2>
+<h2 class="chapter" style="page-break-before: always;">访东风人民公社而作【33：作者于1958年9月随中国文联参观团到河北省安国县参观访问了当时的东风和先锋两个人民公社，有感而作。】</h2>
 <blockquote>
 <p>丰产高潮安国来，</p>
 <p>良田一望喜千回，</p>
@@ -990,7 +990,7 @@
 
 
 
-<h2 class="chapter">元旦高兴</h2>
+<h2 class="chapter" style="page-break-before: always;">元旦高兴</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1011,7 +1011,7 @@
 
 
 
-<h2 class="chapter">为《集邮》杂志题词</h2>
+<h2 class="chapter" style="page-break-before: always;">为《集邮》杂志题词</h2>
 <blockquote>
 <p>集邮长知识，</p>
 <p>嗜爱颇高尚，</p>
@@ -1023,7 +1023,7 @@
 
 
 
-<h2 class="chapter">火箭奔月</h2>
+<h2 class="chapter" style="page-break-before: always;">火箭奔月</h2>
 <blockquote>
 <p>莫说前人想象奇，于今奔月已无疑。</p>
 <p>不关灵药天同寿，自有精思星布棋。</p>
@@ -1035,7 +1035,7 @@
 
 
 
-<h2 class="chapter">即事</h2>
+<h2 class="chapter" style="page-break-before: always;">即事</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1063,7 +1063,7 @@
 
 
 
-<h2 class="chapter">赠陈叔通【34：本篇据手迹收入。五十年代胡絜青画赤梅，作者题诗并题词赠陈叔通。陈叔通（1876-1966），浙江杭州人。民主人士。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠陈叔通【34：本篇据手迹收入。五十年代胡絜青画赤梅，作者题诗并题词赠陈叔通。陈叔通（1876-1966），浙江杭州人。民主人士。】</h2>
 <blockquote>
 <p>夫子风流爱赤梅，</p>
 <p>月明不待美人来。</p>
@@ -1076,7 +1076,7 @@
 
 
 
-<h2 class="chapter">为内蒙古百万民歌展览会献诗【35：内蒙古自治区百万民歌歌唱展览会于1958年12月在北海公园琼岛悦心殿开幕，作者参观后献诗祝贺。】</h2>
+<h2 class="chapter" style="page-break-before: always;">为内蒙古百万民歌展览会献诗【35：内蒙古自治区百万民歌歌唱展览会于1958年12月在北海公园琼岛悦心殿开幕，作者参观后献诗祝贺。】</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">心热冬天花也开【36：本首曾以《百万民歌内蒙来》为题载1958年12月24日《北京晚报》。】</span></p>
 <blockquote>
@@ -1097,7 +1097,7 @@
 
 
 
-<h2 class="chapter">建国十周年大庆</h2>
+<h2 class="chapter" style="page-break-before: always;">建国十周年大庆</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1118,7 +1118,7 @@
 
 
 
-<h2 class="chapter">贺北京市美术展览会开幕</h2>
+<h2 class="chapter" style="page-break-before: always;">贺北京市美术展览会开幕</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1163,7 +1163,7 @@
 
 
 
-<h2 class="chapter">贺日本前进座剧团成立三十周年</h2>
+<h2 class="chapter" style="page-break-before: always;">贺日本前进座剧团成立三十周年</h2>
 <blockquote>
 <p>古剧开新史，</p>
 <p>光芒万丈长，</p>
@@ -1179,7 +1179,7 @@
 
 
 
-<h2 class="chapter">为黄胄《载歌行》画题诗【37：黄胄（1925-1997），河北騠县人。画家、收藏家、社会活动家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">为黄胄《载歌行》画题诗【37：黄胄（1925-1997），河北騠县人。画家、收藏家、社会活动家。】</h2>
 <blockquote>
 <p>民族解放，</p>
 <p>四海欢唱，</p>
@@ -1192,7 +1192,7 @@
 
 
 
-<h2 class="chapter">庆元宵【38：本篇作于1960年2月11日。当时，北京市文学艺术工作者联合会举行元宵灯节联欢晚会，作者参加并即席赋诗。】</h2>
+<h2 class="chapter" style="page-break-before: always;">庆元宵【38：本篇作于1960年2月11日。当时，北京市文学艺术工作者联合会举行元宵灯节联欢晚会，作者参加并即席赋诗。】</h2>
 <blockquote>
 <p>今年庆元宵，</p>
 <p>大雪下的好；</p>
@@ -1206,7 +1206,7 @@
 
 
 
-<h2 class="chapter">为天津民间剪纸题诗【39：本篇作于1960年深秋，据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">为天津民间剪纸题诗【39：本篇作于1960年深秋，据手迹收入。】</h2>
 <blockquote>
 <p>如海文心无弃才，</p>
 <p>感君鞭策到驽骀，</p>
@@ -1217,7 +1217,7 @@
 
 
 
-<h2 class="chapter">为胡絜青《桃花游鱼图》题诗【40：本篇作于1960年前后，据手迹收入。胡絜青（1905-2001），北京人。书画家，老舍夫人。】</h2>
+<h2 class="chapter" style="page-break-before: always;">为胡絜青《桃花游鱼图》题诗【40：本篇作于1960年前后，据手迹收入。胡絜青（1905-2001），北京人。书画家，老舍夫人。】</h2>
 <blockquote>
 <p>细雨江南客欲归</p>
 <p>桃花流水小鱼肥</p>
@@ -1230,7 +1230,7 @@
 
 
 
-<h2 class="chapter">再集马派名剧——赠马连良【41：本篇作于1961年5月6日（夏历立夏日）．据手迹收入。马连良（1901-1966），北京人，京剧表演艺术家。马派，京剧流派之一，以马连良的演唱艺术为代表，是当代中国京剧中最有影响的老生流派之一。】</h2>
+<h2 class="chapter" style="page-break-before: always;">再集马派名剧——赠马连良【41：本篇作于1961年5月6日（夏历立夏日）．据手迹收入。马连良（1901-1966），北京人，京剧表演艺术家。马派，京剧流派之一，以马连良的演唱艺术为代表，是当代中国京剧中最有影响的老生流派之一。】</h2>
 <blockquote>
 <p>淮河营外火牛阵，</p>
 <p>天水关头白蟒台，</p>
@@ -1242,7 +1242,7 @@
 
 
 
-<h2 class="chapter">诗四首【42：本篇中第四首《游红山公园》已收入《内蒙即景》，故从略。】</h2>
+<h2 class="chapter" style="page-break-before: always;">诗四首【42：本篇中第四首《游红山公园》已收入《内蒙即景》，故从略。】</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">哲盟展览馆</span></p>
 <blockquote>
@@ -1293,7 +1293,7 @@
 
 
 
-<h2 class="chapter">参观内蒙古博物馆</h2>
+<h2 class="chapter" style="page-break-before: always;">参观内蒙古博物馆</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1314,7 +1314,7 @@
 
 
 
-<h2 class="chapter">包头颂</h2>
+<h2 class="chapter" style="page-break-before: always;">包头颂</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1356,7 +1356,7 @@
 
 
 
-<h2 class="chapter">内蒙风光【43：本篇中的《看二人台》、《哲盟安代舞》两首已收入《内蒙即景》，此处从略。】</h2>
+<h2 class="chapter" style="page-break-before: always;">内蒙风光【43：本篇中的《看二人台》、《哲盟安代舞》两首已收入《内蒙即景》，此处从略。】</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">访问呼和浩特新城（昔之满城）</span></p>
 <blockquote>
@@ -1397,7 +1397,7 @@
 
 
 
-<h2 class="chapter">内蒙即景（小诗九首）【44：这一组诗中第六、七两首曾以《诗二首》为题先发表在1961年9月17日《内蒙古日报》上，收入本卷第621页，此处从略。这次发表时，作者又在这两首诗后加有文字说明：“以上两首是访昭君墓时写给曹禺同志的，因为他正拟写王昭君剧本，以变前人的看法，化凄楚为欢快。”】</h2>
+<h2 class="chapter" style="page-break-before: always;">内蒙即景（小诗九首）【44：这一组诗中第六、七两首曾以《诗二首》为题先发表在1961年9月17日《内蒙古日报》上，收入本卷第621页，此处从略。这次发表时，作者又在这两首诗后加有文字说明：“以上两首是访昭君墓时写给曹禺同志的，因为他正拟写王昭君剧本，以变前人的看法，化凄楚为欢快。”】</h2>
 
 <p class="intitle">小引</p>
 
@@ -1472,7 +1472,7 @@
 
 
 
-<h2 class="chapter">内蒙东部纪游</h2>
+<h2 class="chapter" style="page-break-before: always;">内蒙东部纪游</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">大兴安岭二首</span></p>
 
@@ -1523,7 +1523,7 @@
 
 
 
-<h2 class="chapter">为四位京剧演员拜周信芳【53：周信芳（1895-1975），浙江慈溪人。京剧表演艺术家。】为师贺诗</h2>
+<h2 class="chapter" style="page-break-before: always;">为四位京剧演员拜周信芳【53：周信芳（1895-1975），浙江慈溪人。京剧表演艺术家。】为师贺诗</h2>
 <blockquote>
 <p>同心同德，</p>
 <p>春风桃李；</p>
@@ -1535,7 +1535,7 @@
 
 
 
-<h2 class="chapter">春节饯友</h2>
+<h2 class="chapter" style="page-break-before: always;">春节饯友</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1558,7 +1558,7 @@
 
 
 
-<h2 class="chapter">赠徐兰沅【54：本篇据手迹收入。徐兰沅（1891-1967），江苏苏州人。京剧琴师。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠徐兰沅【54：本篇据手迹收入。徐兰沅（1891-1967），江苏苏州人。京剧琴师。】</h2>
 <blockquote>
 <p>胸如乐海手如波，</p>
 <p>春水春风尽唱歌。</p>
@@ -1570,7 +1570,7 @@
 
 
 
-<h2 class="chapter">游海门、莲花峰【55：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">游海门、莲花峰【55：本篇据手迹收入。】</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1590,7 +1590,7 @@
 
 
 
-<h2 class="chapter">流沙观潮剧</h2>
+<h2 class="chapter" style="page-break-before: always;">流沙观潮剧</h2>
 <blockquote>
 <p>春宵鼓板动流沙，</p>
 <p>绝唱倾城放百花。</p>
@@ -1606,7 +1606,7 @@
 
 
 
-<h2 class="chapter">汕头行</h2>
+<h2 class="chapter" style="page-break-before: always;">汕头行</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">流沙水库</span></p>
 <blockquote>
@@ -1651,7 +1651,7 @@
 
 
 
-<h2 class="chapter">赠汕头工艺美术陈列馆【56：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠汕头工艺美术陈列馆【56：本篇据手迹收入。】</h2>
 <blockquote>
 <p>潮汕文化最风流，</p>
 <p>虹彩霞光映碧秋。</p>
@@ -1663,7 +1663,7 @@
 
 
 
-<h2 class="chapter">赠康濯【57：本篇据手迹收入。康濯（1920-1991），湖南湘阳人。现代作家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠康濯【57：本篇据手迹收入。康濯（1920-1991），湖南湘阳人。现代作家。】</h2>
 <blockquote>
 <p>羡君三月去长沙，</p>
 <p>胸有春风笔有花。</p>
@@ -1675,7 +1675,7 @@
 
 
 
-<h2 class="chapter">赠梅阡【58：本篇据手迹收入。梅阡（1916-2002），天津市人。剧作家，话剧导演。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠梅阡【58：本篇据手迹收入。梅阡（1916-2002），天津市人。剧作家，话剧导演。】</h2>
 <blockquote>
 <p>桔柚花香迎客舟，一帆春雨渡汕头。</p>
 <p>海门回望千峰涌，港口雄开万里流。</p>
@@ -1687,7 +1687,7 @@
 
 
 
-<h2 class="chapter">诗三首</h2>
+<h2 class="chapter" style="page-break-before: always;">诗三首</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">观《连升三级》</span></p>
 <blockquote>
@@ -1717,7 +1717,7 @@
 
 
 
-<h2 class="chapter">春游小诗</h2>
+<h2 class="chapter" style="page-break-before: always;">春游小诗</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">参观闵行新城</span></p>
 <blockquote>
@@ -1762,7 +1762,7 @@
 
 
 
-<h2 class="chapter">辉煌十五春<br/><span class="c pretxt">——内蒙古自治区成立十五周年献诗</span></h2>
+<h2 class="chapter" style="page-break-before: always;">辉煌十五春<br/><span class="c pretxt">——内蒙古自治区成立十五周年献诗</span></h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1783,7 +1783,7 @@
 
 
 
-<h2 class="chapter">大好春光</h2>
+<h2 class="chapter" style="page-break-before: always;">大好春光</h2>
 
 <p class="pretxt">一九六二年五月一日，欣逢内蒙古自治区成立十五周年纪念，献诗祝贺。</p>
 
@@ -1875,7 +1875,7 @@
 
 
 
-<h2 class="chapter">“八一”建军节三十五周年纪念，献诗祝贺</h2>
+<h2 class="chapter" style="page-break-before: always;">“八一”建军节三十五周年纪念，献诗祝贺</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1910,7 +1910,7 @@
 
 
 
-<h2 class="chapter">赠闻捷【61：本篇据手迹收入。闻捷（1923-1971），江苏丹徒人。诗人。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠闻捷【61：本篇据手迹收入。闻捷（1923-1971），江苏丹徒人。诗人。】</h2>
 <blockquote>
 <p>诗人八月下扬州</p>
 <p>万首新诗吟胜游</p>
@@ -1924,7 +1924,7 @@
 
 
 
-<h2 class="chapter">《大众电影》改刊纪念</h2>
+<h2 class="chapter" style="page-break-before: always;">《大众电影》改刊纪念</h2>
 <blockquote>
 <p>图画饶诗意，</p>
 <p>文章风格新。</p>
@@ -1936,7 +1936,7 @@
 
 
 
-<h2 class="chapter">迎春</h2>
+<h2 class="chapter" style="page-break-before: always;">迎春</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -1964,7 +1964,7 @@
 
 
 
-<h2 class="chapter">诗一首</h2>
+<h2 class="chapter" style="page-break-before: always;">诗一首</h2>
 <blockquote>
 <p>弹唱共迎春，迎春歌曲新。</p>
 <p>单弦流雅韵，快板奋精神。</p>
@@ -1979,7 +1979,7 @@
 
 
 
-<h2 class="chapter">观豫剧《花打朝》</h2>
+<h2 class="chapter" style="page-break-before: always;">观豫剧《花打朝》</h2>
 <blockquote>
 <p>大众喜颜开，洛阳金凤来。</p>
 <p>打朝潮笑谑，挂帅奋风雷。</p>
@@ -1994,7 +1994,7 @@
 
 
 
-<h2 class="chapter">亿众学雷锋</h2>
+<h2 class="chapter" style="page-break-before: always;">亿众学雷锋</h2>
 <blockquote>
 <p>平凡而伟大，亿众学雷锋，</p>
 <p>生意湖旁柳，雄心岩上松，</p>
@@ -2008,7 +2008,7 @@
 
 
 
-<h2 class="chapter">农村春景</h2>
+<h2 class="chapter" style="page-break-before: always;">农村春景</h2>
 <blockquote>
 <p>神州寸土总多情，</p>
 <p>伟大河山万古明。</p>
@@ -2020,7 +2020,7 @@
 
 
 
-<h2 class="chapter">赠玛拉沁夫【62：本篇作于1963年4月。玛拉沁夫（1930-），蒙古族。作家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠玛拉沁夫【62：本篇作于1963年4月。玛拉沁夫（1930-），蒙古族。作家。】</h2>
 <blockquote>
 <p>文坛千里马，</p>
 <p>慷慨创奇文，</p>
@@ -2034,7 +2034,7 @@
 
 
 
-<h2 class="chapter">赠申凤梅【63：本篇据手迹收入。申凤梅（1927-1995），河南临颖人。越调表演艺术家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠申凤梅【63：本篇据手迹收入。申凤梅（1927-1995），河南临颖人。越调表演艺术家。】</h2>
 <blockquote>
 <p>东风骀荡百花开，</p>
 <p>越调重兴多俊才，</p>
@@ -2048,7 +2048,7 @@
 
 
 
-<h2 class="chapter">赠山月【64：本篇据手迹收入。关山月（1912-2000），广东阳江县人。国画家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠山月【64：本篇据手迹收入。关山月（1912-2000），广东阳江县人。国画家。】</h2>
 <blockquote>
 <p>岭南岭北画中游，</p>
 <p>翠柳轻风春色流。</p>
@@ -2061,7 +2061,7 @@
 
 
 
-<h2 class="chapter">赠沈柔坚【65：本篇据手迹收入。沈柔坚（1919-1998），福建诏安人。画家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠沈柔坚【65：本篇据手迹收入。沈柔坚（1919-1998），福建诏安人。画家。】</h2>
 <blockquote>
 <p>柔如垂柳坚如竹，</p>
 <p>柳伴桃花竹伴梅。</p>
@@ -2075,7 +2075,7 @@
 
 
 
-<h2 class="chapter">诗五首</h2>
+<h2 class="chapter" style="page-break-before: always;">诗五首</h2>
 
 <p class="pretxt">一九六三年夏天，河北省文化局召集了本省二十多位剧作家，到秦皇岛来开创作会议。文化局申伸同志也把我约来——我血压稍高，时患眩晕，来此可略事休养，并可与剧作家们交换些创作意见。在会议期间，我还游览了天下第一关、孟姜女庙，及北戴河等胜迹。这些好地方，我以前都没有到过，开开眼界，十分高兴！更可喜的是我还遇到了河北省梆子剧院青年跃进剧团、河北省歌舞剧院、东风豫剧团和小海燕评剧团等团体的朋友们。遇到他们，就写一首小诗相赠，作为见面礼。因头昏，诗写得不很好，可是多少有些感情，舍不得扔掉，即在此发表出来，请大家指正。</p>
 
@@ -2129,7 +2129,7 @@
 
 
 
-<h2 class="chapter">赠友人归广州</h2>
+<h2 class="chapter" style="page-break-before: always;">赠友人归广州</h2>
 <blockquote>
 <p>莫苦长安春到迟，</p>
 <p>亭园四月牡丹奇。</p>
@@ -2143,7 +2143,7 @@
 
 
 
-<h2 class="chapter">游秦皇岛【69：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">游秦皇岛【69：本篇据手迹收入。】</h2>
 <blockquote>
 <p>青山西北净无埃，风自东南远海来。</p>
 <p>天外舟归烟一缕，滩头浪卷雪千堆。</p>
@@ -2156,7 +2156,7 @@
 
 
 
-<h2 class="chapter">北戴河赠四友诗</h2>
+<h2 class="chapter" style="page-break-before: always;">北戴河赠四友诗</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">赠李焕之【70：李焕之（1919-2000），原籍福建晋江，生于香港。作曲家、音乐家。】</span></p>
 <blockquote>
@@ -2193,7 +2193,7 @@
 
 
 
-<h2 class="chapter">津门咏【74：本篇作于1963年9月。】</h2>
+<h2 class="chapter" style="page-break-before: always;">津门咏【74：本篇作于1963年9月。】</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">新港</span></p>
 <blockquote>
@@ -2228,7 +2228,7 @@
 
 
 
-<h2 class="chapter">登岳阳楼题“三秋图”【75：本篇据手迹收入。1963年夏，作者与夫人胡絜青登岳阳楼。胡絜青作画，作者为画题款为“三秋图”，并题诗。】</h2>
+<h2 class="chapter" style="page-break-before: always;">登岳阳楼题“三秋图”【75：本篇据手迹收入。1963年夏，作者与夫人胡絜青登岳阳楼。胡絜青作画，作者为画题款为“三秋图”，并题诗。】</h2>
 <blockquote>
 <p>天上一轮月，</p>
 <p>亭前双桂花。</p>
@@ -2241,7 +2241,7 @@
 
 
 
-<h2 class="chapter">国庆逢秋节</h2>
+<h2 class="chapter" style="page-break-before: always;">国庆逢秋节</h2>
 <blockquote>
 <p>国庆逢秋节，</p>
 <p>芙蓉映桂花。</p>
@@ -2256,7 +2256,7 @@
 
 
 
-<h2 class="chapter">诗三首</h2>
+<h2 class="chapter" style="page-break-before: always;">诗三首</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">长沙国庆日</span></p>
 <blockquote>
@@ -2284,7 +2284,7 @@
 
 
 
-<h2 class="chapter">祝捷</h2>
+<h2 class="chapter" style="page-break-before: always;">祝捷</h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -2307,7 +2307,7 @@
 
 
 
-<h2 class="chapter">赠北京晋阳饭庄【76：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠北京晋阳饭庄【76：本篇据手迹收入。】</h2>
 <blockquote>
 <p>驼峰熊掌岂堪夸，</p>
 <p>猫耳拨鱼实且华。</p>
@@ -2319,7 +2319,7 @@
 
 
 
-<h2 class="chapter">赠李慕良【77：本篇作于1963年。李慕良（生卒年不详），湖南长沙人。京剧琴师。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠李慕良【77：本篇作于1963年。李慕良（生卒年不详），湖南长沙人。京剧琴师。】</h2>
 <blockquote>
 <p>幼小喜丝弦，功成二十年。</p>
 <p>韵长声自远，意在手之先。</p>
@@ -2332,7 +2332,7 @@
 
 
 
-<h2 class="chapter">赠钱钟书【78：钱钟书（1910-1998），江苏无锡人。学者、作家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠钱钟书【78：钱钟书（1910-1998），江苏无锡人。学者、作家。】</h2>
 <blockquote>
 <p>梅花傲对雪花开，</p>
 <p>放眼山川无点埃，</p>
@@ -2349,7 +2349,7 @@
 
 
 
-<h2 class="chapter">致章老【79：本篇据手迹收入。章老，即章士钊（1881-1973），湖南善化人。学者。】</h2>
+<h2 class="chapter" style="page-break-before: always;">致章老【79：本篇据手迹收入。章老，即章士钊（1881-1973），湖南善化人。学者。】</h2>
 
 <p class="rm">章老：</p>
 <p class="pretxt">蒙再赐新咏，速成一律乞正，礼尚往来，非谓以诗还诗也！</p>
@@ -2369,7 +2369,7 @@
 
 
 
-<h2 class="chapter">凯歌<br/><span class="c pretxt">（庆贺我空军再次击落美制蒋匪U-2飞机一架）</span></h2>
+<h2 class="chapter" style="page-break-before: always;">凯歌<br/><span class="c pretxt">（庆贺我空军再次击落美制蒋匪U-2飞机一架）</span></h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -2390,7 +2390,7 @@
 
 
 
-<h2 class="chapter">献诗祝贺<br/><span class="c pretxt">（为中国人民解放军第三届美术作品展览会而作）</span></h2>
+<h2 class="chapter" style="page-break-before: always;">献诗祝贺<br/><span class="c pretxt">（为中国人民解放军第三届美术作品展览会而作）</span></h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -2418,7 +2418,7 @@
 
 
 
-<h2 class="chapter">白鹇【80：本篇作于1964年立秋，据手迹收入，系为胡絜青画题诗。】</h2>
+<h2 class="chapter" style="page-break-before: always;">白鹇【80：本篇作于1964年立秋，据手迹收入，系为胡絜青画题诗。】</h2>
 <blockquote>
 <p>苔石杂花隐白鹇，</p>
 <p>看图仿佛入黄山。</p>
@@ -2429,7 +2429,7 @@
 
 
 
-<h2 class="chapter">咏茶【81：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">咏茶【81：本篇据手迹收入。】</h2>
 <blockquote>
 <p>春风春日采新茶，</p>
 <p>生产徽州天下夸；</p>
@@ -2442,7 +2442,7 @@
 
 
 
-<h2 class="chapter">屯溪胡开文墨厂【82：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">屯溪胡开文墨厂【82：本篇据手迹收入。】</h2>
 <blockquote>
 <p>徽墨精品久名扬，</p>
 <p>代代云烟流异香；</p>
@@ -2454,7 +2454,7 @@
 
 
 
-<h2 class="chapter">登太白楼</h2>
+<h2 class="chapter" style="page-break-before: always;">登太白楼</h2>
 <blockquote>
 <p>酒涌大江流，</p>
 <p>人登太白楼。</p>
@@ -2469,7 +2469,7 @@
 
 
 
-<h2 class="chapter">游合肥包公祠</h2>
+<h2 class="chapter" style="page-break-before: always;">游合肥包公祠</h2>
 <blockquote>
 <p>祠前游侣赏秋莲，</p>
 <p>冷淡包公岂偶然。</p>
@@ -2486,7 +2486,7 @@
 
 
 
-<h2 class="chapter">黄山之游——致郭老【83：此信写于1964年10月12日，现据手迹收入。郭老，即郭沫若。】</h2>
+<h2 class="chapter" style="page-break-before: always;">黄山之游——致郭老【83：此信写于1964年10月12日，现据手迹收入。郭老，即郭沫若。】</h2>
 
 <p class="rm">郭老：</p>
 <p class="pretxt">黄山之游，血压波动，昏昏终日，未获好诗，蒙索阅，选录数章，全无秀句，博一笑耳！明后天去西郊农村小住，归来再去请安。</p>
@@ -2563,7 +2563,7 @@
 
 
 
-<h2 class="chapter">致郭老【85：本篇据郭沫若书信手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">致郭老【85：本篇据郭沫若书信手迹收入。】</h2>
 <blockquote>
 <p>门头村里好为家，文艺源泉岂浪跨。</p>
 <p>金玉红楼终是梦，【86：父老传言，曹雪芹曾在附近法海寺出家为僧。——作者】镰锄碧野遍开花。</p>
@@ -2575,7 +2575,7 @@
 
 
 
-<h2 class="chapter">诗谢郭老秋雨中来访【88：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">诗谢郭老秋雨中来访【88：本篇据手迹收入。】</h2>
 <blockquote>
 <p>古稀革命老诗家，后进文章拙亦夸。</p>
 <p>相约长风冲雪浪，休怜细雨湿黄花。</p>
@@ -2587,7 +2587,7 @@
 
 
 
-<h2 class="chapter">诗二首【89：本篇作于1965年。】</h2>
+<h2 class="chapter" style="page-break-before: always;">诗二首【89：本篇作于1965年。】</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">昔年</span></p>
 <blockquote>
@@ -2608,7 +2608,7 @@
 
 
 
-<h2 class="chapter">赠木下顺二【90：木下顺二（1914-？），日本剧作家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠木下顺二【90：木下顺二（1914-？），日本剧作家。】</h2>
 <blockquote>
 <p>小院春风木下家，</p>
 <p>长街短卷插樱花。</p>
@@ -2623,7 +2623,7 @@
 
 
 
-<h2 class="chapter">赠土歧善麿【91：本篇据手迹收入。土歧善麿（1885-1980），日本诗人。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠土歧善麿【91：本篇据手迹收入。土歧善麿（1885-1980），日本诗人。】</h2>
 <blockquote>
 <p>白也诗无敌，</p>
 <p>情深万古心，</p>
@@ -2635,7 +2635,7 @@
 
 
 
-<h2 class="chapter">赠白土吾夫【92：本篇据手迹收入。白土吾夫（1927-？），日本中国文化交流协会专务理事。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠白土吾夫【92：本篇据手迹收入。白土吾夫（1927-？），日本中国文化交流协会专务理事。】</h2>
 <blockquote>
 <p>白花笑对紫花开，</p>
 <p>土暖风轻春雨来。</p>
@@ -2648,7 +2648,7 @@
 
 
 
-<h2 class="chapter">赠黎波【93：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠黎波【93：本篇据手迹收入。】</h2>
 <blockquote>
 <p>译笔辛劳谁最多，</p>
 <p>东京樱节识黎波。</p>
@@ -2660,7 +2660,7 @@
 
 
 
-<h2 class="chapter">游日十七首【94：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">游日十七首【94：本篇据手迹收入。】</h2>
 
 <p class="pretxt">郭老：游日五周，事繁神倦，偶成小诗，不暇推敲，韵语日记耳！</p>
 <p class="pretxt">祈斧正！</p>
@@ -2802,7 +2802,7 @@
 
 
 
-<h2 class="chapter">诗三首<br/><span class="c pretxt">——中国人民坚决站在多米尼加人民一边</span></h2>
+<h2 class="chapter" style="page-break-before: always;">诗三首<br/><span class="c pretxt">——中国人民坚决站在多米尼加人民一边</span></h2>
 
 <p class="intitle">一</p>
 <blockquote>
@@ -2830,7 +2830,7 @@
 
 
 
-<h2 class="chapter">向日本话剧团献诗【99：本篇作于1965年5月。】</h2>
+<h2 class="chapter" style="page-break-before: always;">向日本话剧团献诗【99：本篇作于1965年5月。】</h2>
 
 <p class="pretxt">（一）东京：剧团访华准备期间，中国作家代表团适在东京，受剧团热情招待，十分感激！</p>
 <blockquote>
@@ -2872,7 +2872,7 @@
 
 
 
-<h2 class="chapter">呈郭老【100：本篇据手迹收入。】</h2>
+<h2 class="chapter" style="page-break-before: always;">呈郭老【100：本篇据手迹收入。】</h2>
 
 <p class="pretxt">读郭老《由王谢墓志的出土论到兰亭序的真伪》戏成一律录呈郭老博粲。</p>
 <blockquote>
@@ -2887,7 +2887,7 @@
 
 
 
-<h2 class="chapter">赠广州部队战士话剧团</h2>
+<h2 class="chapter" style="page-break-before: always;">赠广州部队战士话剧团</h2>
 <blockquote>
 <p>南国芦笙塞北笳，工兵四海好为家。</p>
 <p>云峰昨辟通天路，水库今开遍地花。</p>
@@ -2903,7 +2903,7 @@
 
 
 
-<h2 class="chapter">和杜宣【101：杜宣（1914-？），江西九江人。作家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">和杜宣【101：杜宣（1914-？），江西九江人。作家。】</h2>
 <blockquote>
 <p>无产无神无长物，囊中唯有杜家诗。</p>
 <p>惯凭笔下惊心语，高举人间革命旗。</p>
@@ -2927,7 +2927,7 @@
 
 
 
-<h2 class="chapter">赠王莹【102：本篇据手迹收入。王莹（1913-1974），安徽芜湖人。话剧、电影女演员，作家。】</h2>
+<h2 class="chapter" style="page-break-before: always;">赠王莹【102：本篇据手迹收入。王莹（1913-1974），安徽芜湖人。话剧、电影女演员，作家。】</h2>
 <blockquote>
 <p>小住佳园百病除，</p>
 <p>西山爽气入蓬庐。</p>

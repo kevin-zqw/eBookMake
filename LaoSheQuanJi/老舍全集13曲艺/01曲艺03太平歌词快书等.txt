@@ -1,8 +1,8 @@
-<h2 class="chapter">快板</h2>
+<h2 class="chapter l">快板</h2>
 
 
 
-<h2 class="chapter">和平解放西藏</h2>
+<h2 class="chapter" style="page-break-before: always;">和平解放西藏</h2>
 
 <blockquote>
 <p>紧打鼓，快敲锣，全国人民好快活。</p>
@@ -37,7 +37,7 @@
 
 
 
-<h2 class="chapter">我们选举了毛主席</h2>
+<h2 class="chapter" style="page-break-before: always;">我们选举了毛主席</h2>
 
 <blockquote>
 <p>锣鼓响，响连天，</p>
@@ -184,7 +184,7 @@
 
 
 
-<h2 class="chapter">“五一”快板</h2>
+<h2 class="chapter" style="page-break-before: always;">“五一”快板</h2>
 <blockquote>
 <p>歌“五一”，唱“五一”，</p>
 <p>工农高举大红旗；</p>
@@ -269,7 +269,7 @@
 
 
 
-<h2 class="chapter">祝贺儿童节</h2>
+<h2 class="chapter" style="page-break-before: always;">祝贺儿童节</h2>
 <blockquote>
 <p>儿童节，好快乐，</p>
 <p>唱段快板来祝贺。</p>
@@ -351,7 +351,7 @@
 
 
 
-<h2 class="chapter">今年好</h2>
+<h2 class="chapter" style="page-break-before: always;">今年好</h2>
 <blockquote>
 <p>今年好，喜重重，</p>
 <p>今年的红旗分外红！</p>
@@ -431,7 +431,7 @@
 
 
 
-<h2 class="chapter">春天来了</h2>
+<h2 class="chapter" style="page-break-before: always;">春天来了</h2>
 <blockquote>
 <p>报报报，春来到，</p>
 <p>四面八方放花炮！</p>
@@ -496,7 +496,7 @@
 
 
 
-<h2 class="chapter">第十个春天来到了</h2>
+<h2 class="chapter" style="page-break-before: always;">第十个春天来到了</h2>
 <blockquote>
 <p>东风和，阳光好，</p>
 <p>第十个春节来到了！</p>
@@ -551,7 +551,7 @@
 
 
 
-<h2 class="chapter">红售货员</h2>
+<h2 class="chapter" style="page-break-before: always;">红售货员</h2>
 <blockquote>
 <p>打竹板，庆新春，</p>
 <p>听我歌唱张士珍。</p>
@@ -636,7 +636,7 @@
 
 
 
-<h2 class="chapter">总统开嗙</h2>
+<h2 class="chapter" style="page-break-before: always;">总统开嗙</h2>
 <blockquote>
 <p>你们说艾克我没出息？</p>
 <p>哎哟哟，不要把咱估计低！</p>
@@ -686,7 +686,7 @@
 
 
 
-<h2 class="chapter">红十字少年</h2>
+<h2 class="chapter" style="page-break-before: always;">红十字少年</h2>
 <blockquote>
 <p>儿童节，六月一，</p>
 <p>男女儿童笑嘻嘻。</p>
@@ -879,7 +879,7 @@
 
 
 
-<h2 class="chapter">打瘟神</h2>
+<h2 class="chapter" style="page-break-before: always;">打瘟神</h2>
 <blockquote>
 <p>狠狠打，打瘟神，</p>
 <p>瘟神不倒受害的是人民！</p>
@@ -944,7 +944,7 @@
 
 
 
-<h2 class="chapter">陈各庄上养猪多</h2>
+<h2 class="chapter" style="page-break-before: always;">陈各庄上养猪多</h2>
 <blockquote>
 <p>新中国，万象新，</p>
 <p>打起竹板，唱唱新农村。</p>
@@ -1076,11 +1076,11 @@
 
 
 
-<h2 class="chapter">太平歌词</h2>
+<h2 class="chapter l">太平歌词</h2>
 
 
 
-<h2 class="chapter">庆祝“七一”</h2>
+<h2 class="chapter" style="page-break-before: always;">庆祝“七一”</h2>
 <blockquote>
 <p>有一件大事在三十年前，</p>
 <p>七月一号那一天；</p>
@@ -1192,11 +1192,11 @@
 
 
 
-<h2 class="chapter">山东快书</h2>
+<h2 class="chapter l">山东快书</h2>
 
 
 
-<h2 class="chapter">吓一跳</h2>
+<h2 class="chapter" style="page-break-before: always;">吓一跳</h2>
 <blockquote>
 <p>手拿铜板儿叮当地敲，</p>
 <p>不打花脸，也不耍枪刀，</p>
@@ -1355,11 +1355,11 @@
 
 
 
-<h2 class="chapter">单弦牌子曲</h2>
+<h2 class="chapter l">单弦牌子曲</h2>
 
 
 
-<h2 class="chapter">金喜翻身【1：本篇是作者与侯一尘合著。】</h2>
+<h2 class="chapter" style="page-break-before: always;">金喜翻身【1：本篇是作者与侯一尘合著。】</h2>
 
 <p class="intitle">上</p>
 
@@ -1565,11 +1565,11 @@
 
 
 
-<h2 class="chapter">唱本·唱词</h2>
+<h2 class="chapter l">唱本·唱词</h2>
 
 
 
-<h2 class="chapter">女儿经</h2>
+<h2 class="chapter" style="page-break-before: always;">女儿经</h2>
 <p class="type">·新“三字经”·</p>
 
 <blockquote>
@@ -1593,7 +1593,7 @@
 
 
 
-<h2 class="chapter">忠孝全</h2>
+<h2 class="chapter" style="page-break-before: always;">忠孝全</h2>
 <p class="type">·投军的，唱得胜歌·</p>
 
 <blockquote>
@@ -1620,7 +1620,7 @@
 
 
 
-<h2 class="chapter">二期抗战得胜图</h2>
+<h2 class="chapter" style="page-break-before: always;">二期抗战得胜图</h2>
 <p class="type">·诗配画·</p>
 
 <p class="intitle">一<br/><span class="c pretxt">“皇军”做梦</span></p>
@@ -1664,7 +1664,7 @@
 
 
 
-<h2 class="chapter">西洋景词画</h2>
+<h2 class="chapter" style="page-break-before: always;">西洋景词画</h2>
 <p class="type">·洋片词·</p>
 
 <blockquote>
@@ -1699,7 +1699,7 @@
 
 
 
-<h2 class="chapter">新画片唱词</h2>
+<h2 class="chapter" style="page-break-before: always;">新画片唱词</h2>
 
 <p class="intitle">一<br/><span class="c pretxt">全国动员</span></p>
 
@@ -1788,7 +1788,7 @@
 
 
 
-<h2 class="chapter">英雄赞</h2>
+<h2 class="chapter" style="page-break-before: always;">英雄赞</h2>
 <blockquote>
 <p>国庆腾欢尚未停，</p>
 <p>又喜群英会北京！</p>
