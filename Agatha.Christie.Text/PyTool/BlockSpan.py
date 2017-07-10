@@ -25,10 +25,15 @@ def process_block_quote(file_path):
                 is_block_tag = True
 
             if block_started and not is_block_tag:
-                trimmed = line.strip()
-                trimmed = re.sub(r'(（.*?）)', r'<span class="block">\1</span>', trimmed)
-                if '<p' not in trimmed and len(trimmed) > 0:
-                    line = '<p>{}</p>\n'.format(trimmed)
+                line = line.strip()
+                line = line.replace('<p>', '')
+                line = line.replace('</p>', '')
+
+                line, changed = add_span(line, '，')
+                if not changed:
+                    line, changed = add_span(line, '？')
+
+                line = '    <p class="c">{}</p>\n'.format(line)
 
             if is_block_tag:
                 line = line.replace(custom_start, start_tag)
@@ -40,6 +45,24 @@ def process_block_quote(file_path):
         f.seek(0)
         f.write(''.join(result_lines))
         f.truncate()
+
+
+def add_span(line, sep):
+    parts = line.split(sep)
+    if len(parts) <= 1:
+        return line, False
+    if len(parts) == 2 and len(parts[-1]) == 0:
+        return line, False
+
+    processed = ''
+    for (i, p) in enumerate(parts):
+        if len(p) > 0 and not p.startswith('<span'):
+            if i == len(parts) - 1:
+                processed += '<span>{}</span>'.format(p)
+            else:
+                processed += '<span>{}{}</span>'.format(p, sep)
+
+    return processed, True
 
 
 if __name__ == '__main__':
