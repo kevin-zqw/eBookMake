@@ -24,7 +24,7 @@ def process_block_quote(file_path):
                 block_started = False
                 is_block_tag = True
 
-            if block_started and not is_block_tag:
+            if block_started and not is_block_tag and len(line.strip()) > 0:
                 line = line.strip()
                 line = line.replace('<p>', '')
                 line = line.replace('</p>', '')
@@ -51,12 +51,12 @@ def add_span(line, sep):
     parts = line.split(sep)
     if len(parts) <= 1:
         return line, False
-    if len(parts) == 2 and len(parts[-1]) == 0:
+    if len(parts) == 2 and len(parts[-1]) == 0 or parts[-1].startswith('<sup>'):
         return line, False
 
     processed = ''
     for (i, p) in enumerate(parts):
-        if len(p) > 0 and not p.startswith('<span'):
+        if len(p) > 0 and not p.startswith('<sup>'):
             if i == len(parts) - 1:
                 processed += '<span>{}</span>'.format(p)
             else:
