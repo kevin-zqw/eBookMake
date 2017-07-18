@@ -17,7 +17,7 @@ break
 <p class="lk">C.C.Shu</p>
 
 <p class="intitle">2<br/><span class="pretxt">1926.6.6</span></p>
-<p class="post">31.St.Jsmes's Square</p>
+<p class="post">31.St.James's Square</p>
 <p class="post">Holland Park</p>
 <p class="post">W-11</p>
 <p class="post">6 June 1926</p>
@@ -122,7 +122,7 @@ break
 <blockquote>
 <p>Please let me thank you once more again for being so kind as to take me under your care. I am to write to Mrs.Walsh all about it.</p>
 
-<p>I am sorry for giving you twice the wrong telephone number of which Su7-9059is correct.</p>
+<p>I am sorry for giving you twice the wrong telephone number of which Su7-9059 is correct.</p>
 
 <p>I am not sure whether Mr.Reynal is now in town or not, as I was told a few days ago that he was to have a holiday somewhere in the South. You will, however, find Mr.Theodae Amussen there to give you all the informations about Divorce, as he has been handing it in the past months.</p>
 
@@ -138,7 +138,7 @@ break
 <p class="post">17 April 1948</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>The enclosed4copies of the agreement between Miss Kuo and I were sent to Miss Herz who forwarded to me. Would you mind to mail them back for me to Ann Watkins Inc. when you finish reading them so that they will know you are taking care of me? Many thanks.</p>
+<p>The enclosed 4 copies of the agreement between Miss Kuo and I were sent to Miss Herz who forwarded to me. Would you mind to mail them back for me to Ann Watkins Inc. when you finish reading them so that they will know you are taking care of me? Many thanks.</p>
 </blockquote>
 <p class="lk">Yours Sincerely,</p>
 <p class="lk">S.Y.Shu</p>
@@ -178,12 +178,12 @@ break
 <blockquote>
 <p>Many thanks for your kind letter.</p>
 
-<p>I am coming to see you and talk things over on Friday at11 o’clock. Please call me on the phone if it does not suit you.</p>
+<p>I am coming to see you and talk things over on Friday at 11 o’clock. Please call me on the phone if it does not suit you.</p>
 
 <p>I met Mr.and Mrs.Walsh last evening and I told them about all our doings in the last few days. They were very much pleased to know that I was under your good care.</p>
 
-<p>Yours Sincerely,</p>
 </blockquote>
+<p class="lk">Yours Sincerely,</p>
 <p class="lk">S.Y.Shu</p>
 
 
@@ -193,8 +193,7 @@ break
 <p class="post">4 May 1948</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>I had a letter this morning from Reynal and Hitchcock telling</p>
-<p>me to give them a letter for their files in the matter of the change of agent on my contract for Divorce.</p>
+<p>I had a letter this morning from Reynal and Hitchcock telling me to give them a letter for their files in the matter of the change of agent on my contract for Divorce.</p>
 
 <p>Do you think the following will do?</p>
 
@@ -252,7 +251,9 @@ break
 
 <p>Do you think whether it is advisable to offer her twenty percent in case she is not satisfied with fifteen percent?</p>
 
-<p>About the short story, I think we should let it go as it is, as Miss Quong has already revised it three times. Do you think it would do no harm if we just send it to, say, Harper, or any other magazine in your mind, and see what will happen? I will go to see you when I come back from the country.</p>
+<p>About the short story, I think we should let it go as it is, as Miss Quong has already revised it three times. Do you think it would do no harm if we just send it to, say, Harper, or any other magazine in your mind, and see what will happen?</p>
+
+<p>I will go to see you when I come back from the country.</p>
 
 <p>With best wishes</p>
 </blockquote>
@@ -266,9 +267,9 @@ break
 <p class="post">21 July 1948</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>Thank you very much for your letter of July 20th,1948.</p>
+<p>Thank you very much for your letter of July 20th, 1948.</p>
 
-<p>Mr.Amussen of Reynal &Hitchcock has just returned from the country where he worked on the draft of Divorce for three weeks with some minor corrections here and there. He told me yesterday on the phone that the book will be all ready for the public by November,1948.</p>
+<p>Mr.Amussen of Reynal &amp; Hitchcock has just returned from the country where he worked on the draft of Divorce for three weeks with some minor corrections here and there. He told me yesterday on the phone that the book will be all ready for the public by November,1948.</p>
 
 <p>I believe Miss Pruitt is right in thinking that a translation would be disintegrated when handled by somebody else besides the translator. I myself would like to see it all to be done by herself alone and pay her twenty-five percent as she suggested,</p>
 
@@ -276,7 +277,7 @@ break
 
 <p>She is now away for ten days holiday. I hope we will sign up the agreement you drafted and revised for us when she comes back to town.</p>
 
-<p>I returned from the country last Monday and I will be here up to the4th of August when I will go away again for a few days.</p>
+<p>I returned from the country last Monday and I will be here up to the 4th of August when I will go away again for a few days.</p>
 
 <p>Do please have a few day off, as it is really too hot to work here in the city.</p>
 </blockquote>
@@ -317,9 +318,9 @@ break
 
 <p>I am myself going to pay a visit to Mrs.Walsh in her farm tomorrow. I will stay there only for 4 or 5 days.</p>
 
-<p>I have already written to my publisher in Shanghai about the importance of re—registering of all my books at once.</p>
+<p>I have already written to my publisher in Shanghai about the importance of re-registering of all my books at once.</p>
 
-<p>I had a chat on the phone with Mr.Amussen who said he had received the English version of all the revisions of Divorce from Miss Kuo and he was to prepare everything for the final draft promptly. I do hope we can out—run Ward in this scandalous Olympics.</p>
+<p>I had a chat on the phone with Mr.Amussen who said he had received the English version of all the revisions of Divorce from Miss Kuo and he was to prepare everything for the final draft promptly. I do hope we can out-run Ward in this scandalous Olympics.</p>
 </blockquote>
 <p class="lk">Yours Sincerely,</p>
 <p class="lk">S.Y.Shu</p>
@@ -378,7 +379,7 @@ break
 <blockquote>
 <p>Divorce: certificate of registration of copyright. Home Office<span class="block">（China）</span>Series Shang No. 11139.</p>
 
-<p>This is the re—registration of Divorce, as the original records of registration is lost in the war. This is copyrighted in the author'name. And it covers all editions, because although there are quite a few editions published in the past fifteen years, yet the book is always the same.</p>
+<p>This is the re-registration of Divorce, as the original records of registration is lost in the war. This is copyrighted in the author's name. And it covers all editions, because although there are quite a few editions published in the past fifteen years, yet the book is always the same.</p>
 </blockquote>
 
 
@@ -404,9 +405,9 @@ break
 <p class="post">21 Oct.1948</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>Thank you very much for your kind letter of Oct.20,1948.</p>
+<p>Thank you very much for your kind letter of Oct.20, 1948.</p>
 
-<p>The Chinese word"happy"for"Happy boy"may also mean: Felicity, good luck, good omen, and prosperity. I hope they will help the Italian publisher make a good sounding name for the hero."King"alone has all the foreign rights of Rickshazv Boy, but I do not mind giving one or two tips to the Italian publisher. Do you mind to ask for a copy of the Italian translation for me when you write to the publisher?</p>
+<p>The Chinese word "happy" for "Happy boy" may also mean: Felicity, good luck, good omen, and prosperity. I hope they will help the Italian publisher make a good sounding name for the hero. "King" alone has all the foreign rights of Rickshaw Boy, but I do not mind giving one or two tips to the Italian publisher. Do you mind to ask for a copy of the Italian translation for me when you write to the publisher?</p>
 
 <p>About the new novel, I have already done four chapters of which three have gone to Miss Kuo to be translated. I should be very grateful to you, if you would be so kind as to prepare some agreement for us on the forty percent basis. If I can keep the rate of doing two thousand words a day, as I have been doing in the past few days, I think I can finish the whole thing somewhere at the New Year time.</p>
 
@@ -463,7 +464,7 @@ break
 <p class="post">26/11</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>I have just had a heart to heart talk with Miss Kuo and we both agreed that her share will be40%including foreign rights. The film and other rights<span class="block">（drama and so on）</span>are to be kept by myself.</p>
+<p>I have just had a heart to heart talk with Miss Kuo and we both agreed that her share will be 40% including foreign rights. The film and other rights<span class="block">（drama and so on）</span>are to be kept by myself.</p>
 
 <p>She suggests that we should get the agreement signed the sooner the better. I hope her agent will soon let you know all about it and we can sign the paper before long.</p>
 
@@ -473,7 +474,7 @@ break
 
 <p>Many many thanks for all the trouble and I hope everything will finally turn out satisfactory.</p>
 
-<p>I hope I will be able to go to see you next Thursday, as I am going to New Haven for two days—Tuesday Thursday morning.</p>
+<p>I hope I will be able to go to see you next Thursday, as I am going to New Haven for two days - Tuesday Thursday morning.</p>
 </blockquote>
 <p class="lk">Yours Sincerely,</p>
 <p class="lk">S.Y.Shu</p>
@@ -501,7 +502,7 @@ break
 
 <p>I have not been arranging terms for my new book with the publisher, as I know you are to handle it for me. Unfortunately, the three sample chapters and the outline went to Amussen. directly from Miss Kuo’s agent who also arranged the one thousand advance for her. I did not know a thing until she told me so. Her agent should have handed over the three chapters to you and told you about her advance, but he did not, which perhaps gave you the impression that I was responsible for them. That is the reason why I wrote you as I did last time. If I told you all the facts then, you would certainly feel annoyed with both Miss Kuo and Watkins.</p>
 
-<p>As a matter of fact, I have been very careful to keep away from both Amussen and Reyal in order to let you negotiate for me without any interference. But I just could not stop either Kuo or Watkins going to the publisher directly. I hope this will make you more cheerful that there was no double—headed dealings from my part.</p>
+<p>As a matter of fact, I have been very careful to keep away from both Amussen and Reyal in order to let you negotiate for me without any interference. But I just could not stop either Kuo or Watkins going to the publisher directly. I hope this will make you more cheerful that there was no double-headed dealings from my part.</p>
 
 <p>The three sample chapters now in the publisher's hand are the only clean copy. Since Miss Kou has to do all the typing herself, I would rather not ask her to do it again. You know how delicate it is to deal with a lady！</p>
 
@@ -530,14 +531,14 @@ break
 <blockquote>
 <p>This is to wish you and Miss Lloyd a Merry X'mas and a happy New Year.</p>
 
-<p>I have a very acute attack of rheumatism&my legs have a terrible pain for the past few days.</p>
+<p>I have a very acute attack of rheumatism &amp; my legs have a terrible pain for the past few days.</p>
 </blockquote>
 <p class="lk">Yours Sincerely,</p>
 <p class="lk">S.Y.Shu</p>
 
 
 <p class="intitle">26<br/><span class="pretxt">1949.1.28</span></p>
-<p class="post">28 Jan.1949</p>
+<p class="post">28 Jan. 1949</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
 <p>Miss Helena Kuo is a good driver of a car. We made for Miami in three days and a half. The worst part of the trip is in Georgia where cows, instead of policemen, stand right in the middle of the highway. Miss Kuo did not kill a single cow, though.</p>
@@ -574,7 +575,7 @@ break
 <blockquote>
 <p>Thank you very much for the check of 112.50.</p>
 
-<p>In about one or two days, I will go to the Beth Israie Hospital for, may be, an operation. After Dr. Derdrich's many treatments, the pain gets more acute day by day. He told me this morning that he was to send me to Beth Israie. I will let you know whether it is necessary to have an operation when I get there.</p>
+<p>In about one or two days, I will go to the Beth Israie Hospital for, may be, an operation. After Dr.Derdrich's many treatments, the pain gets more acute day by day. He told me this morning that he was to send me to Beth Israie. I will let you know whether it is necessary to have an operation when I get there.</p>
 
 <p>The first complete draft of the translation of the Drum Singers has been sent to me. I hope I can go through it before my hospitalization. Mr.Amussen also has a copy of it. When he finishes reading of it, I will compare notes with him to make the final draft.</p>
 
@@ -582,7 +583,7 @@ break
 
 <p>Mr.Chien gave me the other day a copy of the contract for the China Town story to read. I will tell him tomorrow that we will discuss the matter after I come out from the hospital.</p>
 
-<p>I hope you & Miss Lloyd are both well.</p>
+<p>I hope you &amp; Miss Lloyd are both well.</p>
 </blockquote>
 <p class="lk">Yours Sincerely,</p>
 <p class="lk">S.Y.Shu</p>
@@ -614,7 +615,7 @@ break
 <blockquote>
 <p>Thank you very much for your kind letter.</p>
 
-<p>Miss Pruitt and I spent a week end at her brother's home in Philladelphia. Walking with her in the wood, I got a rather good title for the Four Generations story—Yellovu Storm. Do you like it?</p>
+<p>Miss Pruitt and I spent a week end at her brother's home in Philladelphia. Walking with her in the wood, I got a rather good title for the Four Generations story - Yellow Storm. Do you like it?</p>
 
 <p>I am going to see Mr.Amussen Thursday Morning and I will let you know about the Drum Singers story and everything.</p>
 
@@ -632,27 +633,27 @@ break
 <blockquote>
 <p>After our conversation on the phone, I think I have better to give you my address in Hongkong like this:</p>
 
-<p>c/o Dr. Hou Pao—chang</p>
+<p>c/o Dr. Hou Pao-chang</p>
 <p>Dept.of Pathology,</p>
 <p>Hongkong University, Hongkong.</p>
 
-<p>My signature "S.Y.Shu" really stands for: Sheh—yu Shu.</p>
+<p>My signature "S.Y.Shu" really stands for: Sheh-yu Shu.</p>
 </blockquote>
 <p class="lk">Yours Sincerely,</p>
 <p class="lk">S.Y.Shu</p>
 
 
 <p class="intitle">32<br/><span class="pretxt">1949.11.5</span></p>
-<p class="post">c/o Dr.Hou Pao—chang</p>
+<p class="post">c/o Dr.Hou Pao-chang</p>
 <p class="post">Dept.of Pathology</p>
 <p class="post">Hongkong University</p>
 <p class="post">Hongkong</p>
 <p class="post">15 Nov.1949</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>I am sorry that I did not write as soon as landed in Hongkong on Nov. 4th. The ship was twice caught by typhoon and several days after my landing I still felt my bed rolling and shaking. The rough sea brought back to me all my sciatic pain. I can hardly walk at all even now. Hongkong University is built on the hills which gives me a terrible pain every time I try to go out.</p>
+<p>I am sorry that I did not write as soon as landed in Hongkong on Nov.4th. The ship was twice caught by typhoon and several days after my landing I still felt my bed rolling and shaking. The rough sea brought back to me all my sciatic pain. I can hardly walk at all even now. Hongkong University is built on the hills which gives me a terrible pain every time I try to go out.</p>
 
-<p>After staying here for ten days, I still do not know when I will be able to go to Peking, as there are so many people waiting to sail for the North that to secure a passage is extremely diffucult. I have to wait for a while here, as I could hardly swim all the way home.</p>
+<p>After staying here for ten days, I still do not know when I will be able to go to Peking, as there are so many people waiting to sail for the North that to secure a passage is extremely difficult. I have to wait for a while here, as I could hardly swim all the way home.</p>
 
 <p>It would be very kind of you if you would tell Mr.Amussen and Miss Pruitt about my arrival of Hongkong and all my misery, as it is very painful for me to write more than one letter at a time. I will write them when I get better.</p>
 
@@ -665,7 +666,7 @@ break
 
 
 <p class="intitle">33<br/><span class="pretxt">1949.11.1</span></p>
-<p class="post">c/o Dr. Hou Pao—chang</p>
+<p class="post">c/o Dr. Hou Pao-chang</p>
 <p class="post">Dept.of Pathology</p>
 <p class="post">Hongkong University</p>
 <p class="post">Hongkong</p>
@@ -688,11 +689,11 @@ break
 <p class="post">27 Fed.1950</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>I am very sorry for not having written for so long—I have been here in my home city already more than two months. Ever since I came back to Peking, I have been very busy in reading and writing. All the times I want to go and see more places in order to gather some material for writing, but my sciatic pain is still with me and I have to stay in everyday, and I can only get new ideas from reading.</p>
+<p>I am very sorry for not having written for so long-I have been here in my home city already more than two months. Ever since I came back to Peking, I have been very busy in reading and writing. All the times I want to go and see more places in order to gather some material for writing, but my sciatic pain is still with me and I have to stay in everyday, and I can only get new ideas from reading.</p>
 
-<p>After fifteen years separation, my three sisters<span class="block">（seventy——three, seventy, and sixty four years old）</span>are all living in Peking and still very healthy. My big brother is here too. They are very happy indeed to see their youngest brother coming back home. Two years ago, my brother was almost dead of starvation. Now, his sons are all working and my brother is right again. So they all love the new government which is really good to the people.</p>
+<p>After fifteen years separation, my three sisters<span class="block">（seventy-three, seventy, and sixty four years old）</span>are all living in Peking and still very healthy. My big brother is here too. They are very happy indeed to see their youngest brother coming back home. Two years ago, my brother was almost dead of starvation. Now, his sons are all working and my brother is right again. So they all love the new government which is really good to the people.</p>
 
-<p>My family is coming from Chungching. I have to get a house for them. Now, Peking is the capital again, to find a suitable house is rather expensive and difficult. I should be very much obliged, if you would send me some five hundred dollars to Hongkong where Dr. Hou will transmit them to me.<span class="block">（Dr.Hou Pao-chang, Dept, of Pathology, Hongkong University, Hongkong）</span></p>
+<p>My family is coming from Chungching. I have to get a house for them. Now, Peking is the capital again, to find a suitable house is rather expensive and difficult. I should be very much obliged, if you would send me some five hundred dollars to Hongkong where Dr.Hou will transmit them to me.<span class="block">（Dr.Hou Pao-chang, Dept, of Pathology, Hongkong University, Hongkong）</span></p>
 
 <p>How is the long novel going on? I am told that Mr.Amussen is no longer with R. and H.. Is that true? Have you seen Miss Pruitt? Please remember me to Mrs.and Miss Lloyd kindly.</p>
 
@@ -708,7 +709,7 @@ break
 <blockquote>
 <p>I am very sorry for not having written for so long, as I have been very busy both in writing and in organizing the Artist's Association of Peking. I have just managed to finish a five-acts play which is going to be put on the stage before long.</p>
 
-<p>Thank you very much for sending the sum of five hundred dollars to Hongkong where Dr. Hou has managed to re—transmit to me. I am happy to learn that the manuscript of the Four Generation story is now in good shape. Please tell Mis Pruitt that I have been so very busy that I could hardly find time to write to her. Please also tell her that all the lakes and streams of Peking have been worked upon so that clean and fresh water now runs everywhere. The wheat harvest is better than last year and the famine is almost over.</p>
+<p>Thank you very much for sending the sum of five hundred dollars to Hongkong where Dr. Hou has managed to re-transmit to me. I am happy to learn that the manuscript of the Four Generation story is now in good shape. Please tell Mis Pruitt that I have been so very busy that I could hardly find time to write to her. Please also tell her that all the lakes and streams of Peking have been worked upon so that clean and fresh water now runs everywhere. The wheat harvest is better than last year and the famine is almost over.</p>
 
 <p>Best wishes from</p>
 </blockquote>
@@ -742,7 +743,7 @@ break
 
 
 <p class="intitle">37<br/><span class="pretxt">1950.11.7</span></p>
-<p class="post">17 Nov.Peking</p>
+<p class="post">17 Nov. Peking</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
 <p>This is to wish you a happy X'mas and a bright New Year.</p>
@@ -778,13 +779,13 @@ break
 <p class="post">Peking, 21 May 1951</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>The enclosed notice was forwarded to me by my former landlord in New York. When I left New York, I brought all my income tax documents to the Internal Revenue Office in42nd Street to be examined. They were proved to be all correct and proper. Otherwise, I could not book my passage for China at all. Now, I am in Peking and I have, of course, no way to appear as told. Do you think there is anything really important that we should do something or just leave it alone?</p>
+<p>The enclosed notice was forwarded to me by my former landlord in New York. When I left New York, I brought all my income tax documents to the Internal Revenue Office in 42nd Street to be examined. They were proved to be all correct and proper. Otherwise, I could not book my passage for China at all. Now, I am in Peking and I have, of course, no way to appear as told. Do you think there is anything really important that we should do something or just leave it alone?</p>
 
-<p>I am told that one of the book<span class="block">（Yellow Storm）</span>you sent to me already reached Hongkong and my friend Dr. Hou will find a way to send it to me. Mr.T. T. Chu of435W. 123Street, Apt. 52, New York, N.Y. will help you to send letters, books, and money to me. He is a good friend of mine. He can put the Chinese words on the envelop for your letter to me.</p>
+<p>I am told that one of the book<span class="block">（Yellow Storm）</span>you sent to me already reached Hongkong and my friend Dr. Hou will find a way to send it to me. Mr.T.T.Chu of 435 W. 123 Street, Apt.52, New York, N.Y. will help you to send letters, books, and money to me. He is a good friend of mine. He can put the Chinese words on the envelop for your letter to me.</p>
 
-<p>I have been very busy all the time in Peking. But the sciati. pain is still with me. I have tried everything to cure it, but nothing doing！</p>
+<p>I have been very busy all the time in Peking. But the sciatic. pain is still with me. I have tried everything to cure it, but nothing doing！</p>
 
-<p>Our white cat has now three babies-1all white, and2white with yellow spots. But the small bird is dead which gives the opportunity to my baby daughter to shed a lot of tears.</p>
+<p>Our white cat has now three babies - 1 all white, and 2 white with yellow spots. But the small bird is dead which gives the opportunity to my baby daughter to shed a lot of tears.</p>
 
 <p>With best wishes,</p>
 </blockquote>
@@ -805,7 +806,7 @@ break
 
 <p>I am very glad to learn that the Yellow Storm is going to be published in England for which I thank you very much.</p>
 
-<p>Please give five hundred dollars or so to Mr.T. T. Chu whose family will pay me. His family is now in Peking.</p>
+<p>Please give five hundred dollars or so to Mr.T.T.Chu whose family will pay me. His family is now in Peking.</p>
 
 <p>With the best wishes to you and to your family.</p>
 </blockquote>
@@ -818,7 +819,7 @@ break
 <p class="post">17 Feb. 1952</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>Many thanks for your kind letter of5, Feb. 52. The enclosed Papers are signed by myself. I hope you will find them in good order. I thank you very much for helping me and I hope the matter will soon be settled without too much trouble. This is a short note, as I am still very very busy in doing another play. I will write again before long.</p>
+<p>Many thanks for your kind letter of 5, Feb. 52. The enclosed Papers are signed by myself. I hope you will find them in good order. I thank you very much for helping me and I hope the matter will soon be settled without too much trouble. This is a short note, as I am still very very busy in doing another play. I will write again before long.</p>
 
 <p>Best wishes from</p>
 </blockquote>
@@ -831,7 +832,7 @@ break
 <p class="post">1 April 1952</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>I received another letter from the Treasury Dept, through Hongkong together with two forms to be filled up. I really do not know how to fill them. All I can do is to sign them. It would be very kind of you indeed if you would let them know that you have a power of attorney to look after the matter.</p>
+<p>I received another letter from the Treasury Dept. through Hongkong together with two forms to be filled up. I really do not know how to fill them. All I can do is to sign them. It would be very kind of you indeed if you would let them know that you have a power of attorney to look after the matter.</p>
 
 <p>I am still very very busy in doing another play and I do not know when I can finish it. The new society inspires creative writings throughout the whole country and every writer is busy to do something. The long winter is almost over. Peking is very beautiful in the Spring. I will have plenty of flowers to take care which will give me a chance to rest in between my works. My sciatic pain is slightly better and I need some light exercise. Watering flowers is just the right thing for me.</p>
 
@@ -847,10 +848,9 @@ break
 <p class="post">14 May 1952</p>
 <p class="rm">Dear Mr.Lloyd,</p>
 <blockquote>
-<p>Thank you very much for your kind letter of March 7, 1952. The Drum Singers reached me two days ago. I wonder whether it</p>
-<p>will have a good market, as the price is high and the book itself is weak. I should be very grateful to you if you would care to send me a few of the reviews of the book. Most of the reviews of Yellow Storm are extremely flattering. I doubt whether the Drum book will be so kindly received.</p>
+<p>Thank you very much for your kind letter of March 7, 1952. The Drum Singers reached me two days ago. I wonder whether it will have a good market, as the price is high and the book itself is weak. I should be very grateful to you if you would care to send me a few of the reviews of the book. Most of the reviews of Yellow Storm are extremely flattering. I doubt whether the Drum book will be so kindly received.</p>
 
-<p>I have been very busy all the time, but I am glad to let you know that my sciatic trouble is slightly better—the result of Vitamin B injections.</p>
+<p>I have been very busy all the time, but I am glad to let you know that my sciatic trouble is slightly better - the result of Vitamin B injections.</p>
 
 <p>With best wishes from</p>
 </blockquote>
