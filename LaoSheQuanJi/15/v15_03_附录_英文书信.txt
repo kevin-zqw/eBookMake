@@ -1,4 +1,8 @@
-附录
+<h1 class="bigtitle">附录</h1>
+<p class="type">·英文信件·</p>
+
+break
+
 Dear Miss Clegg
 To Miss Clegg
 1926.4.16
