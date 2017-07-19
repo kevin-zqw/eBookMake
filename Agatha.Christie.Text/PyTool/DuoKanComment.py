@@ -12,6 +12,7 @@ duokan_comment_define_template = '    <li class="duokan-footnote-item" id="footn
 duokan_comment_start = '  <ol class="duokan-footnote-content hr"></ol>\n  <ol class="duokan-footnote-content">\n'
 duokan_comment_end = '  </ol>\n'
 
+
 def process_comment(file_path):
     with open(file_path, 'r+', encoding='utf-8') as f:
         result_lines = []
@@ -50,4 +51,10 @@ if __name__ == '__main__':
 
         for filename in os.listdir(dir_path):
             file_path = os.path.join(dir_path, filename)
+
+            with open(file_path, 'r', encoding='utf-8') as f:
+                text = f.read()
+                if len(re.findall(pattern_duokan_comment, text)) == 0:
+                    continue
+
             process_comment(file_path)
