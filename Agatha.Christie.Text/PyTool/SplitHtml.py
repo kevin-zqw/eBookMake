@@ -9,10 +9,14 @@ import sys
 
 if __name__ == '__main__':
     # command line parameters
-    src_file = r'/Users/kevin/GitHub/eBookMake/LaoSheQuanJi/15/v15_01_散文杂文.txt'
-    template_file = r'/Users/kevin/GitHub/eBookMake/LaoSheQuanJi/15/template.xhtml'
-    output_dir = r'/Users/kevin/GitHub/eBookMake/LaoSheQuanJi/15/output/'
-    name_prefix = r'swzw_'
+    if len(sys.argv) < 5:
+        print('python SplitHtml.py <src_file> <template_file> <output_dir> <name_prefix>')
+        exit(1)
+
+    src_file = sys.argv[1]
+    template_file = sys.argv[2]
+    output_dir = sys.argv[3]
+    name_prefix = sys.argv[4]
 
     # constants
     padding = '  '
@@ -68,5 +72,7 @@ if __name__ == '__main__':
                 padding_count = 1
                 if not is_block and in_block:
                     padding_count = 2
+                elif len(line.strip()) == 0:
+                    padding_count = 0
 
                 text_array.append(padding * padding_count + line)
