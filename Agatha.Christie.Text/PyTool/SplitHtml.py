@@ -7,6 +7,18 @@ import re
 import sys
 
 
+def save_file(the_index):
+    filename = name_prefix + str(the_index).zfill(3) + '.xhtml'
+    dest_file = os.path.join(output_dir, filename)
+
+    content = ''.join(text_array)
+    with open(dest_file, 'w', encoding='utf-8') as f:
+        content = html.format(content)
+        f.write(content)
+
+    text_array.clear()
+
+
 if __name__ == '__main__':
     # command line parameters
     if len(sys.argv) < 5:
@@ -43,7 +55,7 @@ if __name__ == '__main__':
 
     with open(src_file, 'r', encoding='utf-8') as f:
         text_array = []
-        index = 1
+        the_index = 1
         in_block = False
 
         for line in f.readlines():
@@ -58,16 +70,8 @@ if __name__ == '__main__':
                 is_block = True
 
             if text == mark_break:
-                filename = name_prefix + str(index).zfill(3) + '.xhtml'
-                dest_file = os.path.join(output_dir, filename)
-
-                content = ''.join(text_array)
-                with open(dest_file, 'w', encoding='utf-8') as f:
-                    content = html.format(content)
-                    f.write(content)
-
-                text_array.clear()
-                index += 1
+                save_file(the_index)
+                the_index += 1
             else:
                 padding_count = 1
                 if not is_block and in_block:
@@ -76,3 +80,5 @@ if __name__ == '__main__':
                     padding_count = 0
 
                 text_array.append(padding * padding_count + line)
+
+        save_file(the_index)
