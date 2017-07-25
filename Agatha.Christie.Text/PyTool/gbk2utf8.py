@@ -17,7 +17,9 @@ if __name__ == '__main__':
         text = ''
         with open(file_path, 'r', encoding='gbk') as f:
             text = f.read()
+            text.replace('charset=gbk', 'charset=utf-8')
+
+        os.remove(file_path)
 
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(text)
-        
