@@ -8,6 +8,7 @@ import re
 
 base_dir = '/Users/kevin/GitHub/eBookMake/zuihoudediqiuzhanshen'
 dest_dir = os.path.join(base_dir, 'output')
+template_file = os.path.join(base_dir, 'template.html')
 separator = 'AAAAAABBBBBB'
 
 
@@ -15,7 +16,6 @@ def process_file(filename):
     print(filename)
 
     file_path = os.path.join(base_dir, filename)
-    output_name = os.path.splitext(filename)[0] + '.txt'
 
     with open(file_path, 'r', encoding='utf-8') as f:
         all_text = []
@@ -36,8 +36,21 @@ def process_file(filename):
 
             all_text.append(line)
 
+        formatted_text = []
+        for (i, line) in enumerate(all_text):
+            if i == 0:
+                formatted_text.append('  <h1>{}</h1>'.format(line))
+            else:
+                formatted_text.append('  <p>{}</p>'.format(line))
 
+        result_text = '\n'.join(formatted_text)
 
+        dest_path = os.path.join(dest_dir, filename)
+        with open(dest_path, 'w', encoding='utf-8') as out:
+            with open(template_file, 'r', encoding='utf-8') as template:
+                html = template.read()
+                html = html.format(result_text)
+                out.write(html)
 
 
 if __name__ == '__main__':
