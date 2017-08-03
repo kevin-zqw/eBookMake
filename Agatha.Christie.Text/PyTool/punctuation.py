@@ -12,7 +12,7 @@ pattern_dict_line = r'"(.+)"\s*→\s*"(.+)"'
 pattern_page_no = r'^[\^\d]+.{0,5}$'
 
 ending_punctuation = r'.<>/?;:{}"()\[\]。《》？！；：‘’“”（）·【】……\n'.format("'")
-pattern_hard_break = r'(.{}[^{}]+)\n+([\u4e00-\u9fa5]+)'.format('{5,}', ending_punctuation)
+pattern_hard_break = r'(.{}[^{}]+)\n+([\u4e00-\u9fa5]+)'.format('{6,}', ending_punctuation)
 replace_hard_break = r'\1\2'
 
 
@@ -146,7 +146,7 @@ def proof_reading():
 
     file_path = sys.argv[1]
 
-    open_file_perform(file_path, strip_page_no_book_name)
+    # open_file_perform(file_path, strip_page_no_book_name)
 
     open_file_perform(file_path, base_punctuation)
     open_file_perform(file_path, fix_line_break)
