@@ -21,6 +21,7 @@ if __name__ == '__main__':
             for tag in soup.find_all('a'):
                 all_entries.append([tag.text.strip(), tag['href']])
 
+    result_text = []
     with open(txt_file, 'r', encoding='utf-8') as f:
         for line in f.readlines():
             line = line.strip()
@@ -45,7 +46,21 @@ if __name__ == '__main__':
                 
                 if found:
                     print('[maybe]:', line, ':', href_array)
-                    
-            if not found:
-                print('[Not]:', line)
 
+            if not found:
+                for toc_pair in all_entries:
+                    if line in toc_pair[0]:
+                        href_array.append(toc_pair[1])
+                        found = True
+
+                if found:
+                    print('[maybe]:', line, ':', href_array)
+
+            if found:
+                result_text.append('{}:{}'.format(line, href_array))
+            else:
+                print('[Not]:', line)
+                result_text.append(line)
+
+    with open(txt_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(result_text))
