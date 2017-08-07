@@ -29,13 +29,14 @@ if __name__ == '__main__':
         template = f.read()
 
     for filename in os.listdir(html_dir):
-        extension = os.path.splitext(filename)[1]
+        base_name, extension = os.path.splitext(filename)
         if extension != '.html' and extension != '.xhtml':
             continue
 
         file_path = os.path.join(html_dir, filename)
 
-        with open(file_path, 'r+', encoding='utf-8') as f:
+        result_html = ''
+        with open(file_path, 'r', encoding='utf-8') as f:
             text = f.read()
 
             text = text.replace("<h4", "<h5")
@@ -50,9 +51,12 @@ if __name__ == '__main__':
             text = text.replace("<h1", "<h2")
             text = text.replace("</h1>", "</h2>")
 
-            matches = re.findall(r'<body.*?>(.*?)</body>', text)
+            matches = re.findall(r'<body.*?>(.*?)</body>', text, flags=re.DOTALL)
             if len(matches) > 0:
                 body = matches[0]
                 result_html = template.format(body)
+
+        if len(result_html) > 0:
+            output_name = base_name + '.xhtml'
+            with open(os.path.join(html_dir, output_name), 'w', encoding='utf-8') as f:
                 f.write(result_html)
-                f.truncate()
