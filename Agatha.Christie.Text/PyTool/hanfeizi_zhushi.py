@@ -53,8 +53,11 @@ def process_comment(path):
     if len(all_comments) == 0:
         return
 
+    start_index = 0
     for comment in all_comments:
-        all_text = all_text.replace('<p>{}</p>'.format(comment), '')
+        p_comm = '<p>1{}</p>'.format(comment)
+        end_index = all_text.find(p_comm)
+        all_text = all_text.replace(p_comm, '')
 
         pair_array = []
         last_index = 0
@@ -77,6 +80,21 @@ def process_comment(path):
             if curr_index != index + 1:
                 print(key, '=>', value)
             index = curr_index
+
+        search_text = all_text[start_index:end_index]
+        start_index = end_index
+        inserts = re.findall(r'[^\d，。？！—、：<；>](\d{1,2})[，。？！—、：；’”<]', search_text)
+        if len(inserts) != len(pair_array):
+            print(inserts)
+            print(pair_array[0])
+        else:
+            comm_indexes = []
+            for i, ins in enumerate(inserts):
+                comm_indexes.append(pair_array[i][0])
+            if comm_indexes != inserts:
+                print(inserts)
+                print(pair_array[0])
+
 
 
 if __name__ == '__main__':
