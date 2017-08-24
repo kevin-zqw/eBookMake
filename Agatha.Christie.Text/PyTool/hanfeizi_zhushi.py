@@ -42,7 +42,7 @@ def check_error(path):
         file.truncate()
 
 
-def process_comment(path):
+def process_comment(path, replace):
     print(os.path.basename(path))
 
     all_text = ''
@@ -54,9 +54,11 @@ def process_comment(path):
         return
 
     start_index = 0
+    insert_index = 1
     for comment in all_comments:
         p_comm = '<p>1{}</p>'.format(comment)
-        end_index = all_text.find(p_comm)
+        if not replace:
+            end_index = all_text.find(p_comm)
         all_text = all_text.replace(p_comm, '')
 
         pair_array = []
@@ -81,20 +83,28 @@ def process_comment(path):
                 print(key, '=>', value)
             index = curr_index
 
-        search_text = all_text[start_index:end_index]
-        start_index = end_index
-        inserts = re.findall(r'[^\d，。？！—、：<；>](\d{1,2})[，。？！—、：；’”<]', search_text)
-        if len(inserts) != len(pair_array):
-            print(inserts)
-            print(pair_array[0])
+        if replace:
+            for key, value in pair_array:
+                pattern_replace = r'([^\d，。？！—、：<；>]){}([，。？！—、：；’”<])'.format(key)
+                repl_replace = r'\1【{}||{}】\2'.format(insert_index, value)
+                insert_index += 1
+                all_text = re.sub(pattern_replace, repl_replace, all_text, 1)
         else:
-            comm_indexes = []
-            for i, ins in enumerate(inserts):
-                comm_indexes.append(pair_array[i][0])
-            if comm_indexes != inserts:
+            search_text = all_text[start_index:end_index]
+            start_index = end_index
+            inserts = re.findall(r'[^\d，。？！—、：<；>](\d{1,2})[，。？！—、：；’”<]', search_text)
+            if len(inserts) != len(pair_array):
                 print(inserts)
                 print(pair_array[0])
-
+            else:
+                comm_indexes = []
+                for i, ins in enumerate(inserts):
+                    comm_indexes.append(pair_array[i][0])
+                if comm_indexes != inserts:
+                    print(inserts)
+                    print(pair_array[0])
+    with open(path, 'w', encoding='utf-8') as file:
+        file.write(all_text)
 
 
 if __name__ == '__main__':
@@ -104,4 +114,4 @@ if __name__ == '__main__':
             continue
 
         file_path = os.path.join(base_dir, filename)
-        process_comment(file_path)
+        process_comment(file_path, True)
