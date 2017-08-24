@@ -86,7 +86,7 @@ def process_comment(path, replace):
         if replace:
             for key, value in pair_array:
                 pattern_replace = r'([^\d，。？！—、：<；>]){}([，。？！—、：；’”<])'.format(key)
-                repl_replace = r'\1【{}||{}】\2'.format(insert_index, value)
+                repl_replace = r'\1【【{}||{}】】\2'.format(insert_index, value)
                 insert_index += 1
                 all_text = re.sub(pattern_replace, repl_replace, all_text, 1)
         else:
