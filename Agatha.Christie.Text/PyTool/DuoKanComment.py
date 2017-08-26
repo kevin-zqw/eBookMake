@@ -46,15 +46,22 @@ def process_comment(file_path):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) >= 2:
-        dir_path = sys.argv[1]
+    if len(sys.argv) < 2:
+        print('usage: python3 {} <dir>'.format(sys.argv[0]))
+        exit(0)
 
-        for filename in os.listdir(dir_path):
-            file_path = os.path.join(dir_path, filename)
+    dir_path = sys.argv[1]
 
-            with open(file_path, 'r', encoding='utf-8') as f:
-                text = f.read()
-                if len(re.findall(pattern_duokan_comment, text)) == 0:
-                    continue
+    for filename in os.listdir(dir_path):
+        # hidden files
+        if filename.startswith('.'):
+            continue
 
-            process_comment(file_path)
+        file_path = os.path.join(dir_path, filename)
+
+        with open(file_path, 'r', encoding='utf-8') as f:
+            text = f.read()
+            if len(re.findall(pattern_duokan_comment, text)) == 0:
+                continue
+
+        process_comment(file_path)
