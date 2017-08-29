@@ -18,3 +18,5 @@ Filter Color: 332337
 <span class="ytxt">（[^（]*?）</span>
 1. 去除简介中的这个样式
 2. 为正文添加这个样式
+
+3. nzgy最后一个xhtml文件有两个文字错误
