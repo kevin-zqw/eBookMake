@@ -1,12 +1,12 @@
-0. sigil_not_in_toc，添加到无意义的“一二三四”子标题上，保持目录尽量少
-1. 版权信息完善
-2. 制作手记，版本历史完善
-3. 搜索所有图片生僻字并替换
-4. fontRepack子集化字体
-6. 更新收集的三个azw3
-7. 检查全书，发布
-8. 江南一第四章：杏花春雨江南 加blockquote
-9. 金欧缺检查添加blockquote
+DONE 0. sigil_not_in_toc，添加到无意义的“一二三四”子标题上，保持目录尽量少
+DONE 1. 版权信息完善
+DONE 2. 制作手记，版本历史完善
+DONE 3. 搜索所有图片生僻字并替换
+DONE 4. fontRepack子集化字体
+DONE 6. 更新收集的三个azw3
+DONE 7. 检查全书，发布
+DONE 8. 江南一第四章：杏花春雨江南 加blockquote
+DONE 9. 金欧缺检查添加blockquote
 
 
 Filter Color: 332337
