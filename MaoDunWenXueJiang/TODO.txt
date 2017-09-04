@@ -5,6 +5,9 @@
 4. fontRepack子集化字体
 6. 更新收集的三个azw3
 7. 检查全书，发布
+8. 江南一第四章：杏花春雨江南 加blockquote
+9. 金欧缺检查添加blockquote
+
 
 Filter Color: 332337
 
