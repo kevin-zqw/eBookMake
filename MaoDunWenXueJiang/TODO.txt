@@ -1,7 +1,8 @@
-1. 统一所有标题样式，是否采用sptxt
-2. 检查所有blockquote里的诗歌
-3. 芙蓉镇：“青布罗裙红布头”
-4. 检查所有不是"../Images"开头的图片
+DONE 1. 统一所有标题样式，是否采用sptxt
+DONE 1. title3颜色
+DONE 2. 检查所有blockquote里的诗歌
+DONE 3. 芙蓉镇：“青布罗裙红布头”
+DONE 4. 检查所有不是"../Images"开头的图片
 
 
 DONE 0. sigil_not_in_toc，添加到无意义的“一二三四”子标题上，保持目录尽量少
