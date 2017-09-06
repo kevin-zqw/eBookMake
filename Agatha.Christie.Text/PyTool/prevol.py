@@ -30,7 +30,7 @@ if __name__ == '__main__':
 
     for filename in os.listdir(html_dir):
         base_name, extension = os.path.splitext(filename)
-        if extension != '.html' and extension != '.xhtml':
+        if extension != '.html' and extension != '.xhtml' and extension != '.htm':
             continue
 
         file_path = os.path.join(html_dir, filename)
