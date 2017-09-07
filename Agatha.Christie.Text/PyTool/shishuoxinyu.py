@@ -49,63 +49,31 @@ def process_comment(path, replace):
     with open(path, 'r', encoding='utf-8') as file:
         all_text = file.read()
 
-    all_comments = re.findall(r'(<p class="fnote"><a id=".*?" href=".*?">(.*?)</a>(.*?)</p>)', all_text)
+    all_comments = re.findall(r'(<p class="fnote"><a id=".*?" href=".*?">(\(.*?\))</a>(.*?)</p>)', all_text)
     if len(all_comments) == 0:
         return
 
     start_index = 0
+    end_index = 0
     insert_index = 1
-    for comm_text, comm_key, comm_value in all_comments:
-        print(comm_text)
-        print(comm_key)
-        print(comm_value)
-
-        if not replace:
+    for i, (comm_text, comm_key, comm_value) in enumerate(all_comments):
+        if not replace and comm_key == '(1)':
+            start_index = end_index
             end_index = all_text.find(comm_text)
         all_text = all_text.replace(comm_text, '')
 
-        pair_array = []
-        last_index = 0
-        comment_key = '1'
-        for match in re.finditer(r'[，。？！—、：<；>’”](\d{1,2})[^\d]', comment):
-            comment_value = comment[last_index:match.start()+1]
-            # print(comment_key, '=>', comment_value)
-            pair_array.append((comment_key, comment_value))
-
-            last_index = match.end()-1
-            comment_key = match.group(1)
-
-        # add the last comment
-        # print(comment_key, '=>', comment[last_index:])
-        pair_array.append((comment_key, comment[last_index:]))
-
-        index = 0
-        for key, value in pair_array:
-            curr_index = int(key)
-            if curr_index != index + 1:
-                print(key, '=>', value)
-            index = curr_index
-
+        escape_key = comm_key.replace('(', r'\(')
+        escape_key = escape_key.replace(')', r'\)')
+        pattern_replace = r'<a id="[\w\d\-]*?" href="[\./\w\d#\-]*?"><sup>{}</sup></a>'.format(escape_key)
         if replace:
-            for key, value in pair_array:
-                pattern_replace = r'([^\d，。？！—、：<；>]){}([，。？！—、：；’”<])'.format(key)
-                repl_replace = r'\1【【{}||{}】】\2'.format(insert_index, value)
-                insert_index += 1
-                all_text = re.sub(pattern_replace, repl_replace, all_text, 1)
+            repl_replace = r'【【{}||{}】】'.format(insert_index, comm_value)
+            insert_index += 1
+            all_text = re.sub(pattern_replace, repl_replace, all_text, 1)
         else:
             search_text = all_text[start_index:end_index]
-            start_index = end_index
-            inserts = re.findall(r'[^\d，。？！—、：<；>](\d{1,2})[，。？！—、：；’”<]', search_text)
-            if len(inserts) != len(pair_array):
-                print(inserts)
-                print(pair_array[0])
-            else:
-                comm_indexes = []
-                for i, ins in enumerate(inserts):
-                    comm_indexes.append(pair_array[i][0])
-                if comm_indexes != inserts:
-                    print(inserts)
-                    print(pair_array[0])
+            inserts = re.findall(pattern_replace, search_text)
+            if len(inserts) != 1:
+                print(comm_key, comm_value)
     if replace:
         with open(path, 'w', encoding='utf-8') as file:
             file.write(all_text)
@@ -118,5 +86,4 @@ if __name__ == '__main__':
             continue
 
         file_path = os.path.join(base_dir, filename)
-        process_comment(file_path, False)
-        break
+        process_comment(file_path, True)
