@@ -4,10 +4,7 @@ __author__ = 'kevin'
 import os
 import shutil
 import re
-
-base_dir = r'/Users/kevin/GitHub/eBookMake/LaoSheQuanJi/老舍全集13曲艺'
-# base_dir = r'D:\eBookMake\Agatha.Christie.Text\v67_DeathComesAsTheEnd'
-book_file_name = r"temp"
+import sys
 
 dict_file = r'/Users/kevin/GitHub/eBookMake/Agatha.Christie.Text/PyTool/常见词语错误.txt'
 # dict_file = r'D:\eBookMake\Agatha.Christie.Text\PyTool\常见词语错误.txt'
@@ -139,26 +136,43 @@ def fix_quotation_marks(all_lines):
 
         fixed_line = []
         for ch in line:
-            if ch == single_q_open:
-                next_single_open = False
-            if ch == double_q_open:
-                next_double_open = False
-
-            if ch == "'":
+            if ch == single_q_open or ch == single_q_close:
                 if next_single_open:
                     ch = single_q_open
                 else:
                     ch = single_q_close
 
-                next_single_open = not next_single_open
-
-            if ch == '"':
+            if ch == double_q_open or ch == double_q_close:
                 if next_double_open:
                     ch = double_q_open
                 else:
                     ch = double_q_close
 
-                next_double_open = not next_double_open
+            if ch == single_q_open:
+                next_single_open = False
+            if ch == single_q_close:
+                next_single_open = True
+
+            if ch == double_q_open:
+                next_double_open = False
+            if ch == double_q_close:
+                next_double_open = True
+
+            # if ch == "'":
+            #     if next_single_open:
+            #         ch = single_q_open
+            #     else:
+            #         ch = single_q_close
+            #
+            #     next_single_open = not next_single_open
+            #
+            # if ch == '"':
+            #     if next_double_open:
+            #         ch = double_q_open
+            #     else:
+            #         ch = double_q_close
+            #
+            #     next_double_open = not next_double_open
 
             fixed_line.append(ch)
 
@@ -182,16 +196,27 @@ def fix_words_error(text):
 
 
 def proof_reading():
-    file_path = os.path.join(base_dir, book_file_name)
+    if len(sys.argv) < 2:
+        print('usage: python3 {} <dir>'.format(sys.argv[0]))
+        exit(0)
 
-    open_file_perform(file_path, strip_page_no_book_name)
-    open_file_perform(file_path, strip_chapter_name, line_mode=True)
+    dir_path = sys.argv[1]
 
-    open_file_perform(file_path, base_punctuation)
-    open_file_perform(file_path, fix_line_break)
-    open_file_perform(file_path, fix_quotation_marks, line_mode=True)
+    for filename in os.listdir(dir_path):
+        # hidden files
+        if filename.startswith('.'):
+            continue
 
-    open_file_perform(file_path, fix_words_error)
+        file_path = os.path.join(dir_path, filename)
+
+        # open_file_perform(file_path, strip_page_no_book_name)
+        # open_file_perform(file_path, strip_chapter_name, line_mode=True)
+        #
+        # open_file_perform(file_path, base_punctuation)
+        # open_file_perform(file_path, fix_line_break)
+        open_file_perform(file_path, fix_quotation_marks, line_mode=True)
+
+        # open_file_perform(file_path, fix_words_error)
 
 
 if __name__ == '__main__':
