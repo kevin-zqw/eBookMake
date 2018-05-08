@@ -1,0 +1,2 @@
+1. logo for every books
+2. replace 。with chinese zero 一九。二
