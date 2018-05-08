@@ -1,2 +1,3 @@
-1. logo for every books
-2. replace 。with chinese zero 一九。二
+1. 标题1的logo设计
+2. 参考实现章节布局（阁主样式及图片）
+3. 检查第一本的排版及所有blockquote
