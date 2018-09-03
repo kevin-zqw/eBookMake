@@ -1,0 +1,176 @@
+    @FormUrlEncoded
+    @POST("/app/user/getArticleList")
+    Call<ResponseBody> getArticleList(@Field("articleTypeId") int articleTypeId,
+                                      @Field("pageNum") int pageNum,
+                                      @Field("pageSize") int pageSize);
+
+    @FormUrlEncoded
+    @POST("/app/user/getMember")
+    Call<ResponseBody> getMember(@Field("mobile") String mobile);
+
+    @FormUrlEncoded
+    @POST("/app/user/checkXueji")
+    Call<ResponseBody> checkXueji(@Field("mobile") String mobile);
+
+    @FormUrlEncoded
+    @POST("/app/user/addXueji")
+    Call<ResponseBody> addXueji(@Field("mobile") String mobile);
+
+    @FormUrlEncoded
+    @POST("/app/user/addClassHourConfirm")
+    Call<ResponseBody> addClassHourConfirm(@Field("xueji_id") int xueji_id,
+                                           @Field("mobile") String mobile,
+                                           @Field("certificationID") int certificationID,
+                                           @Field("certificationName") String certificationName,
+                                           @Field("pxType") int pxType,
+                                           @Field("pxGrade") int pxGrade,
+                                           @Field("pxJG") int pxJG,
+                                           @Field("finish_xueshi") int finish_xueshi,
+                                           @Field("certificate_msg_page_pic") String certificate_msg_page_pic,
+                                           @Field("certificate_date_page_pic") String certificate_date_page_pic,
+                                           @Field("certificate_px_page_pic") String certificate_px_page_pic);
+
+    @FormUrlEncoded
+    @POST("/app/user/getClassHourConfirmList")
+    Call<ResponseBody> getClassHourConfirmList(@Field("mobile") String mobile);
+
+    @FormUrlEncoded
+    @POST("/app/user/addMemberRegister")
+    Call<ResponseBody> addMemberRegister(@Field("name") String name,
+                                         @Field("sex") int sex,
+                                         @Field("mobile") String mobile,
+                                         @Field("papersType") int papersType,
+                                         @Field("papersCode") String papersCode,
+                                         @Field("memberByProfessionId") int memberByProfessionId,
+                                         @Field("email") String email,
+                                         @Field("station") int station,
+                                         @Field("address") String address,
+                                         @Field("companyName") String companyName,
+                                         @Field("bussinessLicensePicture") String bussinessLicensePicture,
+                                         @Field("headimg") String headimg,
+                                         @Field("idCardFrontPicture") String idCardFrontPicture,
+                                         @Field("idCardBackPicture") String idCardBackPicture,
+                                         @Field("password") String password);
+
+    @FormUrlEncoded
+    @POST("/app/user/sendSMSCode")
+    Call<ResponseBody> sendSMSCode(@Field("mobile") String mobile,
+                                   @Field("type") int type, // 1: 注册  2: 找回密码 7: 登录
+                                   @Field("em") int em); // 1: 测试环境；2：生产环境
+
+    @FormUrlEncoded
+    @POST("/app/user/validCaptcha")
+    Call<ResponseBody> validCaptcha(@Field("mobile") String mobile,
+                                   @Field("captcha") String captcha);
+
+    @FormUrlEncoded
+    @POST("/app/user/updatePassword")
+    Call<ResponseBody> updatePassword(@Field("mobile") String mobile,
+                                      @Field("captcha") String captcha,
+                                      @Field("newPassWord") String password);
+
+    @FormUrlEncoded
+    @POST("/app/user/getMemberNotice")
+    Call<ResponseBody> getMemberNotice(@Field("mobile") String mobile);
+
+    @FormUrlEncoded
+    @POST("/app/user/getStudentApplyList")
+    Call<ResponseBody> getStudentApplyList(@Field("mobile") String mobile);
+
+    @FormUrlEncoded
+    @POST("/app/user/getStudentApplyById")
+    Call<ResponseBody> getStudentApplyById(@Field("id") int id);
+
+    @FormUrlEncoded
+    @POST("/app/user/getChargingItemList")
+    Call<ResponseBody> getChargingItemList(@Field("orgId") int orgId);
+
+    @FormUrlEncoded
+    @POST("/app/user/getChargingItemDetail")
+    Call<ResponseBody> getChargingItemDetail(@Field("id") int id);
+
+    @FormUrlEncoded
+    @POST("/app/user/initLearn")
+    Call<ResponseBody> initLearn(@Field("memberId") int memberId,
+                                 @Field("examItemId") int examItemId);
+
+    @FormUrlEncoded
+    @POST("/app/user/getExaminationItemList")
+    Call<ResponseBody> getExaminationItemList(@Field("memberId") String memberId);
+
+    @FormUrlEncoded
+    @POST("/app/user/getHighScore")
+    Call<ResponseBody> getHighScore(@Field("memberId") String memberId,
+                                    @Field("examItemId") int examItemId,
+                                    @Field("examItemCode") String examItemCode);
+
+    @FormUrlEncoded
+    @POST("/app/user/checkAlipayRst")
+    Call<ResponseBody> checkAlipayRst(@Field("orderNum") String orderNum);
+
+    @FormUrlEncoded
+    @POST("/app/user/buildAlipayOrderString")
+    Call<ResponseBody> buildAlipayOrderString(@Field("outtradeno") String orderNum);
+
+    @FormUrlEncoded
+    @POST("/app/user/validEligible")
+    Call<ResponseBody> validEligible(@Field("mobile") String mobile,
+                                     @Field("chargingitemId") int itemId);
+
+    @FormUrlEncoded
+    @POST("/app/user/getProtocol")
+    Call<ResponseBody> getProtocol(@Field("type") String type);
+
+    @FormUrlEncoded
+    @POST("/app/user/getStudentApplyDetail")
+    Call<ResponseBody> getStudentApplyDetail(@Field("studentApplyItemId") int itemId);
+
+    @FormUrlEncoded
+    @POST("/app/user/getStudentApplyOrderList")
+    Call<ResponseBody> getStudentApplyOrderList(@Field("mobile") String mobile);
+
+    @FormUrlEncoded
+    @POST("/app/user/cancelStudentApplyOrder")
+    Call<ResponseBody> cancelStudentApplyOrder(@Field("studentApplyItemId") int itemId);
+
+    @FormUrlEncoded
+    @POST("/app/user/addStudentApply")
+    Call<ResponseBody> addStudentApply(@Field("chgchargingItemId") int chgchargingItemId,
+                                       @Field("chgItemName") String chgItemName,
+                                       @Field("chgExpenses") String chgExpenses,
+                                       @Field("stud_id") int stud_id,
+                                       @Field("studMobile") String studMobile,
+                                       @Field("studName") String studName,
+                                       @Field("studPapersType") short studPapersType,
+                                       @Field("studPapersCode") String studPapersCode,
+                                       @Field("studEmail") String studEmail,
+                                       @Field("studSex") short studSex,
+                                       @Field("studCompanyManager") String studCompanyManager,
+                                       @Field("studEducation") short studEducation,
+                                       @Field("studCompanyContactPhone") String studCompanyContactPhone,
+                                       @Field("studCompanyName") String studCompanyName,
+                                       @Field("workCertificate") String workCertificate,
+                                       @Field("certificatePersonalPage") String certificatePersonalPage,
+                                       @Field("certificateNo") String certificateNo,
+                                       @Field("continuingPage") String continuingPage,
+                                       @Field("billType") short billType,
+                                       @Field("invoiceType") short invoiceType,
+                                       @Field("invoiceHead") String invoiceHead,
+                                       @Field("taxpayerId") String taxpayerId,
+                                       @Field("address") String address,
+                                       @Field("phone") String phone,
+                                       @Field("bankName") String bankName,
+                                       @Field("bankNumber") String bankNumber,
+                                       @Field("getWay") short getWay,
+                                       @Field("recipient") String recipient,
+                                       @Field("recipientPhone") String recipientPhone,
+                                       @Field("postCode") String postCode,
+                                       @Field("recipientAddr") String recipientAddr);
+
+    @FormUrlEncoded
+    @POST("/app/user/getHistoryEngineeringList")
+    Call<ResponseBody> getHistoryEngineeringList(@Field("memberId") String memberId);
+
+    @FormUrlEncoded
+    @POST("/app/user/getCustomOrder")
+    Call<ResponseBody> getCustomOrder(@Field("memberId") String memberId);
