@@ -84,7 +84,7 @@ def process_comment(path):
                 if not last_is_comment:
                     all_lines.append(line)
 
-    result_text = "\n".join(all_lines)
+    result_text = "".join(all_lines)
     for i, c in enumerate(comments):
         placeholder = f"[[{i}]]"
         result_text = result_text.replace(placeholder, c)
@@ -104,7 +104,6 @@ if __name__ == '__main__':
 
         file_path = os.path.join(base_dir, filename)
         process_comment(file_path)
-        break
 
     print("succeed: ", succeed_count)
     print("failed: ", failed_count)
