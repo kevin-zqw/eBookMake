@@ -10,102 +10,91 @@ import sys
 new_line = '\n'
 
 
-def check_error(path):
-    with open(path, 'r+', encoding='utf-8') as file:
-        all_line = file.readlines()
-        body_found = False
-        result_lines = []
-        for i, line in enumerate(all_line):
-            if line.strip() == '<body>':
-                body_found = True
-            if line.strip() == '</body>':
-                body_found = False
+def search_replace_comment(lines, comments, key, value):
+    found_count = 0
+    line_index = -1
+    text_index = -1
 
-            if not body_found:
-                result_lines.append(line)
-                continue
+    body = "<body"
+    end_1 = "【校】"
+    end_2 = "【注】"
 
-            line = line.strip()
-            matches = re.findall(r'[，。？！—、：<；>]\d{1,2}[，。？！—、：<；>]', line)
-            if len(matches) == 0:
-                result_lines.append(line + new_line)
-            else:
-                if line.startswith('<p>1'):
-                    result_lines.append(line + new_line)
-                else:
-                    print(line)
-                    pre_line = result_lines[-1].strip()
-                    result_lines[-1] = pre_line.replace('</p>', '') + line.replace('<p>', '') + new_line
+    body_reached = False
+    end_1_reached = False
+    end_2_reached = False
 
-        file.seek(0)
-        file.write(''.join(result_lines))
-        file.truncate()
+    for i, line in enumerate(lines):
+        if body in line:
+            body_reached = True
+        if "<h" in line:
+            end_1_reached = False
+            end_2_reached = False
+        if end_1 in line:
+            end_1_reached = True
+        if end_2 in line:
+            end_2_reached = True
+
+        if not body_reached:
+            continue
+        if end_1_reached or end_2_reached:
+            continue
+
+        if key in line:
+            found_count += 1
+            line_index = i
+            text_index = 0
+
+    global succeed_count, failed_count
+    if found_count == 1 and 0 <= line_index and 0 <= text_index:
+        succeed_count += 1
+        comments.append(f"{key}【{key}：{value}】")
+        index = len(comments) - 1
+        placeholder = f"[[{index}]]"
+        line = lines[line_index]
+        lines[line_index] = line.replace(key, placeholder, 1)
+
+        return True
+    else:
+        failed_count += 1
+        print("bad:", key, value)
+        return False
 
 
-def process_comment(path, replace):
+def process_comment(path):
     print(os.path.basename(path))
 
-    all_text = ''
+    all_lines = []
+    comments = []
+
     with open(path, 'r', encoding='utf-8') as file:
-        all_text = file.read()
-
-    all_comments = re.findall(r'<p>1(.*?)</p>', all_text)
-    if len(all_comments) == 0:
-        return
-
-    start_index = 0
-    insert_index = 1
-    for comment in all_comments:
-        p_comm = '<p>1{}</p>'.format(comment)
-        if not replace:
-            end_index = all_text.find(p_comm)
-        all_text = all_text.replace(p_comm, '')
-
-        pair_array = []
-        last_index = 0
-        comment_key = '1'
-        for match in re.finditer(r'[，。？！—、：<；>’”](\d{1,2})[^\d]', comment):
-            comment_value = comment[last_index:match.start()+1]
-            # print(comment_key, '=>', comment_value)
-            pair_array.append((comment_key, comment_value))
-
-            last_index = match.end()-1
-            comment_key = match.group(1)
-
-        # add the last comment
-        # print(comment_key, '=>', comment[last_index:])
-        pair_array.append((comment_key, comment[last_index:]))
-
-        index = 0
-        for key, value in pair_array:
-            curr_index = int(key)
-            if curr_index != index + 1:
-                print(key, '=>', value)
-            index = curr_index
-
-        if replace:
-            for key, value in pair_array:
-                pattern_replace = r'([^\d，。？！—、：<；>]){}([，。？！—、：；’”<])'.format(key)
-                repl_replace = r'\1【【{}||{}】】\2'.format(insert_index, value)
-                insert_index += 1
-                all_text = re.sub(pattern_replace, repl_replace, all_text, 1)
-        else:
-            search_text = all_text[start_index:end_index]
-            start_index = end_index
-            inserts = re.findall(r'[^\d，。？！—、：<；>](\d{1,2})[，。？！—、：；’”<]', search_text)
-            if len(inserts) != len(pair_array):
-                print(inserts)
-                print(pair_array[0])
+        last_is_comment = False
+        for line in file:
+            is_comment = re.search(r'<p class="bodytext"><b>(.*?)：</b>(.*?)</p>', line)
+            if is_comment:
+                last_is_comment = True
+                key = is_comment.group(1)
+                value = is_comment.group(2)
+                is_succeed = search_replace_comment(all_lines, comments, key, value)
+                if not is_succeed:
+                    all_lines.append(line)
             else:
-                comm_indexes = []
-                for i, ins in enumerate(inserts):
-                    comm_indexes.append(pair_array[i][0])
-                if comm_indexes != inserts:
-                    print(inserts)
-                    print(pair_array[0])
-    with open(path, 'w', encoding='utf-8') as file:
-        file.write(all_text)
+                if 0 < len(line.strip()):
+                    last_is_comment = False
 
+                if not last_is_comment:
+                    all_lines.append(line)
+
+    result_text = "\n".join(all_lines)
+    for i, c in enumerate(comments):
+        placeholder = f"[[{i}]]"
+        result_text = result_text.replace(placeholder, c)
+
+    with open(path, 'w', encoding='utf-8') as file:
+        file.write(result_text)
+
+
+succeed_count = 0
+failed_count = 0
 
 if __name__ == '__main__':
     base_dir = r'/Users/kevin/GitHub/eBookMake/wangwei'
@@ -114,5 +103,8 @@ if __name__ == '__main__':
             continue
 
         file_path = os.path.join(base_dir, filename)
-        # process_comment(file_path, True)
-        print(file_path)
+        process_comment(file_path)
+        break
+
+    print("succeed: ", succeed_count)
+    print("failed: ", failed_count)
